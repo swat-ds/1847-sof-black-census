@@ -12,6 +12,7 @@ def main():
       reader = csv.reader(f, delimiter=',')
       for row in reader:
           clear = False
+          id = row[0]
           occ = row[1]
           if occ == empty: # check for empty row
               clear = True
@@ -32,12 +33,16 @@ def main():
                   else:
                       if cleanOcc[i-1] == ' ': # if previous char was space
                           if cleanOcc2 != '': # if this new occ is not empty
-                              list.append([cleanOcc2])
+                              list.append([id, cleanOcc2]) # one entry in cleaned csv
                               cleanOcc2 = ''
                       else:
                           cleanOcc2 += ' '
           else:
-              list.append(['null'])
+              list.append([id, 'null'])
+
+      # loop through list and attach count to each occupation
+      for arr in list:
+          
 
   with open('CleanOccTable1.csv', 'w') as f:
       writer = csv.writer(f, delimiter=',')
