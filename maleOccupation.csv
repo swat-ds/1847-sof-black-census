@@ -1,0 +1,4701 @@
+ID,OCCUPATION,COUNT
+0,watchman ,1
+1,lab ,1
+1,waterman ,1
+2,null,null
+3,drives dray ,1
+4,barber ,1
+5,barber ,1
+6,various kinds ,1
+7,laborer ,1
+8,seaman ,1
+9,laborer ,1
+10,null,null
+11,null,null
+12,null,null
+13,null,null
+14,stevedore ,1
+15,waiter ,1
+15,seaman ,1
+16,laborer ,1
+17,null,null
+18,temp sailor c h ,1
+19,stevedore ,1
+20,null,null
+21,null,null
+22,waiter ,1
+23,null,null
+24,laborer ,1
+25,various ,1
+26,seaman ,1
+27,null,null
+28,seaman ,1
+29,laborer ,1
+30,porter ,1
+31,null,null
+32,white washer ,1
+33,stevedore ,1
+34,stevedore ,1
+35,null,null
+36,laborer ,1
+37,null,null
+38,washer ,1
+39,null,null
+40,null,null
+41,null,null
+42,null,null
+43,porter ,1
+44,null,null
+45,null,null
+46,porter ,1
+47,null,null
+48,laborer ,1
+49,null,null
+50,null,null
+51,null,null
+52,null,null
+53,laborer ,1
+54,null,null
+55,porter ,1
+56,null,null
+57,laborer ,1
+58,laborer ,1
+59,null,null
+60,laborer ,1
+61,null,null
+62,null,null
+63,porter ,1
+64,laborer ,1
+65,laborer ,1
+66,drives furniture car ,1
+67,waiter ,1
+67,per ,1
+68,cake seller ,1
+69,lab ,1
+69,seaman ,1
+70,null,null
+71,waiter ,1
+72,null,null
+73,porter ,1
+74,lab ,1
+75,null,null
+76,null,null
+77,w washer ,1
+78,null,null
+79,lab ,3
+80,lab ,1
+81,lab ,1
+82,lab ,1
+83,laborer ,1
+84,laborer ,1
+85,porter ,1
+86,whitewasher ,1
+87,lab ,1
+88,stevedore ,1
+89,porter ,1
+90,null,null
+91,null,null
+92,null,null
+93,null,null
+94,laborer ,1
+95,null,null
+96,porter ab ,1
+97,laborer ,1
+98,lab ,1
+98,boot black ,1
+99,boot black ,1
+100,service ,1
+101,barber ,2
+101,port ,1
+101,sign painter ,1
+101,photographist ,1
+102,boot maker ,1
+103,barber ,1
+103,clear ,1
+104,null,null
+105,barber about ,1
+105,clear ,1
+106,barber ,1
+107,waiter ,1
+108,laborer ,1
+109,drives dray ,1
+110,stevedore ,1
+111,null,null
+112,null,null
+113,wire worker ab ,1
+114,null,null
+115,seaman ,1
+116,porter ,1
+117,seaman ,1
+118,null,null
+119,musician ,1
+119,boot mr ,1
+120,drives fur car ,1
+121,drives fur car ,1
+122,null,null
+123,null,null
+124,null,null
+125,null,null
+126,barber ,1
+127,ladies shoemaker ,1
+128,barber ,1
+129,porter about ,1
+130,steward ,1
+131,porter ,1
+131,sometimes ,1
+132,porter ,1
+133,barber ,1
+134,null,null
+135,sea capt about ,1
+136,service ,1
+137,steward ,1
+138,null,null
+139,null,null
+140,null,null
+141,drives dray ,1
+142,waiter ,1
+143,null,null
+144,null,null
+145,waiter ,1
+146,porter ,1
+147,barber ,1
+147,porter ,1
+148,porter ,1
+149,null,null
+150,seaman ,1
+151,waiter ,1
+152,clothes dealer ,1
+153,porter ,1
+154,oyster peddler ,1
+155,barber ,1
+156,tailoer ,1
+157,stevedore ,1
+158,boot maker ,1
+159,waiter about ,1
+160,null,null
+161,null,null
+162,porter ,1
+163,porter ,1
+164,shoemaker ,1
+165,waiter ,1
+166,messanger ,1
+167,whitewasher ,1
+168,ice cream maker ,1
+169,boot maker ,1
+170,null,null
+171,seaman ,1
+172,sail maker ,1
+173,tailor ,1
+174,boot maker ,1
+175,clothes dealer ,1
+176,tailor about ,1
+177,laborer ,1
+178,laborer ,1
+179,porter ,1
+180,porter ,1
+181,porter ,1
+182,hat dyer ,1
+183,null,null
+184,dealer ,1
+185,porter ,1
+186,null,null
+187,null,null
+188,waiter ,1
+189,laborer ,1
+190,null,null
+191,null,null
+192,null,null
+193,washer french cook and musician ,1
+193,traveling preacher ,1
+194,waiter ,1
+195,sweep ,1
+195,seaman ,2
+196,laborer ,1
+197,laborer ,1
+198,null,null
+199,null,null
+200,currier ,1
+201,null,null
+202,null,null
+203,waterman ,1
+204,musician ,1
+205,stevedore ,1
+206,laborer ,1
+207,stevedore ,1
+207,seaman ,1
+208,steward ,1
+209,porter ,1
+210,null,null
+211,boot black ,1
+212,null,null
+213,null,null
+214,null,null
+215,null,null
+216,null,null
+217,null,null
+218,laborer ,1
+219,porter ,1
+220,porter about ,1
+221,null,null
+222,null,null
+223,null,null
+224,null,null
+225,boot maker ,1
+226,null,null
+227,null,null
+228,null,null
+229,seaman ,1
+230,water ,1
+231,null,null
+232,waiter ,1
+233,waiter ,1
+234,traveling minister ,1
+235,barber ,1
+236,seaman ,1
+237,null,null
+238,null,null
+239,null,null
+240,porter ,1
+241,laborer ,1
+242,porter ,1
+243,boot ,1
+243,shoemaker ,1
+244,gentleman ,1
+245,steward ,2
+246,clothes dealer ,1
+247,porter ,1
+247,barber ,1
+248,null,null
+249,null,null
+250,barber ,3
+251,lab sometimes ,1
+251,say nothing when boat stops running ,1
+252,steward ,1
+253,seaman ,1
+254,putting in coal irregular cant tell ,1
+255,porter irregular ,1
+256,waiter ,1
+257,laborer ,1
+258,null,null
+259,waiter ,1
+260,null,null
+261,coachman ,1
+262,null,null
+263,seaman ,1
+264,waiter ,1
+265,null,null
+266,porter ,1
+267,null,null
+268,null,null
+269,null,null
+270,cake seller average ,1
+271,null,null
+272,null,null
+273,null,null
+274,null,null
+275,hat dyer ab ,1
+276,laborer ,1
+276,sometimes ,1
+277,hod carrier ,1
+278,works for a bottler ,1
+279,laborer ,1
+280,null,null
+281,at service ,1
+282,lab ,1
+282,in winter ,1
+282,in summer ,1
+283,waiter ,1
+284,null,null
+285,waiter ,1
+286,drives coal cart ,1
+287,null,null
+288,porter about ,1
+289,porter ,1
+290,boot maker ,1
+291,null,null
+292,null,null
+293,null,null
+294,null,null
+295,null,null
+296,null,null
+297,service ,1
+298,cook ,1
+298,steward ,1
+299,seaman ,1
+300,null,null
+301,waiter ,1
+302,null,null
+303,eating house ,1
+304,shoemaker ab ,1
+305,porter ,1
+306,porter ,1
+307,stevedore ,1
+307,when canal is open ,1
+308,waiter ,1
+309,laborer ,1
+310,attends at mens library ,1
+311,barber ,1
+312,null,null
+313,waiter ,1
+314,waiter ,1
+315,laborer ,1
+316,coachman ,1
+317,porter ,1
+318,null,null
+319,hod carrier wood sawyer ,1
+319,year round ,1
+320,shoemaker ,1
+321,null,null
+322,grain carrier ab ,1
+323,null,null
+324,service ,1
+325,hod carrier ,1
+325,in summer ,1
+326,does nothing ,1
+327,null,null
+328,white washer ,1
+329,oyster house ,1
+329,barber ,1
+330,null,null
+331,barber ,1
+332,barber ,1
+333,null,null
+334,null,null
+335,null,null
+336,hod carrier ,2
+337,stevedore ,1
+338,laborer ,1
+339,laborer ,1
+339,porter ,1
+340,putting in coal irregular ,1
+341,lab in stove store ,1
+342,seaman irregular ,1
+343,laborer ,1
+344,null,null
+345,null,null
+346,various ,1
+346,irregular ,1
+347,seaman ,1
+348,rag gatherer ,1
+349,hod carrier ,1
+349,a ,1
+349,sometimes ,1
+350,various ,1
+351,waiter ,1
+352,laborer ,1
+353,wood sawyer ,1
+354,porter ,1
+355,drives cart ,1
+356,hod carrier irregular ,1
+357,various irregular ,1
+358,null,null
+359,null,null
+360,laborer each ,2
+361,labr ,1
+361,in summer ,1
+362,waterman ,1
+363,puts in coal ,1
+363,laborer ,1
+364,null,null
+365,waiter wages very low ,1
+366,coachman ,1
+367,null,null
+368,no occupation lame ,1
+369,null,null
+370,null,null
+371,whitewasher ab ,1
+371,year round ,1
+372,null,null
+373,tailor cant tell ,1
+374,barber dont know ,1
+375,null,null
+376,porter sometimes ,1
+377,null,null
+378,porter ,1
+379,porter very little drives coal cart ,1
+380,drives dray ,1
+381,tanner ,1
+382,various irregular ,1
+383,boat ,1
+383,shoemaker about ,1
+383,a ,1
+384,porter about ,1
+385,drives dray ,0
+386,barber ,4
+386,coachman ,1
+387,porter ,1
+388,null,null
+389,confectioner ,1
+390,waterman ,2
+390,porter ,2
+391,null,null
+392,laborer ,3
+393,porter ab ,1
+394,laborer irregular ,1
+395,porter but little ,1
+396,null,null
+397,null,null
+398,wood sawyer ,1
+398,porter ,1
+399,service ,1
+400,null,null
+401,stevedore cant tell ,1
+402,drives herse ,1
+402,various ,1
+403,hod carrier ,1
+404,clothes dealer ,1
+405,ab ,1
+406,waiter ,1
+407,stone dealer ,1
+407,barber ,1
+408,hod carrier dont know ,1
+409,various ,1
+409,seaman ,1
+410,herb doctor cant tell ,1
+411,clothes dealer ,1
+412,tailor irregular ,1
+413,null,null
+414,tailor irregular ,1
+415,seaman ,1
+416,null,null
+417,huxter ,1
+418,shoemaker ,1
+419,school teacher ,1
+420,cupper bleeder ,1
+421,porter ,1
+422,porter ,1
+423,coachman ,1
+424,null,null
+425,porter ,1
+426,seaman ,1
+427,eating house ,1
+428,porter ,1
+428,laborer ,1
+429,stevedore irregular ,1
+430,porter very dull ,1
+431,hod carrier ,1
+432,seaman ,1
+433,stevedore ,1
+434,null,null
+435,null,null
+436,various irregular ,1
+437,null,null
+438,coachman ,1
+439,null,null
+440,lab in stove store part of the time ,1
+441,various very little ,1
+442,rag dealer ,1
+443,rag dealer ,1
+444,null,null
+445,null,null
+446,waiter ,1
+447,stevedore irregular ,1
+448,porter ,1
+449,cant tell ,1
+450,waiter ,1
+451,waiter ,1
+452,waiter ,1
+453,paster central presbyterian church ,1
+454,null,null
+455,seaman ,1
+456,null,null
+457,waiter ,1
+458,null,null
+459,null,null
+460,laborer ,1
+461,null,null
+462,porter ,1
+463,null,null
+464,null,null
+465,null,null
+466,waiter ,1
+467,steward ab ,1
+468,boot blacks ab ,1
+469,boot blacks ab ,1
+470,wood sawing when able ,1
+471,null,null
+472,cake baker ,1
+473,null,null
+474,null,null
+475,null,null
+476,null,null
+477,porter ,1
+478,seaman ,1
+478,cobbler ,1
+479,lab in dug mill ,1
+479,wood sawyer ,1
+480,porter irregular ,1
+481,hod carrier ,1
+481,various ,1
+482,laborer ,1
+483,laborer ,1
+484,drives cart ,1
+485,hod carrier ,1
+486,cook ,1
+487,stevedore ,1
+488,stevedore ,1
+489,porter ,1
+490,porter irregular ,1
+491,porter very little now ,1
+492,porter ab ,1
+493,seaman ,1
+494,null,null
+495,null,null
+496,hod carrier ,0
+496,r ,1
+496,in good weather ,1
+497,herb doctor ab ,1
+498,null,null
+499,seaman ,1
+500,shoemaker ,1
+501,past doing work ,1
+502,wood sawyer ,1
+503,porter ,1
+504,null,null
+505,various kinds ,1
+506,seaman ,1
+507,null,null
+508,painter ,1
+508,glazier ,1
+508,waiter ,1
+509,porter ,1
+509,not able ,1
+510,hod carrier ,1
+511,null,null
+512,shoemaker ,1
+512,various very little ,1
+513,various kinds ,1
+514,null,null
+515,laborer ,1
+515,porter ,1
+516,laborer ,1
+517,hod carrier ,1
+518,seaman ,1
+518,various ,1
+518,grain carrier ,1
+519,grain carrier cant tell ,1
+520,null,null
+521,laborer ,1
+522,laborer ,1
+523,null,null
+524,seaman ,1
+525,barber ,1
+526,null,null
+527,porter ,1
+528,null,null
+529,shop keeper ,1
+530,lab in drug store ,1
+531,laborer ,1
+532,null,null
+533,school teacher ,1
+534,coachman ,1
+535,seaman ,1
+536,temp seaman ch ,1
+537,oyster stand irregular ,1
+538,null,null
+539,shoemaker ,1
+540,laborer irregular ,1
+541,carter his own ,1
+542,huxter laborer ,1
+542,porter ,1
+543,carter his own ,1
+544,null,null
+545,waiter ,1
+546,waiter ,1
+547,various ,1
+548,null,null
+549,null,null
+550,null,null
+551,seaman ,1
+552,seaman ,1
+552,wood sawyer ,1
+553,porter ,1
+554,null,null
+555,null,null
+556,porter ,1
+557,null,null
+558,peddler ,1
+559,null,null
+560,seaman ,1
+560,porter ,1
+561,null,null
+562,wood sawyer ,1
+563,null,null
+564,hod carrier ,1
+565,null,null
+566,null,null
+567,seamen ,1
+568,null,null
+569,stevedore ,1
+569,hod carrier ,1
+569,sometimes ,1
+570,various ,1
+571,waterman ,1
+572,carter his own ,1
+573,porter ,1
+574,null,null
+575,waterman ,1
+576,various ,1
+577,porter ,3
+578,well digger ,1
+578,or ,1
+579,null,null
+580,grain carrier ,1
+581,null,null
+582,carter his own ,1
+582,drives cart ,1
+583,various sometimes ,1
+584,showm average ,1
+585,shoem ,2
+585,eating house ,1
+585,laborer ,1
+586,lab in boat yard ,1
+587,null,null
+588,shoemaker is unsteady ,1
+589,hod carrier ,1
+590,null,null
+591,oyster house ,1
+592,painter ,1
+592,glazier ,1
+593,hod carrier cant tell ,1
+594,porter not much ,1
+595,porter irregular ,1
+596,cake baker ,1
+597,laborer ,1
+598,null,null
+599,stevedore cant tell ,1
+600,lab in oyster h ,1
+601,porter ,1
+602,waiter ,1
+603,porter irregular ,1
+604,well digger or anything can get to do ,1
+605,waiter ,1
+606,wood sawyer ,1
+607,hominy dealer ,1
+608,hod carrier ,1
+609,rag dealer cant tell ,1
+610,null,null
+611,stevedore dull in winter ,1
+612,hod carrier ,1
+612,in sum ,1
+613,waiter ,1
+614,waiter ,1
+615,oyster peddler ,1
+616,salt carrier irregular ,1
+617,laborer ,1
+618,sweep ,1
+619,salt carrier ,1
+620,null,null
+621,waiter ,1
+622,null,null
+623,seaman ,1
+624,basket maker ,1
+625,null,null
+626,porter ,1
+627,null,null
+628,null,null
+629,porter cant tell ,1
+630,porter ,2
+631,porter ,2
+632,wood sawyer ,1
+632,porter ,1
+633,laboter ,1
+634,null,null
+635,porter ,1
+636,porter ,1
+637,porter ,1
+638,seaman ,1
+639,boarding house ,1
+640,lab with grain meast ,1
+641,null,null
+642,null,null
+643,barber cant tell ,1
+644,putting in coal ,1
+645,porter ,1
+645,or ,1
+645,a ,1
+645,sometimes ,1
+646,barber ,1
+647,laborer ,1
+648,hod car ,1
+648,wood sawyer ,1
+649,not able to work ,1
+650,various ,1
+651,crippled in his hands ,1
+652,null,null
+653,porter ,1
+654,rag dealer ,1
+655,laborer irregular ,1
+656,null,null
+657,null,null
+658,porter ,1
+659,null,null
+660,null,null
+661,grain carrier good wages sometimes ,1
+662,huxter very dull ,1
+663,seaman ,1
+664,lab with grain measure ,1
+664,hod carriers ,2
+665,waterman part of his time ,1
+666,laborer ,1
+667,hod carrier ,1
+668,porter ,1
+669,various ,1
+670,musician ,1
+671,drives cart ,1
+672,porter cant tell ,1
+673,barber ,1
+674,cook ,1
+675,waiter ,1
+676,waiter ,1
+677,seaman ,1
+678,cake peddlers ,2
+679,waiter ,1
+680,waiter ,1
+680,seaman ,1
+681,past work ,1
+682,porter cant tell ,1
+683,null,null
+684,wood sawyer ,1
+685,hominy man ,1
+686,null,null
+687,boot ,1
+687,shoe m average ,1
+687,clear ,1
+688,null,null
+689,not able ,1
+690,null,null
+691,laborer ,1
+692,private teacher ,1
+693,waiter ,1
+694,laborer ,1
+695,waterman ,1
+696,barber cant tell ,2
+697,hod car ,1
+697,sometimes ,1
+698,waiter ,1
+698,porter ,1
+699,null,null
+700,hod car ,1
+700,now ,1
+701,porter dont know ,1
+702,null,null
+703,null,null
+704,porter very little ,1
+705,null,null
+706,boxman ,1
+707,null,null
+708,null,null
+709,laborer ,1
+710,seaman ,1
+710,not able ,1
+711,porter dull moro ,1
+712,waiter ,1
+713,porter cant tell ,1
+714,null,null
+715,boxman ,1
+716,seaman ,1
+717,waiter ,1
+718,laborer ,1
+718,in summer ,1
+719,porter ,1
+720,hostler ,1
+721,laborer ,1
+721,porter ,1
+721,waiter ,1
+722,seaman ,1
+723,cook ,1
+724,porter house ,1
+724,porter ,1
+725,seaman ,1
+726,barber ,1
+727,null,null
+728,null,null
+729,porter ,1
+730,null,null
+731,null,null
+732,dealer pretty good ,1
+733,shoemaker ,1
+734,steward ,1
+735,null,null
+736,seaman cant tell ,1
+737,steward ,1
+738,drivews fur cart his own ,1
+739,null,null
+740,porter ,1
+741,white washer irregular ,1
+742,barber dont know ,1
+743,waiter ,1
+744,null,null
+745,null,null
+746,tailor cant tell ,1
+747,stove dealer ,1
+748,porter ,1
+748,waiter ,1
+749,eating house ,1
+750,hackman his own ,1
+751,null,null
+752,null,null
+753,null,null
+754,null,null
+755,null,null
+756,hominy man and hackman his own ,1
+757,sadler ,1
+757,porter ,1
+758,null,null
+759,cabinetmr ,1
+759,undertaker ,1
+759,barber ,1
+760,null,null
+761,carter his own ,1
+762,engineer ,1
+763,oyster peddler ,1
+764,hod car when can get it ,1
+765,oyster house ,1
+766,barber ,1
+767,carterhis own ,1
+768,carterhis own ab ,1
+769,porter ,1
+770,null,null
+771,not able to do much ,1
+772,stevedore ,1
+772,sometimes ,1
+773,porter ,1
+774,various ,1
+775,seaman ,1
+776,barber ,2
+777,waiter ,1
+778,null,null
+779,null,null
+780,waiter ,1
+781,eating house ,1
+782,cook ,1
+783,brick moulder ,1
+784,null,null
+785,waiter ,1
+786,null,null
+787,waiter ,1
+788,hod carrier ,1
+789,sail ,1
+789,when has work ,1
+790,not able ,1
+791,porter ,1
+792,seaman ,1
+793,carpenter ,1
+793,builder ,1
+793,type caster ,1
+794,hod carrier ,1
+795,various ,1
+796,school teacher ,1
+797,null,null
+798,null,null
+799,seaman ,1
+800,null,null
+801,null,null
+802,null,null
+803,waiter ,1
+804,waiter ,1
+804,seaman ,1
+805,stevedore ,1
+805,oyster peddler ,1
+806,waiter ,1
+807,porter ,1
+807,or ,1
+807,sometimes ,1
+808,master carpenter ,1
+809,porter ,2
+810,waiter ,1
+811,waiter ,1
+812,various ,1
+813,coachman ,1
+814,porter ,2
+814,lab ,1
+815,null,null
+816,null,null
+817,null,null
+818,seaman ,1
+819,porter ,1
+820,null,null
+821,waiter ,1
+822,null,null
+823,null,null
+824,seaman ,1
+825,null,null
+826,null,null
+827,wood sawyer ,1
+828,null,null
+829,null,null
+830,null,null
+831,waiter ,1
+832,stevedore ,1
+833,wood sawyer ,1
+834,clothes dealer ,1
+835,various ,1
+836,barber ,1
+837,seaman ,1
+838,seaman ,1
+839,null,null
+840,null,null
+841,waiter ,1
+842,null,null
+843,null,null
+844,barber ,2
+845,eating house ,1
+846,porter ,1
+847,null,null
+848,null,null
+849,washer ,1
+850,past labor ,1
+851,null,null
+852,null,null
+853,coachman ,1
+854,barber ,1
+855,tavern keeper ,1
+855,undertaker ,1
+856,porter ,1
+857,white washer ,1
+858,waiter ,1
+859,white washer ,1
+860,waiter ,1
+861,washer ,1
+861,bootmaker ,1
+862,null,null
+863,null,null
+864,null,null
+865,clothes dealer ,1
+866,huxter ,1
+867,porter ,1
+868,carpenter ,2
+869,indian doctor ,1
+870,mans nurse ,1
+871,barber ,1
+872,null,null
+873,various ,1
+874,shoemaker ,1
+875,seaman ,1
+876,null,null
+877,seaman ,1
+878,various ,1
+879,laborer ,1
+880,null,null
+881,null,null
+882,muffin baker ,1
+883,null,null
+884,null,null
+885,laborer ,1
+886,null,null
+887,null,null
+888,seaman ,1
+889,null,null
+890,null,null
+891,waiter ,1
+891,laborer ,1
+892,null,null
+893,shoem ,1
+893,musician ,1
+894,null,null
+895,seaman ,1
+896,cook ,1
+897,null,null
+898,null,null
+899,master cooper in ny ,1
+900,porter ,1
+901,null,null
+902,null,null
+903,null,null
+904,not able ,1
+905,stevedore ,1
+906,waterman ,1
+907,huxter ,1
+908,blind not able ,1
+909,null,null
+910,stevedore ,1
+911,porter ,1
+912,seaman ,1
+913,laborer ,1
+914,null,null
+915,stevedore ,1
+916,seaman ,1
+917,stevedore ,1
+918,public waiter ,1
+919,null,null
+920,null,null
+921,stevedore ,1
+922,null,null
+923,stevedore ,1
+923,seaman ,1
+924,null,null
+925,shoemaker ,1
+926,porter ,1
+927,musician ,1
+928,waiter ,1
+929,laborer ,1
+930,laborer ,1
+931,null,null
+932,null,null
+933,null,null
+934,stevedore ,1
+935,stevedore ,1
+935,lab ,1
+936,null,null
+937,null,null
+938,waiter ,1
+939,traveling preacher ,1
+940,cook ,1
+940,not able ,1
+941,null,null
+942,waiter ,2
+943,porter ,2
+944,null,null
+945,waiter ,1
+946,waiter ,1
+947,null,null
+948,null,null
+949,brick moulder ,1
+950,null,null
+951,hod carrier ,2
+952,null,null
+953,null,null
+954,null,null
+955,music teacher ,1
+956,wood piler ,1
+957,dealer ,1
+958,null,null
+959,null,null
+960,porter ,1
+961,plasterer ,1
+962,null,null
+963,null,null
+964,null,null
+965,null,null
+966,drives cart ,1
+967,null,null
+968,porter ,1
+969,various ,1
+970,waiter ,1
+971,herb doctor ,1
+972,null,null
+973,null,null
+974,waiter ,1
+974,cook ,1
+975,laborer ,1
+976,null,null
+977,laborer ,1
+978,null,null
+979,null,null
+980,null,null
+981,hod carrier ,1
+982,null,null
+983,null,null
+984,null,null
+985,null,null
+986,porter ,1
+987,drives dray ,1
+988,scourer ,1
+988,public waiter ,1
+989,null,null
+990,waiter ,1
+991,seaman ,1
+992,null,null
+993,bricklayer ,1
+994,null,null
+995,waters ,2
+996,null,null
+997,waiter ,1
+997,barber ,1
+998,clothes dealer ,1
+999,null,null
+1000,private watchman ,1
+1000,seamen ,2
+1001,null,null
+1002,cabinet maker now porter ,1
+1003,not able ,1
+1004,various ,1
+1005,null,null
+1006,not able ,1
+1007,shoemk ,1
+1007,barber ,1
+1008,barber ,2
+1009,public waiter ab ,1
+1010,hod carrier ,1
+1010,in summer ,1
+1011,coachman ,1
+1012,null,null
+1013,sexton ,1
+1014,shoemaker ,1
+1015,porter ,1
+1016,laborer ,1
+1017,lab in sugar house ,1
+1018,wood sawyer ,1
+1019,null,null
+1020,waiter ,1
+1021,steward ,1
+1021,boatman ,1
+1022,waiter ,1
+1023,bootmaker ,1
+1024,seaman ,1
+1025,clothes dealer ,1
+1026,oyster house ,1
+1026,traveling preacher ,1
+1027,waiter ,1
+1028,null,null
+1029,seaman when able ,1
+1030,porter ,1
+1031,null,null
+1032,seaman ,1
+1033,shoem ,1
+1034,lab ,1
+1034,waiter ,1
+1034,muscian ,1
+1035,cooks ,2
+1036,barber ,1
+1037,cake seller ,1
+1037,barber ,1
+1038,shoemaker ,1
+1038,janitor ,1
+1038,seeking business ,2
+1039,waiter ,1
+1040,idle ,1
+1040,cake baker ,1
+1041,coachman ,1
+1041,teacher ,1
+1042,null,null
+1043,null,null
+1044,null,null
+1045,waiter ,1
+1046,not able ,1
+1047,seaman ,1
+1047,waiter ,1
+1048,null,null
+1049,porter ,2
+1050,lab ,1
+1050,waiter ,1
+1051,white washer ,1
+1052,white washer ,1
+1053,oyster peddler ,1
+1054,coachman ,1
+1055,drives cart ,1
+1056,null,null
+1057,null,null
+1058,bootm ab ,1
+1059,bootmakers ,2
+1060,null,null
+1061,null,null
+1062,shop keeper ,1
+1063,null,null
+1064,w washer ab ,1
+1065,null,null
+1066,seaman ,1
+1067,seaman ,1
+1068,laborer ,1
+1069,porter ,1
+1069,box dealer ,1
+1070,barber ,1
+1070,seaman ,1
+1071,seaman ,2
+1072,hod carrier ,1
+1073,various ,1
+1074,stevedore ,1
+1075,waiter ,2
+1075,coachman ,1
+1075,wood sawyer ,2
+1076,boatman ,1
+1077,laborer ,1
+1078,watchman ,1
+1079,boot cleaners ,2
+1080,cook ,1
+1081,porter ,1
+1082,laborer ,1
+1083,laborer ,1
+1084,laborer ,1
+1085,null,null
+1086,herb doctor ,1
+1087,coachman ,1
+1088,waiter ,1
+1089,null,null
+1090,waiter ,1
+1091,null,null
+1092,null,null
+1093,dealer ,1
+1093,boot maker ,1
+1094,carpenter ,1
+1095,null,null
+1096,null,null
+1097,clothes dealer ,1
+1097,porter ,1
+1098,seaman ,1
+1099,barber ,6
+1100,null,null
+1101,null,null
+1102,null,null
+1103,shoe maker ,1
+1104,brickmoulder ,1
+1105,gardner ,1
+1106,collecter ,1
+1107,oyster house ,1
+1108,laborer ,1
+1109,herb doctor ,1
+1110,porter ,1
+1111,null,null
+1112,porter ,1
+1113,null,null
+1114,umbrella maker ,1
+1115,laborer ,2
+1116,null,null
+1117,lab ,1
+1118,carter his own ,1
+1119,stevedore ,1
+1120,seaman ,1
+1121,null,null
+1122,null,null
+1123,wood sawyer ,1
+1124,porter ,1
+1125,null,null
+1126,hod carrier ,1
+1127,null,null
+1128,clothes dealer ab ,1
+1129,poeter ,1
+1130,stevedore ,1
+1131,waiter ,1
+1132,null,null
+1133,null,null
+1134,porter ,1
+1134,waiter ,1
+1135,seaman ,1
+1136,null,null
+1137,coachman ,1
+1138,null,null
+1139,null,null
+1140,waiter ,1
+1141,waterman ,1
+1142,laborer ,1
+1143,porter ,1
+1144,porter ,1
+1144,waiter ,1
+1145,null,null
+1146,null,null
+1147,null,null
+1148,null,null
+1149,null,null
+1150,null,null
+1151,porter ,1
+1152,waiter ,1
+1153,null,null
+1154,null,null
+1155,porter ,1
+1156,traveling preacher ,1
+1157,waiter ,1
+1158,waiter ,1
+1159,ship carpenter ,1
+1160,stevedore ,1
+1161,null,null
+1162,null,null
+1163,null,null
+1164,seaman ,1
+1165,porter ,1
+1166,waiter ,1
+1167,null,null
+1168,seaman ,1
+1169,null,null
+1170,null,null
+1171,white washer ,1
+1172,null,null
+1173,null,null
+1174,sexton ,1
+1175,null,null
+1176,herb doctor ,1
+1177,null,null
+1178,puts in coal ,1
+1179,sail maker ,1
+1180,musician ,1
+1181,musician ,1
+1182,seaman ,1
+1182,carter his own ,1
+1183,waiter ,2
+1184,drives fur car ,1
+1185,seaman ,1
+1186,hod carrier ,1
+1187,hack driver ,1
+1188,waterman ,1
+1189,waiter ,1
+1190,null,null
+1191,null,null
+1192,null,null
+1193,null,null
+1194,waiter ,1
+1195,null,null
+1196,null,null
+1197,wood sawyer ,1
+1198,laborer ,1
+1199,laborer ,1
+1200,null,null
+1201,null,null
+1202,null,null
+1203,null,null
+1204,null,null
+1205,waterman ,1
+1206,null,null
+1207,null,null
+1208,null,null
+1209,null,null
+1210,null,null
+1211,null,null
+1212,null,null
+1213,waiter ,1
+1214,laborer ,1
+1215,dealer ,1
+1216,dealer ,1
+1217,boot cleaner ,1
+1218,null,null
+1219,waiter ,1
+1220,huxter ,1
+1221,laborer ,1
+1222,laborer ,1
+1223,null,null
+1224,waiter ,1
+1225,laborer ,2
+1226,null,null
+1227,stevedore ,1
+1228,coachman ,1
+1229,musician ,1
+1230,null,null
+1231,various ,1
+1232,various ,1
+1233,null,null
+1234,null,null
+1235,null,null
+1236,cook ,1
+1237,null,null
+1238,null,null
+1239,null,null
+1240,steward ,1
+1241,null,null
+1242,barber ,1
+1242,porter ,1
+1243,null,null
+1244,eating house ab ,1
+1245,musician ,1
+1246,puts in coal when able ,1
+1247,null,null
+1248,waiter ,1
+1249,waterman ,1
+1250,oyster peddler ,1
+1251,laborer ,1
+1252,laborer ,1
+1253,laborer ,1
+1254,null,null
+1255,carterhis own ,1
+1256,carpenter ,1
+1257,drives dray ,1
+1258,herb doctor ,1
+1259,laborer ,2
+1259,waiter ,1
+1260,null,null
+1261,null,null
+1262,seaman ,1
+1263,laborer ,1
+1264,sail maker ,1
+1265,waiter ,1
+1265,laborer ,1
+1266,carterhis own ,1
+1267,null,null
+1268,various ,1
+1269,null,null
+1270,not able ,1
+1271,porter ,1
+1271,waiter ,1
+1272,null,null
+1273,barber ,1
+1274,porter ,1
+1275,laborer ,2
+1276,boot maker ,1
+1277,huxter ,1
+1278,seaman ,1
+1279,null,null
+1280,grocer ,1
+1281,null,null
+1282,not able ,1
+1283,null,null
+1284,null,null
+1285,coachman ,1
+1286,hod carrier ,2
+1286,various ,1
+1287,porter ,1
+1288,laborer ,2
+1288,cabman ,1
+1289,laborer ,1
+1290,oysterman ,1
+1291,shoem ,1
+1291,music teacher ,1
+1292,shoem ,1
+1293,seaman ,1
+1294,null,null
+1295,laborer ,1
+1296,porter ,1
+1297,null,null
+1298,seaman ,1
+1299,drives cart ,1
+1300,porter ,1
+1301,laborer ,1
+1302,stevedore ,1
+1303,waiter ,1
+1304,traveling preacher ,1
+1305,seaman ,1
+1306,laborer ,2
+1307,null,null
+1308,null,null
+1309,laborer ,1
+1310,drives cart ,1
+1311,porter ,1
+1311,oyster peddler ,1
+1312,state servive ,1
+1313,null,null
+1314,shoemaker ,1
+1315,laborer ,1
+1316,eating house ,1
+1317,lab ,1
+1317,waiter ,1
+1318,hod carrier ,1
+1319,porter ,1
+1320,laborer ,1
+1321,laborer ,2
+1322,waiter ,2
+1322,rag dealer ,1
+1323,laborer ,1
+1324,seaman ,1
+1325,lablorer ,1
+1326,stevedore ,1
+1327,salt ,1
+1327,grain carrier ,1
+1328,waiter ,1
+1328,cab driver brickm ,1
+1328,stevedore ,1
+1329,various ,1
+1330,null,null
+1331,huxter ,1
+1332,laborer ,1
+1333,porter ,1
+1334,null,null
+1335,stevedore ,1
+1336,grain carrier ,1
+1337,stove ,1
+1337,furniture dealer ,1
+1338,stone dealer ,1
+1339,seaman ,1
+1340,laborer on farm ,1
+1341,basket maker ,1
+1342,waiter ,1
+1343,laborer ,1
+1344,null,null
+1345,null,null
+1346,null,null
+1347,lablorer ,1
+1348,laborer ,1
+1349,shoemaker ,1
+1350,null,null
+1351,shoemaker ,1
+1352,porter ,1
+1352,barber ,1
+1353,null,null
+1354,barber ,1
+1355,porter ,1
+1355,musician ,2
+1355,private teacher ,1
+1356,oyster house ,2
+1357,shoemaker ,1
+1358,null,null
+1359,null,null
+1360,seaman ,1
+1361,puts in coal ,1
+1362,huxter ,1
+1363,painter ,1
+1363,glazier ,1
+1364,null,null
+1365,gentleman ,1
+1365,wood sawyer ,1
+1366,musician ,1
+1367,coachman ,1
+1368,musician ,1
+1369,null,null
+1370,null,null
+1371,null,null
+1372,hod carrier ,1
+1373,porter ,1
+1374,seaman ,1
+1375,seaman ,1
+1376,porter ,1
+1377,null,null
+1378,waiter ,1
+1379,lab ,1
+1379,engineer ,1
+1380,porter ,1
+1381,carpenter when able ,1
+1382,laborer ,1
+1383,dealer ,1
+1384,null,null
+1385,waiter ,1
+1386,null,null
+1387,null,null
+1388,waiter when able ,1
+1389,laborer ,1
+1390,laborer ,1
+1391,w washer ,1
+1392,w washer ,1
+1393,coachman ,1
+1394,waiter ,1
+1395,porter ,1
+1395,waiter ,1
+1396,porter ,1
+1397,null,null
+1398,null,null
+1399,null,null
+1400,shoemaker ,1
+1401,waiter ,1
+1401,seaman ,2
+1402,drives cart ,1
+1403,oyster house ,1
+1404,null,null
+1405,coachman ,1
+1406,null,null
+1407,coachman ,1
+1408,null,null
+1409,seaman ,1
+1410,carpenter ,1
+1411,traveling preacher ,1
+1412,null,null
+1413,laborer ,1
+1414,porter ,1
+1415,drives cart ,1
+1416,porter ,1
+1417,waiter ,1
+1418,coachman ,1
+1419,null,null
+1420,seaman ,1
+1421,waiter ,1
+1422,waiter ,1
+1423,null,null
+1424,waiter ,1
+1425,null,null
+1426,waiter ,1
+1427,porter ,1
+1428,coachman ,1
+1429,laborer ,1
+1430,dyer scouner ,1
+1431,waiter ,1
+1432,null,null
+1433,null,null
+1434,putting in coal ,1
+1435,null,null
+1436,painter ,1
+1436,glazier ,1
+1437,null,null
+1438,null,null
+1439,raises hogs ,1
+1440,wood sawyer ,1
+1440,laborer ,1
+1441,porter ,1
+1442,labors on farm ,1
+1443,not able ,1
+1444,null,null
+1445,null,null
+1446,various ,2
+1446,not able ,1
+1447,null,null
+1448,null,null
+1449,null,null
+1450,porter ,1
+1451,waiter ,1
+1452,seaman ,1
+1453,coachman ,1
+1454,waiter ,1
+1455,waiter ,1
+1456,null,null
+1457,porter ,2
+1457,laborer ,1
+1457,waterman ,1
+1458,waiter ,1
+1458,porter ,1
+1459,carter his own ,1
+1460,wood sawyer ,1
+1461,laborer ,1
+1462,barber ,1
+1462,not able ,1
+1463,null,null
+1464,lab ,1
+1464,past labor ,1
+1465,porter ,1
+1466,porter ,1
+1467,porter ,1
+1468,seaman ,1
+1469,null,null
+1470,porter ,1
+1471,boot cleaner ,1
+1472,laborer ,1
+1473,puts in coal ,1
+1473,seaman ,1
+1474,hod carrier ,1
+1474,porter ,1
+1475,laborer ,1
+1476,null,null
+1477,null,null
+1478,waiter ,1
+1479,drives furniture car ,1
+1479,drives cart ,1
+1480,null,null
+1481,past work ,1
+1482,porter ,1
+1483,barber ,1
+1483,waiter ,1
+1484,null,null
+1485,wood sawyer ,1
+1486,hod carrier ,1
+1487,matt maker ,1
+1488,hod carrier ,1
+1489,null,null
+1490,shoemaker ,1
+1491,null,null
+1492,null,null
+1493,seaman ,1
+1494,lab when able ,1
+1495,lab ,1
+1496,null,null
+1497,null,null
+1498,stevedore ,1
+1499,null,null
+1500,barber ,1
+1501,waiter ,1
+1501,waiter ,1
+1502,laborer ,1
+1503,waiter ,1
+1503,lab on farm ,1
+1504,null,null
+1505,waiter ,1
+1506,null,null
+1507,drives cart ,1
+1508,barber ,2
+1509,null,null
+1510,null,null
+1511,steward ,1
+1512,porter ,2
+1512,seaman ,1
+1513,oyster house ,1
+1514,barber ,1
+1515,porter ,1
+1516,null,null
+1517,clock printer by trade ,1
+1518,dyer ,1
+1518,scourer ,1
+1518,dentist ,1
+1519,waiter ,2
+1520,null,null
+1521,clothes dealer ,2
+1522,waterman ,1
+1523,coachman ,1
+1523,cake seller ,1
+1524,null,null
+1525,hod carrier ,1
+1526,currier ,1
+1527,wasiter ,1
+1528,oysterman ,1
+1528,waiter ,1
+1529,null,null
+1530,shoemaker ,1
+1531,null,null
+1532,waiter ,1
+1533,eating stand in market ,1
+1534,waiter ,3
+1535,coachman ,1
+1536,null,null
+1537,null,null
+1538,laborer ,1
+1539,porter ,1
+1540,porter ,1
+1541,coachman ,1
+1542,wood sawyer ,1
+1543,barber ,2
+1544,null,null
+1545,null,null
+1546,waiter ,1
+1547,coachman ,1
+1547,shoemaker ,1
+1548,porter ,1
+1549,laborer ,1
+1550,wood sawyer ,1
+1550,waiter ,1
+1551,coachman ,1
+1552,null,null
+1553,coachman ,1
+1554,boot cleaners ,2
+1555,oyster house ,1
+1556,barber ,1
+1557,barber ,1
+1557,porter ,1
+1558,porter ,1
+1559,null,null
+1560,sexton ,1
+1561,coachman ,1
+1562,seaman ,1
+1562,laborer ,2
+1563,null,null
+1564,null,null
+1565,null,null
+1566,porter ,1
+1566,seaman ,1
+1567,stevedore ,1
+1568,tanner ,1
+1568,currier ,1
+1569,cake baker ,1
+1570,null,null
+1571,barber ,1
+1572,hod carrier ,1
+1573,poter ,1
+1574,tailor ,1
+1575,null,null
+1576,null,null
+1577,waiter ,1
+1578,carter his own ,1
+1579,barber ,1
+1579,laborer ,1
+1580,barber ,1
+1580,hod carrier ,1
+1581,porter ,1
+1582,waiter ,1
+1583,not able ,1
+1584,null,null
+1585,null,null
+1586,null,null
+1587,waiter ,1
+1588,laborer ,1
+1589,porter ,1
+1589,hominy man ,1
+1590,null,null
+1591,porter ,1
+1592,lumber merchant ,1
+1593,porter ,2
+1593,waterman ,1
+1594,porter ,1
+1595,funiture cart his own ,1
+1596,very little ,1
+1597,stevedore ,1
+1598,lab when able ,1
+1599,cake seller ,1
+1600,waiter ,1
+1601,barber ,1
+1602,clothes dealer ,1
+1603,null,null
+1604,null,null
+1605,clothes dealer ,1
+1606,waiter ,1
+1607,sailm ,1
+1607,boot makers ,2
+1608,porter ,1
+1609,null,null
+1610,ivory turner ,1
+1610,steward ,1
+1610,boot maker ,1
+1611,shoemaker ,1
+1612,null,null
+1613,null,null
+1614,various ,1
+1615,porter ,1
+1616,coachman ,1
+1616,sailmaker ,1
+1617,waiter ,1
+1618,waiter ,1
+1619,waiter ,1
+1620,null,null
+1621,waiter ,1
+1622,seaman ,1
+1623,stevedore ,1
+1624,stevedore ,1
+1625,porter ,2
+1626,porter ,1
+1627,hod carrier ,1
+1628,porter ,1
+1629,wood sawyer ,1
+1630,waiter ,1
+1631,waiter ,2
+1632,biscuit baker ,1
+1633,seaman ,1
+1633,waiter ,1
+1634,porter ,1
+1634,boatman ,1
+1635,laborer ,1
+1635,boxman ,1
+1635,seaman ,2
+1636,cabinet ,1
+1636,undertaker ,1
+1637,shoemaker ,1
+1638,cabinet makers ,2
+1639,porter ,1
+1640,carterhis own ,1
+1641,shoem ,1
+1641,not able ,1
+1642,carpenter ,1
+1643,null,null
+1644,dyer ,1
+1644,boxman ,1
+1645,waiter ,1
+1645,barber ,1
+1646,oyster house ,1
+1646,coachman ,1
+1647,shoemaker ,1
+1648,null,null
+1649,null,null
+1650,white washer ,1
+1651,null,null
+1652,cake seller ,2
+1653,null,null
+1654,waiter ,1
+1655,null,null
+1656,laborer ,2
+1657,drives cart ,1
+1658,null,null
+1659,null,null
+1660,boot ,1
+1660,shoemaker ,1
+1661,waiter ,2
+1661,each ,1
+1661,coachman ,1
+1662,carpenter ,1
+1663,waiter ,2
+1664,waiter ,1
+1665,waiter ,1
+1666,barber ,1
+1667,null,null
+1668,null,null
+1669,null,null
+1670,waiter ,1
+1670,barber ,1
+1671,null,null
+1672,porter ,1
+1672,boot maker ,1
+1673,null,null
+1674,null,null
+1675,barber ,1
+1676,various ,1
+1677,waiter ,1
+1678,porter ,1
+1679,null,null
+1680,null,null
+1681,turner ,1
+1681,carver ,1
+1681,tailor ,2
+1681,waiter ,1
+1682,null,null
+1683,waiter ,1
+1684,boot maker ,1
+1685,waiter ,1
+1685,various ,1
+1686,null,null
+1687,null,null
+1688,waiter ,1
+1689,waiter ,3
+1690,waiter ,1
+1690,laborer ,1
+1691,janitor ,1
+1692,putting in coal ,1
+1693,waiter ,1
+1694,waiter ,1
+1695,waiter ,1
+1696,seaman ,1
+1697,various ,1
+1698,null,null
+1699,various ,1
+1700,barber ,1
+1701,waiter ,1
+1702,laborer ,1
+1703,waiter ,1
+1704,laborer ,1
+1705,barber ,1
+1706,seaman ,2
+1706,porter ,1
+1707,waiter ,1
+1708,waiter ,1
+1709,porter ,1
+1710,coachman ,1
+1710,boot maker ,1
+1711,silversmith ,1
+1711,coachman ,1
+1712,barber ,1
+1712,not able ,1
+1713,null,null
+1714,waiter ,1
+1715,poter ,1
+1716,null,null
+1717,clothes dealer ,1
+1718,hod carrier ,1
+1718,waiter ,1
+1719,waiter ,1
+1720,null,null
+1721,porter ,1
+1722,null,null
+1723,boot ,1
+1723,shoem ,1
+1724,null,null
+1725,clothes dealer ,1
+1726,hod carrier ,1
+1726,wood sawyer ,1
+1727,null,null
+1728,null,null
+1729,laborer ,1
+1730,null,null
+1731,waiter ,1
+1732,porter ,1
+1733,null,null
+1734,porter ,1
+1735,bottler ,1
+1736,cake seller ,1
+1737,packer ,1
+1738,waiter ,1
+1739,null,null
+1740,null,null
+1741,white washer ,1
+1742,null,null
+1743,barber ,1
+1744,shoemaker ,1
+1745,laborer ,1
+1746,waiter ,1
+1747,seaman ,1
+1748,null,null
+1749,null,null
+1750,wood sawyer ,2
+1751,porter ,1
+1752,null,null
+1753,clothes dealer ,1
+1754,porter ,1
+1755,carpenter ,1
+1756,oyster house ,1
+1757,confectioner ,1
+1758,waiter ,1
+1759,waiter ,1
+1760,waiter ,1
+1761,coachman ,1
+1762,waiter ,1
+1763,drives dray ,1
+1764,hod carrier ,1
+1765,waiter ,1
+1765,not able ,1
+1766,null,null
+1767,porter ,1
+1768,null,null
+1769,porter ,1
+1770,seaman ,1
+1771,porter ,1
+1772,porter ,1
+1773,null,null
+1774,waiter ,1
+1775,shoemaker ,1
+1776,waiter ,1
+1776,s washer ,1
+1777,coachman ,1
+1778,painter ,1
+1778,glazier ,1
+1779,tailor ,1
+1780,waiter ,1
+1781,porter ,1
+1781,makes saw handles ,1
+1782,various ,1
+1783,null,null
+1784,cabinet makers ,2
+1785,coachman ,1
+1786,null,null
+1787,school teacher ,1
+1788,null,null
+1789,waiter ,2
+1789,drives dray ,1
+1790,laborer ,1
+1791,shoem ab ,1
+1792,null,null
+1793,waiter ,1
+1793,porter ,1
+1794,various ,1
+1795,wood sawyer ,1
+1796,laborer ,2
+1797,barber ,1
+1798,wood sawyer ,1
+1798,lab ,1
+1799,null,null
+1800,null,null
+1801,null,null
+1802,null,null
+1803,barber ,1
+1804,brick moulder ,1
+1805,null,null
+1806,various ,1
+1807,not able ,1
+1808,porter ,1
+1808,laborer ,1
+1809,hod carrier ,1
+1810,null,null
+1811,null,null
+1812,null,null
+1813,waiter ,1
+1814,null,null
+1815,hod carrier ,1
+1816,waiter ,1
+1817,various ,1
+1817,not able ,1
+1818,porter ,1
+1819,null,null
+1820,waiter ,1
+1821,null,null
+1822,null,null
+1823,carter his own ,1
+1824,null,null
+1825,null,null
+1826,null,null
+1827,porter ,1
+1828,waiter ,1
+1829,null,null
+1830,null,null
+1831,null,null
+1832,hod carrier ,1
+1832,waiter ,1
+1833,null,null
+1834,porter ,1
+1835,null,null
+1836,laborer ,1
+1837,null,null
+1838,null,null
+1839,porter ,1
+1840,shoemaker ab ,1
+1840,clear ,1
+1841,null,null
+1842,seaman ,1
+1843,null,null
+1844,null,null
+1845,stevedore ab ,1
+1846,waiter ,1
+1847,hod carrier ,1
+1848,null,null
+1849,waiter ,1
+1850,porter ,1
+1850,seaman ,1
+1850,not able ,1
+1851,null,null
+1852,porter ,1
+1852,waiter ,1
+1853,null,null
+1854,null,null
+1855,whitewasher ,1
+1855,musician ,1
+1856,porter ,1
+1857,null,null
+1858,laborer ,1
+1859,laborer ,1
+1860,waiter ,1
+1861,various ,1
+1862,waiter ,1
+1863,waiter ,1
+1864,null,null
+1865,waiter ,1
+1866,hod carrier ,1
+1867,null,null
+1868,waiter ,1
+1869,null,null
+1870,w washer ,1
+1871,porter ,1
+1872,null,null
+1873,waiter ,1
+1874,various ,1
+1875,waiter ,1
+1876,null,null
+1877,wood sawyer ,1
+1878,waiter ,1
+1878,carpenter ,1
+1879,porter ,1
+1880,coachman ,1
+1881,at college ,1
+1882,null,null
+1883,porter ,1
+1884,porter ,1
+1885,porter ,1
+1886,null,null
+1887,stevedore ,1
+1888,stevedore ,1
+1889,hod carrier ,1
+1890,stevedore ,1
+1891,waiter ,1
+1892,porter ,1
+1892,waiter ,1
+1893,days work ,1
+1893,washet ,1
+1894,hod carrier ,1
+1895,hod carrier ,1
+1896,porter ,1
+1897,porter ,1
+1898,steward ,1
+1898,shoem ,1
+1898,brickm ,1
+1899,null,null
+1900,null,null
+1901,varnisher when can get it ,1
+1902,null,null
+1903,null,null
+1904,stove dealer ,1
+1905,porter ,1
+1906,null,null
+1907,null,null
+1908,null,null
+1909,steward ,1
+1910,boot cleaner ,1
+1911,null,null
+1912,commission merchant ,1
+1913,waiter ,1
+1914,waiter ,1
+1915,carterhis own ,1
+1916,null,null
+1917,stevedore when able ,1
+1918,null,null
+1919,waiter ,1
+1920,porter ,1
+1920,bootmaker ,1
+1921,null,null
+1922,porter ,1
+1923,null,null
+1924,null,null
+1925,barber ,1
+1926,shoemaker ,1
+1927,porter ,2
+1928,null,null
+1929,seaman ,1
+1930,laborer ,2
+1931,waiter ,1
+1932,grain carrier ,1
+1933,null,null
+1934,waiter ,1
+1935,null,null
+1936,public waiter ,1
+1937,null,null
+1938,null,null
+1939,null,null
+1940,wood sawyer ,1
+1940,seaman ,1
+1941,null,null
+1942,steward ,1
+1943,porter ,1
+1944,coachman ,1
+1945,null,null
+1946,seaman ,1
+1947,null,null
+1948,null,null
+1949,null,null
+1950,null,null
+1951,null,null
+1952,not able ,1
+1953,wood sawyer ,1
+1954,null,null
+1955,null,null
+1956,drives cart ,1
+1957,waiter ,1
+1958,carter ,1
+1958,grocer ,1
+1959,null,null
+1960,waiter ,1
+1961,null,null
+1962,tailor ,1
+1963,null,null
+1964,null,null
+1965,porter ,1
+1966,porter ,1
+1967,puts in coal ,1
+1968,dress makers ,2
+1969,whitewasher ,1
+1969,barber ,1
+1970,shoemaker ,1
+1971,null,null
+1972,waiter ,1
+1973,stevedore ,1
+1973,coachman ,1
+1974,brick moulder ,1
+1975,stevedore ,1
+1976,cabinet maker ,1
+1977,wood sawyer ,1
+1978,sweep master ,1
+1979,white washer ,1
+1980,w washer ,1
+1981,public waiter ,1
+1981,oysterman ,1
+1982,barber ,1
+1983,waiter ,1
+1984,barber ,1
+1985,null,null
+1986,seaman ,1
+1986,waiter ,1
+1987,null,null
+1988,clothes dealer ,1
+1989,clothes dealer ,1
+1990,cabinet maker ,1
+1991,poeter ,1
+1992,porter ,1
+1993,null,null
+1994,whitewasher ,1
+1994,barber ,1
+1995,shoemaker ,1
+1996,waiter ,1
+1997,stevedore ,1
+1997,coachman ,1
+1998,brick moulder ,1
+1999,hod carrier ,1
+2000,cabinet maker ,1
+2001,wood sawyer ,1
+2002,sweep master ,1
+2003,null,null
+2004,white washer ,1
+2005,w washer ,1
+2006,null,null
+2007,public waiter ,1
+2007,oyster house ,1
+2008,waiter ,1
+2009,barber ,1
+2010,waiter ,1
+2011,barber ,1
+2012,null,null
+2013,seaman ,1
+2013,waiter ,1
+2014,seaman ,1
+2014,waiter ,1
+2015,public waiter ,1
+2015,tailor ,1
+2016,null,null
+2017,waiter ,1
+2018,null,null
+2019,waiter ,1
+2020,laborer ,2
+2021,waiter ,1
+2021,waiter ,1
+2022,barber ,1
+2023,waiter ,2
+2023,coachman ,1
+2024,w washer ,1
+2024,waiter ,1
+2025,clothes dealer ,1
+2026,null,null
+2027,waiter ,1
+2028,null,null
+2029,hat presser ,1
+2030,public waiter ,1
+2031,null,null
+2032,coachman ,1
+2033,seaman ,1
+2034,seaman ,1
+2035,null,null
+2036,wood piler carter his own ,1
+2037,boot maker ,1
+2038,null,null
+2039,barber ,1
+2040,null,null
+2041,null,null
+2042,porter ,1
+2042,washer ,1
+2043,w washer ,1
+2044,null,null
+2045,null,null
+2046,porter ,1
+2047,null,null
+2048,not able ,1
+2049,w washer ,1
+2050,porter ,1
+2051,porter ,1
+2052,null,null
+2053,cake seller ,1
+2054,coachman ,1
+2055,null,null
+2056,null,null
+2057,musician ,1
+2058,confectioner ,1
+2058,musician ,1
+2059,waiter ,1
+2060,coachman ,1
+2061,wood sawyer ,1
+2062,boot ,1
+2062,shoemaker ,1
+2063,waiter ,1
+2063,boot cleaner ,1
+2064,clothes dealer ,1
+2064,porter ,1
+2065,waiter ,1
+2066,null,null
+2067,null,null
+2068,null,null
+2069,null,null
+2070,various ,1
+2071,null,null
+2072,null,null
+2073,barber ,3
+2074,barber ,1
+2075,portr ,1
+2076,barber ,1
+2077,plasterer ,1
+2078,coachman ,1
+2079,coachman ,1
+2080,barber ,1
+2081,porter ,2
+2082,null,null
+2083,wood sawyer ,1
+2084,null,null
+2085,null,null
+2086,null,null
+2087,null,null
+2088,not able ,1
+2089,null,null
+2090,null,null
+2091,carter his own ,1
+2091,drives cart ,1
+2092,laborer ,1
+2092,verious ,1
+2093,porter ,1
+2094,null,null
+2095,hackman ,1
+2096,carpenter ,1
+2097,wasiter ,1
+2098,null,null
+2099,null,null
+2100,coachman ,1
+2101,scourer ,1
+2101,seaman ,2
+2102,waiter ,1
+2103,null,null
+2104,oysterman ,1
+2105,porter ,1
+2106,waiter ,1
+2107,waiter ,1
+2108,waiter ,1
+2109,drives cart ,1
+2110,null,null
+2111,null,null
+2112,null,null
+2113,null,null
+2114,null,null
+2115,null,null
+2116,porter ,1
+2116,waiter ,1
+2117,waiter ,1
+2118,waiter ,1
+2119,waiter ,1
+2119,laborer ,1
+2119,not able ,1
+2120,traveler ,1
+2121,null,null
+2122,w washer ,1
+2122,hominey man ,1
+2123,shoemaker ,1
+2124,null,null
+2125,coachman ,1
+2126,waiter ,1
+2127,null,null
+2128,china packer ,1
+2129,various ,1
+2130,null,null
+2131,null,null
+2132,cabinet maker ,1
+2132,undertaker ,1
+2133,null,null
+2134,null,null
+2135,null,null
+2136,hod carrier ,1
+2137,coachman ,1
+2138,seaman ,1
+2138,musician ,1
+2139,shoemaker ,1
+2140,laborer ,1
+2140,huxter ,1
+2141,porter ,1
+2142,null,null
+2143,null,null
+2144,porter ,1
+2145,seaman ,1
+2146,waiter ,1
+2147,null,null
+2148,null,null
+2149,boot maker ,1
+2150,wood sawyer ,1
+2151,hod caeeier ,1
+2152,hod carrier ,1
+2153,shoe maker ,1
+2153,barber ,1
+2153,clothes dealer ,1
+2154,waiter ,1
+2155,coachman ,1
+2156,waiter ,1
+2157,sweep master ,1
+2158,various ,1
+2159,null,null
+2160,null,null
+2161,null,null
+2162,seaman ,1
+2163,null,null
+2164,null,null
+2165,coachman ,1
+2166,porter ,1
+2167,null,null
+2168,brick layer ,1
+2168,plasterer ,1
+2169,clothes dealer ,1
+2170,waiter ,1
+2171,various ,1
+2172,waiter ,1
+2173,seaman ,1
+2174,laborer ,1
+2175,null,null
+2176,seaman ,1
+2176,various ,1
+2177,null,null
+2178,null,null
+2179,porter ,1
+2180,herb doctor ,1
+2180,various ,1
+2181,null,null
+2182,whitewasher ,1
+2182,muscician ,1
+2183,stevedore ,1
+2184,null,null
+2185,hod carrier ,1
+2186,null,null
+2187,null,null
+2188,null,null
+2189,null,null
+2190,various ,1
+2190,shoem ,1
+2191,null,null
+2192,waiter ,1
+2193,seaman ,1
+2194,null,null
+2195,laborer ,1
+2196,wood sawyer ,1
+2197,null,null
+2198,porter ,1
+2199,hod carrier ,1
+2199,seaman ,1
+2200,null,null
+2201,hod carrier ,1
+2202,porter ,1
+2203,puts in coal ,1
+2204,porter ,1
+2205,drives coal cart ,1
+2206,boot ,2
+2206,shoemaker ,1
+2207,null,null
+2208,null,null
+2209,waiter ,1
+2210,hod carrier ,1
+2211,musician ,1
+2212,musician ,1
+2213,lab in ink factory ,1
+2214,null,null
+2215,wood sawyer ,1
+2216,coachman ,1
+2217,wasiter ,1
+2218,waiter ,1
+2219,null,null
+2220,pub waiter ,1
+2220,washer ,1
+2221,barber ,1
+2222,porter ,1
+2223,painter ,1
+2223,glazier ,1
+2224,null,null
+2225,null,null
+2226,shop keeper ,1
+2227,musician ,1
+2228,sexton ,1
+2229,null,null
+2230,drives cart ,1
+2231,null,null
+2232,engineer ,1
+2232,seaman ,1
+2233,various ,1
+2233,shoem ,1
+2234,null,null
+2235,coachman ,1
+2236,waiter ,2
+2237,shoemaker ,1
+2238,waiter ,1
+2239,coachman ,1
+2240,shoemaker ,1
+2241,coachman ,1
+2242,laborer ,1
+2243,null,null
+2244,null,null
+2245,lab ,1
+2245,cake seller ,1
+2245,stove dealer ,1
+2246,laborer ,1
+2247,null,null
+2248,null,null
+2249,null,null
+2250,waiter ,1
+2251,refectory ,1
+2252,waiter ,1
+2252,whitewasher ,1
+2253,porter ,1
+2254,seaman ,1
+2255,waiter ,1
+2256,coachman ,1
+2257,waiter ,1
+2257,each ,2
+2258,null,null
+2259,boot maker ,1
+2260,null,null
+2261,carter his own ,1
+2261,chair bottomer ,1
+2262,seaman ,1
+2263,null,null
+2264,null,null
+2265,null,null
+2266,cake seller ,1
+2267,carpenter ,1
+2268,waiter ,1
+2269,paster of union bap ch ,1
+2270,hominy man ,1
+2271,null,null
+2272,laborer ,1
+2273,null,null
+2274,waiter ,1
+2275,steward ,1
+2276,hod carrier ,1
+2277,laborer ,1
+2278,porter ,1
+2279,various ,1
+2279,shoemaker ,1
+2280,brick moulder ,1
+2281,porter ,2
+2282,porter ,1
+2283,waiter ,1
+2284,null,null
+2285,null,null
+2286,null,null
+2287,waiter ,1
+2288,null,null
+2289,null,null
+2290,white washer ,1
+2291,null,null
+2292,various ,1
+2293,boot maker ,1
+2294,waiter ,1
+2295,traveling preacher ,1
+2296,barber ,1
+2297,null,null
+2298,hod carrier ,1
+2299,porter ,1
+2300,drives dray ,1
+2301,seaman ,1
+2301,confectioner ,1
+2302,porter ,1
+2303,wood sawyer ,1
+2303,porter ,1
+2304,laborer ,1
+2305,null,null
+2306,null,null
+2307,porter ,1
+2308,seaman ,1
+2309,null,null
+2310,null,null
+2311,null,null
+2312,null,null
+2313,waiter ,1
+2314,porter ,1
+2314,hominy man ,1
+2315,null,null
+2316,waterman ,1
+2317,laborer ,1
+2317,waiter ,1
+2318,wood sawyer waiter ,1
+2319,null,null
+2320,cake seller ,1
+2321,hod carrier ,1
+2322,barber ,1
+2323,null,null
+2324,barber ,1
+2325,porter ,1
+2326,waiter ,1
+2326,not employt ,1
+2327,laborer ,1
+2328,porter ,1
+2329,null,null
+2330,waiter ,1
+2331,waiter ,1
+2332,laborer ,1
+2333,barber ,2
+2333,oysterman ,1
+2333,not able ,2
+2334,coachman ,1
+2334,porter ,2
+2335,w washer ,1
+2335,waiter ,1
+2336,laborer ,1
+2336,waiter ,1
+2337,waiter ,1
+2337,coachman ,1
+2338,null,null
+2339,chaise driver ,1
+2340,null,null
+2341,barber ,3
+2342,waiter ,1
+2343,coachman ,1
+2344,null,null
+2345,laborer ,1
+2346,seaman ,1
+2347,seaman ,1
+2348,laborer ,1
+2349,waiter ,1
+2350,lab ,1
+2350,not able ,1
+2351,null,null
+2352,brick moulder ,1
+2353,barber ,1
+2354,stevedore ,1
+2355,waiter ,1
+2356,barber ,1
+2357,carpenter ,1
+2358,porter ,1
+2359,laborer ,1
+2360,seaman ,1
+2361,porter ,1
+2362,null,null
+2363,null,null
+2364,null,null
+2365,waiter ,1
+2366,shoe maker ,1
+2366,lab ,1
+2367,null,null
+2368,porter ,1
+2369,porter ,1
+2370,null,null
+2371,laborer ,1
+2372,null,null
+2373,porter ,1
+2374,waiter ,1
+2375,null,null
+2376,null,null
+2377,porter ,1
+2378,waiter ,1
+2379,waiter ,1
+2379,porter ,2
+2380,null,null
+2381,seaman ,1
+2382,waiter ,1
+2383,waiter ,1
+2384,waiter ,1
+2385,clerk ,1
+2386,waiter ,1
+2387,waiter ,2
+2388,bootmaker ,1
+2389,null,null
+2390,waiter ,1
+2391,null,null
+2392,laborer ,1
+2393,laborer ,1
+2394,porter ,1
+2394,waiter ,1
+2395,brick moulder ,1
+2396,brick moulder ,1
+2396,clothes dealer ,1
+2397,lab ,2
+2397,waiter ,1
+2398,musicians ,2
+2398,washer ,1
+2399,seaman ,1
+2400,various ,1
+2401,porter ,1
+2402,well digger ,1
+2402,waiter ,1
+2403,wood sawyer ,1
+2403,hod carrier ,1
+2404,hod carrier ,1
+2405,laborer ,1
+2406,clothes dealer ,1
+2406,waiter ,1
+2407,clothes dealer ,1
+2408,public waiter ,1
+2409,coachman ,1
+2410,null,null
+2411,clothes dealer ,1
+2412,waterman ,1
+2413,waiter ,1
+2414,wasiter ,1
+2415,waiter ,1
+2416,drives cart ,1
+2416,waiter ,1
+2417,null,null
+2418,shoemaker ,3
+2419,coachman ,1
+2420,lab ,1
+2420,drug grinder ,1
+2421,porter ,1
+2422,porter ,1
+2423,coachman ,1
+2424,porter ,1
+2425,waiter ,1
+2426,waiter ,1
+2427,barber ,2
+2428,barber ,1
+2429,hod carrier ,1
+2430,coachman ,1
+2431,livery stable ,1
+2432,porter ,1
+2433,drives coal cart ,1
+2433,lab ,1
+2434,seaman ,1
+2435,cabinet maker ,1
+2436,null,null
+2437,null,null
+2438,steward ,1
+2439,barber ,1
+2440,distiller ,1
+2441,various ,1
+2442,poeter ,1
+2443,laborer ,1
+2444,porter ,1
+2445,various ,1
+2446,livery stable ,2
+2447,null,null
+2448,clothes dealer ,1
+2449,brass founder ,1
+2449,shoe maker ,1
+2450,school teacher ,1
+2451,null,null
+2452,porter ,1
+2453,null,null
+2454,hod carrier ,1
+2455,hod carrier ,1
+2456,porter ,1
+2457,waiter ,1
+2458,coachman ,1
+2459,shoem ,1
+2459,not able ,1
+2460,laborer ,1
+2461,hod carrier ,1
+2462,null,null
+2463,laborer ,1
+2464,waiter ,1
+2465,confectioner ,1
+2466,null,null
+2467,drives cart ,1
+2468,laborer ,1
+2469,porter ,1
+2470,coachman ,1
+2471,not able ,1
+2472,null,null
+2473,various ,1
+2474,laboter ,1
+2475,waiter ,1
+2475,porter ,1
+2476,null,null
+2477,waiter ,1
+2478,null,null
+2479,laborer ,1
+2480,seaman ,1
+2481,herb doctor ,1
+2482,porter ,1
+2483,porter ,1
+2484,white washer ,1
+2485,wood sawyer ,1
+2486,packer ,1
+2487,null,null
+2488,barber ,1
+2489,porter ,1
+2490,boot cleaner ,1
+2491,laborer ,1
+2492,engineer ,1
+2493,barber ,2
+2494,brick moulder ,2
+2495,null,null
+2496,barber ,1
+2497,barber ,1
+2498,recter of st thomass ch ,1
+2499,tailor ,2
+2500,null,null
+2501,brick yard ,1
+2502,null,null
+2503,carpenter ,1
+2504,tanner ,1
+2505,null,null
+2506,null,null
+2507,tanner ,1
+2508,laborer ,1
+2509,hod carrier ,1
+2510,waiter ,1
+2511,hod carrier ,1
+2512,wood sawyer ,1
+2513,laborer ,1
+2514,public porter ,1
+2515,coachman ,0
+2516,sawyer ,1
+2516,carter ,1
+2517,laborer ,1
+2518,hair dresser ,1
+2519,laborer ,1
+2520,carter ,1
+2521,brick yard ,1
+2522,null,null
+2523,carter ,1
+2523,own ,1
+2524,ornamental painter ,1
+2525,oyster ,1
+2525,eating celler ,1
+2526,potter ,1
+2527,barber ,1
+2528,brick maker ,1
+2529,wood sawyer ,1
+2530,null,null
+2531,laborer in lumber yard ,1
+2532,null,null
+2533,laborer in lumber yard ,1
+2534,washing ,1
+2534,sewing ,1
+2535,carter ,1
+2536,jobbing ,1
+2537,laborer ,1
+2538,null,null
+2539,jobbing ,1
+2540,porter ,1
+2541,plasterer ,1
+2542,plasterer ,1
+2543,labourer ,1
+2544,null,null
+2545,laborer ,1
+2546,tanner ,1
+2547,jobbing ,1
+2548,hod carrier ,1
+2549,jobbing ,1
+2550,drayman ,1
+2551,sink cleaner ,1
+2552,null,null
+2553,null,null
+2554,work stove store ,1
+2555,takes children to nurse ,1
+2556,chimmney sweeper ,1
+2557,carter ,1
+2558,laborer ,1
+2559,null,null
+2560,laborer ,1
+2561,drayman ,1
+2562,jobbing ,1
+2563,public porter ,1
+2564,null,null
+2565,sweep master ,1
+2566,null,null
+2567,laborer ,1
+2568,carter ,1
+2569,public porter ,1
+2570,dealer in s hand clothes ,1
+2571,oysterman ,1
+2572,hod carrier ,1
+2573,peddler of goods ,1
+2574,null,null
+2575,sons carter ,2
+2575,each ,1
+2576,null,null
+2577,wood sawyer ,1
+2578,carter ,1
+2579,carter ,1
+2580,in type foundery ,1
+2581,dealer in oyster ,1
+2582,null,null
+2583,null,null
+2584,coffee roaster ,1
+2585,seaman ,1
+2586,wants situation ,1
+2587,hair dresser ,1
+2588,groom ,1
+2589,wood sawyer ,1
+2590,wood sawyer ,1
+2591,hair dresser ,1
+2592,laborer ,1
+2593,brick yard ,1
+2594,drayman ,1
+2595,null,null
+2596,porter ,1
+2597,hod carrier ,1
+2598,book maker ,1
+2599,carter ,1
+2600,jobbing ,1
+2601,null,null
+2602,brick yard ,1
+2603,null,null
+2604,drayman ,1
+2605,jobbing ,1
+2606,hair dresser ,1
+2607,null,null
+2608,rases flags ,1
+2609,hair dresser ,1
+2610,carman ,1
+2611,brick maker ,1
+2612,hod carrier ,1
+2613,carter ,1
+2613,own ,1
+2614,porter ,1
+2615,brick maker ,1
+2616,carter ,1
+2617,dentist ,1
+2618,coachman ,1
+2619,labourer ,1
+2620,brick yard ,1
+2621,brick maker ,1
+2622,laborer ,1
+2623,laborer ,1
+2624,laborer ,1
+2625,farmer ,1
+2626,coachman ,1
+2627,brick maker ,1
+2628,null,null
+2629,null,null
+2630,laborer in lumber yard ,1
+2631,jobbing ,1
+2632,null,null
+2633,coachman ,1
+2634,null,null
+2635,null,null
+2636,null,null
+2637,sink cleaning ,1
+2638,porter ,1
+2639,dealer in second hand cloths ,1
+2640,null,null
+2641,coachman ,1
+2642,laborer ,1
+2643,laborer ,1
+2644,public porter ,1
+2645,null,null
+2646,null,null
+2647,porter in store ,1
+2648,laborer ,1
+2649,null,null
+2650,coal yard ,1
+2651,laborer ,1
+2652,washing ,1
+2653,agent for the rent of the row ,1
+2654,washing ,1
+2654,sewing ,1
+2655,boot maker ,1
+2656,porter in store ,1
+2657,sailor ,1
+2658,laborer ,1
+2659,laborer ,1
+2660,null,null
+2661,whitewasher ,1
+2662,coffee roaster ,1
+2663,laborer ,1
+2664,laborer ,1
+2665,coffee roaster ,1
+2666,jobbing ,1
+2667,dealer in oyster ,1
+2668,wood sawyer ,1
+2669,tanner ,1
+2670,sink cleaner ,1
+2671,null,null
+2672,brick maker ,1
+2673,drayman ,1
+2674,waiter ,1
+2675,waiter ,1
+2676,brickmaker ,1
+2677,brick maker ,1
+2678,jobbing ,1
+2679,laborer ,1
+2680,waiter ,1
+2681,null,null
+2682,labourer ,1
+2683,carman ,1
+2684,laborer in coal yard ,1
+2685,jobbing ,1
+2686,tanner ,1
+2687,oysterman ,1
+2688,tanner ,1
+2689,null,null
+2690,null,null
+2691,carter ,1
+2692,hod carrier ,1
+2693,jobbing ,1
+2694,laborer ,1
+2695,jobbing ,1
+2696,jobbing ,1
+2697,public porter ,1
+2698,null,null
+2699,null,null
+2700,laborer ,1
+2701,hod carrier ,1
+2702,null,null
+2703,jobbing ,1
+2704,wood sawyer ,1
+2705,basket maker ,1
+2706,laborer ,1
+2707,brick maker ,1
+2708,null,null
+2709,laborer ,1
+2710,musician ,1
+2711,null,null
+2712,wheelwright ,1
+2713,porter ,1
+2713,tanner ,1
+2714,coachman ,1
+2715,water ,1
+2716,jobbing ,1
+2717,laborer ,1
+2718,whitewasher ,1
+2719,jobbing ,1
+2720,seaman ,1
+2721,jobbing ,1
+2722,dealer in rope boxes ,1
+2723,tanner ,1
+2724,null,null
+2725,null,null
+2726,brick yard ,1
+2727,waiter ,1
+2728,laborer ,1
+2729,jobbing ,1
+2730,oyster ,1
+2731,laborer ,1
+2732,hod carrier ,1
+2733,jobbing ,1
+2734,laborer ,1
+2735,null,null
+2736,coachman ,1
+2737,waiter ,1
+2738,clothing cellar ,1
+2739,wayter ,1
+2740,works in market ,1
+2741,coachman ,1
+2742,works at confectionary ,1
+2743,laborer ,1
+2744,laborer in coal yard ,1
+2745,tanner ,1
+2746,laborer ,1
+2747,water ,1
+2748,porter ,1
+2749,public waiter ,1
+2750,brick maker ,1
+2751,null,null
+2752,sells pepper pot ,1
+2753,coachman ,1
+2754,tanner ,1
+2755,hod carrier ,1
+2756,brick mason ,1
+2757,brick maker ,1
+2758,brick moulder ,1
+2759,plasterer ,1
+2760,hod carrier ,1
+2761,laborer ,1
+2762,tanner ,1
+2763,seaman ,1
+2764,hair dresser ,1
+2765,jobbing ,1
+2766,waiter ,1
+2767,brick mason ,1
+2768,whitewasher ,1
+2769,laborer on steamboat ,1
+2770,null,null
+2771,null,null
+2772,null,null
+2773,hod carrier ,1
+2774,public porter ,1
+2775,tanner ,1
+2776,shave shingles ,1
+2777,brick maker ,1
+2778,brick maker ,1
+2779,hair dresser ,1
+2780,null,null
+2781,carter ,1
+2782,dealer in s hand clothes ,1
+2783,jobbing ,1
+2784,null,null
+2785,null,null
+2786,laborer in coal yard ,1
+2787,jobbing ,1
+2788,whitewashing waiting cc ,1
+2789,carter ,1
+2790,porter in store ,1
+2791,hod carrier ,1
+2792,porter in store ,1
+2793,carter ,1
+2794,null,null
+2795,null,null
+2796,null,null
+2797,brick maker ,1
+2798,laber ,1
+2799,wood sawyer ,1
+2800,drayman ,1
+2801,jobbing ,1
+2802,sink cleaner ,1
+2803,null,null
+2804,null,null
+2805,laborer ,1
+2806,coachman ,1
+2807,waiter ,1
+2808,jobbing ,1
+2809,null,null
+2810,tanner ,1
+2811,laborer ,1
+2812,public porter ,1
+2813,public porter ,1
+2814,porter in store ,1
+2815,house carpenter ,1
+2816,jobbing ,1
+2817,brick maker ,1
+2818,porter house ,1
+2819,labour ,1
+2820,man helpless ,1
+2821,null,null
+2822,null,null
+2823,carter ,1
+2824,jobbing ,1
+2825,labourer ,1
+2826,laborer ,1
+2827,labourer ,1
+2828,null,null
+2829,null,null
+2830,hair dresser ,1
+2831,jobbing ,1
+2832,null,null
+2833,barber bleeder ,1
+2833,dentist ,1
+2834,jobbing ,1
+2835,puts in coal ,1
+2836,null,null
+2837,hair dresser ,1
+2838,brick maker ,1
+2839,whitewashing ,1
+2840,laborer in lumber yard ,1
+2841,brick maker ,1
+2842,foreman in lumber yard ,1
+2843,whitewasher ,1
+2844,carter ,1
+2845,hod carrier ,1
+2846,brick maker ,1
+2847,null,null
+2848,laborer in lumber yard ,1
+2849,brick yard ,1
+2850,null,null
+2851,public porter ,1
+2852,jobbing ,1
+2853,hair dresser ,1
+2854,carter ,1
+2855,general jobbing ,1
+2856,null,null
+2857,labour ,1
+2858,waiter ,1
+2859,seaman ,1
+2860,b maker hominy ,1
+2861,waiter ,1
+2862,null,null
+2863,hod carrier ,1
+2864,null,null
+2865,seaman ,1
+2866,waiter ,1
+2867,boot blacker ,1
+2868,porter ,1
+2869,laborer ,1
+2870,house carpenter ,1
+2871,botanic physician ,1
+2872,stove ,1
+2872,furniture dealer ,1
+2873,hostler ,1
+2874,null,null
+2875,waiter ,1
+2876,wood sawyer ,1
+2877,boot cleaner ,1
+2878,public waiter ,1
+2879,sail maker ,1
+2880,laborer ,1
+2881,rag picker ,1
+2882,clothes dealer ,1
+2883,porter ,1
+2884,brick maker ,1
+2885,oyster ,1
+2885,eating establishment ,1
+2886,laborer ,1
+2887,waiter ,1
+2888,null,null
+2889,laborer ,1
+2890,brick mason ,1
+2891,sailor ,1
+2892,steward on steam ship ,1
+2893,null,null
+2894,null,null
+2895,carpenter ,1
+2896,seaman ,1
+2897,assembly rooms ,1
+2898,porter ,1
+2899,seaman ,1
+2900,works on wharf ,1
+2901,black smith ,1
+2902,coal carrier ,1
+2903,null,null
+2904,b maker ,1
+2904,jobbing ,1
+2905,dealer hominey ,1
+2906,laborer ,1
+2907,rag ,1
+2907,bone ,1
+2908,hair dresser ,1
+2909,null,null
+2910,laborer ,1
+2911,null,null
+2912,laborer ,1
+2913,brick yard ,1
+2914,laborer ,1
+2915,hat presser ,1
+2916,null,null
+2917,laborer ,1
+2918,null,null
+2919,null,null
+2920,waiter ,1
+2921,drayman ,1
+2922,waiter ,1
+2923,jobbing ,1
+2924,laborer ,1
+2925,seaman ,1
+2926,null,null
+2927,stove dealer ,1
+2928,null,null
+2929,public porter ,1
+2930,laborer ,1
+2931,public waiter ,1
+2932,null,null
+2933,rag ,1
+2933,bone ,1
+2934,null,null
+2935,stove dealer ,1
+2936,hod carrier ,1
+2937,musician ,1
+2938,carter ,1
+2939,waiter ,1
+2940,brick yard ,1
+2941,carman ,1
+2942,stove store ,1
+2943,seaman ,1
+2944,dealer in tobacco ,1
+2945,laborer ,1
+2946,jobbing ,1
+2947,black smith ,1
+2948,coachman ,1
+2949,brick maker ,1
+2950,school teacher ,1
+2951,public waiter ,1
+2952,rag bone ,1
+2953,work in market ,2
+2954,laborer ,1
+2955,porter ,1
+2955,cabinet maker ,1
+2956,laborer ,1
+2957,rag ,1
+2957,bone ,1
+2958,jobbing ,1
+2959,works in mahogany mill ,1
+2960,laborer ,1
+2961,seaman ,1
+2962,waterman ,1
+2963,null,null
+2964,laborer ,1
+2965,hair dresser ,1
+2965,musician ,1
+2966,whitewasher ,1
+2967,null,null
+2968,jobbing ,1
+2969,porter in store ,1
+2970,sailor ,1
+2971,laborer ,1
+2972,waiter ,1
+2973,null,null
+2974,public waiter ,1
+2975,door mat maker ,1
+2976,carman ,1
+2977,hominy dealer ,1
+2978,engineer ,1
+2979,waiter ,1
+2980,coachman ,1
+2981,waiter ,1
+2982,jobbing ,1
+2983,laborer ,1
+2984,jobbing ,1
+2985,null,null
+2986,tailor store ,1
+2987,minister ,1
+2988,hod carrier ,1
+2989,null,null
+2990,wood sawyer ,1
+2991,sailor ,1
+2993,laborer ,1
+2994,waiter ,1
+2995,porter ,1
+2996,rag ,1
+2996,bone ,1
+2997,null,null
+2998,laborer ,1
+2999,waiter ,1
+3000,laborer ,1
+3001,seaman ,1
+3002,laborer ,1
+3003,public porter ,1
+3004,null,null
+3005,boot blacker ,1
+3006,rag ,1
+3006,bone ,1
+3007,carter ,1
+3008,sink cleaner ,1
+3009,boot maker ,1
+3010,waiter ,1
+3011,null,null
+3012,laborer ,1
+3013,rag ,1
+3013,bone ,1
+3014,null,null
+3015,laborer ,1
+3016,porter ,1
+3017,porter ,2
+3018,laborer ,1
+3019,null,null
+3020,null,null
+3021,laborer ,1
+3022,null,null
+3023,porter ,1
+3024,null,null
+3025,porter in store ,1
+3026,bmaker ,1
+3026,jobbing ,1
+3027,null,null
+3028,jobbing ,1
+3029,null,null
+3030,rag ,1
+3030,bone ,1
+3031,porter ,1
+3032,carter ,1
+3033,brick maker ,1
+3034,keeps hogs ,1
+3035,wood sawyer ,1
+3036,laborer ,1
+3037,null,null
+3038,waiter oyster cellar ,1
+3039,porter in store ,1
+3040,waiter in oyster saloon ,1
+3041,waiter ,1
+3042,wood sawyer ,1
+3043,musician etc ,1
+3044,waiter ,2
+3045,carman ,1
+3045,own ,1
+3046,waiter on steam boat ,1
+3047,carter ,1
+3048,null,null
+3049,raises hogs ,1
+3050,carter ,1
+3051,public porter ,1
+3052,null,null
+3053,seaman ,1
+3054,null,null
+3055,jobbing etc ,1
+3056,null,null
+3057,porter in store ,1
+3058,brick yard ,1
+3059,laborer ,1
+3060,rag picker ,1
+3061,hair dresser ,1
+3061,perfumer ,1
+3062,jobbing ,1
+3063,null,null
+3064,null,null
+3065,painter ,1
+3065,glazier ,1
+3066,null,null
+3067,waiter ,1
+3068,porter ,1
+3069,null,null
+3070,brick maker ,1
+3070,oysterman ,1
+3071,dealer in medicines etc ,1
+3072,jobbing ,1
+3073,null,null
+3074,porter in store ,1
+3075,carter his own ,1
+3076,rag ,1
+3076,bone ,1
+3077,carting ,1
+3077,night work ,1
+3078,public waiter ,1
+3079,hod carrier ,1
+3080,porter ,1
+3081,public waiter ,1
+3082,porter in store ,1
+3083,jobbing ,1
+3084,laborer ,1
+3085,porter ,1
+3086,cobbler ,1
+3087,laborer ,1
+3088,laborer ,1
+3089,waiter ,1
+3090,porter ,1
+3091,null,null
+3092,null,null
+3093,rag ,1
+3093,bone ,1
+3094,waiter in oyster cellar ,1
+3095,hair picker ,1
+3096,works on wharf ,1
+3097,b maker ,1
+3097,mon ,1
+3098,house carpenter ,1
+3099,jobbing ,1
+3100,null,null
+3101,waiter ,1
+3102,sail maker ,1
+3103,null,null
+3104,public waiter ,1
+3104,porter ,1
+3105,works on wharf ,1
+3106,confectionary ,1
+3107,work in market ,2
+3108,null,null
+3109,oysterman ,1
+3110,porter ,1
+3111,fiddler ,1
+3112,rag ,1
+3112,bone ,1
+3113,preacher ,1
+3114,house carpenter ,1
+3115,coachman ,1
+3115,out of ,1
+3116,porter in store ,1
+3117,sail maker ,1
+3118,jobbing ,1
+3119,works on wharf ,1
+3120,rag ,1
+3120,bone ,1
+3121,shoe maker ,1
+3122,null,null
+3123,jobbing ,1
+3124,null,null
+3125,coachman ,1
+3126,laborer ,1
+3127,null,null
+3128,porter in store ,1
+3129,porter in store ,1
+3130,shoe maker ,1
+3131,laborer ,1
+3132,works on wharf ,1
+3133,makes mats ,1
+3134,homoney dealer ,1
+3135,laborer ,2
+3136,waiter ,1
+3137,null,null
+3138,null,null
+3139,whitewashing ,1
+3140,null,null
+3141,rag ,1
+3141,bone ,1
+3142,null,null
+3143,waiter ,1
+3144,porter ,1
+3145,tailor ,1
+3145,draper ,1
+3146,jobbing ,1
+3147,rag ,1
+3147,bone ,1
+3148,laborer ,1
+3149,laborer ,1
+3150,waiter ,1
+3151,hair dresser ,1
+3152,fiddler ,1
+3153,seaman ,1
+3154,laborer ,1
+3155,shand clothes dealer ,1
+3156,brick maker ,1
+3157,porter in store ,1
+3158,works on wharf ,1
+3159,null,null
+3160,null,null
+3161,brick maker in store ,1
+3162,waiter ,1
+3163,seaman ,1
+3164,waiter ,1
+3165,laborer ,1
+3166,null,null
+3167,laborer ,1
+3168,wood sawyer ,1
+3169,null,null
+3170,rag ,1
+3170,bone etc ,1
+3171,carter ,1
+3171,own ,1
+3172,laborer ,1
+3173,brick maker ,1
+3174,carter ,1
+3175,oysterman ,1
+3176,waiter ,1
+3177,clergyman ,1
+3178,porter ,1
+3179,oyster seller ,1
+3180,carter ,1
+3180,own ,1
+3181,wood sawyer ,1
+3182,jobbing ,1
+3183,hair dresser ,1
+3184,porter ,1
+3185,oysterman ,1
+3186,jobbing ,1
+3187,null,null
+3188,laborer ,1
+3189,rag ,1
+3189,bone ,1
+3190,waiter ,1
+3191,salt carrier ,1
+3192,null,null
+3193,waiter ,1
+3194,farmer ,1
+3195,public waiter ,1
+3196,public waiter ,1
+3197,jobing ,1
+3198,drives ice cart in summer winter cook ,1
+3199,hod carrier ,1
+3200,sells door mats ,1
+3201,porter in store ,1
+3202,boatman ,1
+3203,lh clothes celler ,1
+3204,laborer ,1
+3205,drayman ,1
+3206,jobbing ,1
+3207,porter in store ,1
+3208,public waiter ,1
+3209,jobbing ,1
+3210,null,null
+3211,waiter ,1
+3212,bakers unempoloyed ,2
+3213,hod carrier ,1
+3214,jobbing ,1
+3215,waiter ,1
+3215,cellar ,1
+3216,porter ,1
+3217,waiter ,1
+3218,null,null
+3219,null,null
+3220,null,null
+3221,carman ,1
+3221,own ,1
+3222,eating celler ,1
+3223,porter ,1
+3224,carter ,1
+3225,waiter in oyster cellar ,1
+3226,wood sawyer ,1
+3227,null,null
+3228,hair dresser ,1
+3229,farmer ,1
+3230,jobbing ,1
+3231,null,null
+3232,preacher ,1
+3233,seaman ,1
+3234,engineer ,1
+3235,null,null
+3236,porter ,1
+3237,porter ,1
+3238,works on wharf ,3
+3239,rag ,1
+3239,bone ,1
+3240,rag ,1
+3240,bone ,1
+3241,laboratory ,1
+3242,works on wharf ,1
+3243,porter ,1
+3244,null,null
+3245,waiter ,1
+3246,porter ,1
+3247,null,null
+3248,house carpenter ,1
+3249,null,null
+3250,null,null
+3251,physician ,1
+3252,porter ,1
+3253,public waiter ,1
+3253,cloth dealer ,1
+3254,rag ,1
+3254,bone ,1
+3255,works on wharf ,1
+3256,laborer ,1
+3257,laborer ,1
+3258,oysterman ,1
+3259,carpenter ,1
+3260,sailor ,2
+3260,hat colorer ,1
+3261,hod carrier ,1
+3262,hair dresser ,1
+3263,coachman ,1
+3264,null,null
+3265,null,null
+3266,jobbing ,1
+3267,porter ,1
+3268,porter ,1
+3269,jobbing ,1
+3270,porter ,1
+3271,works in ten pin alley ,1
+3272,laborer ,1
+3273,boot maker ,1
+3274,seaman ,1
+3275,coal carrier ,1
+3276,null,null
+3277,porter ,1
+3278,plasterer ,1
+3278,whitewasher ,1
+3279,sailor ,1
+3280,hostler ,1
+3281,dealer in tow linen c ,1
+3282,null,null
+3283,farmer ,1
+3284,null,null
+3285,oysterman ,1
+3286,brick maker ,1
+3287,morocco dresser ,1
+3288,works in market ,1
+3289,tailor ,1
+3290,porter in store ,1
+3291,works in market ,1
+3292,laborer ,1
+3293,null,null
+3294,hair dresser ,1
+3295,carter ,1
+3295,own ,1
+3296,null,null
+3297,coachman ,1
+3298,waiter ,1
+3299,oyster seller ,1
+3300,porter ,1
+3301,in oil store ,1
+3302,laborer ,1
+3303,oyster seller ,1
+3304,hod carrier ,1
+3305,muffin dealer ,1
+3306,null,null
+3307,rag ,2
+3307,bone ,1
+3308,null,null
+3309,null,null
+3310,null,null
+3311,carter ,1
+3312,preacher ,1
+3312,in store ,1
+3313,porter in store ,1
+3314,null,null
+3315,null,null
+3316,jobbing ,1
+3317,porter in store ,1
+3318,farmer ,1
+3319,house carpenter ,1
+3320,boot maker ,1
+3321,fireman steamboat ,1
+3322,hair dresser ,1
+3323,hair dresser ,1
+3324,works on wharf ,1
+3324,rag picker ,1
+3325,waiter ,1
+3326,porter in store ,1
+3327,laborer ,1
+3328,jobbing ,1
+3329,biscuit baker ,1
+3330,null,null
+3331,black smith ,1
+3332,hat store ,1
+3333,well ,1
+3333,cellar digger ,1
+3334,null,null
+3335,porter ,1
+3336,jobbing ,1
+3337,null,null
+3338,null,null
+3339,seaman ,1
+3340,null,null
+3341,boot maker ,1
+3342,jobbing ,1
+3343,wood sawyer ,1
+3344,coachman ,1
+3345,porter ,1
+3345,sailor ,1
+3346,b maker ,1
+3347,laborer ,1
+3348,hair dresser ,1
+3349,laborer ,1
+3350,clergyman ,1
+3351,porter ,1
+3352,wood sawyer ,1
+3353,waiter ,1
+3354,porter in store ,1
+3355,null,null
+3356,sailor ,1
+3357,porter in store ,1
+3358,carter ,1
+3359,wood sawyer ,1
+3360,seaman ,1
+3361,rag ,1
+3361,bone ,1
+3362,rag ,1
+3362,bone ,1
+3363,carter ,1
+3364,dog catcher ,1
+3365,works on wharf ,1
+3366,works on wharf ,1
+3367,laborer ,1
+3368,wood sawyer ,1
+3369,coachman ,1
+3370,stove store ,1
+3371,null,null
+3372,null,null
+3373,works on wharf ,1
+3374,carter ,1
+3375,work in the market ,2
+3376,null,null
+3377,porter ,1
+3377,waiter ,1
+3378,porter ,1
+3379,rag ,2
+3379,bone ,1
+3380,teamster ,1
+3381,laborer ,1
+3382,laborer ,1
+3383,waiter ,1
+3384,null,null
+3385,laborer ,1
+3386,null,null
+3387,rag picker ,1
+3388,laborer ,1
+3389,shoe maker ,1
+3390,null,null
+3391,laborer ,1
+3392,null,null
+3393,porter ,1
+3394,laborer ,1
+3395,boot cleaner ,1
+3396,laborer ,1
+3397,public waiter ,1
+3398,wood sawyer ,1
+3399,null,null
+3400,oysterman ,1
+3401,porter ,1
+3402,null,null
+3403,hod carrier ,1
+3404,waiter ,1
+3405,laborer ,1
+3406,seaman ,1
+3407,seaman ,1
+3408,jobbing ,1
+3409,laborer ,2
+3410,bar tender ,1
+3411,null,null
+3412,porter in store ,1
+3413,public porter ,1
+3414,public porter ,1
+3415,shoe maker ,1
+3416,hominy man ,1
+3417,null,null
+3418,seaman ,1
+3419,laborer ,1
+3420,seaman ,1
+3421,works on wharf ,1
+3422,null,null
+3423,public waiter ,1
+3424,oysterman ,1
+3425,porter in store ,1
+3426,wood sawyer ,1
+3427,null,null
+3428,oysterman ,1
+3429,seaman ,1
+3430,carter ,1
+3430,own ,1
+3431,coachman ,1
+3432,brick ,1
+3433,works on wharf ,1
+3434,null,null
+3435,waiter ,1
+3436,rag ,2
+3436,bone etc ,1
+3437,laborer ,1
+3438,jobbing ,1
+3439,waiter ,1
+3440,laborer ,1
+3441,seaman ,1
+3442,waterman ,1
+3443,tailor ,1
+3444,waiter ,1
+3445,null,null
+3446,iron foundry ,1
+3447,porter ,1
+3448,tailor ,1
+3448,draper ,1
+3449,null,null
+3450,null,null
+3451,shipping master ,1
+3452,laborer ,1
+3453,coal carrier ,1
+3454,null,null
+3455,rag ,1
+3455,bone ,1
+3456,sweep master ,1
+3456,coachman ,1
+3457,laborer ,1
+3458,porter in store ,1
+3459,seaman ,1
+3460,labourer ,1
+3461,null,null
+3462,jobbing ,1
+3463,porter ,1
+3464,porter ,1
+3465,null,null
+3466,laborer ,1
+3467,brick maker ,1
+3468,null,null
+3469,seaman ,1
+3470,rag ,1
+3470,bone ,1
+3471,preacher ,1
+3472,ship carpenter ,1
+3473,works on wharf ,1
+3474,jobbing ,1
+3475,jobbing ,1
+3476,preacheress ,1
+3476,day work ,1
+3477,farmer ,1
+3478,jobbing ,1
+3479,drayman ,1
+3480,hairdresser ,1
+3481,boot cleaner ,1
+3482,null,null
+3483,seaman ,1
+3484,null,null
+3485,waiter ,1
+3486,porter in store ,1
+3487,porter ,1
+3488,attends the sick ,1
+3489,seaman ,1
+3490,null,null
+3491,cuts rags ,1
+3491,two days work ,1
+3492,waiter ,1
+3493,waiter ,1
+3494,laborer ,1
+3495,null,null
+3496,carter ,1
+3496,own ,1
+3497,brick maker ,1
+3497,jobbing ,1
+3498,waiter ,1
+3499,waiter ,1
+3500,ship carpenter ,1
+3501,laborer ,1
+3501,hog dealer ,1
+3502,porter ,1
+3503,carter ,1
+3503,own ,1
+3504,seaman ,1
+3505,coal carrier ,1
+3506,null,null
+3507,null,null
+3508,laborer ,1
+3509,null,null
+3510,jobbing ,1
+3511,oysterman ,1
+3512,null,null
+3513,coachman ,1
+3514,night work ,1
+3515,laborer ,1
+3516,homoney dealer ,1
+3517,laborer ,1
+3518,porter ,1
+3519,wood sawyer ,1
+3520,public waiter ,1
+3521,waiter ,1
+3522,well digging ,1
+3522,sink cleaner ,1
+3523,wood sawyer ,1
+3524,porter ,1
+3525,waiter ,1
+3526,porter ,1
+3527,null,null
+3528,brick maker ,1
+3529,null,null
+3530,laborer ,1
+3531,null,null
+3532,seaman ,1
+3533,waiter ,1
+3534,seaman ,1
+3535,null,null
+3536,jobbing ,1
+3537,porter in store ,1
+3538,jobbing ,1
+3539,laborer ,1
+3540,null,null
+3541,waiter ,1
+3542,laborer ,1
+3543,hod carrier ,1
+3544,null,null
+3545,rag ,1
+3545,bone ,1
+3546,brick maker ,1
+3547,oysterman ,1
+3548,hair dresser ,1
+3549,null,null
+3550,seaman ,1
+3551,seaman ,1
+3552,null,null
+3553,null,null
+3554,null,null
+3555,null,null
+3556,brick maker ,1
+3557,boot cleaner ,1
+3558,wood sawyer ,1
+3559,cabinet maker ,1
+3560,hair dresser ,1
+3561,null,null
+3562,porter ,1
+3563,waiter on steam boat ,1
+3564,null,null
+3565,null,null
+3566,seaman ,1
+3567,night work ,1
+3568,porter ,1
+3569,jobbing ,1
+3570,carter ,1
+3571,carman ,1
+3572,waiter ,1
+3573,laborer ,1
+3574,rag ,1
+3574,bone ,1
+3575,rag ,1
+3575,bone ,1
+3576,works in market ,1
+3576,wood sawyer ,1
+3577,clergyman ,1
+3578,null,null
+3579,porter in store ,1
+3580,laborer ,1
+3581,oystrman ,1
+3582,null,null
+3583,livery stable ,1
+3584,waiter ,1
+3585,oysterman ,1
+3586,in jewelry store ,1
+3587,porter ,1
+3588,coachman ,1
+3589,waiter ,1
+3590,whitewasher ,1
+3591,seaman ,1
+3592,seaman ,1
+3593,raises hogs ,1
+3594,work in market ,2
+3595,seaman ,1
+3596,laborer ,1
+3597,porter in store ,1
+3598,laborer ,1
+3599,drives oyster cart cts ,1
+3600,jobbing ,1
+3601,gentleman nurse ,1
+3602,house painter ,1
+3603,rag ,1
+3603,bone ,1
+3604,clothes dealer ,1
+3605,rag ,1
+3605,bone ,1
+3606,coachman ,1
+3607,sn hand clothes dealer ,1
+3608,in chair store ,1
+3609,boot maker ,1
+3610,null,null
+3611,null,null
+3612,laborer ,1
+3613,farmer ,1
+3614,jobbing ,1
+3615,porter in store ,1
+3616,jobbing ,2
+3617,jobbing ,1
+3618,house carpenter ,1
+3619,jobbing ,1
+3620,waiter ,1
+3621,laborer ,1
+3622,clothes seller ,1
+3623,rag ,2
+3623,bone ,1
+3624,sink cleaner ,1
+3625,seaman ,1
+3626,null,null
+3627,plasterer ,1
+3628,jobbing ,1
+3629,sweep master ,1
+3630,null,null
+3631,brick maker ,1
+3632,market works at ,1
+3633,coachman ,1
+3634,laborer ,1
+3636,rag picker ,1
+3637,carman ,1
+3637,own ,1
+3638,null,null
+3639,seaman ,1
+3640,chandler ,1
+3641,ice cream maker ,1
+3642,laborer ,1
+3643,null,null
+3644,laborer in labratory ,1
+3645,waiter ,1
+3646,null,null
+3647,waiter ,1
+3648,null,null
+3649,sh clothes dealer ,1
+3650,waiter ,1
+3651,seaman ,1
+3652,waiter ,1
+3653,null,null
+3654,teamster ,1
+3655,laborer ,1
+3656,laborer ,1
+3657,porter in store ,1
+3658,laborer ,1
+3659,waiter ,1
+3660,works in ten pin alley ,1
+3661,coachman ,1
+3662,shipwright ,1
+3663,b makers ,2
+3663,each ,1
+3664,brick maker ,1
+3665,seaman ,1
+3666,oysterman ,1
+3667,whitewasher ,1
+3668,laborer ,1
+3669,null,null
+3670,null,null
+3671,wood sawyer ,1
+3672,hod carrier ,1
+3673,carter ,1
+3674,hominy dealer ,1
+3675,seaman ,1
+3676,null,null
+3677,wood sawyer ,1
+3678,null,null
+3679,porter in store ,1
+3680,public waiter ,1
+3681,boot maker ,1
+3682,laborer ,1
+3683,waiter ,1
+3684,public waiter ,1
+3685,waiter ,1
+3686,null,null
+3687,null,null
+3688,tin ,1
+3688,iron worker ,1
+3689,rag ,1
+3689,bone ,1
+3690,public porter ,1
+3691,clothes dealer ,1
+3692,null,null
+3693,null,null
+3694,cook ,1
+3694,at home ,1
+3695,stove store ,1
+3696,porter in store ,1
+3697,laborer ,1
+3698,null,null
+3699,oysterman ,1
+3700,brick maker ,1
+3701,jobbing ,1
+3702,perfumery ,1
+3703,null,null
+3704,porter ,1
+3705,laborer ,1
+3706,laborer ,1
+3707,porter ,1
+3708,jobbing ,1
+3709,null,null
+3710,cooking ,1
+3710,days work ,1
+3711,seaman ,1
+3712,public porter ,1
+3713,carter ,1
+3714,huckster ,1
+3715,null,null
+3716,cook on boat ,1
+3717,jobbing ,1
+3718,lumber yard ,1
+3719,laborer ,1
+3720,null,null
+3721,laborer ,1
+3721,night work ,1
+3722,laborer ,1
+3723,hair picker ,1
+3724,wood sawyer ,1
+3725,porter ,1
+3726,waiter ,1
+3727,night work ,1
+3728,null,null
+3729,null,null
+3730,null,null
+3731,seaman ,1
+3732,null,null
+3733,null,null
+3734,b maker jobber ,1
+3735,coachman ,1
+3736,null,null
+3737,porter in store ,1
+3738,laborer ,1
+3739,sink cleaner ,1
+3740,laborer ,1
+3741,null,null
+3742,jobbing ,1
+3743,brick maker ,1
+3744,null,null
+3745,porter ,1
+3746,works on wharf ,1
+3747,hair dresser ,1
+3748,carman ,1
+3749,laborer ,1
+3750,laborer on wharf ,1
+3751,jobbing ,1
+3752,seaman ,1
+3753,null,null
+3754,clergyman itinerent ,1
+3755,wood sawyer ,1
+3756,laborer ,1
+3757,lamp ,1
+3757,fluid dealer ,1
+3758,porter in store ,1
+3759,carter ,1
+3760,tailor ,1
+3760,draper ,1
+3761,drayman ,1
+3762,null,null
+3763,carman ,1
+3763,jobber ,1
+3764,seaman ,1
+3765,laborer ,1
+3766,oyster cart ,1
+3767,wood sawyer ,1
+3768,null,null
+3769,laborer ,1
+3770,laborer ,1
+3771,porter ,1
+3772,waiter ,1
+3773,refectory ,1
+3774,clothes seller ,1
+3775,laborer ,1
+3776,laborer ,1
+3777,null,null
+3778,porter in store ,1
+3779,null,null
+3780,porter in store ,1
+3781,b maker jobbing ,1
+3782,clothes dealer ,1
+3783,null,null
+3784,rag ,1
+3784,bone etc ,1
+3785,carter ,1
+3785,own ,1
+3786,seaman ,1
+3787,sailor ,1
+3788,laborer ,1
+3789,jobbing ,1
+3790,shoe maker ,1
+3791,rag ,1
+3791,bone ,1
+3792,jobbing ,1
+3793,null,null
+3794,waiter ,1
+3795,null,null
+3796,makes little wooden ornaments ,1
+3797,b maker jobbing ,1
+3798,laborer ,1
+3799,oyster dealer ,1
+3800,brick maker jobbing ,1
+3801,clothes dealer ,1
+3802,rag ,1
+3802,bone ,1
+3803,steward of s boat ,1
+3804,farmer ,1
+3805,laborer ,1
+3806,rag ,1
+3806,bone ,1
+3807,null,null
+3808,waiter ,1
+3809,laborer ,1
+3810,null,null
+3811,sailor ,1
+3812,null,null
+3813,seaman ,1
+3814,null,null
+3815,jobbing ,1
+3816,in store ,1
+3817,waiter ,1
+3818,waiter ,1
+3819,hair dresser ,1
+3820,waiter ,1
+3821,porter ,1
+3822,laborer ,1
+3823,clergyman ,1
+3824,porter ,1
+3825,null,null
+3826,jobbing ,1
+3827,china store ,1
+3828,works on wharf ,1
+3829,coal carrier ,1
+3830,boot cleaner ,1
+3831,waiter ,1
+3832,seaman ,1
+3833,works on wharf ,1
+3834,null,null
+3835,null,null
+3836,porter in store ,1
+3837,null,null
+3838,shoe maker ,1
+3839,laborer ,1
+3840,hair dressers one in store ,2
+3841,rags ,2
+3841,bones ,1
+3842,night work ,1
+3843,hair dresser ,1
+3844,porter in store ,1
+3845,null,null
+3846,works on wharf ,1
+3847,null,null
+3848,null,null
+3849,well digger ,1
+3849,night work ,1
+3850,waiter ,1
+3850,boot cleaner ,1
+3851,waiter ,1
+3852,laborer ,1
+3853,null,null
+3854,whitewasher etc ,1
+3855,carter ,1
+3855,own ,1
+3856,null,null
+3857,waiter ,1
+3858,waiter ,1
+3859,jobbing ,1
+3859,carting ,1
+3860,public waiter ,1
+3861,porter ,1
+3862,seaman ,1
+3863,seaman ,1
+3864,washing ,1
+3864,ironing ,1
+3865,null,null
+3866,carpenter ,1
+3867,waiter ,1
+3868,null,null
+3869,null,null
+3870,null,null
+3871,jobbing ,1
+3872,null,null
+3873,seaman ,1
+3874,cabinet maker ,1
+3875,laborer ,1
+3876,public waiter ,1
+3877,boot maker ,1
+3878,oysterman ,1
+3879,wood sawyer ,1
+3880,laborer ,1
+3881,null,null
+3882,brick ,1
+3882,boot maker ,1
+3883,waiter ,1
+3884,cabinet maker ,1
+3885,laborer ,1
+3886,coachman ,1
+3887,barber ,1
+3888,jobbing ,1
+3889,hod carrier ,1
+3890,public waiter ,1
+3891,null,null
+3892,waiter ,1
+3893,laborer ,1
+3893,work in market ,2
+3894,laborer ,1
+3895,null,null
+3896,refectory ,1
+3897,wood splitter ,1
+3898,jobbing ,1
+3899,laborer ,1
+3900,porter ,1
+3901,porter ,1
+3902,sail maker ,1
+3903,works on wharf ,1
+3904,b maker jobbing ,1
+3905,clothes seller ,1
+3906,null,null
+3907,null,null
+3908,null,null
+3909,laborer ,1
+3910,porter ,1
+3911,laborer ,1
+3912,waterman ,1
+3913,null,null
+3914,null,null
+3915,oysterman ,1
+3916,null,null
+3917,null,null
+3918,brick maker ,1
+3919,hair dresser ,1
+3920,wood sawyer ,1
+3921,oysterman ,1
+3922,porter in store ,1
+3923,works in lumber yard ,1
+3924,jobbing ,1
+3925,porter in store ,1
+3926,confectionary ,1
+3927,null,null
+3928,b maker hominy ,1
+3929,carter ,1
+3930,laborer ,1
+3931,wood sawyer ,1
+3932,carter ,1
+3933,null,null
+3934,jobbing ,1
+3935,null,null
+3936,null,null
+3937,seaman ,1
+3938,rag ,1
+3938,bone gatherer ,1
+3939,picker of rags ,1
+3940,null,null
+3941,public waiter ,1
+3942,waiter ,1
+3943,car man ,1
+3943,own ,1
+3944,jobbing ,1
+3945,null,null
+3946,null,null
+3947,laborer ,1
+3948,null,null
+3949,porter ,1
+3950,null,null
+3951,jobbing ,1
+3952,sailor ,1
+3953,null,null
+3954,hod carrier ,1
+3955,steward on steam boat ,1
+3956,laborer ,1
+3957,waiter ,1
+3958,seaman ,1
+3959,waiter on s boat ,1
+3960,seaman ,1
+3961,works on wharf ,1
+3962,wood sawyer ,1
+3963,null,null
+3964,laborer ,1
+3965,wood sawyer ,1
+3966,null,null
+3967,public porter ,1
+3968,refectory ,1
+3969,null,null
+3970,null,null
+3971,null,null
+3972,hair dresser ,1
+3973,clergyman ,1
+3974,porter in store ,1
+3975,public porter ,1
+3976,waiter ,1
+3977,jobbing ,1
+3978,picks coal ,1
+3979,null,null
+3980,laborer ,1
+3981,null,null
+3982,null,null
+3983,barber ,2
+3984,brick maker jobbing ,1
+3985,jobbing ,1
+3986,null,null
+3987,null,null
+3988,null,null
+3989,jobbing ,1
+3990,carter ,1
+3991,laborer ,1
+3992,carter ,1
+3992,own ,1
+3993,laborer ,1
+3994,null,null
+3995,carter ,1
+3996,porter ,1
+3997,working on wharf ,1
+3998,works in ten pin alley ,1
+3999,works on wharf ,2
+4000,brick yard ,1
+4001,whitewasher ,1
+4002,public porter ,1
+4003,laborer ,1
+4004,rag ,1
+4004,bone ,1
+4005,jobbing ,1
+4006,porter in store ,1
+4007,null,null
+4008,drayman ,1
+4009,jobbing ,1
+4010,labourer ,1
+4011,farmer ,1
+4012,carries salt ,1
+4013,null,null
+4014,carpenter ,1
+4015,whitewasher ,1
+4016,null,null
+4017,selling cakes ,1
+4018,jobbing ,1
+4019,null,null
+4020,labr ,1
+4021,brick maker ,1
+4022,plasterer ,1
+4023,null,null
+4024,stevedore ,1
+4025,farmer ,1
+4026,carter ,1
+4027,labr ,1
+4028,null,null
+4029,null,null
+4030,carter ,1
+4031,plaster ,1
+4031,with homany ,1
+4032,carter ,1
+4033,barber ,1
+4034,labr ,1
+4035,null,null
+4036,melting iron ,1
+4037,null,null
+4038,blacksmith ,1
+4039,null,null
+4040,null,null
+4041,porter in store ,1
+4042,null,null
+4043,laborer ,1
+4044,sells cakes ,1
+4045,null,null
+4046,water ,1
+4047,labour ,1
+4048,labourer ,1
+4049,lime burner ,1
+4050,null,null
+4051,waiter ,1
+4052,water ,1
+4053,laborer ,1
+4054,work stove store ,1
+4055,porter ,1
+4056,drives cart ,1
+4057,carter ,1
+4058,labr ,1
+4059,null,null
+4060,null,null
+4061,labr ,1
+4062,null,null
+4063,labr ,1
+4064,labr ,1
+4065,null,null
+4066,labr ,1
+4067,dealer in cakes ,1
+4068,carter ,1
+4068,jobber ,1
+4069,null,null
+4070,lumber yard ,1
+4071,sons carter ,2
+4071,each ,1
+4072,null,null
+4073,labr ,1
+4074,carter ,1
+4075,labr ,1
+4076,iron store ,1
+4077,labr ,1
+4078,dealer in oyster ,1
+4079,null,null
+4080,null,null
+4081,labr ,1
+4082,rather worthless ,1
+4083,labr ,1
+4084,labr ,1
+4085,null,null
+4086,null,null
+4087,wants situation ,1
+4088,null,null
+4089,laborer ,1
+4090,labor ,1
+4091,carter ,1
+4091,own ,1
+4092,brickmaker ,1
+4093,laborer ,1
+4094,water ,1
+4095,bootmaker ,1
+4096,coachman ,1
+4097,null,null
+4098,carpenter ,1
+4099,sailor ,1
+4100,carter ,3
+4100,of them ,1
+4101,basket maker ,1
+4102,raises hogs ,1
+4103,labour ,1
+4104,labr ,1
+4105,jobbing etc ,1
+4106,porter ,1
+4107,labourer ,1
+4108,labourer ,1
+4109,laborer ,2
+4110,labourer ,1
+4111,null,null
+4112,carter ,1
+4113,barber ,1
+4114,null,null
+4115,null,null
+4116,farmer ,1
+4117,carter ,1
+4118,null,null
+4119,labr ,1
+4120,null,null
+4121,labr ,1
+4122,labour ,1
+4123,laborer ,1
+4124,carter ,1
+4125,null,null
+4126,labr ,1
+4127,clergyman ,1
+4128,labr ,1
+4129,coal yard ,1
+4130,null,null
+4131,son labr ,1
+4132,carter ,1
+4133,null,null
+4134,carter ,1
+4135,sailor ,1
+4136,labr ,1
+4137,labourer ,1
+4138,at mcburneys confectionary ,1
+4139,null,null
+4140,farmer ,1
+4141,farmer ,1
+4142,null,null
+4143,null,null
+4144,null,null
+4145,public school teacher ,1
+4146,null,null
+4147,brick maker ,1
+4148,null,null
+4149,coachman ,1
+4150,saw mill ,1
+4151,water ,1
+4152,labourer ,1
+4153,porter ,1
+4154,labr ,1
+4155,hostler ,1
+4156,coachman ,1
+4157,null,null
+4158,labr ,1
+4159,null,null
+4160,null,null
+4161,laborer ,1
+4162,labour ,1
+4163,wool factory ,1
+4164,porter ,1
+4165,carter ,1
+4166,carter ,1
+4167,porter ,1
+4168,null,null
+4169,labr ,1
+4170,house carpenter ,1
+4171,nothing to doe ,1
+4172,labour ,1
+4173,laborer ,1
+4174,boot maker ,2
+4175,porter ,1
+4176,water ,1
+4177,makes bricks ,1
+4178,laborer ,1
+4179,porter ,1
+4180,labr ,1
+4181,sn hand clothes dealer ,1
+4182,carter ,1
+4183,labr ,1
+4184,labr ,1
+4185,stevedore ,1
+4186,null,null
+4187,null,null
+4188,labr ,1
+4189,water ,1
+4190,labr ,1
+4191,shoemaker ,1
+4192,porter ,1
+4193,in winter jobbing in summer ice cream ,1
+4194,labr ,1
+4195,laborer ,1
+4196,waiter ,1
+4197,waiter ,1
+4198,null,null
+4199,laborer ,1
+4200,coachman ,1
+4201,shoe maker ,1
+4202,carter ,1
+4203,barber ,1
+4204,baker ,1
+4205,null,null
+4206,barber ,1
+4207,oyster ,1
+4208,clothing cellar ,1
+4209,labr ,1
+4210,laborer ,1
+4211,laborer ,1
+4212,coachman ,1
+4213,null,null
+4214,wayter ,1
+4215,carter ,1
+4216,water ,1
+4217,bar tender ,1
+4218,porter ,1
+4219,jobbing ,1
+4220,coachman ,1
+4221,engineer ,1
+4222,null,null
+4223,labr ,1
+4224,laborer ,1
+4225,sels oyster ,1
+4226,labr ,1
+4227,carter ,1
+4228,carter ,1
+4229,jobbing ,1
+4230,porter ,1
+4231,laborer ,1
+4232,public porter ,1
+4233,null,null
+4234,labr ,1
+4235,shave shingles ,1
+4236,cook at hotel ,1
+4237,null,null
+4238,labor ,1
+4239,carter ,1
+4240,laborer ,1
+4241,labr ,1
+4242,man nearly helpless ,1
+4243,barber ,1
+4244,border labr ,1
+4245,labr ,1
+4246,labr ,1
+4247,coachman ,1
+4248,null,null
+4249,coachman ,1
+4250,labr ,1
+4251,null,null
+4252,labourer ,1
+4253,drayman ,1
+4254,labour ,1
+4255,man helpless ,1
+4256,labourer ,1
+4257,stevedore ,1
+4258,null,null
+4259,carter in lumber yard ,1
+4260,labr ,1
+4261,labr ,1
+4262,puts in coal ,1
+4263,water ,1
+4264,agent for ohio public school ,1
+4265,null,null
+4266,null,null
+4267,laborer ,1
+4268,labr ,1
+4269,jobbing ,1
+4270,barber ,1
+4271,null,null
+4272,coachman ,1
+4273,null,null
+4274,labr ,1
+4275,brickmaker ,1
+4276,labour ,1
+4277,null,null
+4278,null,null
+4279,null,null
+4280,labourer ,1
+4281,null,null
+4282,labr ,1
+4283,labour ,1
