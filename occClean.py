@@ -7,9 +7,9 @@ def main():
   # init vars
   list = []
   empty = '. . . . . . . . . . .'
-  empty2 = '. . . . . . .'
+  empty2 = '. . . . . . . .'
 
-  with open('OccTable1Data.csv') as f:
+  with open('OccTable2Data.csv') as f:
       reader = csv.reader(f, delimiter=',')
       for row in reader:
 
@@ -68,7 +68,7 @@ def main():
               list.append([id, 'null', 'null'])
 
 
-  with open('maleOccupation.csv', 'w') as f:
+  with open('femaleOccupation.csv', 'w') as f:
       writer = csv.writer(f, delimiter=',')
       writer.writerows([['ID', 'OCCUPATION', 'COUNT']]) # add headers
       writer.writerows(list)
