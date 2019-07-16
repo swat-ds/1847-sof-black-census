@@ -69,7 +69,6 @@ ID,OCCUPATION,COUNT
 65,laborer ,1
 66,drives furniture car ,1
 67,waiter ,1
-67,waiter ,1
 68,cake seller ,1
 69,lab ,1
 69,seaman ,1
@@ -111,10 +110,8 @@ ID,OCCUPATION,COUNT
 101,photographist ,1
 102,bootmaker ,1
 103,barber ,1
-103,clear ,1
 104,null,null
 105,barber ,1
-105,clear ,1
 106,barber ,1
 107,waiter ,1
 108,laborer ,1
@@ -128,8 +125,7 @@ ID,OCCUPATION,COUNT
 116,porter ,1
 117,seaman ,1
 118,null,null
-119,musician ,1
-119,boot mr ,1
+119,musician & boot mr,1
 120,drives fur car ,1
 121,drives fur car ,1
 122,null,null
@@ -142,7 +138,6 @@ ID,OCCUPATION,COUNT
 129,porter ,1
 130,steward ,1
 131,porter ,1
-131,sometimes ,1
 132,porter ,1
 133,barber ,1
 134,null,null
@@ -295,15 +290,12 @@ ID,OCCUPATION,COUNT
 274,null,null
 275,hat dyer,1
 276,laborer ,1
-276,sometimes ,1
 277,hod carrier ,1
 278,works for a bottler ,1
 279,laborer ,1
 280,null,null
 281,at service ,1
 282,lab ,1
-282,in winter ,1
-282,in summer ,1
 283,waiter ,1
 284,null,null
 285,waiter ,1
@@ -343,14 +335,12 @@ ID,OCCUPATION,COUNT
 317,porter ,1
 318,null,null
 319,hod carrier wood sawyer ,1
-319,hod carrier ,1
 320,shoemaker ,1
 321,null,null
 322,grain carrier ,1
 323,null,null
 324,service ,1
 325,hod carrier ,1
-325,in summer ,1
 326,does nothing ,1
 327,null,null
 328,whitewasher ,1
@@ -373,13 +363,10 @@ ID,OCCUPATION,COUNT
 343,laborer ,1
 344,null,null
 345,null,null
-346,various ,1
-346,irregular ,1
+346,various & irregular,1
 347,seaman ,1
 348,rag gatherer ,1
 349,hod carrier ,1
-349,hod carrier ,1
-349,sometimes ,1
 350,various ,1
 351,waiter ,1
 352,laborer ,1
@@ -392,7 +379,6 @@ ID,OCCUPATION,COUNT
 359,null,null
 360,laborer each ,2
 361,labor ,1
-361,in summer ,1
 362,waterman ,1
 363,puts in coal ,1
 363,laborer ,1
@@ -403,7 +389,6 @@ ID,OCCUPATION,COUNT
 368,no occupation lame ,1
 369,null,null
 370,null,null
-371,whitewasher ,1
 371,whitewasher ,1
 372,null,null
 373,tailor cant tell ,1
@@ -416,9 +401,7 @@ ID,OCCUPATION,COUNT
 380,drives dray ,1
 381,tanner ,1
 382,various irregular ,1
-383,boat ,1
-383,shoemaker ,1
-383,boat maker,1
+383,boat & shoemaker,1
 384,porter ,1
 385,drives dray ,1
 386,barber ,4
@@ -542,8 +525,6 @@ ID,OCCUPATION,COUNT
 494,null,null
 495,null,null
 496,hod carrier ,1
-496,hod carrier ,1
-496,in good weather ,1
 497,herb doctor ,1
 498,null,null
 499,seaman ,1
@@ -628,7 +609,6 @@ ID,OCCUPATION,COUNT
 568,null,null
 569,stevedore ,1
 569,hod carrier ,1
-569,sometimes ,1
 570,various ,1
 571,waterman ,1
 572,carter his own ,1
@@ -637,7 +617,6 @@ ID,OCCUPATION,COUNT
 575,waterman ,1
 576,various ,1
 577,porter ,3
-578,well digger ,1
 578,well digger ,1
 579,null,null
 580,grain carrier ,1
@@ -712,9 +691,6 @@ ID,OCCUPATION,COUNT
 643,barber cant tell ,1
 644,putting in coal ,1
 645,porter ,1
-645,porter ,1
-645,porter ,1
-645,sometimes ,1
 646,barber ,1
 647,laborer ,1
 648,hod car ,1
@@ -759,9 +735,7 @@ ID,OCCUPATION,COUNT
 684,wood sawyer ,1
 685,hominy man ,1
 686,null,null
-687,boot ,1
-687,shoemaker average ,1
-687,clear ,1
+687,boot & shoemaker,1
 688,null,null
 689,not able ,1
 690,null,null
@@ -772,11 +746,9 @@ ID,OCCUPATION,COUNT
 695,waterman ,1
 696,barber cant tell ,2
 697,hod car ,1
-697,sometimes ,1
 698,waiter ,1
 698,porter ,1
 699,null,null
-700,hod car ,1
 700,hod carrier ,1
 701,porter dont know ,1
 702,null,null
@@ -797,7 +769,6 @@ ID,OCCUPATION,COUNT
 716,seaman ,1
 717,waiter ,1
 718,laborer ,1
-718,in summer ,1
 719,porter ,1
 720,hostler ,1
 721,laborer ,1
@@ -859,7 +830,6 @@ ID,OCCUPATION,COUNT
 770,null,null
 771,not able to do much ,1
 772,stevedore ,1
-772,sometimes ,1
 773,porter ,1
 774,various ,1
 775,seaman ,1
@@ -900,8 +870,6 @@ ID,OCCUPATION,COUNT
 805,oyster peddler ,1
 806,waiter ,1
 807,porter ,1
-807,porter ,1
-807,sometimes ,1
 808,master carpenter ,1
 809,porter ,2
 810,waiter ,1
@@ -1118,7 +1086,6 @@ ID,OCCUPATION,COUNT
 1008,barber ,2
 1009,public waiter ,1
 1010,hod carrier ,1
-1010,in summer ,1
 1011,coachman ,1
 1012,null,null
 1013,sexton ,1
@@ -1465,8 +1432,7 @@ ID,OCCUPATION,COUNT
 1324,seaman ,1
 1325,laborer ,1
 1326,stevedore ,1
-1327,salt ,1
-1327,grain carrier ,1
+1327,salt & grain carrier,1
 1328,waiter ,1
 1328,cab driver,1
 1328,stevedore ,1
@@ -1663,8 +1629,7 @@ ID,OCCUPATION,COUNT
 1498,stevedore ,1
 1499,null,null
 1500,barber ,1
-1501,waiter ,1
-1501,waiter ,1
+1501,waiter ,2
 1502,laborer ,1
 1503,waiter ,1
 1503,lab on farm ,1
@@ -1855,7 +1820,6 @@ ID,OCCUPATION,COUNT
 1660,boot ,1
 1660,shoemaker ,1
 1661,waiter ,2
-1661,each ,1
 1661,coachman ,1
 1662,carpenter ,1
 1663,waiter ,2
@@ -1930,8 +1894,7 @@ ID,OCCUPATION,COUNT
 1720,null,null
 1721,porter ,1
 1722,null,null
-1723,boot ,1
-1723,shoemaker ,1
+1723,boot & shoemaker,1
 1724,null,null
 1725,clothes dealer ,1
 1726,hod carrier ,1
@@ -2060,7 +2023,6 @@ ID,OCCUPATION,COUNT
 1838,null,null
 1839,porter ,1
 1840,shoemaker ,1
-1840,clear ,1
 1841,null,null
 1842,seaman ,1
 1843,null,null
@@ -2263,8 +2225,7 @@ ID,OCCUPATION,COUNT
 2018,null,null
 2019,waiter ,1
 2020,laborer ,2
-2021,waiter ,1
-2021,waiter ,1
+2021,waiter ,2
 2022,barber ,1
 2023,waiter ,2
 2023,coachman ,1
@@ -2379,7 +2340,7 @@ ID,OCCUPATION,COUNT
 2120,traveler ,1
 2121,null,null
 2122,whitewasher ,1
-2122,hominey man ,1
+2122,hominy man ,1
 2123,shoemaker ,1
 2124,null,null
 2125,coachman ,1
@@ -2474,8 +2435,7 @@ ID,OCCUPATION,COUNT
 2203,puts in coal ,1
 2204,porter ,1
 2205,drives coal cart ,1
-2206,boot ,2
-2206,shoemaker ,1
+2206,boot & shoemakers,2
 2207,null,null
 2208,null,null
 2209,waiter ,1
@@ -2533,8 +2493,7 @@ ID,OCCUPATION,COUNT
 2254,seaman ,1
 2255,waiter ,1
 2256,coachman ,1
-2257,waiter ,1
-2257,each ,2
+2257,waiter ,12
 2258,null,null
 2259,bootmaker ,1
 2260,null,null
@@ -2831,10 +2790,8 @@ ID,OCCUPATION,COUNT
 2521,brick yard ,1
 2522,null,null
 2523,carter ,1
-2523,carter ,1
 2524,ornamental painter ,1
-2525,oyster ,1
-2525,eating cellar ,1
+2525,oyster & eating cellar,1
 2526,potter ,1
 2527,barber ,1
 2528,brick maker ,1
@@ -2886,7 +2843,6 @@ ID,OCCUPATION,COUNT
 2573,peddler of goods ,1
 2574,null,null
 2575,sons carter ,2
-2575,each ,1
 2576,null,null
 2577,wood sawyer ,1
 2578,carter ,1
@@ -2924,7 +2880,6 @@ ID,OCCUPATION,COUNT
 2610,carman ,1
 2611,brick maker ,1
 2612,hod carrier ,1
-2613,carter ,1
 2613,carter ,1
 2614,porter ,1
 2615,brick maker ,1
@@ -3225,7 +3180,6 @@ ID,OCCUPATION,COUNT
 2904,jobbing ,1
 2905,dealer hominey ,1
 2906,laborer ,1
-2907,rag ,1
 2907,rag & bone,1
 2908,hair dresser ,1
 2909,null,null
@@ -3252,7 +3206,6 @@ ID,OCCUPATION,COUNT
 2930,laborer ,1
 2931,public waiter ,1
 2932,null,null
-2933,rag ,1
 2933,rag & bone,1
 2934,null,null
 2935,stove dealer ,1
@@ -3278,7 +3231,6 @@ ID,OCCUPATION,COUNT
 2955,porter ,1
 2955,cabinet maker ,1
 2956,laborer ,1
-2957,rag ,1
 2957,rag & bone,1
 2958,jobbing ,1
 2959,works in mahogany mill ,1
@@ -3318,7 +3270,6 @@ ID,OCCUPATION,COUNT
 2993,laborer ,1
 2994,waiter ,1
 2995,porter ,1
-2996,rag ,1
 2996,rag & bone,1
 2997,null,null
 2998,laborer ,1
@@ -3329,7 +3280,6 @@ ID,OCCUPATION,COUNT
 3003,public porter ,1
 3004,null,null
 3005,boot blacker ,1
-3006,rag ,1
 3006,rag & bone,1
 3007,carter ,1
 3008,sink cleaner ,1
@@ -3337,7 +3287,6 @@ ID,OCCUPATION,COUNT
 3010,waiter ,1
 3011,null,null
 3012,laborer ,1
-3013,rag ,1
 3013,rag & bone,1
 3014,null,null
 3015,laborer ,1
@@ -3356,7 +3305,6 @@ ID,OCCUPATION,COUNT
 3027,null,null
 3028,jobbing ,1
 3029,null,null
-3030,rag ,1
 3030,rag & bone,1
 3031,porter ,1
 3032,carter ,1
@@ -3407,7 +3355,6 @@ ID,OCCUPATION,COUNT
 3073,null,null
 3074,porter in store ,1
 3075,carter his own ,1
-3076,rag ,1
 3076,rag & bone,1
 3077,carting ,1
 3077,night work ,1
@@ -3426,12 +3373,10 @@ ID,OCCUPATION,COUNT
 3090,porter ,1
 3091,null,null
 3092,null,null
-3093,rag ,1
 3093,rag & bone,1
 3094,waiter in oyster cellar ,1
 3095,hair picker ,1
 3096,works on wharf ,1
-3097,b maker ,1
 3097,b maker ,1
 3098,house carpenter ,1
 3099,jobbing ,1
@@ -3448,17 +3393,14 @@ ID,OCCUPATION,COUNT
 3109,oysterman ,1
 3110,porter ,1
 3111,fiddler ,1
-3112,rag ,1
 3112,rag & bone,1
 3113,preacher ,1
 3114,house carpenter ,1
-3115,coachman ,1
 3115,coachman ,1
 3116,porter in store ,1
 3117,sail maker ,1
 3118,jobbing ,1
 3119,works on wharf ,1
-3120,rag ,1
 3120,rag & bone,1
 3121,shoe maker ,1
 3122,null,null
@@ -3480,7 +3422,6 @@ ID,OCCUPATION,COUNT
 3138,null,null
 3139,whitewashing ,1
 3140,null,null
-3141,rag ,1
 3141,rag & bone,1
 3142,null,null
 3143,waiter ,1
@@ -3488,7 +3429,6 @@ ID,OCCUPATION,COUNT
 3145,tailor ,1
 3145,draper ,1
 3146,jobbing ,1
-3147,rag ,1
 3147,rag & bone,1
 3148,laborer ,1
 3149,laborer ,1
@@ -3512,9 +3452,7 @@ ID,OCCUPATION,COUNT
 3167,laborer ,1
 3168,wood sawyer ,1
 3169,null,null
-3170,rag ,1
 3170,rag & bone etc ,1
-3171,carter ,1
 3171,carter ,1
 3172,laborer ,1
 3173,brick maker ,1
@@ -3525,7 +3463,6 @@ ID,OCCUPATION,COUNT
 3178,porter ,1
 3179,oyster seller ,1
 3180,carter ,1
-3180,carter ,1
 3181,wood sawyer ,1
 3182,jobbing ,1
 3183,hair dresser ,1
@@ -3534,7 +3471,6 @@ ID,OCCUPATION,COUNT
 3186,jobbing ,1
 3187,null,null
 3188,laborer ,1
-3189,rag ,1
 3189,rag & bone,1
 3190,waiter ,1
 3191,salt carrier ,1
@@ -3562,7 +3498,6 @@ ID,OCCUPATION,COUNT
 3213,hod carrier ,1
 3214,jobbing ,1
 3215,waiter ,1
-3215,waiter ,1
 3216,porter ,1
 3217,waiter ,1
 3218,null,null
@@ -3587,9 +3522,7 @@ ID,OCCUPATION,COUNT
 3236,porter ,1
 3237,porter ,1
 3238,works on wharf ,3
-3239,rag ,1
 3239,rag & bone,1
-3240,rag ,1
 3240,rag & bone,1
 3241,laboratory ,1
 3242,works on wharf ,1
@@ -3605,7 +3538,6 @@ ID,OCCUPATION,COUNT
 3252,porter ,1
 3253,public waiter ,1
 3253,cloth dealer ,1
-3254,rag ,1
 3254,rag & bone,1
 3255,works on wharf ,1
 3256,laborer ,1
@@ -3650,7 +3582,6 @@ ID,OCCUPATION,COUNT
 3293,null,null
 3294,hair dresser ,1
 3295,carter ,1
-3295,carter ,1
 3296,null,null
 3297,coachman ,1
 3298,waiter ,1
@@ -3662,8 +3593,7 @@ ID,OCCUPATION,COUNT
 3304,hod carrier ,1
 3305,muffin dealer ,1
 3306,null,null
-3307,rag ,2
-3307,rag & bone,1
+3307,rag & bone,2
 3308,null,null
 3309,null,null
 3310,null,null
@@ -3691,8 +3621,7 @@ ID,OCCUPATION,COUNT
 3330,null,null
 3331,black smith ,1
 3332,hat store ,1
-3333,well ,1
-3333,cellar digger ,1
+3333,well & cell digger,1
 3334,null,null
 3335,porter ,1
 3336,jobbing ,1
@@ -3721,9 +3650,7 @@ ID,OCCUPATION,COUNT
 3358,carter ,1
 3359,wood sawyer ,1
 3360,seaman ,1
-3361,rag ,1
 3361,rag & bone,1
-3362,rag ,1
 3362,rag & bone,1
 3363,carter ,1
 3364,dog catcher ,1
@@ -3742,8 +3669,7 @@ ID,OCCUPATION,COUNT
 3377,porter ,1
 3377,waiter ,1
 3378,porter ,1
-3379,rag ,2
-3379,rag & bone,1
+3379,rag & bone,2
 3380,teamster ,1
 3381,laborer ,1
 3382,laborer ,1
@@ -3795,14 +3721,12 @@ ID,OCCUPATION,COUNT
 3428,oysterman ,1
 3429,seaman ,1
 3430,carter ,1
-3430,carter ,1
 3431,coachman ,1
 3432,brick ,1
 3433,works on wharf ,1
 3434,null,null
 3435,waiter ,1
-3436,rag ,2
-3436,rag & bone etc ,1
+3436,rag & bone etc ,2
 3437,laborer ,1
 3438,jobbing ,1
 3439,waiter ,1
@@ -3822,7 +3746,6 @@ ID,OCCUPATION,COUNT
 3452,laborer ,1
 3453,coal carrier ,1
 3454,null,null
-3455,rag ,1
 3455,rag & bone,1
 3456,sweep master ,1
 3456,coachman ,1
@@ -3839,7 +3762,6 @@ ID,OCCUPATION,COUNT
 3467,brick maker ,1
 3468,null,null
 3469,seaman ,1
-3470,rag ,1
 3470,rag & bone,1
 3471,preacher ,1
 3472,ship carpenter ,1
@@ -3869,7 +3791,6 @@ ID,OCCUPATION,COUNT
 3494,laborer ,1
 3495,null,null
 3496,carter ,1
-3496,carter ,1
 3497,brick maker ,1
 3497,jobbing ,1
 3498,waiter ,1
@@ -3878,7 +3799,6 @@ ID,OCCUPATION,COUNT
 3501,laborer ,1
 3501,hog dealer ,1
 3502,porter ,1
-3503,carter ,1
 3503,carter ,1
 3504,seaman ,1
 3505,coal carrier ,1
@@ -3922,7 +3842,6 @@ ID,OCCUPATION,COUNT
 3542,laborer ,1
 3543,hod carrier ,1
 3544,null,null
-3545,rag ,1
 3545,rag & bone,1
 3546,brick maker ,1
 3547,oysterman ,1
@@ -3952,9 +3871,7 @@ ID,OCCUPATION,COUNT
 3571,carman ,1
 3572,waiter ,1
 3573,laborer ,1
-3574,rag ,1
 3574,rag & bone,1
-3575,rag ,1
 3575,rag & bone,1
 3576,works in market ,1
 3576,wood sawyer ,1
@@ -3984,10 +3901,8 @@ ID,OCCUPATION,COUNT
 3600,jobbing ,1
 3601,gentleman nurse ,1
 3602,house painter ,1
-3603,rag ,1
 3603,rag & bone,1
 3604,clothes dealer ,1
-3605,rag ,1
 3605,rag & bone,1
 3606,coachman ,1
 3607,sn hand clothes dealer ,1
@@ -4006,8 +3921,7 @@ ID,OCCUPATION,COUNT
 3620,waiter ,1
 3621,laborer ,1
 3622,clothes seller ,1
-3623,rag ,2
-3623,rag & bone,1
+3623,rag & bone,2
 3624,sink cleaner ,1
 3625,seaman ,1
 3626,null,null
@@ -4048,7 +3962,6 @@ ID,OCCUPATION,COUNT
 3661,coachman ,1
 3662,shipwright ,1
 3663,b maker ,2
-3663,each ,1
 3664,brick maker ,1
 3665,seaman ,1
 3666,oysterman ,1
@@ -4075,14 +3988,12 @@ ID,OCCUPATION,COUNT
 3687,null,null
 3688,tin worker,1
 3688,iron worker ,1
-3689,rag ,1
 3689,rag & bone,1
 3690,public porter ,1
 3691,clothes dealer ,1
 3692,null,null
 3693,null,null
 3694,cook ,1
-3694,at home ,1
 3695,stove store ,1
 3696,porter in store ,1
 3697,laborer ,1
@@ -4177,16 +4088,13 @@ ID,OCCUPATION,COUNT
 3781,b maker jobbing ,1
 3782,clothes dealer ,1
 3783,null,null
-3784,rag ,1
 3784,rag & bone etc ,1
-3785,carter ,1
 3785,carter ,1
 3786,seaman ,1
 3787,sailor ,1
 3788,laborer ,1
 3789,jobbing ,1
 3790,shoe maker ,1
-3791,rag ,1
 3791,rag & bone,1
 3792,jobbing ,1
 3793,null,null
@@ -4198,12 +4106,10 @@ ID,OCCUPATION,COUNT
 3799,oyster dealer ,1
 3800,brick maker jobbing ,1
 3801,clothes dealer ,1
-3802,rag ,1
 3802,rag & bone,1
 3803,steward of s boat ,1
 3804,farmer ,1
 3805,laborer ,1
-3806,rag ,1
 3806,rag & bone,1
 3807,null,null
 3808,waiter ,1
@@ -4239,8 +4145,7 @@ ID,OCCUPATION,COUNT
 3838,shoe maker ,1
 3839,laborer ,1
 3840,hair dressers one in store ,2
-3841,rags ,2
-3841,rag & bone,1
+3841,rag & bone,2
 3842,night work ,1
 3843,hair dresser ,1
 3844,porter in store ,1
@@ -4256,7 +4161,6 @@ ID,OCCUPATION,COUNT
 3852,laborer ,1
 3853,null,null
 3854,whitewasher etc ,1
-3855,carter ,1
 3855,carter ,1
 3856,null,null
 3857,waiter ,1
@@ -4344,8 +4248,7 @@ ID,OCCUPATION,COUNT
 3935,null,null
 3936,null,null
 3937,seaman ,1
-3938,rag ,1
-3938,bone gatherer ,1
+3938,rag & bone gatherer,1
 3939,picker of rags ,1
 3940,null,null
 3941,public waiter ,1
@@ -4401,7 +4304,6 @@ ID,OCCUPATION,COUNT
 3990,carter ,1
 3991,laborer ,1
 3992,carter ,1
-3992,carter ,1
 3993,laborer ,1
 3994,null,null
 3995,carter ,1
@@ -4413,7 +4315,6 @@ ID,OCCUPATION,COUNT
 4001,whitewasher ,1
 4002,public porter ,1
 4003,laborer ,1
-4004,rag ,1
 4004,rag & bone,1
 4005,jobbing ,1
 4006,porter in store ,1
@@ -4484,7 +4385,6 @@ ID,OCCUPATION,COUNT
 4069,null,null
 4070,lumber yard ,1
 4071,sons carter ,2
-4071,each ,1
 4072,null,null
 4073,labor ,1
 4074,carter ,1
@@ -4505,7 +4405,6 @@ ID,OCCUPATION,COUNT
 4089,laborer ,1
 4090,labor ,1
 4091,carter ,1
-4091,carter ,1
 4092,brickmaker ,1
 4093,laborer ,1
 4094,waterman ,1
@@ -4514,7 +4413,6 @@ ID,OCCUPATION,COUNT
 4097,null,null
 4098,carpenter ,1
 4099,sailor ,1
-4100,carter ,3
 4100,carter ,3
 4101,basket maker ,1
 4102,raises hogs ,1
