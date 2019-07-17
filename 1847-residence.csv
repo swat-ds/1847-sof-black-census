@@ -1,0 +1,4285 @@
+ID,Street Number,Street Name
+0000,144,N. Water
+0001,112,N. Water
+0002,92,N. Water
+0003,74,N. Water
+0004,67,N. Front
+0005,4,Walnut
+0006,456,S. Water
+0007,49,South Street
+0008,49,South Street
+0009,49,South Street
+0010,18,Lombard
+0011,18,Lombard
+0012,18,Lombard
+0013,18,Lombard
+0014,18,Lombard
+0015,18,Lombard
+0016,18,Lombard
+0017,18,Lombard
+0018,9,Lombard
+0019,199,S. Front
+0020,15,Spruce
+0021,46,Spruce
+0022,46,Spruce
+0023,46,Spruce
+0024,46,Spruce
+0025,46,Spruce
+0026,46,Spruce
+0027,46,Spruce
+0028,46,Spruce
+0029,46,Spruce
+0030,46,Spruce
+0031,46,Spruce
+0032,46,Spruce
+0033,28,Spruce
+0034,28,Spruce
+0035,8,Gray's Alley
+0036,8,Gray's Alley
+0037,8,Gray's Alley
+0038,8,Gray's Court
+0039,8,Gray's Court
+0040,8,Gray's Alley
+0041,8,Gray's Alley
+0042,3,Gray's Alley
+0043,3,Gray's Alley
+0044,3,Gray's Alley
+0045,3,Gray's Alley
+0046,3,Gray's Alley
+0047,3,Gray's Alley
+0048,3,Gray's Alley
+0049,3,Gray's Alley
+0050,3,Gray's Alley
+0051,3,Gray's Alley
+0052,3,Gray's Alley
+0053,3,Gray's Alley
+0054,3,Gray's Alley
+0055,3,Gray's Alley
+0056,3,Gray's Alley
+0057,3,Gray's Alley
+0058,3,Gray's Alley
+0059,3,Gray's Alley
+0060,3,Gray's Alley
+0061,3,Gray's Alley
+0062,,Farman's Row
+0063,3,Farman's Row
+0064,3,Farman's Row
+0065,,Farman's Row
+0066,4,Farman's Row
+0067,27,Market Street
+0068,27,Market Street
+0069,27,Market Street
+0070,4,Farman's Row
+0071,5,Coomb's Alley
+0072,5,Coomb's Alley
+0073,5,Coomb's Alley
+0074,1,Cauffman's Court
+0075,2,Cauffman's Court
+0076,2,Cauffman's Court
+0077,3,Cauffman's Court
+0078,3,Cauffman's Court
+0079,5,Cauffman's Court
+0080,6,Cauffman's Court
+0081,6,Cauffman's Court
+0082,4,Cauffman's Court
+0083,28,Coates Alley
+0084,40,Bread
+0085,40,Bread
+0086,40,Bread
+0087,40,Bread
+0088,40,Bread
+0089,,Lash Alley
+0090,,Lash Alley
+0091,,Lash Alley
+0092,,Lash Alley
+0093,,Lash Alley
+0094,,Lash Alley
+0095,,Biddles Alley
+0096,,Biddles Alley
+0097,,Biddles Alley
+0098,,Biddles Alley
+0099,,Biddles Alley
+0100,,Biddles Alley
+0101,54,Arch
+0102,59,Arch
+0103,15,Exchange Place
+0104,123,S. 3rd Street
+0105,63,Union Street
+0106,63,Union Street
+0107,63,Union Street
+0108,63,Union Street
+0109,63,Union Street
+0110,63,Union Street
+0111,63,Union Street
+0112,17,Cauffman's Court
+0113,,Sash Alley
+0114,79,Union Street
+0115,70,Union Street
+0116,70,Union Street
+0117,70,Union Street
+0118,70,Union Street
+0119,,School Avenue
+0120,,School Avenue
+0121,,School Avenue
+0122,,School Avenue
+0123,,School Avenue
+0124,,School Avenue
+0125,,School Avenue
+0126,51,Pine
+0127,53,Pine
+0128,49,Lombard
+0129,29,Lombard
+0130,29,Lombard
+0131,15,Gaskill
+0132,15,Gaskill
+0133,16,Gaskill
+0134,16,Gaskill
+0135,16 1/2,Gaskill
+0136,16 1/2,Gaskill
+0137,18,Gaskill
+0138,20,Barrow
+0139,20,Barrow
+0140,20,Barrow
+0141,20,Barrow
+0142,20,Barrow
+0143,1,Taylors Alley
+0144,1,Taylors Alley
+0145,2,Taylors Alley
+0146,2,Taylors Alley
+0147,3,Taylors Alley
+0148,5,Taylors Alley
+0149,5,Taylors Alley
+0150,5,Taylors Alley
+0151,6,Taylors Alley
+0152,,Smith's Court
+0153,,Smith's Court
+0154,,Smith's Court
+0155,,Smith's Court
+0156,,Smith's Court
+0157,,Smith's Court
+0158,,Smith's Court
+0159,,Smith's Court
+0160,,Smith's Court
+0161,,Smith's Court
+0162,,Smith's Court
+0163,,Smith's Court
+0164,105,South Street
+0165,69,Gaskill
+0166,69,Gaskill
+0167,58,Gaskill
+0168,42,Gaskill
+0169,80,Lombard
+0170,80,Lombard
+0171,80,Lombard
+0172,90,Lombard
+0173,166,S. 3a
+0174,125,S. 4th Street
+0175,191,S. 4th Street
+0176,97,Lombard
+0177,95,Lombard
+0178,95,Lombard
+0179,11,Willings Alley
+0180,11,Willings Alley
+0181,9,Sterling Alley
+0182,10,Sterling Alley
+0183,10,Sterling Alley
+0184,189,N. Front
+0185,2,Lombard Court
+0186,2,Lombard Court
+0187,2,Lombard Court
+0188,2,Lombard Court
+0189,186,S. 4th Street
+0190,186,S. 4th Street
+0191,184,S. 4th Street
+0192,186,S. 4th Street
+0193,188,S. 4th Street
+0194,188,S. 4th Street
+0195,86,Gaskill
+0196,88,Gaskill
+0197,88,Gaskill
+0198,88,Gaskill
+0199,88,Gaskill
+0200,88,Gaskill
+0201,,
+0202,88,Gaskill
+0203,88,Gaskill
+0204,90,Gaskill
+0205,90,Gaskill
+0206,90,Gaskill
+0207,92,Gaskill
+0208,92,Gaskill
+0209,92,Gaskill
+0210,92,Gaskill
+0211,94,Gaskill
+0212,94,Gaskill
+0213,94,Gaskill
+0214,94,Gaskill
+0215,94,Gaskill
+0216,96,Gaskill
+0217,96,Gaskill
+0218,96,Gaskill
+0219,96,Gaskill
+0220,98,Gaskill
+0221,98,Gaskill
+0222,98,Gaskill
+0223,98,Gaskill
+0224,98,Gaskill
+0225,100,Gaskill
+0226,100,Gaskill
+0227,100,Gaskill
+0228,100,Gaskill
+0229,102,Gaskill
+0230,102,Gaskill
+0231,202,Gaskill
+0232,104,Gaskill
+0233,104,Gaskill
+0234,104,Gaskill
+0235,106,Gaskill
+0236,97,Gaskill
+0237,97,Gaskill
+0238,97,Gaskill
+0239,97,Gaskill
+0240,1,Scotts Court
+0241,2,Scotts Court
+0242,3,Scotts Court
+0243,4,Scotts Court
+0244,113,Lombard
+0245,11,Lombard
+0246,106,Lombard
+0247,122,Lombard
+0248,122,Lombard
+0249,122,Lombard
+0250,18,Green
+0251,2,Green
+0252,22,Green
+0253,22,Green
+0254,22,Green
+0255,22,Green
+0256,22,Green
+0257,22,Green
+0258,12,Green
+0259,12,Green
+0260,12,Green
+0261,,
+0262,10,Green
+0263,10,Green
+0264,10,Green
+0265,10,Green
+0266,10,Green
+0267,10,Green
+0268,10,Green
+0269,10,Green
+0270,10,Green
+0271,10,Green
+0272,10,Green
+0273,10,Green
+0274,10,Green
+0275,19,Green
+0276,19,Green
+0277,19,Green
+0278,19,Green
+0279,19,Green
+0280,19,Green
+0281,19,Green
+0282,19,Green
+0283,23,Green
+0284,23,Green
+0285,23,Green
+0286,23,Green
+0287,23,Green
+0288,9,Green
+0289,9,Green
+0290,9,Green
+0291,9,Green
+0292,11,Green
+0293,11,Green
+0294,11,Green
+0295,11,Green
+0296,11,Green
+0297,11,Green
+0298,,E. Spruce & Green
+0299,,E. Spruce & Green
+0300,,E. Spruce & Green
+0301,150,Spruce
+0302,150,Spruce
+0303,150,Spruce
+0304,1,Laurel
+0305,,Bells Court
+0306,,Bells Court
+0307,,Bells Court
+0308,11,Prune
+0309,11,Prune
+0310,11,Prune
+0311,115,S. 5th Street
+0312,,Marshall's Court
+0313,,Marshall's Court
+0314,,Marshall's Court
+0315,,Marshall's Court
+0316,129,Walnut
+0317,129,Walnut
+0318,129,Walnut
+0319,129,Walnut
+0320,129,Walnut
+0321,129,Walnut
+0322,150,Spruce
+0323,150,Spruce
+0324,150,Spruce
+0325,150,Spruce
+0326,150,Spruce
+0327,129,Walnut
+0328,33,Cherry
+0329,100,N. 4th Street
+0330,110,4th Street
+0331,112,N. 5th Street
+0332,14,Mulberry Alley
+0333,12,Mulberry Alley
+0334,12,Mulberry Alley
+0335,12,Mulberry Alley
+0336,12,Mulberry Alley
+0337,,Maryland & Mulberry Alley
+0338,,Maryland & Mulberry Alley
+0339,,Maryland & Mulberry Alley
+0340,,Maryland & Mulberry Alley
+0341,,Maryland & Mulberry Alley
+0342,,Maryland & Mulberry Alley
+0343,,Maryland & Mulberry Alley
+0344,,Maryland & Mulberry Alley
+0345,,Maryland & Mulberry Alley
+0346,,Maryland & Mulberry Alley
+0347,,Maryland & Mulberry Alley
+0348,,Maryland & Mulberry Alley
+0349,,Maryland & Mulberry Alley
+0350,,Maryland & Mulberry Alley
+0351,,Maryland & Mulberry Alley
+0352,,Maryland & Mulberry Alley
+0353,,Maryland & Mulberry Alley
+0354,,Maryland & Mulberry Alley
+0355,,Maryland & Mulberry Alley
+0356,,Maryland & Mulberry Alley
+0357,,Maryland & Mulberry Alley
+0358,,Maryland & Mulberry Alley
+0359,26,Maryland
+0360,26,Maryland
+0361,26,Maryland
+0362,26,Maryland
+0363,26,Maryland
+0364,24,Maryland
+0365,24,Maryland
+0366,26,Maryland
+0367,,
+0368,20,Maryland
+0369,20,Maryland
+0370,20,Maryland
+0371,9,Maryland
+0372,9,Maryland
+0373,9,Maryland
+0374,13,Maryland
+0375,13,Maryland
+0376,,Gaskill below 5th St.
+0377,15,Maryland
+0378,17,Maryland
+0379,23,Maryland
+0380,23,Maryland
+0381,23,Maryland
+0382,23,Maryland
+0383,205,Race
+0384,1,Cresson Alley
+0385,1,Cresson Alley
+0386,16,S. 5th Street
+0387,89,S. 6th Street
+0388,89,S. 6th Street
+0389,123,S. 6th Street
+0390,36,Buckley
+0391,36,Buckley
+0392,34,Buckley
+0393,34,Buckley
+0394,34,Buckley
+0395,32,Buckley
+0396,32,Buckley
+0397,32,Buckley
+0398,,Hog Alley
+0399,,Hog Alley
+0400,,Hog Alley
+0401,,Hog Alley
+0402,,Hog Alley
+0403,,Hog Alley
+0404,,Hog Alley
+0405,,6th St. near Bethel Ch.
+0406,,6th St. near Bethel Ch.
+0407,169,S. 6th Street
+0408,,N.E. 6th & Lombard
+0409,,N.E. 6th & Lombard
+0410,,N.E. 6th & Lombard
+0411,167,N.E. 6th & Lombard
+0412,161,N.E. 6th & Lombard
+0413,159,N.E. 6th & Lombard
+0414,159,N.E. 6th & Lombard
+0415,159,N.E. 6th & Lombard
+0416,,N.E. 6th & Lombard
+0417,157,N.E. 6th & Lombard
+0418,155,N.E. 6th & Lombard
+0419,155,N.E. 6th & Lombard
+0420,155,N.E. 6th & Lombard
+0421,155,N.E. 6th & Lombard
+0422,155,N.E. 6th & Lombard
+0423,155,N.E. 6th & Lombard
+0424,155,N.E. 6th & Lombard
+0425,153,N.E. 6th & Lombard
+0426,153,N.E. 6th & Lombard
+0427,153,N.W. 6th & Lombard
+0428,1,Atkinson's Court
+0429,1,Atkinson's Court
+0430,2,Atkinson's Court
+0431,2,Atkinson's Court
+0432,3,Atkinson's Court
+0433,3,Atkinson's Court
+0434,4,Atkinson's Court
+0435,4,Atkinson's Court
+0436,4,Atkinson's Court
+0437,5,Atkinson's Court
+0438,6,Atkinson's Court
+0439,6,Atkinson's Court
+0440,6,Atkinson's Court
+0441,7,Atkinson's Court
+0442,7,Atkinson's Court
+0443,7,Atkinson's Court
+0444,8,Atkinson's Court
+0445,8,Atkinson's Court
+0446,8,Atkinson's Court
+0447,143,Lombard
+0448,143,Lombard
+0449,137,Lombard
+0450,137,Lombard
+0451,147,Lombard
+0452,134,Lombard
+0453,137,Lombard
+0454,137,Lombard
+0455,137,Lombard
+0456,148,S. 5th Street
+0457,148,S. 5th Street
+0458,148,S. 5th Street
+0459,148,S. 5th Street
+0460,148,S. 5th Street
+0461,148,S. 5th Street
+0462,148,S. 5th Street
+0463,158,S. 5th Street
+0464,143,Lombard
+0465,143,Lombard
+0466,91,Gaskill
+0467,160,S. 5th Street
+0468,162,S. 5th Street
+0469,166,S. 5th Street
+0470,166,S. 5th Street
+0471,166,S. 5th Street
+0472,33,Gilles Alley
+0473,33,Gilles Alley
+0474,33,Gilles Alley
+0475,33,Gilles Alley
+0476,33,Gilles Alley
+0477,31,Gilles Alley
+0478,29,Gilles Alley
+0479,27,Gilles Alley
+0480,25,Gilles Alley
+0481,23,Gilles Alley
+0482,17,Gilles Alley
+0483,15,Gilles Alley
+0484,,Gilles Alley
+0485,3,Gilles Alley
+0486,,Gilles Alley
+0487,2,Gilles Alley
+0488,,Gilles Alley
+0489,1,Gilles Alley
+0490,1,Gilles Alley
+0491,4,Gilles Alley
+0492,4,Gilles Alley
+0493,4,Gilles Alley
+0494,21,Gilles Alley
+0495,21,Gilles Alley
+0496,5,Gilles Alley
+0497,5,Gilles Alley
+0498,12,Gilles Alley
+0499,12,Gilles Alley
+0500,12,Gilles Alley
+0501,12,Gilles Alley
+0502,33 1/2,Gilles Alley
+0503,22,Gilles Alley
+0504,22,Gilles Alley
+0505,22,Gilles Alley
+0506,22,Gilles Alley
+0507,22,Gilles Alley
+0508,22,Gilles Alley
+0509,26,Gilles Alley
+0510,,Mary's & Gilles Alley
+0511,,Mary's & Gilles Alley
+0512,26,Gilles Alley
+0513,26,Gilles Alley
+0514,,Mary's Alley
+0515,4,Mary's Alley
+0516,4,Mary's Alley
+0517,2,Mary's Alley
+0518,2,Mary's Alley
+0519,2,Mary's Alley
+0520,2,Mary's Alley
+0521,2,Mary's Alley
+0522,7,Mary's Alley
+0523,2,Mary's Alley
+0524,2,Mary's Alley
+0525,183,South Street
+0526,123,South Street
+0527,23,Hurst
+0528,23,Hurst
+0529,21,Hurst
+0530,23,Hurst
+0531,17,Hurst
+0532,17,Hurst
+0533,11,Hurst
+0534,9,Hurst
+0535,9,Hurst
+0536,4,Hurst
+0537,4,Hurst
+0538,4,Hurst
+0539,4,Hurst
+0540,6,Hurst
+0541,6,Hurst
+0542,6,Hurst
+0543,8,Hurst
+0544,12,Hurst
+0545,15,Hurst
+0546,9,Hurst
+0547,201,South Street
+0548,201,South Street
+0549,201,South Street
+0550,25,Mary's Alley
+0551,25,Mary's Alley
+0552,29,Mary's Alley
+0553,29,Mary's Alley
+0554,4,Mary's Alley
+0555,4,Mary's Alley
+0556,1,Jones Alley
+0557,1,Jones Alley
+0558,2,Jones Alley
+0559,2,Jones Alley
+0560,2,Jones Alley
+0561,4,Jones Alley
+0562,5,Jones Alley
+0563,5,Jones Alley
+0564,6,Jones Alley
+0565,6,Jones Alley
+0566,7,Jones Alley
+0567,8,Jones Alley
+0568,9,Jones Alley
+0569,9,Jones Alley
+0570,9,Jones Alley
+0571,9,Jones Alley
+0572,187,S. 6th Street
+0573,187,S. 6th Street
+0574,189,S. 6th Street
+0575,179 1/2,S. 6th Street
+0576,179 1/2,S. 6th Street
+0577,179 1/2,S. 6th Street
+0578,179 1/2,S. 6th Street
+0579,179 1/2,S. 6th Street
+0580,179 1/2,S. 6th Street
+0581,1201,South Street
+0582,6 1/2,Hurst
+0583,6 1/2,Hurst
+0584,,6th St. near Bethel Ch.
+0585,179,S. 6th Street
+0586,179,S. 6th Street
+0587,179,S. 6th Street
+0588,179,S. 6th Street
+0589,162,Lombard
+0590,162,Lombard
+0591,162,Lombard
+0592,206,S. 6th Street
+0593,206,S. 6th Street
+0594,,McClaskey's Court
+0595,,McClaskey's Court
+0596,,McClaskey's Court
+0597,,McClaskey's Court
+0598,,McClaskey's Court
+0599,,McClaskey's Court
+0600,,McClaskey's Court
+0601,,McClaskey's Court
+0602,,McClaskey's Court
+0603,,McClaskey's Court
+0604,1,Steel's Court
+0605,1,Steel's Court
+0606,2,Steel's Court
+0607,3,Steel's Court
+0608,3,Steel's Court
+0609,4,Steel's Court
+0610,5,Steel's Court
+0611,5,Steel's Court
+0612,6,Steel's Court
+0613,6,Steel's Court
+0614,1,St. Mary's Street
+0615,1,St. Mary's Court
+0616,9,St. Mary's Street
+0617,9,St. Mary's Street
+0618,9,St. Mary's Street
+0619,9,St. Mary's Street
+0620,13,St. Mary's Street
+0621,,Griffin's Ct. & St. Mary's St.
+0622,24,Griffin's Court
+0623,2,Griffin's Court
+0624,4,Griffin's Court
+0625,6,Griffin's Court
+0626,6,Griffin's Court
+0627,6,Griffin's Court
+0628,7,Griffin's Court
+0629,7,Griffin's Court
+0630,5,Griffin's Court
+0631,3,Griffin's Court
+0632,1,Griffin's Court
+0633,1,Griffin's Court
+0634,1,Griffin's Court
+0635,,St. Mary's & 7th St.
+0636,,St. Mary's & 7th St.
+0637,,St. Mary's & 7th St.
+0638,,St. Mary's & 7th St.
+0639,,St. Mary's & 7th St.
+0640,1,Madison Court
+0641,2,Madison Court
+0642,2,Madison Street
+0643,3,Madison Street
+0644,3,Madison Street
+0645,5,Madison Street
+0646,5,Madison Court
+0647,7,Madison Court
+0648,7,Madison Court
+0649,8,Madison Court
+0650,32,St. Mary's Street
+0651,32,St. Mary's Street
+0652,28,St. Mary's Street
+0653,28,St. Mary's Street
+0654,28,St. Mary's Street
+0655,28,St. Mary's Street
+0656,26,St. Mary's Street
+0657,26,St. Mary's Street
+0658,26,St. Mary's Street
+0659,26,St. Mary's Street
+0660,26,St. Mary's Street
+0661,26,St. Mary's Street
+0662,24,St. Mary's Street
+0663,24,St. Mary's Street
+0664,24,St. Mary's Street
+0665,24,St. Mary's Street
+0666,24,St. Mary's Street
+0667,24,St. Mary's Street
+0668,24,St. Mary's Street
+0669,24,St. Mary's Street
+0670,23,St. Mary's Street
+0671,22,St. Mary's Street
+0672,18,St. Mary's Street
+0673,18,St. Mary's Street
+0674,18,St. Mary's Street
+0675,17,St. Mary's Street
+0676,17,St. Mary's Street
+0677,17,St. Mary's Street
+0678,16,St. Mary's Street
+0679,16,St. Mary's Street
+0680,15,St. Mary's Street
+0681,15,St. Mary's Street
+0682,14,St. Mary's Street
+0683,14,St. Mary's Street
+0684,6,Madison Street
+0685,257,South Street
+0686,5,St. Mary's Street
+0687,,N. 27th & St. Mary's St.
+0688,,N. 67th & St. Mary's St.
+0689,,N. 67th & St. Mary's St.
+0690,,N. 27th & St. Mary's St.
+0691,,N. 27th & St. Mary's St.
+0692,253,S. 7th Street
+0693,253,S. 7th Street
+0694,251,S. 7th Street
+0695,251,S. 7th Street
+0696,251,S. 7th Street
+0697,241,S. 7th Street
+0698,249,S. 7th Street
+0699,249,S. 7th Street
+0700,249,S. 7th Street
+0701,249,S. 7th Street
+0702,249,S. 7th Street
+0703,249,S. 7th Street
+0704,247,S. 7th Street
+0705,247,S. 7th Street
+0706,247,S. 7th Street
+0707,247,S. 7th Street
+0708,247,S. 7th Street
+0709,245,S. 7th Street
+0710,245,S. 7th Street
+0711,245,S. 7th Street
+0712,243,S. 7th Street
+0713,243,S. 7th Street
+0714,243,S. 7th Street
+0715,241,S. 7th Street
+0716,241,S. 7th Street
+0717,241,S. 7th Street
+0718,239,S. 7th Street
+0719,239,S. 7th Street
+0720,239,S. 7th Street
+0721,237,S. 7th Street
+0722,237,S. 7th Street
+0723,237,S. 7th Street
+0724,235,S. 7th & 29 Washington
+0725,249,S. 7th Street
+0726,224,Lombard
+0727,224,Lombard
+0728,224,Lombard
+0729,203,Lombard
+0730,202,Lombard
+0731,202,Lombard
+0732,200,Lombard
+0733,196,Lombard
+0734,196,Lombard
+0735,146,Lombard
+0736,186,Lombard
+0737,186,Lombard
+0738,186,Lombard
+0739,186,Lombard
+0740,186,Lombard
+0741,184,Lombard
+0742,184,Lombard
+0743,184,Lombard
+0744,184,Lombard
+0745,184,Lombard
+0746,177,Lombard
+0747,177,Lombard
+0748,179,Lombard
+0749,179,Lombard
+0750,181,Lombard
+0751,183,Lombard
+0752,183,Lombard
+0753,183,Lombard
+0754,185,Lombard
+0755,185,Lombard
+0756,187,Lombard
+0757,187,Lombard
+0758,187,Lombard
+0759,191,Lombard
+0760,11,Hurst
+0761,147,S. 6th Street
+0762,179,Lombard
+0763,179,Lombard
+0764,179,Lombard
+0765,185,Lombard
+0766,193,Lombard
+0767,195,Lombard
+0768,195 1/2,Lombard
+0769,195 1/2,Lombard
+0770,195 1/2,Lombard
+0771,197,Lombard
+0772,197,Lombard
+0773,197,Lombard
+0774,197,Lombard
+0775,197,Lombard
+0776,197,Lombard
+0777,197 1/2,Lombard
+0778,197 1/2,Lombard
+0779,197 1/2,Lombard
+0780,197 1/2,Lombard
+0781,201,Lombard
+0782,201,Lombard
+0783,201,Lombard
+0784,201,Lombard
+0785,201,Lombard
+0786,201,Lombard
+0787,199,Lombard
+0788,186,Lombard
+0789,1,Washington Court
+0790,1,Washington Court
+0791,1,Washington Court
+0792,1,Washington Court
+0793,1,Washington Court
+0794,6,Washington Court
+0795,6,Washington Court
+0796,203,Lombard
+0797,203 1/2,Lombard
+0798,203 1/2,Lombard
+0799,215,S. 7th Street
+0800,215,S. 7th Street
+0801,214,S. 7th Street
+0802,214,Lombard
+0803,12,Little Pine
+0804,12,Little Pine
+0805,10,Little Pine
+0806,10,Little Pine
+0807,8,Little Pine
+0808,8,Little Pine
+0809,6,Little Pine
+0810,6,Little Pine
+0811,6,Little Pine
+0812,1,Little Pine
+0813,1,Little Pine
+0814,3,Little Pine
+0815,5,Little Pine
+0816,3,Little Pine
+0817,3,Little Pine
+0818,5,Little Pine
+0819,,Allen's Court
+0820,,Allen's Court
+0821,,Allen's Court
+0822,,Allen's Court
+0823,7,Little Pine
+0824,,Allen's Court
+0825,,Allen's Court
+0826,,Allen's Court
+0827,,Allen's Court
+0828,,Allen's Court
+0829,,Allen's Court
+0830,7,Little Pine
+0831,9,Little Pine
+0832,9,Little Pine
+0833,13,Little Pine
+0834,15,Little Pine
+0835,15,Little Pine
+0836,15,Little Pine
+0837,213,S. 7th Street
+0838,213,S. 7th Street
+0839,213,S. 7th Street
+0840,213,S. 7th Street
+0841,213,S. 7th Street
+0842,213,S. 7th Street
+0843,213,S. 7th Street
+0844,203,S. 7th Street
+0845,198,Pine
+0846,184,Pine
+0847,184,Pine
+0848,184,Pine
+0849,184,Pine
+0850,214,S. 7th Street
+0851,214,S. 7th Street
+0852,214,S. 7th Street
+0853,201,S. 7th Street
+0854,201,S. 7th Street
+0855,178,Pine
+0856,170,Pine
+0857,170,Pine
+0858,170,Pine
+0859,170,Pine
+0860,170,Pine
+0861,168,Pine
+0862,168,Pine
+0863,168,Pine
+0864,182,S. 6th Street
+0865,184,S. 6th Street
+0866,184,S. 6th Street
+0867,184,S. 6th Street
+0868,163,Pine
+0869,165,Pine
+0870,38,Middle Alley
+0871,30,Middle Alley
+0872,15,Middle Alley
+0873,15,Middle Alley
+0874,15,Middle Way
+0875,15,Middle Alley
+0876,15,Middle Alley
+0877,10,Middle Alley
+0878,10,Middle Alley
+0879,10,Middle Alley
+0880,8,Middle Alley
+0881,8,Middle Alley
+0882,8,Middle Alley
+0883,6,Middle Alley
+0884,6,Middle Alley
+0885,6,Middle Alley
+0886,,Middle Alley
+0887,,Middle Alley
+0888,,Middle Alley
+0889,,Middle Alley
+0890,,Middle Alley
+0891,,Middle Alley
+0892,167,Pine
+0893,167,Pine
+0894,167,Pine
+0895,167,Pine
+0896,4,Middle Alley
+0897,4,Middle Alley
+0898,4,Middle Alley
+0899,4 1/2,Middle Alley
+0900,4 1/2,Middle Alley
+0901,5,Middle Alley
+0902,9,Middle Alley
+0903,9,Middle Alley
+0904,9,Middle Alley
+0905,9,Middle Alley
+0906,11,Middle Alley
+0907,11,Middle Alley
+0908,11,Middle Alley
+0909,11,Middle Alley
+0910,12,Middle Alley
+0911,12,Middle Alley
+0912,12,Middle Alley
+0913,14,Middle Alley
+0914,14,Middle Alley
+0915,14,Middle Alley
+0916,14,Middle Alley
+0917,14,Middle Alley
+0918,25 1/2,Middle Alley
+0919,19,Middle Alley
+0920,19,Middle Alley
+0921,19,Middle Alley
+0922,19,Middle Alley
+0923,19,Middle Alley
+0924,19,Middle Alley
+0925,19,Middle Alley
+0926,19,Middle Alley
+0927,20,Middle Alley
+0928,20,Middle Alley
+0929,20,Middle Alley
+0930,20,Middle Alley
+0931,20,Middle Alley
+0932,21,Middle Alley
+0933,21,Middle Alley
+0934,21,Middle Alley
+0935,21,Middle Alley
+0936,21,Middle Alley
+0937,21,Middle Alley
+0938,21,Middle Alley
+0939,23,Middle Alley
+0940,23,Middle Alley
+0941,23,Middle Alley
+0942,23,Middle Alley
+0943,23,Middle Alley
+0944,23,Middle Alley
+0945,25,Middle Alley
+0946,25,Middle Alley
+0947,25,Middle Alley
+0948,25,Middle Alley
+0949,37,Middle Alley
+0950,37,Middle Alley
+0951,37,Middle Alley
+0952,39,Middle Alley
+0953,39,Middle Alley
+0954,195,S. 7th Street
+0955,195,S. 7th Street
+0956,,Ten Foot Alley
+0957,,Ten Foot Alley
+0958,,Ten Foot Alley
+0959,,Ten Foot Alley
+0960,,Ten Foot Alley
+0961,,Ten Foot Alley
+0962,28,Elizabeth Street
+0963,28,Elizabeth Street
+0964,28,Elizabeth Street
+0965,28,Elizabeth Street
+0966,28,Elizabeth Street
+0967,28,Elizabeth Street
+0968,24,Elizabeth Street
+0969,26,Elizabeth Street
+0970,24,Elizabeth Street
+0971,24,Elizabeth Street
+0972,24,Elizabeth Street
+0973,24,Elizabeth Street
+0974,22,Elizabeth Street
+0975,22,Elizabeth Street
+0976,18,Elizabeth Street
+0977,18,Elizabeth Street
+0978,18,Elizabeth Street
+0979,15,Elizabeth Street
+0980,20,Elizabeth Street
+0981,20,Elizabeth Street
+0982,20,Elizabeth Street
+0983,20,Elizabeth Street
+0984,20,Elizabeth Street
+0985,15,Elizabeth Street
+0986,15,Elizabeth Street
+0987,7,Middle Alley
+0988,14,Elizabeth Street
+0989,12,Elizabeth Street
+0990,12,Elizabeth Street
+0991,12,Elizabeth Street
+0992,12,Elizabeth Street
+0993,1,Elizabeth Street
+0994,1,Elizabeth Street
+0995,1,Elizabeth Street
+0996,1,Elizabeth Street
+0997,6,Elizabeth Street
+0998,8,Elizabeth Street
+0999,8,Elizabeth Street
+1000,8,Elizabeth Street
+1001,13,Elizabeth Street
+1002,13,Elizabeth Street
+1003,13,Elizabeth Street
+1004,13,Elizabeth Street
+1005,13,Elizabeth Street
+1006,15,Elizabeth Street
+1007,17,Elizabeth Street
+1008,25,Elizabeth Street
+1009,29,Elizabeth Street
+1010,29,Elizabeth Street
+1011,29,Elizabeth Street
+1012,,Portland Lane below 7th St.
+1013,,Portland Lane below 7th St.
+1014,24,Portland Lane below 7th St.
+1015,22,Portland Lane below 7th St.
+1016,22,Portland Lane below 7th St.
+1017,9,Portland Lane below 7th St.
+1018,20,Portland Lane below 7th St.
+1019,20,Portland Lane below 7th St.
+1020,20,Portland Lane below 7th St.
+1021,37,Elizabeth Street
+1022,5,Portland Lane
+1023,4,Portland Lane
+1024,1,Portland Lane
+1025,35,Elizabeth Street
+1026,6,Locust Street
+1027,6,Locust Street
+1028,6,Locust Street
+1029,6,Locust Street
+1030,6,Locust Street
+1031,6,Locust Street
+1032,6,Locust Street
+1033,,McKean's Court
+1034,,McKean's Court
+1035,,McKean's Court
+1036,107,N. 7th Street
+1037,107,N. 7th Street
+1038,129,Cherry
+1039,129,Cherry
+1040,6,Eutan
+1041,11,Eutan
+1042,11,Eutan
+1043,11,Eutan
+1044,11,Eutan
+1045,11,Eutan
+1046,,Eutan
+1047,13,Eutan
+1048,13,Eutan
+1049,13,Eutan
+1050,13,Eutan
+1051,12,Eutan
+1052,8,Eutan
+1053,8,Eutan
+1054,4,Eutan
+1055,4,Eutan
+1056,141,Cherry
+1057,141,Cherry
+1058,76,N. 7th Street
+1059,62,N. 6th Street
+1060,22,Portland Lane
+1061,22,Portland Lane
+1062,208,S. 7th Street
+1063,208,S. 7th Street
+1064,210,S. 7th Street
+1065,210,S. 7th Street
+1066,1,Little Pine
+1067,1,Little Pine
+1068,1,Little Pine
+1069,3,Little Pine
+1070,3,Little Pine
+1071,3,Little Pine
+1072,5,Little Pine
+1073,5,Little Pine
+1074,5,Little Pine
+1075,7,Little Pine
+1076,7,Little Pine
+1077,7,Little Pine
+1078,23,Little Pine
+1079,18,Little Pine
+1080,16,Little Pine
+1081,16,Little Pine
+1082,16,Little Pine
+1083,16,Little Pine
+1084,16,Little Pine
+1085,16,Little Pine
+1086,10,Little Pine
+1087,8,Little Pine
+1088,8,Little Pine
+1089,6,Little Pine
+1090,4,Little Pine
+1091,4,Little Pine
+1092,4,Little Pine
+1093,2,Little Pine
+1094,2,Little Pine
+1095,212,S. 7th Street
+1096,222,S. 7th Street
+1097,220,S. 7th Street
+1098,224,S. 7th Street
+1099,226,S. 7th Street
+1100,18,Elizabeth Street
+1101,18,Elizabeth Street
+1102,216,S. 7th Street
+1103,228,S. 7th Street
+1104,228,S. 7th Street
+1105,229,S. 7th Street
+1106,230,S. 7th Street
+1107,219,Lombard
+1108,5,Washington Court
+1109,4,Washington Court
+1110,225,Lombard
+1111,225,Lombard
+1112,225,Lombard
+1113,225,Lombard
+1114,225,Lombard
+1115,225,Lombard
+1116,225,Lombard
+1117,227,Lombard
+1118,227,Lombard
+1119,227,Lombard
+1120,227,Lombard
+1121,227,Lombard
+1122,227,Lombard
+1123,227,Lombard
+1124,229,Lombard
+1125,229,Lombard
+1126,229,Lombard
+1127,229,Lombard
+1128,217,Lombard
+1129,231,Lombard
+1130,231,Lombard
+1131,231,Lombard
+1132,231,Lombard
+1133,231,Lombard
+1134,10,Pleasant Avenue
+1135,10,Pleasant Avenue
+1136,10,Pleasant Avenue
+1137,8,Pleasant Avenue
+1138,1,Pleasant Avenue
+1139,7,Pleasant Avenue
+1140,7,Pleasant Avenue
+1141,7,Pleasant Avenue
+1142,231,Lombard
+1143,220,S. 7th Street
+1144,4,Pleasant Avenue
+1145,4,Pleasant Avenue
+1146,1,Pleasant Avenue
+1147,1,Pleasant Avenue
+1148,1,Pleasant Avenue
+1149,1,Pleasant Avenue
+1150,1,Pleasant Avenue
+1151,3,Pleasant Avenue
+1152,2,Pleasant Avenue
+1153,3,Pleasant Avenue
+1154,3,Pleasant Avenue
+1155,5,Pleasant Avenue
+1156,5,Pleasant Avenue
+1157,5,Pleasant Avenue
+1158,9,Pleasant Avenue
+1159,9,Pleasant Avenue
+1160,9,Pleasant Avenue
+1161,9,Pleasant Avenue
+1162,9,Pleasant Avenue
+1163,9,Pleasant Avenue
+1164,9,Pleasant Avenue
+1165,237,Lombard
+1166,237,Lombard
+1167,237,Lombard
+1168,237,Lombard
+1169,237,Lombard
+1170,237,Lombard
+1171,237,Lombard
+1172,237,Lombard
+1173,239,Lombard
+1174,239,Lombard
+1175,239,Lombard
+1176,239,Lombard
+1177,239,Lombard
+1178,239,Lombard
+1179,252,Lombard
+1180,252,Lombard
+1181,252,Lombard
+1182,250,Lombard
+1183,250,Lombard
+1184,242,Lombard
+1185,242,Lombard
+1186,242,Lombard
+1187,242,Lombard
+1188,242,Lombard
+1189,242,Lombard
+1190,238,Lombard
+1191,239,Lombard
+1192,238,Lombard
+1193,238,Lombard
+1194,238,Lombard
+1195,238,Lombard
+1196,238,Lombard
+1197,238,Lombard
+1198,238,Lombard
+1199,238,Lombard
+1200,238,Lombard
+1201,238,Lombard
+1202,238,Lombard
+1203,238,Lombard
+1204,238,Lombard
+1205,238,Lombard
+1206,238,Lombard
+1207,236,Lombard
+1208,236,Lombard
+1209,232,Lombard
+1210,232,Lombard
+1211,232,Lombard
+1212,238,Lombard
+1213,228,Lombard
+1214,228,Lombard
+1215,227 1/2,Lombard
+1216,226,Lombard
+1217,10,Lombard Row
+1218,10,Lombard Row
+1219,9,Lombard Row
+1220,8,Lombard Row
+1221,8,Lombard Row
+1222,8 1/2,Lombard Row
+1223,8 1/2,Lombard Row
+1224,4,Lombard Row
+1225,3,Lombard Row
+1226,11,Lombard Row
+1227,2,Lombard Row
+1228,5,Lombard Row
+1229,220,Lombard Street
+1230,228,Lombard Street
+1231,230,Lombard Street
+1232,230,Lombard Street
+1233,230,Lombard Street
+1234,228,Lombard Street
+1235,232,Lombard Street
+1236,232,Lombard Street
+1237,232,Lombard Street
+1238,232,Lombard Street
+1239,6,Lombard Row
+1240,6,Lombard Row
+1241,218,Lombard
+1242,242,S. 7th Street
+1243,242,S. 7th Street
+1244,244,S. 7th Street
+1245,,Bradford's Alley
+1246,,Bradford's Alley
+1247,232,Lombard
+1248,6,Bradford's Alley
+1249,6,Bradford's Alley
+1250,8,Bradford's Alley
+1251,8,Bradford's Alley
+1252,8,Bradford's Alley
+1253,10,Bradford's Alley
+1254,5,Bradford's Alley
+1255,11,Bradford's Alley
+1256,11,Bradford's Alley
+1257,12,Bradford's Alley
+1258,12,Bradford's Alley
+1259,10,Bradford's Alley
+1260,,Bradford's Alley
+1261,,Bradford's Alley
+1262,9,Bradford's Alley
+1263,5,Bradford's Alley
+1264,5,Bradford's Alley
+1265,,Bradford's Alley
+1266,,Bradford's Alley
+1267,2,Bradford's Alley
+1268,2,Bradford's Alley
+1269,2,Bradford's Alley
+1270,,Bradford's Alley
+1271,2,Bradford's Alley
+1272,,Bradford's Alley
+1273,248,S. 7th Street
+1274,252,S. 7th Street
+1275,252,S. 7th Street
+1276,252,S. 7th Street
+1277,252,S. 7th Street
+1278,252,S. 7th Street
+1279,236,Lombard
+1280,254,S. 7th Street
+1281,254,S. 7th Street
+1282,,St. Mary Alley & 7th St.
+1283,,St. Mary Alley & 7th St.
+1284,,St. Mary Alley & 7th St.
+1285,,St. Mary Alley & 7th St.
+1286,,St. Mary Alley & 7th St.
+1287,,St. Mary Alley & 7th St.
+1288,,St. Mary
+1289,,St. Mary
+1290,54,St. Mary
+1291,54,St. Mary
+1292,56,St. Mary
+1293,58,St. Mary
+1294,58,St. Mary
+1295,58,St. Mary
+1296,,St. Mary
+1297,56,St. Mary
+1298,60,St. Mary
+1299,60,St. Mary
+1300,60,St. Mary
+1301,60,St. Mary
+1302,60,St. Mary
+1303,60,St. Mary
+1304,60,St. Mary
+1305,60,St. Mary
+1306,60,St. Mary
+1307,60,St. Mary
+1308,,St. Mary
+1309,,St. Mary
+1310,,St. Mary
+1311,,St. Mary
+1312,,St. Mary
+1313,,St. Mary
+1314,,St. Mary
+1315,,St. Mary
+1316,,St. Mary
+1317,,St. Mary
+1318,6,St. Mary
+1319,6,St. Mary
+1320,6,St. Mary
+1321,6,St. Mary
+1322,,St. Mary
+1323,,St. Mary
+1324,,St. Mary
+1325,,St. Mary
+1326,,St. Mary
+1327,,St. Mary
+1328,,St. Mary
+1329,,St. Mary
+1330,,St. Mary
+1331,,St. Mary
+1332,,St. Mary
+1333,,St. Mary
+1334,,St. Mary
+1335,,St. Mary
+1336,,St. Mary
+1337,281,South Street
+1338,281,South Street
+1339,281,South Street
+1340,281,South Street
+1341,277,South Street
+1342,277,South Street
+1343,,8th between Lombard
+1344,,8th between Lombard
+1345,,8th between Lombard
+1346,,8th between Lombard
+1347,,8th between Lombard
+1348,,8th between Lombard
+1349,,8th between Lombard
+1350,,8th between Lombard
+1351,,8th & Lombard
+1352,256,Lombard
+1353,256,Lombard
+1354,256,Lombard
+1355,288,Lombard
+1356,290,Lombard
+1357,,8th & Lombard
+1358,,St. Mary
+1359,263,Spruce
+1360,263,Spruce
+1361,263,Spruce
+1362,263,Spruce
+1363,265,Spruce
+1364,269,Spruce
+1365,10,Dean's Alley
+1366,2,Dean's Alley
+1367,2,Dean's Alley
+1368,4,Dean's Alley
+1369,8,Dean's Alley
+1370,6,Dean's Alley
+1371,40,Blackberry Alley
+1372,40,Blackberry Alley
+1373,38,Blackberry Alley
+1374,38,Blackberry Alley
+1375,34,Blackberry Alley
+1376,34,Blackberry Alley
+1377,34,Blackberry Alley
+1378,32,Blackberry Alley
+1379,30,Blackberry Alley
+1380,32,Blackberry Alley
+1381,28,Blackberry Alley
+1382,28,Blackberry Alley
+1383,26,Blackberry Alley
+1384,28,Blackberry Alley
+1385,5,Blackberry Alley
+1386,5,Blackberry Alley
+1387,5,Blackberry Alley
+1388,6,Blackberry Alley
+1389,6,Blackberry Alley
+1390,2,Osborne's Court
+1391,3,Osborne's Court
+1392,4,Osborne's Court
+1393,4,Osborne's Court
+1394,6,Osborne's Court
+1395,6,Osborne's Court
+1396,7,Osborne's Court
+1397,7,Osborne's Court
+1398,7,Osborne's Court
+1399,7,Osborne's Court
+1400,8,Osborne's Court
+1401,8,Osborne's Court
+1402,2,Acorn Alley
+1403,2,Acorn Alley
+1404,3,Acorn Alley
+1405,3,Acorn Alley
+1406,5,Acorn Alley
+1407,5,Acorn Alley
+1408,10,Acorn Alley
+1409,10,Acorn Alley
+1410,10,Acorn Alley
+1411,9,Acorn Alley
+1412,19,Acorn Alley
+1413,19,Acorn Alley
+1414,21,Acorn Alley
+1415,23,Acorn Alley
+1416,23,Acorn Alley
+1417,18,Acorn Alley
+1418,18,Acorn Alley
+1419,8,Acorn Alley
+1420,8,Acorn Alley
+1421,20,Acorn Alley
+1422,20,Acorn Alley
+1423,20,Acorn Alley
+1424,2,Cox's Court
+1425,3,Cox's Court
+1426,8,Acorn Alley
+1427,8,Acorn Alley
+1428,6,Acorn Alley
+1429,6,Acorn Alley
+1430,20,S. 8th Street
+1431,,Zane St. above 7th St.
+1432,,Perry Court
+1433,,Perry Court
+1434,170,S. 8th Street
+1435,170,S. 8th Street
+1436,170,S. 8th Street
+1437,3,Lawrence Court
+1438,3,Lawrence Court
+1439,5,Lawrence Court
+1440,7,Lawrence Court
+1441,7,Lawrence Court
+1442,7,Lawrence Court
+1443,9,Lawrence Court
+1444,9,Lawrence Court
+1445,17,Lawrence Court
+1446,17,Lawrence Court
+1447,17,Lawrence Court
+1448,17,Lawrence Court
+1449,58,Mechanic Street
+1450,58,Mechanic Street
+1451,58,Mechanic Street
+1452,58,Mechanic Street
+1453,55,Mechanic Street
+1454,55,Mechanic Street
+1455,53,Mechanic Street
+1456,53,Mechanic Street
+1457,51,Mechanic Street
+1458,45,Mechanic Street
+1459,45,Mechanic Street
+1460,45,Mechanic Street
+1461,43,Mechanic Street
+1462,31,Mechanic Street
+1463,31,Mechanic Street
+1464,1,Liberty Ct. & 10th St.
+1465,1,Liberty Ct. & 10th St.
+1466,3,Liberty Ct. & 10th St.
+1467,4,Liberty Ct. & 10th St.
+1468,5,Liberty Ct. & 10th St.
+1469,5,Liberty Ct. & 10th St.
+1470,6,Liberty Ct. & 10th St.
+1471,7,Liberty Ct. & 10th St.
+1472,8,Liberty Ct. & 10th St.
+1473,8,Liberty Ct. & 10th St.
+1474,10,Liberty Ct. & 10th St.
+1475,12,Liberty Ct. & 10th St.
+1476,13,Liberty Ct. & 10th St.
+1477,16,Sergeant
+1478,16,Sergeant
+1479,24,Sergeant
+1480,119,N. 10th Street
+1481,119,N. 10th Street
+1482,119,N. 10th Street
+1483,1,Seyden's Court
+1484,2,Seyden's Court
+1485,2,Seyden's Court
+1486,3,Seyden's Court
+1487,4,Seyden's Court
+1488,4,Seyden's Court
+1489,4,Seyden's Court
+1490,4,Seyden's Court
+1491,4,Seyden's Court
+1492,113,N. 10th Street
+1493,113,N. 10th Street
+1494,113,N. 10th Street
+1495,113,N. 10th Street
+1496,113,N. 10th Street
+1497,113,N. 10th Street
+1498,340,Race
+1499,340,Race
+1500,107,S. 9th Street
+1501,7,Richard
+1502,7,Richard
+1503,7,Richard
+1504,7,Richard
+1505,7,Richard
+1506,7,Richard
+1507,6,Webbs Alley
+1508,75,N. 10th Street
+1509,1,Liberty at 9th St.
+1510,2,Liberty at 9th St.
+1511,3,Liberty at 9th St.
+1512,4,Liberty at 9th St.
+1513,274,Market Street
+1514,9,Liberty Ct. & 10th St.
+1515,2,Liberty Ct. & 10th St.
+1516,2,Liberty Ct. & 10th St.
+1517,10,Morgan
+1518,,Raspberry above Spruce
+1519,,Raspberry above Spruce
+1520,,Raspberry above Spruce
+1521,,Raspberry at Spruce
+1522,,Raspberry above Spruce
+1523,30,Raspberry above Spruce
+1524,30,Raspberry above Spruce
+1525,28,Raspberry above Spruce
+1526,22,Raspberry above Spruce
+1527,20,Raspberry above Spruce
+1528,20,Raspberry above Spruce
+1529,18,Raspberry at Spruce
+1530,18,Raspberry above Spruce
+1531,18,Raspberry above Spruce
+1532,12,Raspberry above Spruce
+1533,10,Raspberry above Spruce
+1534,8,Raspberry
+1535,,Shields Alley
+1536,,Shields Alley
+1537,,Shields Alley
+1538,,Watson's Alley
+1539,3,Watson's Alley
+1540,1,Watson's Alley
+1541,4,Watson's Alley
+1542,4,Watson's Alley
+1543,14,Watson's Alley
+1544,18,Watson's Alley
+1545,18,Watson's Alley
+1546,20,Watson's Alley
+1547,22,Watson's Alley
+1548,19,Watkin's Alley
+1549,19,Watkin's Alley
+1550,17,Watson's Alley
+1551,15,Watkin's Alley
+1552,15,Watkin's Alley
+1553,13,Watkin's Alley
+1554,9,Watkin's Alley
+1555,10,Watkin's Alley
+1556,10,Watkin's Alley
+1557,,Watkin's Alley
+1558,26,Watkin's Alley
+1559,4,Pryor's Alley
+1560,,Pryor's Court
+1561,,Pryor's Court
+1562,,Pryor's Court
+1563,,Pryor's Court
+1564,6,Pryor's Court
+1565,7,Pryor's Court
+1566,8,Pryor's Court
+1567,8,Pryor's Court
+1568,9,Pryor's Court
+1569,9,Pryor's Court
+1570,10,Pryor's Court
+1571,294,Pine
+1572,294,Pine
+1573,294,Pine
+1574,194,Pine
+1575,294,Pine
+1576,294,Pine
+1577,294,Pine
+1578,14,Fothergill
+1579,16,Fothergill
+1580,12,Fothergill
+1581,12,Fothergill
+1582,10,Fothergill
+1583,8,Fothergill
+1584,8,Fothergill
+1585,1,Smith's Ct. & Fothergill St.
+1586,1,Smith's Ct. & Fothergill St.
+1587,2,Smith's Ct. & Fothergill St.
+1588,2,Smith's Ct. & Fothergill St.
+1589,3,Smith's Ct. & Fothergill St.
+1590,3,Smith's Ct. & Fothergill St.
+1591,4,Smith's Ct. & Fothergill St.
+1592,319,Lombard
+1593,323,Lombard
+1594,321,Lombard
+1595,327,Lombard
+1596,327,Lombard
+1597,327,Lombard
+1598,327,Lombard
+1599,,10th below Lombard
+1600,,10th below Lombard
+1601,,10th below Lombard
+1602,,10th below Lombard
+1603,,10th below Lombard
+1604,,10th below Lombard
+1605,27,Bonsall
+1606,27,Bonsall
+1607,27,Bonsall
+1608,27,Bonsall
+1609,27,Bonsall
+1610,27,Bonsall
+1611,21,Bonsall
+1612,5,Osborne's Court
+1613,3,Osborne's Court
+1614,1,Cox's Court
+1615,1,Cox's Court
+1616,39,Bonsall
+1617,35,Bonsall
+1618,35,Bonsall
+1619,33,Bonsall
+1620,33,Bonsall
+1621,33,Bonsall
+1622,21,Bonsall
+1623,21,Bonsall
+1624,21,Bonsall
+1625,,Bonsall below 10th St.
+1626,,Bonsall below 10th St.
+1627,,Bonsall below 10th St.
+1628,,Bonsall below 10th St.
+1629,,Bonsall below 10th St.
+1630,,Bonsall below 10th St.
+1631,37,Bonsall
+1632,,Bonsall below 10th St.
+1633,,Bonsall below 10th St.
+1634,32,Bonsall below 10th St.
+1635,30,Bonsall below 10th St.
+1636,28,Bonsall below 10th St.
+1637,26,Bonsall below 10th St.
+1638,26,Bonsall below 10th St.
+1639,4,Bonsall below 10th St.
+1640,4,Bonsall below 10th St.
+1641,6,Bonsall below 10th St.
+1642,8,Bonsall below 10th St.
+1643,8,Bonsall below 10th St.
+1644,10,Bonsall below 10th St.
+1645,12,Bonsall below 10th St.
+1646,14,Bonsall below 10th St.
+1647,16,Bonsall below 10th St.
+1648,16,Bonsall below 10th St.
+1649,16,Bonsall below 10th St.
+1650,360,South Street
+1651,360,South Street
+1652,361,South Street
+1653,361,South Street
+1654,361,South Street
+1655,361,South Street
+1656,361,South Street
+1657,361,South Street
+1658,361,South Street
+1659,361,South Street
+1660,359,South Street
+1661,347,South Street
+1662,351,South Street
+1663,,Lombard below 11th St.
+1664,,Lombard below 11th St.
+1665,,Lombard below 11th St.
+1666,,Lombard below 11th St.
+1667,,Lombard below 11th St.
+1668,,Lombard below 11th St.
+1669,,Lombard below 11th St.
+1670,,Lombard below 11th St.
+1671,,Lombard below 11th St.
+1672,365,Lombard below 11th St.
+1673,365,Lombard below 11th St.
+1674,365,Lombard below 11th St.
+1675,365,Lombard below 11th St.
+1676,363,Lombard below 11th St.
+1677,363,Lombard below 11th St.
+1678,363,Lombard below 11th St.
+1679,363,Lombard below 11th St.
+1680,361,Lombard below 11th St.
+1681,361,Lombard ale. 10th St.
+1682,361,Lombard ale. 10th St.
+1683,361,Lombard ale. 10th St.
+1684,361,Lombard ale. 10th St.
+1685,361,Lombard ale. 10th St.
+1686,361,Lombard ale. 10th St.
+1687,,Lombard ale. 10th St.
+1688,1,Barley
+1689,9,Barley
+1690,9,Barley
+1691,10,Barley
+1692,10,Barley
+1693,11,Barley
+1694,11,Barley
+1695,13,Barley
+1696,13,Barley
+1697,17,Barley
+1698,17,Barley
+1699,17,Barley
+1700,19,Barley
+1701,,Barley below 12th St.
+1702,,Barley below 11th St.
+1703,,Barley below 11th St.
+1704,,Barley below 11th St.
+1705,,Barley below 11th St.
+1706,,Barley below 11th St.
+1707,,Barley below 11th St.
+1708,,Barley below 11th St.
+1709,,Barley below 11th St.
+1710,,Barley below 11th St.
+1711,,Barley below 11th St.
+1712,,Barley below 12th St.
+1713,,Barley
+1714,,Barley below 12th St.
+1715,,Barley below 11th St.
+1716,19,Barley below 11th St.
+1717,24,Barley below 11th St.
+1718,24,Barley below 11th St.
+1719,20,Barley below 11th St.
+1720,20,Barley below 11th St.
+1721,18,Barley below 11th St.
+1722,16,Barley below 11th St.
+1723,14,Barley below 11th St.
+1724,16,Barley below 11th St.
+1725,12,Barley below 11th St.
+1726,12,Barley below 11th St.
+1727,8 1/2,Barley below 11th St.
+1728,8 1/2,Barley below 11th St.
+1729,8 1/2,Barley below 11th St.
+1730,8 1/2,Barley below 11th St.
+1731,8,Barley below 11th St.
+1732,6,Barley below 11th St.
+1733,6,Barley below 11th St.
+1734,10,Barley below 11th St.
+1735,8,Barley below 11th St.
+1736,75,Barley below 11th St.
+1737,75,Barley below 11th St.
+1738,75,Barley above 10th St.
+1739,75,Barley above 10th St.
+1740,75,Barley above 10th St.
+1741,75,Barley above 10th St.
+1742,75,Barley above 10th St.
+1743,305,Lombard
+1744,1,Caroline Place
+1745,1,Caroline Place
+1746,4,Barley above 10th St.
+1747,4,Barley above 10th St.
+1748,4,Barley above 10th St.
+1749,4,Caroline Place
+1750,5,Caroline Place
+1751,6,Caroline Place
+1752,6,Caroline Place
+1753,7,Caroline Place
+1754,8,Caroline Place
+1755,8,Caroline Place
+1756,2,Caroline Place
+1757,,Whites Court
+1758,,Whites Court
+1759,,Whites Court
+1760,,Whites Court
+1761,,Whites Court
+1762,,Whites Court
+1763,,Whites Court
+1764,,Whites Court
+1765,,Whites Court
+1766,,Whites Court
+1767,,Whites Court
+1768,,Whites Court
+1769,,Whites Court
+1770,,Whites Court
+1771,,Whites Court
+1772,,Whites Court
+1773,,Whites Court
+1774,1,Whites Court
+1775,,Whites Court
+1776,2,Whites Court
+1777,3,Whites Court
+1778,3,Whites Court
+1779,4,Whites Court
+1780,5,Whites Court
+1781,6,Whites Court
+1782,,11th above Lombard
+1783,,11th above Lombard
+1784,,11th above Lombard
+1785,,11th above Lombard
+1786,,11th above Lombard
+1787,,11th above Lombard
+1788,,11th above Lombard
+1789,,11th above Lombard
+1790,,11th above Lombard
+1791,,11th above Lombard
+1792,,11th above Lombard
+1793,,11th above Lombard
+1794,,11th above Lombard
+1795,,11th above Lombard
+1796,,11th above Lombard
+1797,,11th above Lombard
+1798,,11th above Lombard
+1799,,11th above Lombard
+1800,,11th above Lombard
+1801,303,Pine
+1802,303,Pine
+1803,312,Pine
+1804,38,Burd's Court
+1805,38,Burd's Court
+1806,36,Burd's Court
+1807,36,Burd's Court
+1808,36,Burd's Court
+1809,34,Burd's Court
+1810,34,Burd's Court
+1811,34,Burd's Court
+1812,34,Burd's Court
+1813,32,Burd's Court
+1814,32,Burd's Court
+1815,32,Burd's Court
+1816,23,Burd's Court
+1817,30,Burd's Court
+1818,30,Burd's Court
+1819,30,Burd's Court
+1820,28,Burd's Court
+1821,28,Burd's Court
+1822,28,Burd's Court
+1823,26,Burd's Court
+1824,26,Burd's Court
+1825,26,Burd's Court
+1826,24,Burd's Court
+1827,24,Burd's Court
+1828,22,Burd's Court
+1829,22,Burd's Court
+1830,22,Burd's Court
+1831,22,Burd's Court
+1832,20,Burd's Court
+1833,20,Burd's Court
+1834,20,Burd's Court
+1835,18,Burd's Court
+1836,18,Burd's Court
+1837,18,Burd's Court
+1838,18,Burd's Court
+1839,18,Burd's Court
+1840,16,Burd's Court
+1841,16,Burd's Court
+1842,16,Burd's Court
+1843,16,Burd's Court
+1844,14,Burd's Court
+1845,14,Burd's Court
+1846,14,Burd's Court
+1847,14,Burd's Court
+1848,12,Burd's Court
+1849,12,Burd's Court
+1850,12,Burd's Court
+1851,12,Burd's Court
+1852,8,Burd's Court
+1853,8,Burd's Alley
+1854,8,Burd's Court
+1855,6,Burd's Court
+1856,4,Burd's Court
+1857,4,Burd's Court
+1858,4,Burd's Alley
+1859,2,Burd's Court
+1860,2,Burd's Court
+1861,10,Burd's Court
+1862,10,Burd's Court
+1863,,Eagle Court
+1864,,Eagle Court
+1865,,Eagle Court
+1866,2,Eagle Court
+1867,2,Eagle Court
+1868,4,Eagle Court
+1869,4,Eagle Court
+1870,4,Eagle Court
+1871,6,Eagle Court
+1872,6,Eagle Court
+1873,6,Eagle Court
+1874,6,Eagle Court
+1875,32,Eagle Court
+1876,32,Eagle Court
+1877,21,Eagle Court
+1878,23,Eagle Court
+1879,20,Eagle Court
+1880,,Eagle Court
+1881,13,Eagle Court
+1882,13,Eagle Court
+1883,100,Eagle Court
+1884,33,Eagle Court
+1885,33,Eagle Court
+1886,,
+1887,31,Eagle Court
+1888,31,Eagle Court
+1889,87,Eagle Court
+1890,29,Eagle Court
+1891,65,Eagle Court
+1892,21,Eagle Court
+1893,,Eagle Court
+1894,12,Eagle Court
+1895,12,Eagle Court
+1896,,Eagle Court
+1897,,Eagle Court
+1898,,Eagle Court
+1899,,Eagle Court
+1900,,Eagle Court
+1901,56,Currant Alley
+1902,56,Currant Alley
+1903,56,Currant Alley
+1904,54,Currant Alley
+1905,52,Currant Alley
+1906,52,Currant Alley
+1907,48,Currant Alley
+1908,48,Currant Alley
+1909,46,Currant Alley
+1910,44,Currant Alley
+1911,44,Currant Alley
+1912,42,Currant Alley
+1913,42,Currant Alley
+1914,42,Currant Alley
+1915,44,Currant Alley
+1916,40,Currant Alley
+1917,40,Currant Alley
+1918,40,Currant Alley
+1919,36,Currant Alley
+1920,36,Currant Alley
+1921,36,Currant Alley
+1922,38,Currant Alley
+1923,38,Currant Alley
+1924,38,Currant Alley
+1925,31,Currant Alley
+1926,31,Currant Alley
+1927,63,Currant Alley
+1928,63,Currant Alley
+1929,63,Currant Alley
+1930,63,Currant Alley
+1931,61,Currant Alley
+1932,61,Currant Alley
+1933,61,Currant Alley
+1934,59,Currant Alley
+1935,59,Currant Alley
+1936,57,Currant Alley
+1937,53,Currant Alley
+1938,53,Currant Alley
+1939,53,Currant Alley
+1940,51,Currant Alley
+1941,51,Currant Alley
+1942,49,Currant Alley
+1943,45,Currant Alley
+1944,45,Currant Alley
+1945,45,Currant Alley
+1946,41,Currant Alley
+1947,41,Currant Alley
+1948,41,Currant Alley
+1949,39,Currant Alley
+1950,39,Currant Alley
+1951,39,Currant Alley
+1952,37,Currant Alley
+1953,37,Currant Alley
+1954,37,Currant Alley
+1955,37,Currant Alley
+1956,35,Currant Alley
+1957,35,Currant Alley
+1958,33,Currant Alley
+1959,31,Currant Alley
+1960,55,Currant Alley
+1961,55,Currant Alley
+1962,150,Locust Street
+1963,150,Locust Street
+1964,150,Locust Street
+1965,130,Locust Street
+1966,130,Locust Street
+1967,130,Locust Street
+1968,130,Locust Street
+1969,128,Locust Street
+1970,3,Rose Alley
+1971,2,Rose Alley
+1972,6,Rose Alley
+1973,6,Rose Alley
+1974,9,Rose Alley
+1975,9,Rose Alley
+1976,129,Locust Street
+1977,129,Locust Street
+1978,139,Locust Street
+1979,149,Locust Street
+1980,151,Locust Street
+1981,153,Locust Street
+1982,,Currant Alley
+1983,,Currant Alley
+1984,,Currant Alley
+1985,29,Currant Alley
+1986,27,Currant Alley
+1987,150,Locust Street
+1988,146,Locust Street
+1989,147,Locust Street
+1990,138,Locust Street
+1991,130,Locust Street
+1992,130,Locust Street
+1993,130,Locust Street
+1994,128,Locust Street
+1995,5,Rose Alley
+1996,6,Rose Alley
+1997,7,Rose Alley
+1998,9,Rose Alley
+1999,3,Rose Alley
+2000,129,Locust Street
+2001,129,Locust Street
+2002,139,Locust Street
+2003,130,Locust Street
+2004,149,Locust Street
+2005,151,Locust Street
+2006,151,Locust Street
+2007,153,Locust Street
+2008,,Currant Alley
+2009,,Currant Alley
+2010,,Currant Alley
+2011,,Currant Alley
+2012,29,Currant Alley
+2013,27,Currant Alley
+2014,24,Currant Alley
+2015,23,Currant Alley
+2016,23,Currant Alley
+2017,21,Currant Alley
+2018,21,Currant Alley
+2019,21,Currant Alley
+2020,21,Currant Alley
+2021,24,Currant Alley
+2022,,
+2023,10,Currant Alley
+2024,12,Currant Alley
+2025,14,Currant Alley
+2026,14,Currant Alley
+2027,16,Currant Alley
+2028,16,Currant Alley
+2029,16,Currant Alley
+2030,18,Currant Alley
+2031,18,Currant Alley
+2032,4,Poplar Court
+2033,4,Poplar Court
+2034,16,Poplar Court
+2035,16,Poplar Court
+2036,16,Poplar Court
+2037,,Poplar Court
+2038,,Poplar Court
+2039,,Poplar Court
+2040,2,Poplar Court
+2041,2,Poplar Court
+2042,7,Poplar Court
+2043,4,Poplar Court
+2044,4,Poplar Court
+2045,6,Poplar Court
+2046,3 1/2,Poplar Court
+2047,3 1/2,Poplar Court
+2048,3,Poplar Court
+2049,3,Poplar Court
+2050,1,Poplar Court
+2051,5,Miles Alley
+2052,5,Miles Alley
+2053,5,Miles Alley
+2054,,Miles Alley
+2055,,Miles Alley
+2056,,Miles Alley
+2057,159,S. 10th Street
+2058,297,Walnut
+2059,305,Walnut
+2060,303,Walnut
+2061,303,Walnut
+2062,303,Walnut
+2063,2,Juniper Lane
+2064,2,Juniper Lane
+2065,2,Juniper Lane
+2066,12,Juniper Alley
+2067,12,Juniper Alley
+2068,12,Juniper Alley
+2069,2,Juniper Alley
+2070,10,Hunter Alley
+2071,10,Hunter
+2072,12,Hunter
+2073,,11th & Race
+2074,,11th & Race
+2075,,Wiley's Court
+2076,155,N. 12th Street
+2077,283,Race
+2078,283,Race
+2079,1,Sheaff Alley
+2080,,Wiley's Court
+2081,,Mark's Lane
+2082,,Wiley's Lane
+2083,,Wiley's Lane
+2084,294,Race
+2085,294,Race
+2086,294,Race
+2087,294,Race
+2088,294,Race
+2089,294,Race
+2090,294,Race
+2091,313,Cherry
+2092,313,Cherry
+2093,313,Cherry
+2094,10,Juniper Alley
+2095,,Charlotte Street
+2096,184,Locust Street
+2097,4,Mercer
+2098,4,Mercer
+2099,4,Mercer
+2100,6,Mercer
+2101,6,Mercer
+2102,14,Mercer
+2103,14,Mercer
+2104,14,Mercer
+2105,7,Mercer
+2106,3,Mercer
+2107,3,Mercer
+2108,178,Locust Street
+2109,178,Locust Street
+2110,178,Locust Street
+2111,178,Locust Street
+2112,170,Locust Street
+2113,170,Locust Street
+2114,170,Locust Street
+2115,170,Locust Street
+2116,168,Locust Street
+2117,168,Locust Street
+2118,168,Locust Street
+2119,166,Locust Street
+2120,166,Locust Street
+2121,166,Locust Street
+2122,4,Prosperous Alley
+2123,4,Prosperous Alley
+2124,4,Prosperous Alley
+2125,6,Prosperous Alley
+2126,3,Prosperous Alley
+2127,3,Prosperous Alley
+2128,19,Prosperous Alley
+2129,19,Prosperous Alley
+2130,19,Prosperous Alley
+2131,19,Prosperous Alley
+2132,21,Prosperous Alley
+2133,21,Prosperous Alley
+2134,21,Prosperous Alley
+2135,21,Prosperous Alley
+2136,25,Prosperous Alley
+2137,25,Prosperous Alley
+2138,39,Quince
+2139,741,Quince
+2140,41,Quince
+2141,43,Quince
+2142,43,Quince
+2143,43,Quince
+2144,45,Quince
+2145,45,Quince
+2146,47,Quince
+2147,47,Quince
+2148,47,Quince
+2149,49,Quince
+2150,49,Quince
+2151,32,Quince
+2152,32,Quince
+2153,56,Quince
+2154,56,Quince
+2155,14,Quince
+2156,14,Quince
+2157,52,Quince
+2158,52,Quince
+2159,52,Quince
+2160,26,Prosperous Alley
+2161,26,Prosperous Alley
+2162,29,Prosperous Alley
+2163,19,Mercer
+2164,19,Mercer
+2165,28,Prosperous Alley
+2166,28,Prosperous Alley
+2167,50,Quince
+2168,50,Quince
+2169,50,Quince
+2170,45,Quince
+2171,45,Quince
+2172,46,Quince
+2173,46,Quince
+2174,46,Quince
+2175,45,Quince
+2176,38,Quince
+2177,38,Quince
+2178,,
+2179,22,Quince
+2180,22,Quince
+2181,22,Quince
+2182,30,Quince
+2183,30,Quince
+2184,30,Quince
+2185,26,Quince
+2186,26,Quince
+2187,26,Quince
+2188,26,Quince
+2189,2,Warren
+2190,2,Warren
+2191,2,Warren
+2192,4,Warren
+2193,6,Warren
+2194,8,Warren
+2195,10,Warren
+2196,10,Warren
+2197,10,Warren
+2198,10,Warren
+2199,10,Warren
+2200,12,Warren
+2201,12,Warren
+2202,14,Warren
+2203,14,Warren
+2204,13,Mercer
+2205,16,Mercer
+2206,84,S. 12th Street
+2207,,Bucks Court
+2208,,Bucks Court
+2209,,Bucks Court
+2210,,Bucks Court
+2211,,Bucks Court
+2212,,Bucks Court
+2213,,Bucks Court
+2214,,Bucks Court
+2215,,Bucks Court
+2216,,Bucks Alley
+2217,,Bucks Court
+2218,305,Pine
+2219,305,Pine
+2220,305,Pine
+2221,318,Pine
+2222,319,Pine
+2223,312,Pine
+2224,312,Pine
+2225,312,Pine
+2226,310,Pine
+2227,308,Pine
+2228,1,Ohio
+2229,1,Ohio
+2230,3,Ohio
+2231,3,Ohio
+2232,5,Ohio
+2233,5,Ohio
+2234,5,Ohio
+2235,7,Ohio
+2236,,Ohio
+2237,,Ohio
+2238,4,Ohio
+2239,4,Ohio
+2240,4,Ohio
+2241,,Ohio
+2242,,Ohio
+2243,,Ohio
+2244,,Ohio
+2245,93,S. 12th Street
+2246,93,S. 12th Street
+2247,93,S. 12th Street
+2248,93,S. 12th Street
+2249,,Lombard below 12th St.
+2250,27,Washington
+2251,25,Washington
+2252,19,Washington
+2253,19,Washington
+2254,19,Washington
+2255,21,Washington
+2256,21,Washington
+2257,17,Washington
+2258,17,Washington
+2259,17,Washington
+2260,17,Washington
+2261,15,Washington
+2262,7,Washington
+2263,15,Washington
+2264,15,Washington
+2265,15,Washington
+2266,11,Washington
+2267,11,Washington
+2268,11,Washington
+2269,11,Washington
+2270,9,Washington
+2271,9,Washington
+2272,9,Washington
+2273,9,Washington
+2274,7,Washington
+2275,5,Washington
+2276,5,Washington
+2277,5,Washington
+2278,1,Washington
+2279,1,Washington
+2280,2,Washington
+2281,2,Washington
+2282,2,Washington
+2283,4,Washington
+2284,4,Washington
+2285,4,Washington
+2286,8,Washington
+2287,8,Washington
+2288,8,Washington
+2289,,Lombard below 12th St.
+2290,38,Prosperous Alley
+2291,38,Prosperous Alley
+2292,38,Prosperous Alley
+2293,35,Prosperous Alley
+2294,68,Centre
+2295,68,Centre
+2296,68,Centre
+2297,,Centre above 12th St.
+2298,,Centre above 12th St.
+2299,,Centre above 12th St.
+2300,,Centre above 12th St.
+2301,,Centre above 12th St.
+2302,,Centre above 12th St.
+2303,,Centre above 12th St.
+2304,,Centre above 12th St.
+2305,,Centre above 12th St.
+2306,,Centre above 12th St.
+2307,,Centre above 12th St.
+2308,,Centre above 12th St.
+2309,,Dean above Locust
+2310,,Dean above Locust
+2311,,Dean above Locust
+2312,,Dean above Locust
+2313,,Dean above Locust
+2314,,Dean above Locust
+2315,,Dean above Locust
+2316,,Dean above Locust
+2317,,Locust below 13th St.
+2318,,Locust below 13th St.
+2319,,Locust below 13th St.
+2320,,Locust below 13th St.
+2321,,Locust below 13th St.
+2322,,Locust below 13th St.
+2323,,Perry above Lambert
+2324,406,Race
+2325,,Cherry below Broad
+2326,,Broad & Paper Alley
+2327,,Broad & Paper Alley
+2328,,Broad & Paper Alley
+2329,6,N. Juniper
+2330,7,N. Juniper
+2331,7,N. Juniper
+2332,7,N. Juniper
+2333,4,N. 13th Street
+2334,4,Butler's Avenue
+2335,6,Butler's Avenue
+2336,6,Butler's Avenue
+2337,,Butler's Avenue
+2338,1,Truxton
+2339,1,Truxton
+2340,1,Truxton
+2341,,12th & Budd
+2342,,12th & Budd
+2343,,Salem Alley
+2344,,Salem Alley
+2345,,Salem Alley
+2346,,Salem Alley
+2347,,Salem Alley
+2348,,Salem Alley
+2349,,Salem Alley
+2350,,Salem Alley
+2351,,Salem Alley
+2352,17,Mifflin
+2353,,12th & South
+2354,,Vine near Schuylkill 8th
+2355,,Vine near Schuylkill 8th
+2356,,Broad above Race
+2357,,Broad above Race
+2358,,Broad above Race
+2359,,Schuylkill 8th & Cherry
+2360,,Joint Alley
+2361,,Joint Alley
+2362,,Joint Alley
+2363,,Joint Alley
+2364,10,Washington
+2365,10,Washington
+2366,10,Washington
+2367,10,Washington
+2368,10,Washington
+2369,12,Washington
+2370,12,Washington
+2371,12,Washington
+2372,12,Washington
+2373,14,Washington
+2374,14,Washington
+2375,14,Washington
+2376,14,Washington
+2377,16,Washington
+2378,16,Washington
+2379,16,Washington
+2380,29,Washington
+2381,29,Washington
+2382,20,Washington
+2383,22,Washington
+2384,22,Washington
+2385,22,Washington
+2386,22,Washington
+2387,20,Washington
+2388,20,Washington
+2389,,South above 11th St.
+2390,,South above 11th St.
+2391,,South above 11th St.
+2392,,South above 11th St.
+2393,,South above 11th St.
+2394,2,Guilelmina
+2395,3,Guilelmina
+2396,5,Guilelmina
+2397,6,Guilelmina
+2398,7,Guilelmina
+2399,7,Guilelmina
+2400,31,West Cherry
+2401,31,West Cherry
+2402,33,West Cherry
+2403,,Bear Street
+2404,,Bear Street
+2405,,Bear Street
+2406,22,Barker
+2407,17,Linden
+2408,,Linden
+2409,,Linden
+2410,,Linden
+2411,4,Linden
+2412,4,Linden
+2413,,George above Schuylkill 7th
+2414,,George above Schuylkill 7th
+2415,,George above Schuylkill 7th
+2416,,George above Schuylkill 7th
+2417,,George above Schuylkill 7th
+2418,,George above Schuylkill 7th
+2419,,George above Schuylkill 7th
+2420,,George above Schuylkill 7th
+2421,15,George above Schuylkill 7th
+2422,15,George above Schuylkill 7th
+2423,15,George above Schuylkill 7th
+2424,16,George above Schuylkill 7th
+2425,16,George above Schuylkill 7th
+2426,16,George above Schuylkill 7th
+2427,16,George above Schuylkill 7th
+2428,16,George above Schuylkill 7th
+2429,,Lewis above Schuylkill 7th
+2430,,Lewis above Schuylkill 7th
+2431,,Schuylkill 7th below Walnut
+2432,,Spruce above Schuylkill 7th
+2433,,Spruce above Schuylkill 7th
+2434,,Spruce above Schuylkill 7th
+2435,,Spruce above Schuylkill 7th
+2436,,Spruce above Schuylkill 7th
+2437,,Spruce above Schuylkill 7th
+2438,21,Dugan
+2439,,Juniper & South
+2440,,Ashton & Arch
+2441,,Race below Schuylkill 2nd & 3rd
+2442,,Race below Schuylkill 2nd & 3rd
+2443,,Barker near Schuylkill & 5th
+2444,,Linden above Schuylkill 7th
+2445,,Linden above Schuylkill 7th
+2446,,George above Schuylkill 6th
+2447,,Lemon above Schuylkill 6th
+2448,,Lemon above Schuylkill 6th
+2449,,Lemon above Schuylkill 6th
+2450,,Lemon above Schuylkill 6th
+2451,,Lemon above Schuylkill 6th
+2452,,Lemon above Schuylkill 6th
+2453,,Lemon above Schuylkill 6th
+2454,,Lemon above Schuylkill 6th
+2455,11,Helmuth
+2456,11,Helmuth
+2457,12,Helmuth
+2458,12,Helmuth
+2459,,Helmuth above Schuylkill 7th
+2460,,Helmuth above Schuylkill 7th
+2461,,Helmuth above Schuylkill 7th
+2462,,Helmuth above Schuylkill 7th
+2463,,Helmuth above Schuylkill 7th
+2464,,
+2465,20,Helmuth above Schuylkill 7th
+2466,20,Helmuth above Schuylkill 7th
+2467,20,Helmuth above Schuylkill 7th
+2468,04,Guilelmina
+2469,,Guilelmina
+2470,,Guilelmina
+2471,,Guilelmina
+2472,,Guilelmina
+2473,,Guilelmina
+2474,,Guilelmina
+2475,,Guilelmina
+2476,2,Guilelmina
+2477,2,Guilelmina
+2478,3,Guilelmina
+2479,3,Guilelmina
+2480,4,Guilelmina
+2481,4,Guilelmina
+2482,4,Guilelmina
+2483,5,Guilelmina
+2484,5,Guilelmina
+2485,,Guilelmina
+2486,6,Guilelmina
+2487,6,Guilelmina
+2488,,Lombard below Schuylkill 5th & 6th
+2489,,Lombard below Schuylkill 5th & 6th
+2490,,Lombard below Schuylkill 5th & 6th
+2491,7,Lombard below Schuylkill 5th & 6th
+2492,,Williams above Schuylkill 5th
+2493,,Schuylkill 3rd above Lombard
+2494,,Schuylkill 2nd & Lombard
+2495,,Schuylkill 3rd near Chestnut
+2496,6,S. 8th Street
+2497,6,S. 8th Street
+2498,243,Spruce
+2499,355,South Street
+2500,,
+2501,,N. Phoenix Street
+2502,,Tamany above 4th St.
+2503,91,Ridge Road
+2504,,Crown above Duke
+2505,,Maria Street
+2506,,N. Maria Street
+2507,,Hancock Street
+2508,16,Duke Street
+2509,,4th House
+2510,,N. Browne Street
+2511,,Hancock Street
+2512,,N. Orchard Street
+2513,,James St. near Ridge Road
+2514,,Old York Road
+2515,15,Paschalle Alley
+2516,,6th & Phoenix St.
+2517,,Dycott's Court
+2518,,N. Jefferson Street
+2519,,Apple Street
+2520,76,1st House Court
+2521,,3rd House
+2522,36,Paschalle Alley
+2523,76,Frankford Road
+2524,179,N. 4th Street
+2525,179,N. 4th Street
+2526,,Rose Street
+2527,50,Ridge Road
+2528,,Miles Court
+2529,,William below Rose St.
+2530,,Garden above Wood
+2531,415,4th Street
+2532,,11 above Callowhill
+2533,417,4th Street
+2534,,Rose Street
+2535,,N. Orchard Street
+2536,,N. Perry Street
+2537,17,Paschalle Alley
+2538,,4th House
+2539,13,Paschalle Alley
+2540,,Garden above Willow
+2541,,Callowhill Street
+2542,11,Duke Street
+2543,,Ann St. Francisville
+2544,,Apple Street
+2545,,Second St. Road
+2546,32,Paschalle Alley
+2547,,2nd St. Road
+2548,2,Paschalle Alley
+2549,16,Duke Street
+2550,,1st house Shotwells now above Franklin via Apple
+2551,23,Tamany Street
+2552,132,Apple Street
+2553,200,Coates Street
+2554,,Orange above Washington
+2555,,School St. above Browne St.
+2556,,N. Browne Street
+2557,15,Paschalle Alley
+2558,,N. Perry Street
+2559,,N. Browne Street
+2560,,2nd House
+2561,,N. Rowle Street
+2562,,Washington Court
+2563,,N. Rowle Street
+2564,,4th House
+2565,20,Mechanic Street
+2566,,N.E. 9th & Wood
+2567,,Otto Street
+2568,,Otto Street
+2569,28,Apple Street
+2570,,N. Lilly Alley
+2571,26,Paschalle Alley
+2572,,N. Perry Street
+2573,,Rose Street
+2574,8,Paschalle Alley
+2575,2,Torrs Alley
+2576,,Do Do
+2577,,6th House
+2578,,Orange above Washington
+2579,,Rose Alley
+2580,,Lilly Alley
+2581,,N.E. 9th & Wood
+2582,,Do
+2583,,Hanover above Queen
+2584,132,Apple Street
+2585,13,Young's Alley
+2586,,Ann St. Francisville
+2587,377,3rd Street
+2588,13,Paschalle Alley
+2589,,N. Perry Street
+2590,2,Paschalle Alley
+2591,15,Paschalle Alley
+2592,,Thomas Alley between Front & Oak
+2593,,6th House
+2594,,Little Apple above Culvert
+2595,26,Paschalle Alley
+2596,,Hick's Court
+2597,,York Court between Front & 2nd St.
+2598,,Old York Road
+2599,,1st house Shotwells now above Franklin via Apple
+2600,,N. Phoenix Street
+2601,,1st house Shotwells now above Franklin via Apple
+2602,,
+2603,,N. below Franklin St.
+2604,,Maria Street
+2605,23,Tamany Street
+2606,,Front above Browne
+2607,,N. Hick's Court
+2608,,James St. near Ridge Road
+2609,85,Old York Road
+2610,,
+2611,126,Apple Street
+2612,,6th House
+2613,,N. below Franklin St.
+2614,8,Willow Street
+2615,113,Apple Street
+2616,34,Paschalle Alley
+2617,266,3rd Street
+2618,26,Paschalle Alley
+2619,,Melon above 11th St.
+2620,,Jefferson Street
+2621,27,Hancock Street
+2622,34,Paschalle Alley
+2623,,Hancock Street
+2624,,N. Perry Street
+2625,,Paschalle Alley
+2626,16,Duke Street
+2627,29,Paschalle Alley
+2628,,3rd House
+2629,,8th above Wood
+2630,415,4th Street
+2631,,Orchard Street
+2632,,Garden above Wood
+2633,138,Apple Street
+2634,134,Apple Street
+2635,13,Paschalle Alley
+2636,126,Apple Street
+2637,,Apple Street
+2638,,N. Hick's Court
+2639,,Rawle Street
+2640,,Maria Street
+2641,,
+2642,,Melon above 11th St.
+2643,,Melon above 11th St.
+2644,,N. Perry Street
+2645,8,Paschalle Alley
+2646,,Britten St. near Same
+2647,29,Paschalle Alley
+2648,3,Paschalle Alley
+2649,,N. Perry Street
+2650,,Orange above Washington
+2651,24,Mechanic Street
+2652,,Garden above Willow
+2653,,5th House
+2654,,Rose Street
+2655,,Apple Street
+2656,15,Paschalle Alley
+2657,,Torrs Alley Court
+2658,,Apple Street
+2659,,Apple Street
+2660,7,Orchard Street
+2661,,Hancock Street
+2662,13,Paschalle Alley
+2663,,Apple Street
+2664,,Hancock Street
+2665,27,Hancock Street
+2666,,Second St. Road
+2667,,Garden above Wood
+2668,,Hick's Court
+2669,4,Apple Street
+2670,25,Hancock Street
+2671,,Mechanic Street
+2672,,Edward Street
+2673,,N. Perry Street
+2674,,Maria Street
+2675,34,Paschalle Alley
+2676,,Orange above Washington
+2677,,Apple Street
+2678,,N. Orchard Street
+2679,,N. Orchard Street
+2680,,N. Lilly Alley
+2681,13,Paschalle Alley
+2682,,George St. Francisville
+2683,,
+2684,,N. below Franklin St.
+2685,,Carmac Street
+2686,,Thomas Alley between Front & Oak
+2687,,N. Hick's Court
+2688,,Rowle & Orchard St.
+2689,,8th above Wood
+2690,,Apple Street
+2691,25,Paschalle Alley
+2692,,6th House
+2693,,2nd House
+2694,,Otto Street
+2695,15,Young's Alley
+2696,,N. Orchard Street
+2697,48,New Market Street
+2698,26,Paschalle Alley
+2699,124,Apple Street
+2700,,5th House
+2701,,N. Orchard Street
+2702,,N. Orchard Street
+2703,76,1st House Court
+2704,,Crown Street
+2705,,Water above Callowhill St.
+2706,15,Willow Street
+2707,,Miles Court
+2708,,Rose Street
+2709,15,Willow Street
+2710,19,Paschalle Alley
+2711,,Maria Street
+2712,134,Apple Street
+2713,21,Tamany Street
+2714,,Mechanic Street
+2715,,Do
+2716,23,Tamany Street
+2717,,N. Maria Street
+2718,136,Apple Street
+2719,34,Paschalle Alley
+2720,,N. Browne Street
+2721,23,Tamany Street
+2722,47,Noble Street
+2723,15,Paschalle Alley
+2724,26,Paschalle Alley
+2725,,N. Maria Street
+2726,,Clymer Street
+2727,,Rose Alley
+2728,,Maria Street
+2729,,N. Perry Street
+2730,,George St. Francisville
+2731,,N. Green above 3rd St.
+2732,,N. Phoenix Street
+2733,,N. Orchard Street
+2734,,N. Rowle Street
+2735,126,Apple Street
+2736,36,Paschalle Alley
+2737,26,Hancock Street
+2738,,8th above Wood
+2739,,Same Court
+2740,36,Paschalle Alley
+2741,,Same Court
+2742,,Same Court
+2743,,N. Rowle Street
+2744,,Steam Mill Alley between 2nd & 3rd St.
+2745,352,Browne Street
+2746,22,Mechanic Street
+2747,2,Torrs Alley
+2748,,Vernon above 10th St. 
+2749,417,4th Street
+2750,124,Apple Street
+2751,,Duke St Ken'ton
+2752,,Rose Street
+2753,,George St. Francisville
+2754,,Steam Mill Alley between 2nd & 3rd St.
+2755,,6th House
+2756,,N. Perry Street
+2757,,N. Perry Street
+2758,,N. Lilly Alley
+2759,,Rose Street
+2760,,3rd House
+2761,,Washington Court
+2762,9,Willow Street
+2763,,N. Otto Street
+2764,,Callowhill Street
+2765,115,Apple Street
+2766,,Maria Street
+2767,,N. Perry Street
+2768,32,Paschalle Alley
+2769,29,Paschalle Alley
+2770,,Dycott's Court
+2771,,Edward Street
+2772,,N. Browne Street
+2773,,Elizabeth between 5th & 6th St.
+2774,110,Green Street
+2775,17,Paschalle Alley
+2776,,Milton above 11th St.
+2777,138,Apple Street
+2778,27,Hancock Street
+2779,,3rd & George St.
+2780,,2nd House
+2781,,Torrs Alley & Habor
+2782,,Maria Street
+2783,,Green above 3rd St.
+2784,7,Orchard Street
+2785,,N. Browne Street
+2786,,N. below Franklin St.
+2787,,N. Culvert Street
+2788,179,N. 4th Street
+2789,13,Paschalle Alley
+2790,36,Paschalle Alley
+2791,,N. Browne Street
+2792,132,Apple Street
+2793,,N. Phoenix Street
+2794,,Apple & Browne St.
+2795,,N. Otto Street
+2796,,Howard below Montgomery
+2797,200,Coates Street
+2798,,Ann St. Francisville
+2799,,York Court between Front & 2nd St.
+2800,,Hope below Masten
+2801,15,Young's Alley
+2802,,N. Browne Street
+2803,,2nd House
+2804,110,Green Street
+2805,,Washington Court
+2806,,Girard St. & W. Broad
+2807,,Hick's Court
+2808,132,Apple Street
+2809,26,Paschalle Alley
+2810,200,Coates Street
+2811,32,Paschalle Alley
+2812,138,Apple Street
+2813,138,Apple Street
+2814,34,Paschalle Alley
+2815,9,Paschalle Alley
+2816,,Apple Street
+2817,,N. Carmac Street
+2818,354,Browne Street
+2819,,Do Do
+2820,,Ogden above 11th St.
+2821,,Apple Street
+2822,,Hancock Street
+2823,,Young's Alley
+2824,,William below Rose St.
+2825,,Melon above 11th St.
+2826,,Hancock Street
+2827,,Ogden above 10th St.
+2828,,N. Browne Street
+2829,136,Apple Street
+2830,180,Poplar Street
+2831,,N. Orchard Street
+2832,,N. Orchard Street
+2833,100,Old York Road
+2834,,N. Orchard Street
+2835,,Wood above 8th Court
+2836,,N. Carmac Street
+2837,,Maria Street
+2838,,Second St. Road
+2839,13,Paschalle Alley
+2840,415,4th Street
+2841,,Rose Street
+2842,,Beach above Browne
+2843,,Miles Court
+2844,8,Paschalle Alley
+2845,,Elizabeth between 5th & 6th St.
+2846,,Rose Street
+2847,,Rose Street
+2848,15,Young's Alley
+2849,,Palmer below Franklin St.
+2850,,N. below Franklin St.
+2851,28,Paschalle Alley
+2852,,5th below Franklin St.
+2853,,Frankford Road
+2854,25,Paschalle Alley
+2855,28,Paschalle Alley
+2856,,
+2857,,George St. Francisville
+2858,115,Bedford between 7th & 8th St.
+2859,12,Feet Alley
+2860,13,Federal Street
+2861,17,Hollowell Street
+2862,,Bedford Street
+2863,,Adam Street
+2864,,Adam Street
+2865,242,Carpenter Street
+2866,,Carpenter Street
+2867,73,Plum Street
+2868,,S.E. 8th & Washington St.
+2869,,Treytags Alley
+2870,,Lisle Street
+2871,2,Feet Alley
+2872,324 1/2,Cedar above 7th St.
+2873,,Passyunk Road
+2874,,Cedar above 7th St.
+2875,,New Bedford Street
+2876,,Shanty 8
+2877,,N. Morris Street
+2878,271,9th Street
+2879,242,Carpenter Street
+2880,,Spofford Street
+2881,,Shippen between 7th & 8th St.
+2882,5,Lebanon Street
+2883,,Sherman's Court
+2884,,Anthony below Dickerson St.
+2885,169,Carpenter Street
+2886,,Carpenter between 7th & 8th St.
+2887,272,Shippin Street
+2888,159,Carpenter Street
+2889,,Fox Court
+2890,,Davis Court
+2891,,Bedford Street
+2892,,Carpenter between 13th & Broad
+2893,103,German Street
+2894,,Bedford Street
+2895,,N. Russell's Avenue
+2896,242,Carpenter Street
+2897,,N. Russell Street
+2898,,Shanty
+2899,,N. Russell's Avenue
+2900,,Shippen between 7th & 8th St.
+2901,10,Emeline Street
+2902,,Shanty 10
+2903,113,Bedford between 7th & 8th St.
+2904,13,Carpenter between 13th & Broad
+2905,412,4th Street
+2906,,Carpenter Street
+2907,,6th & 7th St.
+2908,,Loud Street
+2909,12,Carpenter Street
+2910,,Emeline Street
+2911,,Hutton's Court running from South to Small below 7th St.
+2912,,Moore & Front
+2913,,Little Oak Street
+2914,,Greswold's Alley
+2915,167,Carpenter Street
+2916,,Adam Street
+2917,,Mackey Street
+2918,,Hutton's Court running from South to Small below 7th St.
+2919,,Passyunk Road
+2920,324,Cedar above 7th St.
+2921,,Shanty
+2922,115,Bedford between 7th & 8th St.
+2923,,Shanty 2
+2924,,N. Stevens Court
+2925,,New Bedford below 10th & 11th St.
+2926,,Harmony Street
+2927,,New Bedford Street
+2928,,Shanty 5
+2929,188,Shippin Street
+2930,13,Federal Street
+2931,,Lisle Street
+2932,,Small between 5th & 6th St.
+2933,,Spofford Street
+2934,,Shippen Street
+2935,,Cedar Street
+2936,,Bedford Street
+2937,,Adam Street
+2938,,Steward Street
+2939,,Emeline Street
+2940,,N. Russell's Avenue
+2941,,Passyunk Road
+2942,12,Feet Alley
+2943,,New Bedford Street
+2944,,8th Street
+2945,,Dickerson's Court
+2946,246,Carpenter Street
+2947,22,Lebanon Street
+2948,18,Lebanon Street
+2949,160,New Bedford Street
+2950,,Bedford Street
+2951,,Shippen between 7th & 8th St.
+2952,,Small Street
+2953,,Small between 5th & 6th St.
+2954,,N. Marion Street
+2955,,Hutton's Court running from South to Small below 7th St.
+2956,,Marshall's Court
+2957,,Small Street
+2958,331,5th Street
+2959,,Fox Court
+2960,,Passyunk Road
+2961,115,Queen Street
+2962,13,Carpenter between 13th & Broad
+2963,,Parkers Alley
+2964,,Emeline Street
+2965,,6th below Cathrine St.
+2966,,N. Marriot Lane
+2967,389,13th Street
+2968,3,German Street
+2969,,N. Russell's Avenue
+2970,,6th & 7th St.
+2971,,Plum Street
+2972,322,Cedar above 7th St.
+2973,,New Bedford Street
+2974,,Rolandson Street
+2975,,Carpenter Street
+2976,,N. Rolandson Street
+2977,,Cedar Street
+2978,,Curry's Court Shippen above 11th St.
+2979,242,Carpenter Street
+2980,,New Bedford Street
+2981,,
+2982,7,Charles Street
+2983,160,New Bedford Street
+2984,242,Carpenter Street
+2985,,Adam Street
+2986,12,Emeline Street
+2987,154,Queen Street
+2988,,Yeagers Court
+2989,,Carpenter Street
+2990,,New Bedford Street
+2991,,Cryders Court
+2992,,Shippen between 7th & 8th St.
+2993,,Sherkers Alley
+2994,,8th Street
+2995,,N. Hubbell Street
+2996,,Small between 5th & 6th St.
+2997,,
+2998,,Marion Street
+2999,,Cedar Street
+3000,,N. Russell's Avenue
+3001,,8th Street
+3002,,Carpenter Street
+3003,158,Queen Street
+3004,,Emeline Street
+3005,73,Plum Street
+3006,,Small between 5th & 6th St.
+3007,,Clifton Street
+3008,112,Plum Street
+3009,,Emeline Street
+3010,,Sherman's Court
+3011,,N. Marion Street
+3012,13,Federal Street
+3013,,6th & 7th St.
+3014,,Sherman's Court
+3015,13,Federal Street
+3016,,Poplar Street
+3017,,Bedford Street
+3018,8,Shippen Street
+3019,,Higgins & Hughes Ct.
+3020,350,South Street
+3021,,6th & 7th St.
+3022,,New Bedford Street
+3023,8,Emeline Street
+3024,20,Lebanon Street
+3025,354,Cedar Street
+3026,,Marion Street
+3027,16,Lebanon Street
+3028,242,Carpenter Street
+3029,12,Carpenter Street
+3030,,Small between 5th & 6th St.
+3031,,New Bedford Street
+3032,,Stevens Court
+3033,13,Federal Street
+3034,13,Carpenter between Broad
+3035,,Mackey Street
+3036,350,South Street
+3037,10,Carpenter Street
+3038,118,Plum Street
+3039,,Molier's Court
+3040,,Bedford Street
+3041,,Lisle Street
+3042,,Sherman's Court
+3043,,Parker Street
+3044,,Shippen Street
+3045,,Baker near 7th St.
+3046,1,Lisle Street
+3047,,Cryders Court
+3048,,Mackey Street
+3049,,E. Front Street
+3050,,7th below Reed St.
+3051,7,Charles Street
+3052,,Cedar above 7th St.
+3053,,N. Little Oak Street
+3054,,Sweades Court
+3055,,Cellar
+3056,,Hubbell Street
+3057,,S.E. 10th & Cathrine St.
+3058,,Emeline Street
+3059,,8th above Carpenter St.
+3060,,N. Marriot Lane
+3061,259,9th Street
+3062,,Cedar Street
+3063,,Stanley Street
+3064,7,Charles Street
+3065,,Plum Street
+3066,,N. Ball Street
+3067,,Lisle Street
+3068,,Shippen between 7th & 8th St.
+3069,,Bedford Street
+3070,,Fulton Street
+3071,113,Bedford between 7th & 8th St.
+3072,,Shippen between 7th & 8th St.
+3073,320,6th Street
+3074,,N. Marriot Lane
+3075,,West Side Passyunk
+3076,,Spofford Street
+3077,,Shippen between 7th & 8th St.
+3078,,Cathrine Street
+3079,,Bedford Street
+3080,,N. Morris Street
+3081,,Emeline Street
+3082,,Molier's Court
+3083,81,New Bedford Street
+3084,,N. Stanley Street
+3085,,Small between 5th & 6th St.
+3086,,Christian above 7th St.
+3087,,
+3088,,
+3089,,Emeline Street
+3090,,Bedford Street
+3091,,On Benj Bacon's Book
+3092,320,6th Street
+3093,,Small between 5th & 6th St.
+3094,,Steward Street
+3095,,Carpenter Street
+3096,,Small between 5th & 6th St.
+3097,,Poplar Street
+3098,,Lisle Street
+3099,272,Shippin Street
+3100,,8th Street
+3101,,Lisle Street
+3102,,N. Hubbell Street
+3103,,Lisle Street
+3104,,Emeline Street
+3105,,Small between 5th & 6th St.
+3106,,N. Morris Street
+3107,,Britton Court
+3108,,New Bedford Street
+3109,,Little Washington Street
+3110,,Cryders Court
+3111,,Bedford Street
+3112,,Baker Street
+3113,,N. Russell Street
+3114,,Poplar Street
+3115,,Fox Court
+3116,,N. Russell Street
+3117,,Harmony Street
+3118,291,Carpenter Street
+3119,,Shanty 7
+3120,,Cellar
+3121,,Shippen between 7th & 8th St.
+3122,,Shanty 3
+3123,,N. Ball Street
+3124,,Cedar Street
+3125,,Shippen Street
+3126,,N. Marion Street
+3127,,Queen between 3rd & 4th St.
+3128,,Marshall's Court
+3129,190,Shippin Street
+3130,,Black Horse Alley
+3131,,N. Marion Street
+3132,,Shippen Street
+3133,,Small between 5th & 6th St.
+3134,12,Feet Alley
+3135,,6th & 7th St.
+3136,,N. 8th above Christian
+3137,,Treytags Alley
+3138,,Small between 5th & 6th St.
+3139,,Davis Court
+3140,,Cedar above 7th St.
+3141,,7th Street
+3142,,Sweades Court
+3143,9,Christian Street
+3144,2,Milton Street
+3145,334,Cedar above 7th St.
+3146,5,S. Pine Street
+3147,,Cellar
+3148,,N. Russell's Avenue
+3149,73,Plum Street
+3150,,New Bedford Street
+3151,,Emeline Street
+3152,,Small between 5th & 6th St.
+3153,,N. Ball Street
+3154,160,New Bedford Street
+3155,,Lisle Street
+3156,,N. Marion Street
+3157,,N. Shippen Lane
+3158,,Prosperous Alley
+3159,,Bedford Street
+3160,,4th below Queen St.
+3161,,Fox Court
+3162,4,Emeline Street
+3163,188,Shippin Street
+3164,,Emeline Street
+3165,,Poplar Street
+3166,,Cedar Street
+3167,,Small between 5th & 6th St.
+3168,,Cedar Street
+3169,,N. 7th below Marriot Lane
+3170,,Small between 5th & 6th St.
+3171,,Lisle Street
+3172,,Sherkers Alley
+3173,,Anthony below Dickerson St.
+3174,,N. Marriot Lane
+3175,,Cedar Street
+3176,,N. Marriot Lane
+3177,,N. Rolandson Street
+3178,9,Christian Street
+3179,,Christian below 8th St.
+3180,244,Carpenter Street
+3181,7,Charles Street
+3182,12,Shippen Street
+3183,173,Christian
+3184,6,Feet Alley
+3185,,Shippen Lane
+3186,,Moyamensing Road
+3187,,N. Hubbell Street
+3188,,Shippen between 7th & 8th St.
+3189,,Small Street
+3190,,N. Stanley Street
+3191,13,Carpenter between 13th & Broad
+3192,324,6th Street
+3193,,N. Russell Street
+3194,,N. Hubbell Street
+3195,190,Shippin Street
+3196,,Christian below 8th St.
+3197,3,German Street
+3198,,Bedford Street
+3199,,E. Front Street
+3200,,Shippen between 7th & 8th St.
+3201,,Stevens Court
+3202,,Anthony below Dickerson St.
+3203,305,8th below Cedar
+3204,10,Carpenter Street
+3205,,Harmony Street
+3206,,Bedford Street
+3207,,8th below Fitzwater St.
+3208,,N. Russell Street
+3209,9,Christian Street
+3210,,Shanty
+3211,10,Carpenter Street
+3212,,Shippen between 7th & 8th St.
+3213,,Poplar Street
+3214,,N. Marriot Lane
+3215,16,Russell Street
+3216,112,Bedford between 7th & 8th St.
+3217,,New Bedford Street
+3218,,Marshall's Court
+3219,,Lisle Street
+3220,,Bedford Street
+3221,,N. Hubbell Street
+3222,15,S. Pine Street
+3223,,Passyunk Road
+3224,,Passyunk Road
+3225,,N. Little Oak Street
+3226,242,Carpenter Street
+3227,,Black Horse Alley
+3228,,N. Russell Street
+3229,,Emeline Street
+3230,,N. Ball Street
+3231,115,Christian Street
+3232,,8th below Fitzwater St.
+3233,,Charles Street
+3234,160,Cedar Street
+3235,,Canns' Court
+3236,,Fox Court
+3237,,Teagars Court on Shippen St.
+3238,,Spafford Street
+3239,,Shanties back on 7th St. above Baker St.
+3240,,Shanties back on 7th St. above Baker St.
+3241,,Marion Street
+3242,,Treytags Alley
+3243,242,Carpenter Street
+3244,,Lebanon Street
+3245,,N. Russell Street
+3246,,N. Russell Street
+3247,,Baker between 7th & 8th St.
+3248,7,Lebanon Street
+3249,,Bedford Street
+3250,,Small between 5th & 6th St.
+3251,,New Bedford Street
+3252,320,Cedar above 7th St.
+3253,194,Shippin Street
+3254,,Cellar
+3255,,Shanty 6
+3256,,8th above Carpenter St.
+3257,75,Carpenter Street
+3258,,N. Marriot Lane
+3259,,7th Street
+3260,,Treytags Alley
+3261,,Treytags Alley
+3262,35,Moyamensing Road
+3263,,Emeline Street
+3264,,Marshall's Court
+3265,,Passyunk Road
+3266,,Teagars Court on Shippen St.
+3267,,Hutton's Court running from South to Small below 7th St.
+3268,,Shippen Street
+3269,3,S. Pine Street
+3270,,N. Stanley Street
+3271,,Yeagers Court
+3272,,N. Little Oak Street
+3273,,N. Clifton Street
+3274,,N. Little Oak Street
+3275,,Shippen between 7th & 8th St.
+3276,,Shippen between 7th & 8th St.
+3277,169,Carpenter Street
+3278,13,Carpenter between 13th & Broad
+3279,,Fox Court
+3280,11,South Street
+3281,167,Carpenter Street
+3282,,Davis Court
+3283,,Emeline Street
+3284,,New Bedford Street
+3285,,Emeline Street
+3286,,Anthony below Dickerson St.
+3287,13,Carpenter between 13th & Broad
+3288,,Spofford Street
+3289,,Lisle Street
+3290,,Temperance Place
+3291,,Black Horse Alley
+3292,,Stevens Court
+3293,103,German Street
+3294,145,Carpenter Street
+3295,244,Carpenter Street
+3296,,Sweades Court
+3297,,Passyunk Road
+3298,,Prosperous Alley
+3299,,N. Little Oak Street
+3300,,Milton Street
+3301,,N. Marriot Lane
+3302,,Stevens Court
+3303,32,Harmony Street
+3304,,E. Front Street
+3305,9,Christian Street
+3306,,Emeline Street
+3307,,Small Street
+3308,,4th below Queen St.
+3309,,Rolandson Street
+3310,,N. Hubbell Street
+3311,,N. Marriot Lane
+3312,,Baker between 7th & 8th St.
+3313,15,Plum Street
+3314,,7th above Christian
+3315,,N. Morris Street
+3316,160,Queen Street
+3317,3,Emeline Street
+3318,,N. Russell's Avenue
+3319,21,Emeline Street
+3320,,Russell's Avenue
+3321,,Corn below Mackey St.
+3322,,New Bedford Street
+3323,,Baker between 7th & 8th St.
+3324,,Shanty 2
+3325,,Lisle Street
+3326,,Emeline Street
+3327,,Dickerson's Court
+3328,,N. Marion Street
+3329,,N. Stanley Street
+3330,350,South Street
+3331,242,Carpenter Street
+3332,9,Christian Street
+3333,,Carpenter between 13th & Broad
+3334,291,Carpenter Street
+3335,,Carpenter Street
+3336,,Spofford Street
+3337,,New Bedford Street
+3338,,Shanty
+3339,4,S. Pine Street
+3340,,N. Marriot Lane
+3341,115,Queen Street
+3342,,Bedford Street
+3343,,Reed Street
+3344,,Plum Street
+3345,,Bedford Street
+3346,,Fox Court
+3347,,N. Russell's Avenue
+3348,288,3rd Street
+3349,,Carpenter Street
+3350,,Lisle Street
+3351,,New Bedford Street
+3352,242,Carpenter Street
+3353,330,Cedar above 7th St.
+3354,,N. Little Oak Street
+3355,,N. Little Oak Street
+3356,,Shippen between 6th & 7th St.
+3357,,S.E. 10th & Cathrine St.
+3358,7,Milton Street
+3359,,N. Marriot Lane
+3360,,New Bedford Street
+3361,,Small between 5th & 6th St.
+3362,,Small between 5th & 6th St.
+3363,7,Vernon Street
+3364,,Hutton's Court running from South to Small below 7th St.
+3365,,Bedford Street
+3366,,Shippen between 7th & 8th St.
+3367,,N. Russell's Avenue
+3368,,Stanley Street
+3369,,Bedford Street
+3370,,N. Dickerson above 7th St.
+3371,,Plum Street
+3372,,Bedford Street
+3373,,Sherman's Court
+3374,,Hutton's Court running from South to Small below 7th St.
+3375,,7th Street
+3376,,6th & 7th St.
+3377,,Bedford Street
+3378,,Black Horse Alley
+3379,,Cellar
+3380,,10th below Reed St.
+3381,,New Bedford between 10th & 11th St.
+3382,,Small between 5th & 6th St.
+3383,,Bedford Street
+3384,,Spofford Street
+3385,,N. Morris Street
+3386,,Small Street
+3387,,Shippen Street
+3388,,Lisle Street
+3389,,Shippen between 7th & 8th St.
+3390,,6th & 7th St.
+3391,,Shippen Street
+3392,418,4th Street
+3393,12,Shippen Street
+3394,,Passyunk Road
+3395,315,Cedar above 7th St.
+3396,,Collins Alley
+3397,307,8th below Cedar
+3398,,Carpenter Street
+3399,,Queen Street
+3400,,Little Oak Street
+3401,,Russell's Avenue
+3402,,Hubbell Street
+3403,,Britton Court
+3404,338,2nd Street
+3405,,Carpenter Street
+3406,,Temperance Place
+3407,159,Carpenter Street
+3408,418,4th Street
+3409,,Spafford Street
+3410,285,8th Street
+3411,,New Bedford Street
+3412,,Stevens Court
+3413,,N. Stevens Court
+3414,,Baker between 6th & 7th St.
+3415,,Treytags Alley
+3416,,Small between 5th & 6th St.
+3417,,Prosperous Alley
+3418,,N. Russell's Avenue
+3419,7,Milton Street
+3420,,Mackey Street
+3421,,Shanty
+3422,,Milton Street
+3423,307,8th below Cedar
+3424,354,Cedar Street
+3425,64,Queen between 3rd & 4th St.
+3426,,Sherman's Court
+3427,,Fox Court
+3428,,Hutton's Court running from South to Small below 7th St.
+3429,,N. Little Oak Street
+3430,,N. Marriot Lane
+3431,,N. Russell's Avenue
+3432,,7th below Reed St.
+3433,,Spofford Street
+3434,,Shippen between 7th & 8th St.
+3435,,8th Street
+3436,,Small between 5th & 6th St.
+3437,,Sherkers Alley
+3438,,Prosperous Alley
+3439,,Plum Street
+3440,,Small between 5th & 6th St.
+3441,,N. Russell's Avenue
+3442,,Fox Court
+3443,23,Lebanon Street
+3444,,N. Stanley Street
+3445,,Emeline Street
+3446,,4th below Iron Foundry
+3447,,Yeagers Court
+3448,,Morris Street
+3449,,7th Street
+3450,,8th Street
+3451,7,Feet Alley
+3452,,Mackey Street
+3453,,Shippen between 7th & 8th St.
+3454,,N. Ball Street
+3455,,Small Street
+3456,,Sherman's Court
+3457,,N. Little Oak Street
+3458,,Shippen Street
+3459,,N. Little Oak Street
+3460,287,8th Street
+3461,,Shanty
+3462,,Greswold's Alley
+3463,,New Bedford Street
+3464,,Shanty
+3465,,Charles Street
+3466,,Queen between 3rd & 4th St.
+3467,,Curry's Court Shippen above 11th St.
+3468,14,Russell Street
+3469,307,8th below Cedar
+3470,,Small above 6th St.
+3471,3,S. Pine Street
+3472,,Cedar Street
+3473,,6th & 7th St.
+3474,331,5th Street
+3475,,Higgins & Hughes Ct.
+3476,5,Baker between 7th & 8th St.
+3477,,Carpenter between 13th & Broad
+3478,,N. Marriot Lane
+3479,,N. Rolandson Street
+3480,,Lisle Street
+3481,,N. Marriot Lane
+3482,,Bedford Street
+3483,,Emeline Street
+3484,,Baker between 7th & 8th St.
+3485,,N. Stanley Street
+3486,,Bedford near 8th St.
+3487,,Lisle Street
+3488,,Bedford Street
+3489,,Emeline Street
+3490,,Charles Street
+3491,,Shanty
+3492,,Plum Street
+3493,,New Bedford Street
+3494,,N. Hubbell Street
+3495,,Harmony Street
+3496,,12th below South St.
+3497,,Fox Court
+3498,,N. Morris Street
+3499,,Bedford Street
+3500,,Sweades Court
+3501,,7th below Reed St.
+3502,112,Plum Street
+3503,,N. Marriot Lane
+3504,242,Carpenter Street
+3505,,Carpenter between 13th & Broad
+3506,,N. Harmony Street
+3507,,Shippen Street
+3508,,Cellar
+3509,,N. Ball Street
+3510,242,Carpenter Street
+3511,,Little Washington Street
+3512,,Charles Street
+3513,,Emeline Street
+3514,,Shippen Street
+3515,,Wheat Street
+3516,,Marriot Lane
+3517,,Carpenter Street
+3518,7,Charles Street
+3519,,N. Harmony Street
+3520,305,8th below Cedar
+3521,,Fulton Street
+3522,,E. Front Street
+3523,,Charles Street
+3524,75,Carpenter Street
+3525,,N. Rolandson Street
+3526,242,Carpenter Street
+3527,,N. Christian above 7th St.
+3528,,Carpenter Street
+3529,75,Carpenter Street
+3530,,Shippen between 7th & 8th St.
+3531,,Emeline Street
+3532,,Emeline Street
+3533,,N. Stanley Street
+3534,320,6th Street
+3535,,Harmony Street
+3536,242,Carpenter Street
+3537,,N. Harmony Street
+3538,,N. Little Oak Street
+3539,,N. Morris Street
+3540,,Bedford Street
+3541,75,Carpenter Street
+3542,330,Cedar above 7th St.
+3543,,Shippen between 7th & 8th St.
+3544,,Plum Street
+3545,,Spofford Street
+3546,,Marion Street
+3547,,N. Rolandson Street
+3548,,N. Little Oak Street
+3549,,Marshall's Court
+3550,,Queen Street
+3551,,Queen Street
+3552,,N. Marriot Lane
+3553,,Shanty
+3554,,Carpenter Street
+3555,,Adam Street
+3556,13,Federal Street
+3557,,Stevens Court
+3558,,Carpenter Street
+3559,21,S. Pine Street
+3560,392,S. 5th Street
+3561,,7th Street
+3562,246,Carpenter Street
+3563,,Bedford near 8th St.
+3564,,Bedford Street
+3565,,New Bedford Street
+3566,,Steward Street
+3567,,Shanty
+3568,,Emeline Street
+3569,,Parham Street
+3570,,Lebanon Street
+3571,,Emeline Street
+3572,6,Emeline Street
+3573,6,Emeline Street
+3574,,6th & 7th St.
+3575,,Small Street
+3576,,Small between 5th & 6th St.
+3577,21,Emeline Street
+3578,,Shippin below 2nd St.
+3579,3,Clymer Street
+3580,,Dickerson's Court
+3581,272,Shippin Street
+3582,,Britton Court
+3583,,N. Russell Street
+3584,,Russell Street
+3585,,Lisle Street
+3586,,Marriot Lane
+3587,,6th & 7th St.
+3588,,Shippin & Lurenson St.
+3589,,Queen Street
+3590,,Russell Street
+3591,,8th above Christian St.
+3592,,N. Cobbs Street
+3593,,Carpenter between 13th & Broad
+3594,,Spofford Street
+3595,7,Charles Street
+3596,,New Bedford Street
+3597,,Small between 5th & 6th St.
+3598,272,Shippin Street
+3599,,Yeagers Court
+3600,,Church & E. Front
+3601,,8th Street
+3602,,Curry's Court Shippen above 11th St.
+3603,,Small between 5th & 6th St.
+3604,3,Lebanon Street
+3605,,Spofford Street
+3606,,Cathrine below 4th St.
+3607,192,Shippin Street
+3608,,N. Hubbell Street
+3609,,Emeline Street
+3610,,Shippen Street
+3611,,N. Marriot Lane
+3612,,Mackey Street
+3613,,Queen Street
+3614,,South below Front
+3615,,N. 10th Street
+3616,,Bedford Street
+3617,,Carpenter between 13th & Broad
+3618,10,Hollowell Street
+3619,,Emeline Street
+3620,,N. Cobbs Street
+3621,,Queen Street
+3622,,N. Harmony Street
+3623,,Small Street
+3624,,Anthony below Dickerson St.
+3625,,Little Oak Street
+3626,,Carpenter Street
+3627,,Shippen between 7th & 8th St.
+3628,160,New Bedford Street
+3629,,Highland Home 7th below Bedford
+3630,,6th & 7th St.
+3631,,Curry's Court Shippen above 11th St.
+3632,,Treytags Alley
+3633,331,5th Street
+3634,,Ball Street
+3635,,7th Street
+3636,,Carpenter between 13th & Broad
+3637,,Reves Court
+3638,,Queen between 3rd & 4th St.
+3639,,Marshall's Court
+3640,,N. Marriot Lane
+3641,,Shippen Street
+3642,,7th below Reed St.
+3643,,Britton Court
+3644,,Cedar Street
+3645,6,Cathrine Street
+3646,,Spafford Street
+3647,,Rolandson Street
+3648,,N. Ball Street
+3649,,N. Russell Street
+3650,,N. Russell Street
+3651,,Shanty 1
+3652,9,Lebanon Street
+3653,,Fox Court
+3654,115,Queen Street
+3655,,N. Marion Street
+3656,,Marion Street
+3657,,Shippen Street
+3658,,Queen between 3rd & 4th St.
+3659,20,Lebanon Street
+3660,,Yeagers Court
+3661,,Bedford Street
+3662,,Church & E. Front
+3663,,Poplar Street
+3664,,New Bedford Street
+3665,,Carpenter Street
+3666,10,Carpenter Street
+3667,4,Emeline Street
+3668,,Stevens Court
+3669,,Small Street
+3670,,6th & 7th St.
+3671,,Emeline Street
+3672,,Bedford Street
+3673,,N. Little Oak Street
+3674,,Cedar Street
+3675,,Charles Street
+3676,,Cedar above 7th St.
+3677,,7th below Reed St.
+3678,13,Federal Street
+3679,12,Carpenter Street
+3680,3,Clymer Street
+3681,,Lisle Street
+3682,,N. Marion Street
+3683,,N. Hubbell Street
+3684,,Emeline Street
+3685,,Poplar Street
+3686,,Sweades Court
+3687,,Poplar Street
+3688,,8th Street
+3689,,Spofford Street
+3690,324,Cedar above 7th St.
+3691,222,12th Street
+3692,160,New Bedford Street
+3693,17,Hollowell Street
+3694,,Cryders Court
+3695,,Emeline Street
+3696,288,3rd Street
+3697,226,German Street
+3698,,New Bedford Street
+3699,,Shippen between 7th & 8th St.
+3700,10,Shippen Street
+3701,,Charles Street
+3702,,Marshall's Court
+3703,160,New Bedford Street
+3704,242,Carpenter Street
+3705,7,Charles Street
+3706,,Stevens Court
+3707,,Charles Street
+3708,,Shippen Street
+3709,,Shanty Small between 7th & 8th St.
+3710,,Bedford Street
+3711,,N. Russell's Avenue
+3712,,N. Marriot Lane
+3713,242,Carpenter Street
+3714,,Shanty
+3715,,
+3716,,Teagars Court on Shippen St.
+3717,,6th & 7th St.
+3718,,Anthony below Dickerson St.
+3719,389,13th Street
+3720,21,Emeline Street
+3721,,Bedford Street
+3722,,Sherkers Alley
+3723,,8th Street
+3724,,N. Marriot Lane
+3725,,New Bedford Street
+3726,,Lisle Street
+3727,,6th & 7th St.
+3728,,N. Marriot Lane
+3729,,Small between 5th & 6th St.
+3730,,Sherkers Alley
+3731,115,Queen Street
+3732,242,Carpenter Street
+3733,,Shippen between 6th & 7th St.
+3734,13,Carpenter between 13th & Broad
+3735,286,8th Street
+3736,,Small between 5th & 6th St.
+3737,175,Christian Street
+3738,,
+3739,75,Carpenter Street
+3740,,Milton Street
+3741,9,Christian Street
+3742,244,Carpenter Street
+3743,,N. Marion Street
+3744,,Bedford Street
+3745,,Canns' Court
+3746,,Shippen between 6th & 7th St.
+3747,320,6th Street
+3748,,8th above Christian St.
+3749,,Stevens Court
+3750,112,Bedford between 7th & 8th St.
+3751,242,Carpenter Street
+3752,,Stevens Court
+3753,,Sherman's Court
+3754,,Collins Alley
+3755,,Marriot Lane
+3756,,Stevens Court
+3757,,9 below Christian St.
+3758,268,Shippin Street
+3759,,Moore & E. Front St.
+3760,,8th Street
+3761,,Dickerson's Court
+3762,,Harmony Street
+3763,,N. Marriot Lane
+3764,18,S. Pine Street
+3765,,Reves Court
+3766,,7th Street
+3767,,Baker
+3768,,Emeline Street
+3769,,Greswold's Alley
+3770,,Reves Court
+3771,,Stanley Street
+3772,322,Cedar above 7th St.
+3773,,N. Rolandson Street
+3774,279,3rd Street
+3775,246,Carpenter Street
+3776,6,Milton Street
+3777,,Shanty 4
+3778,81,New Bedford Street
+3779,,
+3780,,Rolandson Street
+3781,,Fox Court
+3782,,S.E. 10th & Christian
+3783,305,8th below Cedar
+3784,,Small between 5th & 6th St.
+3785,,Mackey Street
+3786,,Harmony Street
+3787,,Bedford Street
+3788,,N. Little Oak Street
+3789,,Corn below Mackey St.
+3790,,Small between 5th & 6th St.
+3791,,Small Street
+3792,,8th Street
+3793,,New Bedford Street
+3794,,N. Russell Street
+3795,,Shippen between 7th & 8th St.
+3796,,Poplar Street
+3797,13,Carpenter between 13th & Broad
+3798,,Small between 5th & 6th St.
+3799,160,Steward Street
+3800,13,Federal Street
+3801,298,Cedar Street
+3802,,Treytags Alley
+3803,25,Harmony Street
+3804,38,Lebanon Street
+3805,,Queen between 3rd & 4th St.
+3806,,Small Street
+3807,,N. Marriot Lane
+3808,,N. Marriot Lane
+3809,,N. Marriot Lane
+3810,,Bedford Street
+3811,,Sherman's Court
+3812,,Parkers Alley
+3813,,N. Ball Street
+3814,,Milton Street
+3815,,Little Oak Street
+3816,,Carpenter Street
+3817,,New Bedford Street
+3818,,N. Marion Street
+3819,,New Bedford Street
+3820,,Hutton's Court running from South to Small below 7th St.
+3821,,Shippen between 7th & 8th St.
+3822,,8th above Carpenter St.
+3823,,N. Rolandson Street
+3824,354,Cedar Street
+3825,,Plum Street
+3826,291,Carpenter Street
+3827,,Carpenter Street
+3828,,Bedford Street
+3829,,Poplar Street
+3830,,Carpenter Street
+3831,,Little Oak Street
+3832,,Emeline Street
+3833,,Sherman's Court
+3834,322,Cedar above 7th St.
+3835,,Cedar Street
+3836,,N. Russell Street
+3837,,N. Marriot Lane
+3838,,Sherman's Court
+3839,,Milton Street
+3840,5,Baker between 7th & 8th St.
+3841,,Cellar
+3842,,6th & 7th St.
+3843,10,10th Street
+3844,,Marshall's Court
+3845,5,S. Pine Street
+3846,,Shippen between 7th & 8th St.
+3847,,N. Stevens Court
+3848,,
+3849,,Shippen between 7th & 8th St.
+3850,3,Feet Alley
+3851,,Lisle Street
+3852,,Carpenter Street
+3853,,Small between 5th & 6th St.
+3854,,Carpenter between 13th & Broad
+3855,,Marion Street
+3856,,Sherman's Court
+3857,,Cedar Street
+3858,,N. Rolandson Street
+3859,,Bedford Street
+3860,287,8th Street
+3861,,Canns' Court
+3862,,N. Morris Street
+3863,,Cedar Street
+3864,,N. 7th below Marriot Lane
+3865,,Prosperous Alley
+3866,,7th Street
+3867,,N. Russell Street
+3868,,Harmony Street
+3869,,Lisle Street
+3870,,Milton Street
+3871,,New Bedford Street
+3872,,6th & 7th St.
+3873,,Stevens Court
+3874,,N. Russell Street
+3875,,8th above Carpenter St.
+3876,,Lisle Street
+3877,20,Hallowell Street
+3878,,N. Marriot Lane
+3879,,Sherkers Alley
+3880,,E. Front Street
+3881,,Collins Alley
+3882,,N. Morris Street
+3883,242,Carpenter Street
+3884,,Greswold's Alley
+3885,167,Carpenter Street
+3886,,N. Rolandson Street
+3887,242,Carpenter Street
+3888,331,5th Street
+3889,,Shippen between 7th & 8th St.
+3890,305,8th below Cedar
+3891,,Poplar Street
+3892,,New Bedford between 10th & 11th St.
+3893,,6th & 7th St.
+3894,,Steward Street
+3895,,Shippen between 7th & 8th St.
+3896,,Cedar Street
+3897,13,Carpenter between 13th & Broad
+3898,,Hubbell Street
+3899,,Little Oak Street
+3900,73,Plum Street
+3901,,9 below Christian St.
+3902,,8th above Christian St.
+3903,,7th Street
+3904,,Carpenter between 13th & Broad
+3905,,Shanty 2
+3906,,Queen Street
+3907,,Black Horse Alley
+3908,,Bedford Street
+3909,,Corn below Mackey St.
+3910,,Corn below Mackey St.
+3911,,Corn below Mackey St.
+3912,246,Carpenter Street
+3913,,Dickerson's Court
+3914,,Harmony Street
+3915,,Queen between 3rd & 4th St.
+3916,,Washington St. & Passyunk Road
+3917,,Fox Court
+3918,,Marion Street
+3919,354,Cedar Street
+3920,12,Feet Alley
+3921,,Hutton's Court running from South to Small below 7th St.
+3922,,Lisle Street
+3923,,Bedford Street
+3924,16,Lisle Street
+3925,,N. Marriot Lane
+3926,,Cedar Street
+3927,,Shippen between 7th & 8th St.
+3928,,Fox Court
+3929,,Wheat Street
+3930,,Bedford Street
+3931,,Church & E. Front
+3932,,7th above Baker St.
+3933,,N. Hubbell Street
+3934,,Mackey Street
+3935,,Stevens Court
+3936,,Bedford Street
+3937,,Marshall's Court
+3938,81,New Bedford Street
+3939,,Shanty 1
+3940,,Shanty
+3941,,Emeline Street
+3942,,N. Russell Street
+3943,,
+3944,,Christian below 8th St.
+3945,5,Feet Alley
+3946,,Emeline Street
+3947,,Spofford Street
+3948,7,Charles Street
+3949,,Passyunk Road
+3950,,Lisle Street
+3951,,New Bedford Street
+3952,,Bedford Street
+3953,,Shippen between 7th & 8th St.
+3954,,E. Front Street
+3955,159,Carpenter Street
+3956,2,S. Pine Street
+3957,,New Bedford Street
+3958,,Stanley Street
+3959,,Emeline Street
+3960,320,6th Street
+3961,,Shippen between 7th & 8th St.
+3962,,6th & 7th St.
+3963,,Charles Street
+3964,22,Lebanon Street
+3965,169,Carpenter Street
+3966,73,Plum Street
+3967,158,Queen Street
+3968,,Cedar Street
+3969,307,8th below Cedar
+3970,,Sherman's Court
+3971,,Shippen between 7th & 8th St.
+3972,212,5th Street
+3973,7,Emeline Street
+3974,5,Baker between 7th & 8th St.
+3975,,Queen Street
+3976,279,3rd Street
+3977,,Small between 5th & 6th St.
+3978,,Yeagers Court
+3979,,Sweades Court
+3980,,N. Marriot Lane
+3981,,Bedford Street
+3982,,Shanty 9
+3983,,Shippen between 6th & 7th St.
+3984,,Fox Court
+3985,,Davis Court
+3986,,Carpenter Street
+3987,,Carpenter Street
+3988,,N. below Marriot Lane
+3989,,Passyunk Road
+3990,,N. Marriot Lane
+3991,,Marriot Lane
+3992,75,Carpenter Street
+3993,12,Carpenter Street
+3994,,Spafford Street
+3995,9,Christian Street
+3996,7,Milton Street
+3997,,Poplar Street
+3998,,Shippen between 7th & 8th St.
+3999,,On Benj Bacon's Book
+4000,246,Carpenter Street
+4001,17,Lisle Street
+4002,,Hoffman's Court 7th above Shippen St.
+4003,,Mackey Street
+4004,,Cellar
+4005,,Sherkers Alley
+4006,5,S. Pine Street
+4007,,N. Marriot Lane
+4008,,Emeline Street
+4009,246,Carpenter Street
+4010,,Carlton & W. Schuylkill 7th
+4011,,Oak Street
+4012,363,Pearl
+4013,,Pearl above 13th St.
+4014,91,Ridge Road
+4015,,Oak Street
+4016,,Oak Street
+4017,,Oak Street
+4018,,Oak Street
+4019,,Wood above 12th St.
+4020,17,Pearl above 12th St.
+4021,,Oak Street
+4022,,Carlton & W. Schuylkill 8th
+4023,,Darby Road
+4024,,Carlton & W. Schuylkill 8th
+4025,,Till Street
+4026,,Till Street
+4027,,Wood West of Schuylkill 2nd
+4028,,Darby Road
+4029,,Garden above Wood
+4030,,Wood next West
+4031,10,Pearl above 13th St.
+4032,,Pattersons Lot
+4033,50,Ridge Road
+4034,121,Pearl above 13th St.
+4035,,11 above Callowhill
+4036,,Pearl below 13th St.
+4037,15,Pearl above 12th St.
+4038,,Pearl below 13th St.
+4039,,Broad opposite Spring Garden
+4040,,Oak Street
+4041,,Market Street
+4042,125,Pearl
+4043,,Oak Street
+4044,,Broad opposite Spring Garden
+4045,363,Pearl
+4046,,Buttonwood below 11th St.
+4047,,Callowhill above 13th St.
+4048,,Ann St. Francisville
+4049,,Darby Road on Spruce St.
+4050,,Oak Street
+4051,,York Street
+4052,,Pearl above 13th St.
+4053,,Market Street
+4054,,Orange above Washington
+4055,17,Pearl above 12th St.
+4056,,Carlton above 13th Court
+4057,3,Pearl below 14th St.
+4058,363,Pearl
+4059,363,Pearl
+4060,363,Pearl
+4061,,Wood next West
+4062,,Washington Street
+4063,53,Pearl above 13th St.
+4064,53,Pearl above 13th St.
+4065,10,Pearl above 12th St.
+4066,,Wood next West
+4067,,N.E. 9th & Wood
+4068,,Oak Street
+4069,53,Pearl above 13th St.
+4070,,Washington Street
+4071,2,Torrs Alley
+4072,,George St. Francisville
+4073,125,Pearl
+4074,,Orange above Washington
+4075,,Wood & E. Broad
+4076,,Washington Street
+4077,,Callowhill above 13th St.
+4078,,N.E. 9th & Wood
+4079,,Torrs Alley Court
+4080,,W. 6th above Poplar
+4081,18,Pearl above 12th St.
+4082,,Pearl
+4083,,Pearl above 12th St.
+4084,,Carlton & W. Schuylkill 8th
+4085,15,Pearl above 12th St.
+4086,121,Pearl above 13th St.
+4087,,Ann St. Francisville
+4088,,Wood above 12th St.
+4089,,Market Street
+4090,,Callowhill above 13th St.
+4091,,Oak Street
+4092,21,Nectarine above 9th St.
+4093,,Darby Road
+4094,,Pearl above 13th St.
+4095,,Chestnut Street
+4096,,Sassafrass Street
+4097,,Darby Road
+4098,,8th above Wood
+4099,17,Pearl above 12th St.
+4100,,Carlton & W. Schuylkill 7th
+4101,,Till Street
+4102,,James St. near Ridge Road
+4103,,Marshall above Poplar
+4104,,Pearl above 13th St.
+4105,,Oak Street
+4106,,Pearl above 13th St.
+4107,,Melon above 11th St.
+4108,,Melon above 11th St.
+4109,,Oak Street
+4110,,Ogden above 10th St.
+4111,,8th above Wood
+4112,,West of James Loh
+4113,12 1/2,Pearl above 13th St.
+4114,,Garden above Wood
+4115,,York Street
+4116,,Darby Road
+4117,,Pearl above 12th St.
+4118,,Darby Road
+4119,17,Pearl above 12th St.
+4120,,Wood above 12th St.
+4121,121,Pearl above 13th St.
+4122,,Melon Court
+4123,,Oak Street
+4124,,Sixth above Poplar
+4125,50,Britten St. near Ridge Road
+4126,,Carlton & W. Schuylkill 7th
+4127,,Darby Road
+4128,,Carlton above 13th Court
+4129,,Orange above Washington
+4130,,Garden above Willow
+4131,,Marshall above Poplar
+4132,,Carlton & W. Schuylkill 7th
+4133,,
+4134,,Callowhill above 13th St.
+4135,,Torrs Alley Court
+4136,,Marshall above Poplar
+4137,,Carlton & W. Schuylkill 7th
+4138,,Pearl above 13th St.
+4139,53,Pearl above 13th St.
+4140,,Oak Street
+4141,,Oak Street
+4142,,Marshall above Poplar
+4143,,Oak Street
+4144,,10th above W. Ogden
+4145,,Locust Street
+4146,,Ann St. Francisville
+4147,,Orange above Washington
+4148,,Oak Street
+4149,121,Pearl above 13th St.
+4150,,Oak Street
+4151,5,Broad opposite Spring Garden
+4152,,George St. Francisville
+4153,,Carlton & W. Schuylkill 7th
+4154,52,Pearl above 12th St.
+4155,,Oak Street
+4156,,Locust Street
+4157,,8th above Wood
+4158,14,Pearl above 13th St.
+4159,,Carlton above 13th Court
+4160,,Marshall above Poplar
+4161,,Church Street
+4162,,Wood West of Schuylkill 7th
+4163,,Market Street
+4164,,Marshall above Poplar
+4165,,Carlton & W. Schuylkill 8th
+4166,,Pearl above 12th St.
+4167,,Carlton & W. Schuylkill 8th
+4168,,Marshall above Poplar
+4169,,Wood & E. Broad
+4170,,Darby Road on Spruce St.
+4171,12,Pearl above 13th St.
+4172,,Pearl above 12th St.
+4173,,Oak Street
+4174,,Sassafrass Street
+4175,,Pearl below 13th St.
+4176,7,Pearl above 13th St.
+4177,,6th above Poplar Court
+4178,,Chestnut Street
+4179,482,Pearl
+4180,18,Pearl above 12th St.
+4181,,Oak Street
+4182,14,Pearl above 12th St.
+4183,14,Pearl above 13th St.
+4184,,Broad opposite Spring Garden
+4185,363,Pearl
+4186,125,Pearl
+4187,,Broad opposite Spring Garden
+4188,,Wood next West
+4189,,Torrs Alley Court
+4190,14,Pearl above 13th St.
+4191,,Pearl below 13th St.
+4192,,Pearl below Broad
+4193,,Oak Street
+4194,52,Pearl above 12th St.
+4195,,Oak Street
+4196,,Church Street
+4197,,York Street
+4198,,Broad opposite Spring Garden
+4199,,Oak Street
+4200,,1st below Broad in S. Pearl
+4201,,Callowhill above 13th St.
+4202,,Wood West of Schuylkill 7th
+4203,,Callowhill near Schuylkill River
+4204,,1st below Broad in S. Pearl
+4205,53,Pearl
+4206,,10th above W. Ogden
+4207,,George St. Francisville
+4208,,8th above Wood
+4209,482,Pearl
+4210,,Oak Street
+4211,,Oak Street
+4212,,Torrs Alley Court
+4213,,Torrs Alley Court
+4214,,Torrs Alley Court
+4215,482,Pearl
+4216,2,Torrs Alley
+4217,,Oak Street
+4218,,Vernon above 10th St. 
+4219,,Oak Street
+4220,,George St. Francisville
+4221,12,Pearl above 13th St.
+4222,10,Pearl above 12th St.
+4223,,W. 6th above Poplar
+4224,,Oak Street
+4225,52,Pearl above 12th St.
+4226,,Pearl below 13th St.
+4227,,Pearl below 13th St.
+4228,,George St. Francisville
+4229,,Till Street
+4230,,Poplar Court
+4231,,Darby Road
+4232,,Darby Road
+4233,,Marshall above Poplar
+4234,,Ogden above 11th St.
+4235,,Melon above 11th St.
+4236,,Callowhill above 13th St.
+4237,,Oak Street
+4238,,Carlton & W. Schuylkill 8th
+4239,,Torrs Alley 9th above Vine
+4240,,Oak Street
+4241,,Pearl above 13th St.
+4242,,Broad opposite Spring Garden
+4243,,Carlton & W. Schuylkill 8th
+4244,52,Pearl above 12th St.
+4245,,Ann St. Francisville
+4246,,Carlton near Schuylkill 7th
+4247,21,Nectarine above 9th St.
+4248,,Marshall above Poplar
+4249,,Girard St. & W. Broad
+4250,,Carlton above 13th Court
+4251,,Broad opposite Spring Garden
+4252,,6th above Poplar Court
+4253,,Broad opposite Spring Garden
+4254,,George St. Francisville
+4255,,Ogden above 11th St.
+4256,,Carlton & W. Schuylkill 8th
+4257,,Pearl above 13th St.
+4258,,Church Street
+4259,,McIlvane's Court
+4260,,Wood next West
+4261,14,Pearl above 13th St.
+4262,,Wood above 8th Court
+4263,482,Pearl
+4264,,Sassafrass Street
+4265,,Market Street
+4266,,Pearl above 13th St.
+4267,,Darby Road
+4268,,Marshall above Poplar
+4269,,Oak Street
+4270,,Pearl above 12th St.
+4271,,Carlton & W. Schuylkill 7th
+4272,,Oak Street
+4273,,Pearl above 13th St.
+4274,,Pearl above 13th St.
+4275,,N. 13th Street
+4276,,Wood next West
+4277,,Pearl above 13th St.
+4278,,Broad opposite Spring Garden
+4279,,Chestnut Street
+4280,,Wood above 8th Court
+4281,,Oak Street
+4282,,Wood above 13th St.
+4283,,George St. Francisville
