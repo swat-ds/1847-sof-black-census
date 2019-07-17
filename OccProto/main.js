@@ -6,13 +6,12 @@ var chart = c3.generate({
     data: {
       url: 'testdata.csv',
       x: 'OCC',
-
-      types: {
-          MALE: 'area',
-          FEMALE: 'area'
-      },
+      type: 'bar',
+      groups: [
+        ['MALE', 'FEMALE']
+      ],
       colors: {
-          MALE: 'yellow',
+          MALE: '#12cadb',
           FEMALE: 'red'
       }
     },
@@ -26,7 +25,32 @@ var chart = c3.generate({
       }
     },
     size: {
-      height: 800,
-      width: 3000
+      height: 1000
+      // width: 3000
+    }
+});
+
+var chart = c3.generate({
+    bindto: '#chart2',
+    data: {
+      url: 'testdata2.csv',
+      x: 'OCCUPATION',
+      type: 'scatter',
+      colors: {
+          ID: 'red'
+      }
+    },
+    axis: {
+      x: {
+        type: 'category',
+        tick: {
+          rotate: 60,
+          multiline: false
+        }
+      }
+    },
+    size: {
+      height: 1000,
+      width: 6000
     }
 });
