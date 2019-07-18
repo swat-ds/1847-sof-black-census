@@ -1,6 +1,7 @@
 /* Prototype for 1847 Census Occupation Data
 Alice Huang, 7/17/19 */
 
+// bar chart for cumulative occ data, only showing shared occs btwn male/female
 var chart = c3.generate({
     bindto: '#chart',
     data: {
@@ -11,8 +12,8 @@ var chart = c3.generate({
         ['MALE', 'FEMALE']
       ],
       colors: {
-          MALE: '#12cadb',
-          FEMALE: 'red'
+          'MALE': '#12cadb',
+          'FEMALE': 'red'
       }
     },
     axis: {
@@ -25,19 +26,19 @@ var chart = c3.generate({
       }
     },
     size: {
-      height: 1000
-      // width: 3000
+      height: 500
     }
 });
 
+// scatter plot for male occ data
 var chart = c3.generate({
     bindto: '#chart2',
     data: {
-      url: 'testdata2.csv',
+      url: 'testdata3.csv',
       x: 'OCCUPATION',
       type: 'scatter',
       colors: {
-          ID: 'red'
+        'MALE': '#12cadb'
       }
     },
     axis: {
@@ -47,10 +48,40 @@ var chart = c3.generate({
           rotate: 60,
           multiline: false
         }
+      },
+      y: {
+        max: 4500
       }
     },
     size: {
-      height: 1000,
-      width: 6000
+      height: 500,
+    }
+});
+
+// scatter plot for female occ data 
+var chart = c3.generate({
+    bindto: '#chart3',
+    data: {
+      url: 'testdata4.csv',
+      x: 'OCCUPATION2',
+      type: 'scatter',
+      colors: {
+        'FEMALE': 'red'
+      }
+    },
+    axis: {
+      x: {
+        type: 'category',
+        tick: {
+          rotate: 60,
+          multiline: false
+        }
+      },
+      y: {
+        max: 4500
+      }
+    },
+    size: {
+      height: 500,
     }
 });
