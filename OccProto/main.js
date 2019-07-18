@@ -22,7 +22,11 @@ var chart = c3.generate({
         tick: {
           rotate: 60,
           multiline: false
-        }
+        },
+        label: 'Occupation'
+      },
+      y: {
+        label: 'Frequency'
       }
     },
     size: {
@@ -31,7 +35,7 @@ var chart = c3.generate({
 });
 
 // scatter plot for male occ data
-var chart = c3.generate({
+var chart2 = c3.generate({
     bindto: '#chart2',
     data: {
       url: 'testdata3.csv',
@@ -39,7 +43,11 @@ var chart = c3.generate({
       type: 'scatter',
       colors: {
         'MALE': '#12cadb'
-      }
+      },
+      name: 'maledata'
+    },
+    transition: {
+      duration: 2000
     },
     axis: {
       x: {
@@ -47,41 +55,101 @@ var chart = c3.generate({
         tick: {
           rotate: 60,
           multiline: false
-        }
+        },
+        label: 'Occupation'
       },
       y: {
-        max: 4500
+        max: 4500,
+        label: 'ID'
       }
     },
     size: {
       height: 500,
+    },
+    point: {
+      r: 3
     }
 });
 
-// scatter plot for female occ data 
-var chart = c3.generate({
-    bindto: '#chart3',
-    data: {
-      url: 'testdata4.csv',
-      x: 'OCCUPATION2',
-      type: 'scatter',
-      colors: {
-        'FEMALE': 'red'
-      }
-    },
-    axis: {
-      x: {
-        type: 'category',
-        tick: {
-          rotate: 60,
-          multiline: false
+let current = '';
+
+d3.select('#female-filter button').on('click', function() {
+  current = 'female'
+  setTimeout(function() {
+      chart2.load({
+        unload: true,
+        url: 'testdata4.csv',
+        colors: {
+          'FEMALE': 'red'
         }
-      },
-      y: {
-        max: 4500
-      }
-    },
-    size: {
-      height: 500,
-    }
-});
+      });
+  }, 300);
+})
+
+d3.select('#male-filter button').on('click', function() {
+  current = 'male'
+  setTimeout(function() {
+      chart2.load({
+        unload: true,
+        url: 'testdata3.csv',
+        colors: {
+          'MALE': '#12cadb'
+        }
+      });
+  }, 300);
+})
+
+d3.select('#both-filter button').on('click', function() {
+  if (current == 'female'){
+    setTimeout(function() {
+      chart2.load({
+        url: 'testdata3.csv',
+        colors: {
+          'MALE': '#12cadb',
+        }
+      });
+    }, 300);
+  } else {
+    setTimeout(function() {
+      chart2.load({
+        url: 'testdata4.csv',
+        colors: {
+          'FEMALE': 'red',
+        }
+      });
+    }, 300);
+  }
+})
+
+// scatter plot for female occ data
+// var chart3 = c3.generate({
+//     bindto: '#chart3',
+//     data: {
+//       url: 'testdata4.csv',
+//       x: 'OCCUPATION2',
+//       type: 'scatter',
+//       colors: {
+//         'FEMALE': 'red'
+//       }
+//     },
+//     axis: {
+//       x: {
+//         type: 'category',
+//         tick: {
+//           rotate: 60,
+//           multiline: false
+//         },
+//         label: 'Occupation'
+//       },
+//       y: {
+//         max: 4500,
+//         label: 'ID'
+//       }
+//     },
+//     size: {
+//       height: 500,
+//     },
+//     point: {
+//       r: 3
+//     }
+// });

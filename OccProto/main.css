@@ -1,0 +1,30 @@
+.btn {
+  background-color: white;
+  color: black;
+  border: 2px solid;
+  border-radius: 4px;
+  padding: 8px 20px;
+  text-align: center;
+  font-size: 12px;
+  float: left;
+  margin-left: 15px;
+  margin-top: -20px;
+}
+
+button:hover {
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+button:focus {
+  outline: 0;
+}
+
+#female-filter button {
+  border-color: red;
+}
+
+#male-filter button {
+  border-color: #12cadb;
+}
