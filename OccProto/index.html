@@ -13,6 +13,7 @@
 <body>
   <h2 style="text-align: center; font-family: Verdana;">C3.js 1847 Census Occupation Data Prototype</h2>
   <div id="chart"></div>
+
   <div id="chart2"></div>
   <div id="female-filter">
     <button class="btn">Show Female Only</button>
@@ -23,7 +24,23 @@
   <div id="both-filter">
     <button class="btn">Show Both</button>
   </div>
+
   <div id="chart3"></div>
+  <div id="cat-filter">
+    <select>
+      <option value="d">Domestic</option>
+      <option value="p" selected>Public Service</option>
+      <option value="s">Skilled Trades</option>
+      <option value="u">Unskilled Labor</option>
+      <option value="m">Miscellaneous</option>
+    </select>
+  </div>
+  <div id="p-filter-f">
+    <button class="btn">Show Female</button>
+  </div>
+  <div id="p-filter-m">
+    <button class="btn">Show Male</button>
+  </div>
 
 </body>
 <!-- Load d3.js and c3.js -->
