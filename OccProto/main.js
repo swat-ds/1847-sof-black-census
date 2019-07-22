@@ -30,7 +30,7 @@ var chart = c3.generate({
       }
     },
     size: {
-      height: 500
+      height: 800
     }
 });
 
@@ -64,7 +64,7 @@ var chart2 = c3.generate({
       }
     },
     size: {
-      height: 500,
+      height: 800,
     },
     point: {
       r: 3
@@ -124,7 +124,7 @@ d3.select('#both-filter button').on('click', function() {
 })
 
 let chart3,
-    currCategory;
+    currCategory = 'p';
 
 drawCategoryChart('data/m_p.csv', 'PUBLIC_SERVICE')
 
@@ -157,7 +157,7 @@ function drawCategoryChart(file, category) {
         }
       },
       size: {
-        height: 500,
+        height: 800,
         width: window.innerWidth/2
       },
   });
@@ -186,17 +186,28 @@ d3.select('#cat-filter select').on('change', function() {
   if(item == 'd') {
     drawCategoryChart('data/m_d.csv', 'DOMESTIC')
     currCategory = 'd'
+    d3.select('#title').text('Domestic Jobs')
   } else if (item == 's') {
     drawCategoryChart('data/m_s.csv', 'SKILLED_TRADES')
     currCategory = 's'
+    d3.select('#title').text('Skilled Trades Jobs')
   } else if (item == 'u') {
     drawCategoryChart('data/m_u.csv', 'UNSKILLED_LABOR')
     currCategory = 'u'
+    d3.select('#title').text('Unskilled Labor Jobs')
   } else if (item == 'm') {
     drawCategoryChart('data/m_m.csv', 'MISCELLANEOUS')
     currCategory = 'm'
+    d3.select('#title').text('Miscellaneous Jobs')
   } else {
     drawCategoryChart('data/m_p.csv', 'PUBLIC_SERVICE')
     currCategory = 'p'
+    d3.select('#title').text('Public Service Jobs')
   }
 })
+
+d3.select('#title').append('text')
+   .attr('class','label')
+   .attr('text-anchor','end')
+   .attr('font-size','14px')
+   .text('Public Service Jobs')
