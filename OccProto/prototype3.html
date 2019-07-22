@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Occupation Prototype</title>
+  <!-- Load c3.css -->
+  <link href="c3.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+<body>
+  <h2>1847 Census Occupation Data Prototypes</h2>
+  <p>Toggle between the 3 prototypes:</p>
+  <div class="nav">
+    <button><a href="index.html">Prototype 1</a></button>
+    <button><a href="prototype2.html">Prototype 2</a></button>
+    <button><a href="#" class="selected">Prototype 3</a></button>
+  </div>
+
+  <div id="title"></div>
+
+  <div id="chart3"></div>
+  <div id="cat-filter">
+    <select>
+      <option value="d">Domestic</option>
+      <option value="p" selected>Public Service</option>
+      <option value="s">Skilled Trades</option>
+      <option value="u">Unskilled Labor</option>
+      <option value="m">Miscellaneous</option>
+    </select>
+  </div>
+  <div id="p-filter-f">
+    <button class="btn">Show Female</button>
+  </div>
+  <div id="p-filter-m">
+    <button class="btn">Show Male</button>
+  </div>
+
+  <div class="description">
+    <p>This chart graphs the top 10 most common jobs for males and females, respectively,
+      in each of 5 job categories. Hover over each bar to see the frequency
+      count for each occupation. Toggle between the different job categories
+      and sex for each one. This visualization breaks up the many jobs into more
+      comprehensible categories for comparison.</p> 
+  </div>
+
+</body>
+<!-- Load d3.js and c3.js -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+<script src="c3.min.js"></script>
+<script src="main.js"></script>
+
+</html>
