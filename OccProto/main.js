@@ -5,7 +5,7 @@ Alice Huang, 7/17/19 */
 var chart = c3.generate({
     bindto: '#chart',
     data: {
-      url: 'data/testdata.csv',
+      url: 'data/top_common_jobs.csv',
       x: 'OCC',
       type: 'bar',
       groups: [
@@ -23,14 +23,22 @@ var chart = c3.generate({
           rotate: 60,
           multiline: false
         },
-        label: 'Occupation'
+        height: 100,
+        label: {
+          text: 'Occupation',
+          position: 'outer-center'
+        }
       },
       y: {
-        label: 'Frequency'
+        label: {
+          text: 'Frequency',
+          position: 'outer-middle'
+        },
+        max: 2000
       }
     },
-    size: {
-      height: 800
+    legend: {
+      position: 'inset'
     }
 });
 
@@ -62,9 +70,6 @@ var chart2 = c3.generate({
         max: 4500,
         label: 'ID'
       }
-    },
-    size: {
-      height: 800,
     },
     point: {
       r: 3
