@@ -93,3 +93,30 @@ a.selected {
   font-weight: bold;
   display: inline-block;
 }
+
+th {
+  text-align: center;
+  border: 1px black solid;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+td {
+  border: 1px black solid;
+  padding: 5px;
+  font-size: 11px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px black solid;
+  width: 100%;
+}
+
+#chart4 {
+  margin-left: 30px;
+  margin-right: 30px;
+}

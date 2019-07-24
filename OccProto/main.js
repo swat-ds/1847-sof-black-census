@@ -42,6 +42,7 @@ var chart = c3.generate({
     }
 });
 
+/**********************************************************************/
 // scatter plot for male occ data
 var chart2 = c3.generate({
     bindto: '#chart2',
@@ -131,6 +132,8 @@ d3.select('#both-filter button').on('click', function() {
 let chart3,
     currCategory = 'p';
 
+/**********************************************************************/
+// prototype 3, bar chart by occupation categories
 drawCategoryChart('data/m_p.csv', 'PUBLIC_SERVICE')
 
 function drawCategoryChart(file, category) {
@@ -185,6 +188,7 @@ function reload(file) {
   }, 300);
 }
 
+// switch between male/female data on clicking buttons
 d3.select('#p-filter-f button').on('click', function() {
   reload('data/f_' + currCategory + '.csv')
 })
@@ -193,6 +197,7 @@ d3.select('#p-filter-m button').on('click', function() {
   reload('data/m_' + currCategory + '.csv')
 })
 
+// update data loaded for each dropdown selection
 d3.select('#cat-filter select').on('change', function() {
   item = d3.select(this).property('value'); // get drop-down selection
   if(item == 'd') {
@@ -218,8 +223,132 @@ d3.select('#cat-filter select').on('change', function() {
   }
 })
 
+// add updating title to prototype 3 bar chart
 d3.select('#title').append('text')
    .attr('class','label')
    .attr('text-anchor','end')
    .attr('font-size','14px')
    .text('Public Service Jobs')
+
+/**********************************************************************/
+// add data table
+
+let data;
+
+var tabulate = function (data,columns) {
+  var table = d3.select('#chart4').append('table')
+	var thead = table.append('thead')
+	var tbody = table.append('tbody')
+
+	thead.append('tr')
+	  .selectAll('th')
+	    .data(columns)
+	    .enter()
+	  .append('th')
+	    .text(function (d) { return d })
+
+	var rows = tbody.selectAll('tr')
+	    .data(data)
+	    .enter()
+	  .append('tr')
+  data = data 
+	var cells = rows.selectAll('td')
+	    .data(function(row) {
+	    	return columns.map(function (column) {
+	    		return { column: column, value: row[column] }
+	      })
+      })
+      .enter()
+    .append('td')
+      .text(function (d) { return d.value })
+
+  return table;
+}
+
+d3.csv('data/top_common_jobs.csv').then(function (data) {
+	var columns = ['OCC','MALE','FEMALE']
+  tabulate(data,columns)
+})
+
+// add search bar
+d3.select("#chart4").append("div")
+  .attr("class", "SearchBar")
+  .append("p")
+    .attr("class", "SearchBar")
+    .text("Search By Name:");
+
+d3.select(".SearchBar")
+  .append("input")
+    .attr("class", "SearchBar")
+    .attr("id", "search")
+    .attr("type", "text")
+    .attr("placeholder", "Search...");
+
+    d3.select("#search")
+      .on("keyup", function() { // filter according to key pressed
+        var searched_data = data,
+            text = this.value.trim();
+
+        var searchResults = searched_data.map(function(r) {
+          var regex = new RegExp("^" + text + ".*", "i");
+          if (regex.test(r.title)) { // if there are any results
+            return regex.exec(r.title)[0]; // return them to searchResults
+          }
+        })
+
+	    // filter blank entries from searchResults
+        searchResults = searchResults.filter(function(r){
+          return r != undefined;
+        })
+
+        // filter dataset with searchResults
+        searched_data = searchResults.map(function(r) {
+           return data.filter(function(p) {
+            return p.title.indexOf(r) != -1;
+          })
+        })
+
+        // flatten array
+		searched_data = [].concat.apply([], searched_data)
+
+        // data bind with new data
+		rows = table.select("tbody").selectAll("tr")
+		  .data(searched_data, function(d){ return d.id; })
+
+        // enter the rows
+        rows.enter()
+         .append("tr");
+
+        // enter td's in each row
+        row_entries = rows.selectAll("td")
+            .data(function(d) {
+              var arr = [];
+              for (var k in d) {
+                if (d.hasOwnProperty(k)) {
+		          arr.push(d[k]);
+                }
+              }
+              return [arr[3],arr[1],arr[2],arr[0]];
+            })
+          .enter()
+            .append("td")
+
+        // draw row entries with no anchor
+        row_entries_no_anchor = row_entries.filter(function(d) {
+          return (/https?:\/\//.test(d) == false)
+        })
+        row_entries_no_anchor.text(function(d) { return d; })
+
+        // draw row entries with anchor
+        row_entries_with_anchor = row_entries.filter(function(d) {
+          return (/https?:\/\//.test(d) == true)
+        })
+        row_entries_with_anchor
+          .append("a")
+          .attr("href", function(d) { return d; })
+          .attr("target", "_blank")
+        .text(function(d) { return d; })
+
+        // exit
+        rows.exit().remove();
+      })
