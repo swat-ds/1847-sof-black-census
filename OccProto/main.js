@@ -236,7 +236,7 @@ d3.select('#title').append('text')
 let data;
 
 var tabulate = function (data,columns) {
-  var table = d3.select('#chart4').append('table')
+  var table = d3.select('#chart4').append('table').attr('id','myTable')
 	var thead = table.append('thead')
 	var tbody = table.append('tbody')
 
@@ -250,8 +250,11 @@ var tabulate = function (data,columns) {
 	var rows = tbody.selectAll('tr')
 	    .data(data)
 	    .enter()
-	  .append('tr')
-  data = data 
+	  .append('tr').on('click', function() {
+      const r = d3.select(this);
+      r.style('background-color','#f6f0ff');
+    })
+
 	var cells = rows.selectAll('td')
 	    .data(function(row) {
 	    	return columns.map(function (column) {
@@ -273,82 +276,32 @@ d3.csv('data/top_common_jobs.csv').then(function (data) {
 // add search bar
 d3.select("#chart4").append("div")
   .attr("class", "SearchBar")
-  .append("p")
-    .attr("class", "SearchBar")
-    .text("Search By Name:");
-
-d3.select(".SearchBar")
   .append("input")
     .attr("class", "SearchBar")
-    .attr("id", "search")
+    .attr("id", "myInput")
     .attr("type", "text")
-    .attr("placeholder", "Search...");
+    .attr("placeholder", "Search by Name")
+    .attr('onkeyup','search()')
 
-    d3.select("#search")
-      .on("keyup", function() { // filter according to key pressed
-        var searched_data = data,
-            text = this.value.trim();
+function search() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
 
-        var searchResults = searched_data.map(function(r) {
-          var regex = new RegExp("^" + text + ".*", "i");
-          if (regex.test(r.title)) { // if there are any results
-            return regex.exec(r.title)[0]; // return them to searchResults
-          }
-        })
-
-	    // filter blank entries from searchResults
-        searchResults = searchResults.filter(function(r){
-          return r != undefined;
-        })
-
-        // filter dataset with searchResults
-        searched_data = searchResults.map(function(r) {
-           return data.filter(function(p) {
-            return p.title.indexOf(r) != -1;
-          })
-        })
-
-        // flatten array
-		searched_data = [].concat.apply([], searched_data)
-
-        // data bind with new data
-		rows = table.select("tbody").selectAll("tr")
-		  .data(searched_data, function(d){ return d.id; })
-
-        // enter the rows
-        rows.enter()
-         .append("tr");
-
-        // enter td's in each row
-        row_entries = rows.selectAll("td")
-            .data(function(d) {
-              var arr = [];
-              for (var k in d) {
-                if (d.hasOwnProperty(k)) {
-		          arr.push(d[k]);
-                }
-              }
-              return [arr[3],arr[1],arr[2],arr[0]];
-            })
-          .enter()
-            .append("td")
-
-        // draw row entries with no anchor
-        row_entries_no_anchor = row_entries.filter(function(d) {
-          return (/https?:\/\//.test(d) == false)
-        })
-        row_entries_no_anchor.text(function(d) { return d; })
-
-        // draw row entries with anchor
-        row_entries_with_anchor = row_entries.filter(function(d) {
-          return (/https?:\/\//.test(d) == true)
-        })
-        row_entries_with_anchor
-          .append("a")
-          .attr("href", function(d) { return d; })
-          .attr("target", "_blank")
-        .text(function(d) { return d; })
-
-        // exit
-        rows.exit().remove();
-      })
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+        //tr[i].style.background = '#f6f0ff';
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
