@@ -1,0 +1,4285 @@
+HOUSEHOLD ID,OCCUPATION 1,COUNT,OCCUPATION 2,COUNT,OCCUPATION 3,COUNT
+0,washer ,1
+1,washer ,1
+2,washer ,1
+3,eating house ,1
+4,domestic duties ,1
+5,null,null
+6,washer ,1
+7,null,null
+8,service ,1
+9,null,null
+10,domestic duties ,1
+11,days work ,1
+12,washer ,1
+13,washer ,1
+14,washer ,1
+15,washer ,1
+16,washer ,1
+17,washer ,1
+18,domestic duties ,1
+19,washer ,1
+20,shop keeper ,1
+21,washer ,1
+22,cook ,1
+23,days work ,1
+24,null,null
+25,washer ,1
+26,washer ,1
+27,days work ,1
+28,cook ,1
+29,days work ,1
+30,days work ,1
+31,sewing rags ,1
+32,washer ,1
+33,washer ,1
+34,whitewasher ,1
+35,washer ,2
+36,washer ,2
+37,washer ,1
+38,null,null
+39,days work ,1
+40,days work ,1
+41,days work ,1
+42,washer ,1
+43,washer ,1
+44,washer ,1
+45,washer ,1
+46,days work ,1
+47,null,null
+48,washer ,1
+49,null,null
+50,days work ,1
+51,null,null
+52,null,null
+53,washer ,1
+54,days work ,1
+55,washer ,1
+56,null,null
+57,null,null
+58,null,null
+59,domestic duties ,1
+60,days work ,1
+61,cake baker ,1,piebaker ,1
+62,washer ,1,dress m ,1
+63,days work ,1
+64,washer ,1
+65,whitewasher ,1
+66,null,null
+67,washer ,1
+68,huckster,1
+69,eating & c house ,1
+70,null,null
+71,washer ,1
+72,days work ,1
+73,null,null
+74,home duties ,1
+75,days work ,1
+76,at service ,1
+77,days work ,1
+78,days work ,1
+79,days work ,1
+80,days work ,1
+81,days work ,1
+82,wash ,1,dress m ,1,tailoress ,1
+83,washer ,1
+84,domestic duties ,1
+85,washer ,1
+86,washer ,1
+87,washer ,1
+88,days work ,1
+89,domestic duties ,1
+90,at service ,1
+91,washer ,1
+92,w washer ,1
+93,days work ,1
+94,washer ,1
+95,washer ,1
+96,days work ,1
+97,days work ,1
+98,days work ,1
+99,null,null
+100,service ,1
+101,school teacher ,1
+102,dressmaker ,2
+103,domestic duties ,1
+104,cook and confectioner ,1,shirt sur ,1,dressmaker ,1
+105,domestic duties ,1
+106,washer ,2
+107,shirt maker ,1
+108,days work ,1
+109,null,null
+110,domestic duties ,1
+111,null,null
+112,days work ,1
+113,washer under ,1
+114,w washer ,1
+115,washer ,1
+116,service ,1
+117,sempstress ,1
+118,not able to work ,1
+119,domestic duties ,1
+120,washer ,1
+121,null,null
+122,days work ,1
+123,days work ,1
+124,days work ,1
+125,service ,1
+126,dom duties ,1
+127,shirt m ,1,teacher ,1,palin sewer ,1
+128,domestic duties ,1
+129,domestic duties ,1
+130,domestic duties ,1
+131,washer ,1,sewing ,1
+132,days work ,1
+133,dom duties ,1
+134,washer ,1
+135,dom duties ,1
+136,dom duties ,1
+137,washer ,1
+138,whitewasher ,1,service ,1
+139,days work ,1
+140,days work ,1
+141,days work ,1
+142,washer ,1
+143,huckster,1
+144,huckster,1
+145,dressmaker ,1
+146,washer ,1,dressmaker ,1
+147,sempstress ,1
+148,washer ,1
+149,washer ,1
+150,washer ,1
+151,washer ,1
+152,washer ,1
+153,null,null
+154,null,null
+155,dressmaker ,2
+156,domestic duties ,1
+157,washer ,1
+158,boot fitter ,1
+159,washer ,1
+160,days work ,1
+161,rag gatherer ,1
+162,days work ,1
+163,domestic duties ,1
+164,null,null
+165,washer ,1,dressmaker ,1
+166,washer ,1,dressmaker ,1,milliner ,1
+167,washer ,1
+168,domestic duties ,1
+169,dom duties ,1,dressmaker ,1,sempstress ,1
+170,sempstress ,1
+171,sempstress ,1
+172,domestic duties ,1
+173,dressmaker ,5
+174,domestic duties ,1
+175,washer ,1,dressmaker ,1
+176,null,null
+177,domestic duties ,1
+178,washer ,1
+179,domestic duties ,1
+180,washer ,1
+181,washer ,1
+182,washer ,1
+183,days work ,1
+184,null,null
+185,various ,1
+186,dom duties ,1,in rag store ,1
+187,washer ,1
+188,washer ,1
+189,washer ,1
+190,washer ,1
+191,days work ,1
+192,days work ,1
+193,dom duties ,1,washer ,1
+194,washer ,1
+195,dressmaker ,1
+196,whitewasher ,1
+197,service ,1
+198,washer ,1
+199,washer ,1
+200,domestic duties ,1
+201,dressmaker ,1
+202,service ,1
+203,days work ,1
+204,dressmaker ,1
+205,washer ,1
+206,washer ,1
+207,days work ,1
+208,stewardess ,1
+209,days work ,1
+210,tailoress ,1
+211,washer ,1
+212,days work ,1
+213,days work ,1
+214,days work ,1
+215,washer ,1
+216,washer ,1
+217,washer ,1
+218,null,null
+219,cool ,1
+220,washer ,1
+221,washer ,1
+222,service ,1
+223,days work ,1
+224,washer ,1
+225,washer ,1
+226,washer ,1
+227,various ,1
+228,service ,1
+229,washer ,1,sempstress ,1
+230,washer ,1
+231,washer ,1
+232,washer ,1
+233,null,null
+234,washer ,1
+235,dress maker ,1,sempstress ,1
+236,washer ,1,cook ,1
+237,service ,1
+238,washer ,1
+239,service ,1
+240,days work ,1
+241,days work ,1
+242,days work ,1
+243,dress shirt maker,1
+244,domestic duties ,1
+245,domestic duties ,1,dress ,2,shirt maker ,1
+246,domestic duties ,1,pastry cook ,1
+247,washer ,1,dressmaker ,1
+248,washer ,1
+249,days work ,1
+250,dressmaker ,2,domestic duties ,1
+251,service ,1
+252,sempstress ,1
+253,days work so irregular assist ,1
+254,days work ,1
+255,days work ,1
+256,dom duties ,1
+257,service ,1,sometimes ,1
+258,days work ,1
+259,days work ,1
+260,washer ,1
+261,days work ,1
+262,dealer in clothes ,1
+263,null,null
+264,washer ,1
+265,service ,1
+266,washer ,1
+267,washer ,1
+268,days work ,1
+269,washer ,1
+270,washer ,1
+271,washer ,1
+272,washer ,1
+273,at service sometimes ,3
+274,service ,1
+275,washer ,1
+276,service ,1
+277,null,null
+278,dom duties ,1
+279,days work ,1
+280,quilter ,1,sempstress ,1
+281,days work ,1,service ,2
+282,days work irregular ,1
+283,washer ,1
+284,does nothing ,1
+285,washer ,1
+286,null,null
+287,service ,1
+288,washer ,1
+289,washer ,1
+290,days work ,1
+291,service ,1
+292,washer ,1
+293,washer ,1
+294,null,null
+295,washer ,1
+296,washer ,1
+297,null,null
+298,dressmaker ,1
+299,null,null
+300,service ,1
+301,washer ,1,dressmaker ,1
+302,upholsteress ,1
+303,assists husband ,1
+304,dressmaker ,1,washer ,1,nurse ,1
+305,shirt maker ,3,quilter ,1
+306,null,null
+307,washer ,1
+308,washer ,1
+309,washer ,1
+310,muffin baker ,1
+311,intelligence office ,1,sempstress ,1
+312,childs nurse ,1,days work ,1
+313,washer ,1
+314,washer ,1
+315,domestic duties ,1
+316,washer ,1
+317,washer ,1
+318,washer ,1
+319,washer irregular ,1
+320,sempstress ,1
+321,days work ,1
+322,dom duties ,1
+323,care takes school room ,1
+324,sempstress ,1
+325,days work in spring & fall,1
+326,washer ,1,sempstress ,1
+327,service ,1
+328,whitewasher ,3
+329,washer ,1,tailoress ,1
+330,shirtm ,1,dom duties ,1
+331,washer ,1,dressmaker ,1
+332,dressmaker ,1,milliner ,1
+333,washer ,1
+334,days work ,1,dressm iregular ,1
+335,service ,1
+336,days work ,1
+337,null,null
+338,null,null
+339,washer very irregular ,1
+340,days work irregular ,1
+341,days work irregular ,1
+342,days work irregular ,1
+343,domestic duties ,1
+344,days work ,1
+345,days work ,1
+346,days work irregular ,1
+347,janitor ,1
+348,days work average ,1
+349,days work ,1
+350,days work ,1
+351,days work irregular ,1
+352,null,null
+353,days work ,1,rag sorter ,1
+354,days work ,1
+355,days work irregular ,1
+356,days work irregular ,1
+357,days work ,1
+358,days work ,1
+359,days work considerable in summer ,1
+360,days work irregular ,1
+361,days work very little ,1
+362,washer ,1
+363,domestic duties ,1
+364,washer cant tell ,1
+365,days work ,1
+366,whitewasher ,1
+367,not able to work ,1
+368,washer cant tell ,1
+369,service ,1
+370,days work ,1
+371,washer ,1
+372,days work ,1
+373,washer ,3
+374,dressmakers very little ,3
+375,sempstress irregular ,1
+376,washer cant tell ,1
+377,washer very little ,1
+378,dom duties ,1
+379,days work very little ,1
+380,sempstress ,1
+381,dom duties ,1
+382,washer ,1
+383,domestic duties ,1
+384,washer ,1
+385,washer ,1
+386,dom duties ,1,dressmaker ,1
+387,washer very little ,1
+388,days work ,1
+389,confectioner ,1
+390,days work very little ,1
+391,days work ,1
+392,washer very little ,1
+393,washer irregular ,1
+394,rug maker ,1
+395,washer cant tell ,1
+396,washer ,1
+397,days work ,1
+398,washer but little ,1
+399,washer but little ,1
+400,washer cant tell ,1
+401,service ,1
+402,washer irregular ,1
+403,does nothing ,1
+404,washer very little ,1
+405,dress m millinery dont know ,1
+406,days work ,1
+407,shop keeper ,1
+408,days work very little ,1
+409,washer ,1,whitewasher ,1
+410,sempstress dont know ,1
+411,school teacher ,1
+412,dressm very little ,1
+413,cook ,1
+414,cook ,1
+415,washer ,1
+416,days work ,1
+417,washer ,1
+418,washer ,1
+419,washer ,1
+420,washer ,1
+421,null,null
+422,null,null
+423,null,null
+424,days work ,1
+425,washer ,1
+426,sempstress ,1
+427,assists husband ,1
+428,days work ,1
+429,not able to work ,1
+430,washer little ,1
+431,null,null
+432,dom duties ,1
+433,days work ,1
+434,washer cant tell ,1,not able to work ,1
+435,days work ,1
+436,days work irregular ,1
+437,days work ,1
+438,washer very little ,1
+439,service ,1
+440,washer ,1
+441,days work very dull ,1
+442,days work when can get it ,1
+443,dressm nothing to do ,1
+444,washer ,1,whitewasher ,1
+445,service ,1
+446,cook ,1
+447,washer not able to do much ,1
+448,domestic duties ,1
+449,washer ,1
+450,washer ,1
+451,washer cant get much to do ,1
+452,washer irregular ,1
+453,washer ,1
+454,not able to work ,1
+455,service ,1
+456,days work ,1
+457,domestic duties ,1
+458,service ,1
+459,days work ,1
+460,days work ,1
+461,days work ,1
+462,domestic duties ,1
+463,cook ,1
+464,sempstress ,1
+465,days work ,1
+466,washer dont know ,1
+467,sempstress ,1
+468,days work ,1
+469,shop keeper ,1
+470,washer when able ,1
+471,dressmaker ,1
+472,null,null
+473,makes cocoanut candy ,1
+474,cook ,1
+475,days work ,1
+476,huckster,1
+477,washer ,1
+478,washer ,1
+479,washing or sewing when can get it ,1
+480,null,null
+481,domestic duties ,1
+482,washer ,1
+483,days work ,2
+484,days work when can get it ,1
+485,days work occasionally ,1
+486,service ,1
+487,days work very dull ,1
+488,null,null
+489,days work very little ,1
+490,not able to work ,1
+491,washer cant make much gets cheated so ,1
+492,null,null
+493,cook ,1
+494,washer dont know ,1
+495,service ,1
+496,dom duties ,1
+497,null,null
+498,washer ,1
+499,days work ,1
+500,null,null
+501,null,null
+502,days work ,1
+503,huckster,1
+504,days work very little ,1
+505,days work ,1
+506,days work when able ,1
+507,washes ,1
+508,days work very dull ,1
+509,dom duties ,1
+510,washer when can get it ,1
+511,days work scarcely any ,1
+512,cuts carpet rags ,1
+513,not able to work ,1
+514,wash when can get it ,1
+515,days work slack time now ,1
+516,days work ,1
+517,cook when able to go ,1
+518,cook ,1
+519,days work ,1
+520,days work ,1
+521,days work ,1
+522,cuts carpet rags ,1
+523,huckster,1
+524,at days work irregular ,2
+525,assist father ,1
+526,days work ,1
+527,various ,1
+528,various so little ,1
+529,huckster,1
+530,dom duties ,1
+531,dom duties ,1,dressmaker ,1
+532,days work sempstree irregular ,1
+533,null,null
+534,washer ,1
+535,days work ,1
+536,assists husband ,1
+537,quilter cant tell ,1
+538,washer ,1,white washer cant tell ,1
+539,domestic duties ,1
+540,service ,1
+541,null,null
+542,days work ,1,sempstress very dull ,1
+543,domestic duties ,1
+544,washer ,2
+545,washer ,1
+546,days work ,1,sempstress uncertain ,1
+547,not able to work ,1
+548,various ,1
+549,service ,1
+550,days work ,1,not able ,1
+551,days work ,1
+552,eating house ,1,sempstress ,1
+553,null,null
+554,not able to work ,1
+555,days work almost nothing ,1
+556,null,null
+557,shirt maker ,1
+558,cake baker ,1
+559,days work very little ,2
+560,washer cant tell ,1
+561,washer dont know ,1
+562,washer cant tell ,1
+563,days work ,1
+564,days work ,1
+565,days work ,1
+566,days work ,1
+567,washer ,1
+568,days work ,1
+569,days work when can get it ,1
+570,washer ,1,dressmaker ,1
+571,sempstress ,1
+572,shop keeper ,1
+573,dressm very little ,1
+574,domestic duties ,1
+575,days work ,1
+576,washer ,1
+577,null,null
+578,days work ,1
+579,huckster,1,doubtful ,1
+580,washer ,1
+581,days work ,1
+582,days work ,1
+583,washer irregular ,1
+584,dom duties ,1
+585,assists husband ,1
+586,service commonly ,1
+587,washer ,1
+588,service ,1
+589,service ,1
+590,service ,1
+591,service ,1
+592,cook ,1
+593,dom duties ,1
+594,dom duties ,1
+595,cook ,1
+596,not able to work ,1
+597,washer ,2
+598,washer ,3
+599,washer ,1
+600,washer ,1
+601,washer very little ,1
+602,washer very little ,1
+603,days work when can get it ,1
+604,washer ,1
+605,null,null
+606,washer ,1
+607,washer cant tell ,1
+608,null,null
+609,various ,1
+610,days work ,1
+611,days work irregular ,1
+612,dom duties ,1
+613,washer ,2
+614,cook ,1,dressmaker ,1
+615,cook ,1
+616,washer ,1
+617,null,null
+618,service ,1
+619,dom duties ,1
+620,washer ,1
+621,dressm,1
+622,at service ,1
+623,washer cant tell ,1
+624,null,null
+625,washer cant tell ,1
+626,sempstress ,1
+627,washer ,1
+628,washer cant tell ,2
+629,washer very little ,1
+630,days work cant tell ,1
+631,washer ,2
+632,midwife cant tell gets so little of what she earns ,1
+633,days work ,1
+634,washer when can get it ,1
+635,cuts carpet rags ,1
+636,null,null
+637,cuts carpet rags ,1
+638,dom duties ,1
+639,assists husband ,1
+640,cook ,1
+641,washer ,1
+642,washer ,1
+643,washer ,1
+644,dom duties ,1
+645,washer ,1
+646,sempstress ,1
+647,washer when can get it ,1
+648,huckster part of the year ,1
+649,nurse ,1,service ,1
+650,cook ,1,make mats ,2
+651,nothing to do ,1
+652,days work ,1
+653,service ,1
+654,dressmaker ,1
+655,days work when can get it ,1
+656,days work ,1
+657,days work ,1
+658,washer cant tell ,1
+659,cook ,1
+660,service ,1
+661,cuts carpet rags ,1
+662,days work but little ,1
+663,service ,1
+664,days work ,1
+665,cuts carpet rags ,2
+666,service ,1
+667,shop keeper ,1
+668,shop keeper ,1
+669,service ,1
+670,null,null
+671,days work when can get it ,1
+672,washer very little ,1
+673,washer sometimes ,1
+674,dom duties ,1
+675,washer ,2
+676,washer ,1
+677,null,null
+678,dom duties ,1
+679,dom duties ,1
+680,sempstress ,1,dom duties ,1
+681,days work cant tell ,2
+682,washer very little ,1
+683,cook ,1
+684,washer ,1
+685,sempstress ,1
+686,days work ,1
+687,shirt m ,1,dom duties ,2
+688,washer ,1
+689,days work ,1
+690,null,null
+691,days work ,1
+692,cake baker ,1,hair dresser ,1,policy office ,1
+693,days work ,1
+694,washer ,1,sempstress ,1
+695,washer ,1
+696,dom duties ,1
+697,washer when able ,1
+698,days work ,2
+699,days work ,1
+700,washer when able ,1
+701,not able ,1
+702,days work ,1
+703,days work ,1
+704,days work not much ,1
+705,days work ,1
+706,cook ,1
+707,washer ,2
+708,whitewasher ,1
+709,cook ,1,dressmaker ,2,washer ,1
+710,washer when able ,1
+711,days work ,1,dressmaker ,1
+712,dom duties ,1,washer ,1
+713,dom duties ,1
+714,days work ,1
+715,washer when can get it ,1
+716,null,null
+717,days work ,1
+718,eating house cant tell ,1
+719,dressmaker ,1
+720,cook ,1
+721,dom duties ,3
+722,washer ,1
+723,dom duties ,1
+724,funeral furnishes ,1
+725,service ,1
+726,dressmaker ,1,washer when can get it ,1
+727,service ,1
+728,washer very little ,1
+729,washer dont keep count ,1
+730,washer doesnt keep count ,1
+731,washer ,1
+732,washer ,1
+733,at service ,1
+734,washer ,1
+735,not able ,1
+736,tailoress ,1,shirt & dressmaker,1,dressmaker ,1
+737,dom duties ,1
+738,days work ,1
+739,washer ,2
+740,dom duties ,1
+741,days work cant tell ,1
+742,washer ,1
+743,sempstress ,1
+744,null,null
+745,washer ,1,not able ,1
+746,dom duties ,1
+747,dressmaker ,1
+748,washer when can get it ,1
+749,assists husband ,1
+750,dressmaker ,2,dom duties ,1
+751,washer dont know ,3
+752,service ,1
+753,washer ,1,quilter ,1
+754,washer ,1,sempstress ,1
+755,nurse ,1
+756,shop keeper ,1
+757,dom duties ,1
+758,service ,1
+759,shop keeper ,1
+760,eating house ,1
+761,service ,1
+762,service ,2
+763,null,null
+764,days work when able ,1
+765,washer ,1
+766,domestic duties ,1
+767,dressmaker ,1,dom duties ,1
+768,days work ,1,dom duties ,1
+769,days work ,1
+770,days work ,3
+771,service ,1
+772,washer ,1
+773,washer ,1
+774,null,null
+775,service ,1
+776,null,null
+777,washer when able ,1
+778,service ,1
+779,washer when can get it ,1
+780,washer when can get it ,1
+781,washer ,2,dom duties ,1
+782,washer ,1
+783,washer very little ,1
+784,service ,1
+785,washer ,1,not able ,1
+786,service ,1
+787,washer when can get it ,1,sempstress ,1
+788,dom duties ,1
+789,dom duties ,1
+790,null,null
+791,dressmaker ,1
+792,sempstress when can get it ,1
+793,dressmaker & tailoress,1,not able ,1
+794,sempstress ,1
+795,dom duties ,1
+796,teacher & dressmaker,1,domestic duties ,2
+797,washer ,1
+798,service ,1
+799,washer ,1,not able ,1
+800,days work when able ,1
+801,service generally ,1
+802,work sometimes ,1
+803,washer ,1
+804,washer ,1
+805,washer ,1
+806,washer when able ,1
+807,washer ,1
+808,sempstress ,1
+809,washer ,1
+810,service ,1
+811,washer ,1,whitewasher ,1
+812,sempstress ,1
+813,washer ,1
+814,service ,1
+815,washer when able ,1
+816,service ,1
+817,service ,1
+818,days work ,1
+819,days work when can get it ,1
+820,null,null
+821,days work ,1
+822,null,null
+823,washer ,1
+824,days work when can get it ,1
+825,cook ,1
+826,washer ,1
+827,days work when able ,1
+828,washer doesnt keep count ,1
+829,service ,1
+830,washer ,1
+831,washer ,1,not able ,1
+832,washer ,1
+833,washer ,1
+834,washer ,1
+835,null,null
+836,washer ,2
+837,service ,1
+838,service ,1
+839,washer ,1
+840,null,null
+841,milliner ,1
+842,washer ,1
+843,not able ,1
+844,dom duties ,1
+845,assists husband ,1
+846,days work ,1
+847,days work ,1
+848,washer ,2,sempstress ,1
+849,null,null
+850,washer ,1
+851,service ,1
+852,cook ,1
+853,days work ,1
+854,service ,1
+855,assist harding ,2
+856,dom duties ,1
+857,washer when able ,1
+858,washer ,2
+859,washer when able ,1
+860,washer ,2
+861,washer ,2,shirt maker ,1
+862,days work ,1
+863,service ,1
+864,confectioner ,1,school teacher ,1
+865,not able ,1,tailoress ,1
+866,null,null
+867,washer ,1
+868,dom duties ,1,dressmaker ,1
+869,shop keeper ,1
+870,washer ,1
+871,washer ,1
+872,cuts carpet rags ,1
+873,null,null
+874,null,null
+875,null,null
+876,not able ,1
+877,washer ,1
+878,washer ,1
+879,days work ,1
+880,not able ,1
+881,not able ,1
+882,washer ,1
+883,days work ,1
+884,days work ,1
+885,huckster,1
+886,washer ,1
+887,washer ,1
+888,days work ,1
+889,days work ,2
+890,service ,1
+891,days work ,1
+892,dom duties ,1,sempstress ,1
+893,null,null
+894,service ,1
+895,washer ,1
+896,washer ,1,not able ,1
+897,service ,1
+898,days work ,1
+899,days work ,2
+900,days work ,1
+901,dressmaker ,1
+902,not able ,1
+903,service ,1
+904,null,null
+905,days work ,1
+906,days work ,1
+907,days work when able ,1
+908,days work ,1
+909,days work ,1
+910,washer when able ,1
+911,days work ,1
+912,washer ,1,sempstress ,1
+913,days work ,1
+914,washer when able ,1
+915,days work ,1
+916,cook ,1
+917,days work ,1
+918,washer ,1
+919,rag gather ,1
+920,service ,1
+921,washer ,1
+922,washer ,1
+923,washer ,1
+924,pastry cook ,1
+925,work when able ,1,days work ,1
+926,cook ,1
+927,washer ,1
+928,days work ,1
+929,days work ,1
+930,days work ,1
+931,various ,1,irregular ,1
+932,dressmaker ,2,washer ,1
+933,cook ,1
+934,days work when can get it ,1
+935,null,null
+936,days work ,1
+937,days work ,1
+938,cook ,1
+939,whitewasher ,1
+940,null,null
+941,various ,1
+942,washer when able ,1
+943,null,null
+944,days work ,1
+945,days work when able ,2
+946,rag sorter ,2
+947,days work when can get it ,1
+948,days work when can get it ,1
+949,days work ,1
+950,days work when able ,1
+951,days work ,1
+952,not able ,1
+953,washer when able ,1
+954,milliner ,1,dressmaker ,1
+955,dressmaker ,2
+956,sempstress ,1
+957,washer ,1
+958,cook ,1
+959,service ,1
+960,washer ,1
+961,not able ,1
+962,dressmaker ,1,tailoress ,1
+963,service commonly ,1
+964,service ,1
+965,shop keeper ,1
+966,days work ,1
+967,days work ,1
+968,washer when able ,1
+969,null,null
+970,sempstress ,1
+971,days work very little ,1
+972,various ,1
+973,cook ,1
+974,shop keeper ,1
+975,washer ,1
+976,washer when able ,1
+977,washer average ,1
+978,service ,1
+979,washer ,2
+980,days work ,1
+981,days work ,1
+982,washer ,1
+983,null,null
+984,service ,1
+985,washer ,2
+986,dressmaker ,1
+987,washer ,1
+988,days work ,1
+989,washer ,1,dressmaker ,1
+990,cook ,1
+991,cook ,1
+992,days work when able ,1
+993,dressmaker ,1
+994,service ,1
+995,washer ,1
+996,washer ,1
+997,washer ,2
+998,milliner ,1,dressmaker ,1,embroider ,1
+999,service ,1
+1000,null,null
+1001,washer ,1
+1002,days work ,1
+1003,cook ,1
+1004,washer ,1
+1005,days work ,1
+1006,null,null
+1007,dressmaker ,3
+1008,washer ,1
+1009,washer ,1
+1010,washer ,1
+1011,washer ,1
+1012,days work ,2
+1013,days work ,1,not able ,1
+1014,dressmaker ,1,dom duties ,1
+1015,washer ,1
+1016,dom duties ,1
+1017,days work ,1,washer ,1
+1018,washer ,1
+1019,days work ,1
+1020,washer ,1
+1021,washer ,1
+1022,null,null
+1023,washer ,2
+1024,washer ,1
+1025,milliner ,1
+1026,sempstress ,1,dom duties ,1
+1027,days work ,1
+1028,service ,1
+1029,days work ,1
+1030,null,null
+1031,service ,1
+1032,washer when can get it ,1
+1033,sempstress ,1,days work ,1
+1034,washer ,1
+1035,washer ,1
+1036,dom duties ,1
+1037,washer ,1
+1038,dom duties ,1
+1039,dom duties ,1
+1040,washer ,1
+1041,dom duties ,1
+1042,washer ,1,tailoress when able ,1
+1043,service ,1
+1044,service ,1
+1045,washer ,1
+1046,washer ,1
+1047,cook ,1
+1048,washer ,1
+1049,washer ,1
+1050,washer ,2
+1051,washer ,2,not able ,1
+1052,washer ,1
+1053,washer ,2
+1054,washer ,1
+1055,washer ,1
+1056,washer ,1
+1057,washer ,1
+1058,dom duties ,2
+1059,dom duties ,1
+1060,days work ,1
+1061,service ,1
+1062,washer ,1
+1063,sempstresses ,2
+1064,washer ,2,dressmaker ,1
+1065,service ,1
+1066,washer ,1
+1067,whitewasher ,1
+1068,cook ,1
+1069,days work ,1
+1070,cake seller ,1
+1071,washer ,1
+1072,washer when can get it ,1
+1073,washer ,1
+1074,washer ,1
+1075,barber ,1
+1076,days work ,1
+1077,assists at home ,1
+1078,washer ,1
+1079,washer ,1
+1080,washer ,1
+1081,cook ,1,washer ,1
+1082,days work ,1
+1083,not able ,1
+1084,days work ,2
+1085,huckster,1
+1086,washer ,2
+1087,washer ,1
+1088,dressmaker ,1
+1089,washer ,1
+1090,washer ,1
+1091,washer ,1
+1092,washer ,1
+1093,washer ,2,dressmaker ,1
+1094,dom duties ,1
+1095,shop keeper ,1
+1096,washer ,2
+1097,scourer ,1
+1098,null,null
+1099,dom duties ,1,sempstress ,1,washer ,1
+1100,rag sorter ,1
+1101,service ,1
+1102,washer ,1
+1103,dom duties ,1
+1104,sempstress ,1
+1105,null,null
+1106,shop keeper ,1
+1107,assists husband ,1
+1108,days work ,1
+1109,null,null
+1110,days work ,1
+1111,service ,1
+1112,washer ,1
+1113,days work ,1
+1114,sempstress ,1
+1115,washer when able ,1
+1116,days work when can get it ,1
+1117,washer ,2
+1118,washer when can get it ,1
+1119,service ,1
+1120,days work ,1
+1121,service ,1
+1122,washer ,1
+1123,washer when able ,1
+1124,days work ,1
+1125,washer when able ,2
+1126,days work ,1
+1127,days work ,1
+1128,dom duties ,1
+1129,whitewasher ,1
+1130,days work ,1
+1131,washer ,1,not able ,1
+1132,cook when able ,1
+1133,at service ,1
+1134,washer ,1
+1135,washer ,1
+1136,washer ,1
+1137,dom duties ,1
+1138,washer ,2
+1139,washer ,1
+1140,washer when able ,1
+1141,washer ,2
+1142,washer & whitewasher,1
+1143,layer out of dead ,1,sempstress ,1
+1144,washer ,1
+1145,days work ,2
+1146,washer ,1
+1147,huckster,1
+1148,washer ,1
+1149,cook ,1
+1150,days work ,2
+1151,sempstress ,1
+1152,service ,1
+1153,service ,1
+1154,washer when can get it ,1
+1155,washer ,2
+1156,dom duties ,1
+1157,sempstress ,1
+1158,days work when can get it ,1
+1159,sempstress ,1
+1160,service ,1
+1161,service ,1
+1162,service ,1
+1163,service ,1
+1164,days work when able ,1
+1165,dom duties ,1,whitewasher ,1
+1166,null,null
+1167,sempstress ,1,washer ,1
+1168,domestic duties ,1
+1169,service ,1,at present ,1
+1170,days work ,1
+1171,service ,1
+1172,oyster house minimally ,1
+1173,days work ,1,washer ,1,not able ,1
+1174,domestic duties ,1
+1175,washer ,1
+1176,washer when able ,1
+1177,null,null
+1178,days work ,1
+1179,washer ,1
+1180,washer ,1
+1181,washer ,2,not able ,1
+1182,washer ,1
+1183,washer ,1
+1184,washer ,1
+1185,null,null
+1186,washer ,1
+1187,washer ,1
+1188,null,null
+1189,null,null
+1190,domestic duties ,1
+1191,null,null
+1192,null,null
+1193,days work when able ,2
+1194,washer ,1
+1195,service when can get it ,1
+1196,days work when able ,1
+1197,days work when able ,1
+1198,null,null
+1199,whitewasher ,1,sempstress ,1
+1200,dressmaker ,1,days work ,1
+1201,days work ,1
+1202,cuts carpet rags ,1
+1203,null,null
+1204,days work ,1
+1205,null,null
+1206,days work ,1
+1207,washer ,1,nurse ,1
+1208,null,null
+1209,domestic duties ,1
+1210,days work ,1
+1211,washer ,1
+1212,various ,1
+1213,days work ,1
+1214,days work ,1
+1215,null,null
+1216,not able ,1
+1217,days work ,1
+1218,days work ,1
+1219,washer ,1
+1220,days work ,1
+1221,days work ,1
+1222,days work ,1
+1223,service ,1
+1224,washer ,1,not able ,1
+1225,washer ,1
+1226,cook ,1
+1227,washer ,1
+1228,washer ,1
+1229,washer ,2
+1230,washer ,1
+1231,days work ,1
+1232,null,null
+1233,service ,1
+1234,not able ,1
+1235,sempstress ,1
+1236,washer ,1
+1237,washer ,1
+1238,washer ,2
+1239,days work ,1
+1240,dom duties ,1
+1241,matron moral refm retreat ,1
+1242,eating house ,1
+1243,days work ,1
+1244,assist at the house ,2
+1245,days work ,1,idle ,1
+1246,days work when can get it ,1
+1247,washer ,1
+1248,washer when able ,1
+1249,probably idle ,3
+1250,washer ,1,not able ,1
+1251,null,null
+1252,null,null
+1253,washer ,1
+1254,washer ,1
+1255,days work ,1
+1256,washer sometimes ,1
+1257,dom duties ,1
+1258,washer ,1
+1259,days work ,1,dressmaker ,1
+1260,washer ,1,not able ,1
+1261,cook ,1
+1262,days work sometimes ,1
+1263,dom duties ,1,washer ,1
+1264,days work ,1
+1265,days work ,1
+1266,null,null
+1267,washer ,1
+1268,washer ,1
+1269,days work ,1,cook ,1
+1270,cook house and dance house ,1
+1271,days work ,1
+1272,nominal sempstresses ,3
+1273,null,null
+1274,dom duties ,1
+1275,various ,2
+1276,null,null
+1277,washer ,1
+1278,sempstress ,1
+1279,various ,1
+1280,dom duties ,1
+1281,dom duties ,1,days work ,1
+1282,washer when able ,1
+1283,days work ,1
+1284,cook ,1,rag gatherer ,2
+1285,washer ,2
+1286,huckster,1
+1287,washer ,1
+1288,washer when able ,1
+1289,eating house ,1,not able ,1
+1290,washer ,1
+1291,null,null
+1292,washer when able ,1
+1293,null,null
+1294,various ,3
+1295,sempstress ,1,washer ,1
+1296,probably nothing ,1
+1297,cuts carpet rags ,1
+1298,washer ,1
+1299,washer ,1
+1300,null,null
+1301,washer ,1
+1302,washer ,1
+1303,days work ,1
+1304,days work ,1
+1305,dom duties ,1
+1306,cook ,1
+1307,laborer,1
+1308,days work ,1
+1309,various ,1
+1310,days work ,1
+1311,washer ,1
+1312,probably idle ,2
+1313,probably idle ,3
+1314,dom duties ,1
+1315,shop keeper ,1
+1316,dom duties ,1
+1317,dom duties ,1
+1318,null,null
+1319,null,null
+1320,days work ,1
+1321,days work ,1
+1322,cuts carpet rags ,2
+1323,service ,1
+1324,service ,1
+1325,cuts carpet rags ,1
+1326,days work ,1
+1327,cuts carpet rags ,1
+1328,days work ,1
+1329,null,null
+1330,cook ,1
+1331,mat maker ,1
+1332,probably nothing ,1
+1333,null,null
+1334,days work ,1,washer ,2
+1335,days work ,1
+1336,service when able ,1
+1337,assists husband ,1,dom duties ,1
+1338,sempstresses ,2
+1339,dom duties ,1
+1340,dom duties ,1
+1341,days work when able ,1
+1342,washer ,1
+1343,washer ,1,cook ,1
+1344,days work ,1,dom duties ,1
+1345,service ,1
+1346,service ,1
+1347,days work ,1
+1348,days work ,1
+1349,null,null
+1350,washer ,1
+1351,dom duties ,1
+1352,sempstresses ,2
+1353,washer ,1
+1354,sempstress ,1
+1355,dressmaker ,1
+1356,dom duties ,1
+1357,days work ,1
+1358,days work ,1
+1359,washer ,1
+1360,days work ,1
+1361,washer ,1
+1362,null,null
+1363,washer ,1
+1364,washer ,1
+1365,cook ,1
+1366,washer ,1
+1367,days work ,1
+1368,dom duties ,1
+1369,days work ,2
+1370,washer ,1
+1371,washer ,2
+1372,washer ,1,dressmaker ,1,milliner ,1
+1373,washer ,1
+1374,washer ,1
+1375,washer ,1
+1376,days work ,1,sempstress ,1
+1377,service ,1
+1378,dom duties ,1,days work ,1,eating house ,1
+1379,various ,2
+1380,dressmaker ,1
+1381,dom duties ,1
+1382,washer ,1
+1383,washer ,1,dressmaker ,1
+1384,days work ,1
+1385,washer ,1
+1386,washer ,1
+1387,washer ,1
+1388,washer ,1,dressmaker ,1
+1389,washer ,1
+1390,dom duties ,1
+1391,sempstress ,1
+1392,days work ,1
+1393,days work ,1
+1394,dom duties ,1
+1395,washer ,1
+1396,cook ,1
+1397,washer ,1
+1398,washer ,1
+1399,dressmaker ,1
+1400,null,null
+1401,not well ,1,assists at home ,1
+1402,washer ,1
+1403,washer ,1
+1404,washer ,1
+1405,dressmaker when able ,1
+1406,cook ,1
+1407,dom duties ,1
+1408,washer ,1
+1409,null,null
+1410,dom duties ,1
+1411,washer ,2
+1412,days work ,1
+1413,not able ,1
+1414,days work ,1
+1415,w washer ,1
+1416,dom duties ,1
+1417,washer ,1
+1418,days work ,1,not able ,1
+1419,washer & whitewasher,1
+1420,washer ,1
+1421,cook ,1
+1422,days work ,1
+1423,service ,1
+1424,washer ,1
+1425,washer ,1
+1426,days work ,1
+1427,washer ,1
+1428,dom duties ,1
+1429,dom duties ,1
+1430,assists husband ,1
+1431,washer ,1
+1432,washer ,1
+1433,days work ,2
+1434,sempstress ,12,not able ,1
+1435,service ,1
+1436,washer ,1
+1437,dealer ,1
+1438,washer ,1,not able ,1
+1439,washer ,1
+1440,days work ,1,not able ,1
+1441,washer ,2
+1442,days work ,2
+1443,washer ,1
+1444,washer ,1
+1445,sempstress ,1
+1446,dom duties ,1
+1447,washer ,1
+1448,cook ,1,washer ,1
+1449,days work ,1
+1450,null,null
+1451,washer ,1
+1452,various ,1
+1453,washer ,1
+1454,washer ,1,not able ,1
+1455,days work ,1
+1456,service ,1
+1457,washer ,2
+1458,washer sempstress ,1
+1459,washer ,1
+1460,days work ,1
+1461,days work ,1
+1462,washer ,1,not able ,1
+1463,washer ,1
+1464,washer ,1
+1465,washer ,1
+1466,washer ,2
+1467,days work ,1
+1468,very little afflicted ,2
+1469,days work when able ,1
+1470,washer ,1
+1471,days work ,1
+1472,days work ,1,cuts carpet rags ,1
+1473,days work ,1
+1474,washer ,1
+1475,washer ,1
+1476,sempstress ,1
+1477,washer ,2
+1478,days work ,1
+1479,whitewasher ,1
+1480,washer ,1,cook ,1
+1481,days work when able ,1
+1482,days work when able ,1
+1483,washer ,1
+1484,washer ,1
+1485,washer ,1
+1486,washer ,1
+1487,washer ,1,whitewasher ,1
+1488,w washer when able ,1
+1489,w washer ,1
+1490,days work ,1
+1491,washer when able ,1
+1492,null,null
+1493,days work ,1
+1494,null,null
+1495,days work ,3
+1496,days work ,1
+1497,days work ,1
+1498,washer ,1
+1499,washer & whitewasher,1
+1500,dom duties ,2
+1501,sempstresses ,2
+1502,washer when able ,1
+1503,service ,1
+1504,service ,1
+1505,washer ,1
+1506,washer ,1
+1507,days work ,1,sempstress ,1
+1508,dom duties ,1
+1509,days work ,1
+1510,washer ,2
+1511,dom duties ,1
+1512,washer when able ,1,sempstress ,1
+1513,assist in oyster house ,2
+1514,days work ,2,sempstress ,1
+1515,days work when can get it ,1
+1516,days work ,1
+1517,dom duties ,2
+1518,school teacher ,1,dressmaker ,1
+1519,washer ,1,sempstress ,1
+1520,stewardess ,1,dom duties ,1
+1521,washer ,1
+1522,days work ,1
+1523,washer ,1
+1524,washer ,1,not able ,1
+1525,days work ,1
+1526,washer ,1,shirt maker ,1
+1527,dom duties ,1
+1528,washer ,1,dressmaker ,1
+1529,washer ,1,not able ,1
+1530,washer ,1
+1531,days work ,1
+1532,washer ,1
+1533,assists husband ,1
+1534,cook ,1,not able ,1
+1535,washer ,1
+1536,null,null
+1537,washer ,1
+1538,days work ,1
+1539,days work ,1
+1540,washer ,1
+1541,washer ,1
+1542,days work ,1
+1543,dressmaker ,1
+1544,washer ,1
+1545,days work ,1
+1546,washer ,1
+1547,dom duties ,1
+1548,washer ,1
+1549,washer ,1
+1550,washer ,2,not able ,2
+1551,washer ,1
+1552,service ,1
+1553,dom duties ,1,dressmaker ,1
+1554,washer ,1
+1555,null,null
+1556,dom duties ,1
+1557,washer ,1
+1558,washer ,2
+1559,washer ,2
+1560,washer ,1
+1561,washer when can get it ,1
+1562,days work ,1
+1563,service ,1
+1564,dom duties ,1
+1565,washer ,2
+1566,sempstress ,1
+1567,washer ,1
+1568,washer ,1
+1569,null,null
+1570,washer ,2
+1571,dressmaker ,1
+1572,washer when can get it ,1
+1573,days work ,1
+1574,days work ,1
+1575,washer ,1
+1576,null,null
+1577,days work ,1
+1578,washer ,1,sempstress ,1
+1579,dom duties ,1
+1580,days work ,1
+1581,washer ,1
+1582,shop keeper ,1
+1583,days work ,1
+1584,null,null
+1585,nurse ,1,sempstress ,1
+1586,not able ,1
+1587,washer ,1
+1588,washer when able ,1
+1589,null,null
+1590,cook ,1
+1591,washer when able ,1
+1592,dom duties ,3
+1593,washer ,2,dressmaker ,1
+1594,washer ,1
+1595,washer ,1
+1596,washer ,1
+1597,days work when can get it ,1
+1598,null,null
+1599,dom duties ,1
+1600,dressmaker ,1
+1601,washer ,1
+1602,milliner ,1
+1603,shop keeper ,2,dressmaker ,2
+1604,dressmaker ,1
+1605,dom duties ,1
+1606,days work ,1
+1607,days work ,1
+1608,washer ,1
+1609,days work ,1
+1610,dressmaker ,1
+1611,hair dressmaker ,1
+1612,cook ,1,dealer dom duties ,1
+1613,null,null
+1614,days work when can get it ,1
+1615,null,null
+1616,dressm fortune teller ,1,dom duties ,1
+1617,null,null
+1618,null,null
+1619,washer ,1
+1620,cook ,1
+1621,days work ,1
+1622,null,null
+1623,null,null
+1624,cuts carpet rags ,1
+1625,washer ,1
+1626,cook ,1
+1627,days work ,1
+1628,dom duties ,1
+1629,days work ,2
+1630,washer ,1
+1631,washer ,2
+1632,whitewasher ,2
+1633,washer ,1
+1634,dressmaker ,2
+1635,quilter ,1
+1636,bonnetmaker ,1,dom duties ,1
+1637,dom duties ,1
+1638,null,null
+1639,washer ,1
+1640,washer ,1
+1641,dom duties ,1
+1642,dom duties ,1
+1643,days work ,1,sempstress ,1
+1644,dom duties ,1
+1645,shop keeper ,1
+1646,dom duties ,1
+1647,washer ,1,not able ,1
+1648,null,null
+1649,days work ,1,not able ,1
+1650,days work ,1
+1651,whitewasher ,1
+1652,cake baker ,1
+1653,washer ,1
+1654,quilter ,1
+1655,cook ,1,washer when able ,1
+1656,cook ,1
+1657,washer ,1
+1658,days work ,1
+1659,washer ,1
+1660,dom duties ,1
+1661,washer ,1,shop keeper ,1
+1662,dressmaker ,1
+1663,shirtm ,1,dressmaker ,1,washer ,1
+1664,washer ,1
+1665,washer ,2
+1666,sempstress ,1
+1667,washer ,1
+1668,null,null
+1669,null,null
+1670,pastry cook ,1,shirt maker ,1
+1671,null,null
+1672,washer ,1
+1673,dressmaker ,1
+1674,dressmaker ,1,nurse ,1
+1675,washer ,1,sempstress ,1
+1676,washer ,1
+1677,washer ,1
+1678,washer ,1
+1679,nurse ,1
+1680,washer ,3
+1681,dressmaker ,1,tailoress ,2,dom duties ,1
+1682,sempstress ,1
+1683,sempstress ,1
+1684,cook ,1,dressmaker ,3
+1685,washer ,2,dom duties ,1
+1686,null,null
+1687,chambermaid ,2
+1688,washer ,1,dressmaker ,1
+1689,washer ,2
+1690,washer ,2,not able ,1
+1691,washer ,1
+1692,washer ,1
+1693,washer ,1
+1694,null,null
+1695,cook ,1
+1696,washer ,1
+1697,washer ,1
+1698,past work ,1
+1699,washer ,1
+1700,washer ,1
+1701,washer ,1
+1702,days work ,1
+1703,washer ,1,shirt ,1,dressmaker ,1
+1704,shirt maker ,1
+1705,shirt maker ,1,dressmaker ,1
+1706,washer ,1
+1707,washer ,1
+1708,washer ,1
+1709,washer ,1
+1710,washer ,2,dressmaker ,1
+1711,dressmaker ,1
+1712,washer ,1,dom duties ,1
+1713,dressmaker ,1,dom duties ,1
+1714,sempstress ,1
+1715,dressmaker ,1,dom duties ,1
+1716,service ,1
+1717,washer ,1
+1718,washer ,1
+1719,washer when can get it ,1
+1720,washer ,1
+1721,washer ,1
+1722,null,null
+1723,dressmaker ,1,tailoress ,1
+1724,days work ,1
+1725,washer ,1,not able ,1
+1726,days work ,1
+1727,days work ,1
+1728,days work ,1
+1729,dressmaker ,1
+1730,sempstresses ,2
+1731,washer ,1
+1732,washer ,1
+1733,null,null
+1734,washer ,1
+1735,dressmaker ,1,dom duties ,1
+1736,dressmaker ,1,cake baker ,1
+1737,washer ,1
+1738,dressmaker ,1
+1739,nurse ,1
+1740,null,null
+1741,washer ,2
+1742,sempstress ,1,days work ,1
+1743,dressmaker ,2,dom duties ,1
+1744,days work ,1
+1745,days work when able ,1
+1746,washer ,2
+1747,null,null
+1748,null,null
+1749,null,null
+1750,days work ,1
+1751,washer ,2
+1752,null,null
+1753,washer ,1
+1754,washer ,2
+1755,days work ,1
+1756,assists husband ,1
+1757,washer ,1
+1758,washer ,1
+1759,dressmaker ,1
+1760,washer ,1
+1761,days work ,1
+1762,days work ,1
+1763,dom duties ,1
+1764,days work ,1
+1765,washer ,1,sempstress ,1
+1766,service ,1
+1767,days work ,1
+1768,service ,1
+1769,null,null
+1770,null,null
+1771,washer ,2
+1772,days work ,1
+1773,not able ,1
+1774,sempstress ,1
+1775,null,null
+1776,washer ,2
+1777,washer ,1
+1778,dressmaker ,1
+1779,dressmaker ,1
+1780,dressmaker ,1
+1781,days work ,1
+1782,shop keeper ,1
+1783,washer ,2
+1784,shop keeper ,1
+1785,null,null
+1786,null,null
+1787,assists husband ,1
+1788,washer ,1
+1789,washer ,2
+1790,washer ,1
+1791,shirt ,1,dressmaker ,1
+1792,washer ,1
+1793,not able ,1
+1794,not able ,1
+1795,null,null
+1796,shop keeper ,1
+1797,dom duties ,1
+1798,washer ,2
+1799,washer ,1,days work ,1
+1800,washer ,1
+1801,school teacher ,1
+1802,days work ,1
+1803,dom duties ,2
+1804,cook ,1
+1805,washer ,1
+1806,washer ,1
+1807,days work ,1
+1808,days work ,1
+1809,washer ,1
+1810,days work ,1
+1811,null,null
+1812,washer ,1,dressmaker ,1
+1813,washer ,1
+1814,days work ,1
+1815,null,null
+1816,pastry cook ,1
+1817,washer ,1
+1818,null,null
+1819,washer ,1
+1820,washer ,1
+1821,whitewasher ,1
+1822,days work ,1
+1823,washer ,1,not able ,1
+1824,null,null
+1825,null,null
+1826,days work ,1
+1827,days work ,1
+1828,washer ,1
+1829,washer ,2,not able ,1
+1830,cook ,1
+1831,dressmaker ,1
+1832,washer ,1
+1833,days work ,1
+1834,washer ,1
+1835,washer ,1
+1836,days work ,1
+1837,cuts carpet rags ,1
+1838,null,null
+1839,washer ,1,assists at home ,1,waiter ,1
+1840,null,null
+1841,cuts carpet rags ,1
+1842,days work ,1
+1843,washer when able ,1
+1844,nurse ,1
+1845,days work ,1
+1846,washer ,1
+1847,dom duties ,1
+1848,dressmaker ,1,tailoress ,1
+1849,days work ,1
+1850,null,null
+1851,days work ,1
+1852,washer ,2
+1853,washer ,1
+1854,null,null
+1855,dressmaker ,1,days work ,1
+1856,washer ,1
+1857,cook ,1
+1858,washer ,1
+1859,washer ,1,sempstress ,1
+1860,not able ,1,days work ,2
+1861,null,null
+1862,null,null
+1863,dressmaker ,1
+1864,null,null
+1865,sempstress ,1
+1866,washer ,1
+1867,washer ,1
+1868,washer ,2
+1869,days work ,1
+1870,days work ,1
+1871,days work ,1,dressmaker ,1
+1872,washer ,1
+1873,washer ,2
+1874,null,null
+1875,days work when able ,1
+1876,null,null
+1877,washer ,1
+1878,dressmaker ,2
+1879,washer ,1
+1880,dom duties ,1,not able ,1
+1881,null,null
+1882,service ,1
+1883,washer ,1
+1884,days work ,1
+1885,washer ,1
+1886,null,null
+1887,null,null
+1888,washer ,1
+1889,washer ,1
+1890,null,null
+1891,dom duties ,1
+1892,days work ,2
+1893,at service ,1
+1894,days work ,1
+1895,dom duties ,1
+1896,null,null
+1897,sempstress ,1
+1898,null,null
+1899,washer ,1
+1900,service ,2
+1901,washer ,1
+1902,washer ,1
+1903,days work ,1
+1904,washer ,1,cook ,1
+1905,days work ,1
+1906,days work ,1
+1907,tailoress ,1,not able ,1
+1908,null,null
+1909,dressmaker ,1,dom duties ,1
+1910,washer ,1
+1911,null,null
+1912,dom duties ,1
+1913,null,null
+1914,null,null
+1915,washer ,1
+1916,dressmaker when able ,1
+1917,washer ,1
+1918,washer ,1
+1919,washer ,1
+1920,washer ,1
+1921,washer ,1
+1922,washer ,1
+1923,days work ,1
+1924,washer ,1
+1925,chambermaid ,1
+1926,washer ,1,not able ,1
+1927,washer ,1
+1928,washer ,2
+1929,at service ,1
+1930,null,null
+1931,washer ,1
+1932,sempstress ,1
+1933,washer ,1
+1934,washer ,1
+1935,days work ,1
+1936,sempstress and nurse ,1
+1937,days work ,3
+1938,null,null
+1939,null,null
+1940,washer ,1
+1941,service ,1
+1942,washer ,1,dressmaker ,1
+1943,days work ,1
+1944,washer ,1
+1945,null,null
+1946,days work ,1,w washer ,1
+1947,null,null
+1948,tailoress ,1
+1949,days work ,1,washer ,1
+1950,wood sawyer ,1
+1951,sempstress ,1
+1952,washer ,1
+1953,days work ,1
+1954,days work ,1
+1955,cuts carpet rags ,1
+1956,washer ,2
+1957,days work ,1
+1958,shop keeper ,1
+1959,washer ,1
+1960,days work ,1,dressmaker ,1
+1961,washer ,1
+1962,dom duties ,1
+1963,null,null
+1964,null,null
+1965,washer ,1,not able ,1
+1966,dressmaker ,1
+1967,days work ,1
+1968,null,null
+1969,washer ,1,shirtm ,1,dressmaker ,1
+1970,school teacher ,1,washer ,1
+1971,washer ,1
+1972,washer ,1
+1973,washer ,1
+1974,null,null
+1975,washer ,2
+1976,washer ,1,cook ,1
+1977,null,null
+1978,shop keeper ,1
+1979,dom duties ,1,dressmaker ,1
+1980,null,null
+1981,washer ,2
+1982,null,null
+1983,washer ,1
+1984,dom duties ,1
+1985,washer ,1,dressmaker ,1
+1986,washer ,1
+1987,null,null
+1988,dom duties ,1
+1989,dom duties ,1
+1990,bar in theatre ,1,domestic duties ,1
+1991,washer ,1,not able ,1
+1992,dressmaker ,1
+1993,dressmaker ,2
+1994,washer ,1,shirtm ,1,dressmaker ,1
+1995,school teacher ,1,washer ,1
+1996,washer ,1
+1997,washer ,1
+1998,washer ,1
+1999,days work ,1,not able ,1
+2000,washer ,1,cook ,1
+2001,null,null
+2002,shop keeper ,1
+2003,null,null
+2004,dom duties ,1,dressmaker ,1
+2005,null,null
+2006,days work ,1,washer ,1
+2007,washer ,2
+2008,washer ,1
+2009,null,null
+2010,washer ,1
+2011,dom duties ,1
+2012,washer ,1,dressmaker ,1
+2013,washer ,1
+2014,days work ,1
+2015,dom duties ,2
+2016,null,null
+2017,not able ,1
+2018,days work ,2
+2019,days work ,1
+2020,washer ,1
+2021,washer ,1,dressmaker ,1
+2022,cook ,1
+2023,washer ,2,dom duties ,1
+2024,washer ,2
+2025,washer ,1
+2026,null,null
+2027,days work ,1
+2028,null,null
+2029,washer ,1
+2030,dom duties ,1
+2031,dressmaker ,1
+2032,washer ,1
+2033,pastry cook ,1
+2034,dom duties ,1
+2035,days work ,1
+2036,nurse ,1,days work ,1,dressmaker ,1
+2037,dom duties ,1
+2038,huckster,1
+2039,tailoress ,1
+2040,washer ,1
+2041,washer ,1
+2042,washer ,1
+2043,dressmaker ,1
+2044,null,null
+2045,cook ,1,dressmaker ,1
+2046,washer ,1
+2047,null,null
+2048,washer ,1
+2049,days work ,1
+2050,washer & whitewasher,1,dressmaker ,1
+2051,dom duties ,1
+2052,null,null
+2053,days work ,2
+2054,days work ,2
+2055,washer ,2
+2056,washer ,1
+2057,dom duties ,2
+2058,assists husband ,1
+2059,washer ,1
+2060,washer ,1
+2061,null,null
+2062,washer ,1
+2063,washer ,1
+2064,washer ,1
+2065,washer ,1
+2066,days work ,1
+2067,days work ,1
+2068,null,null
+2069,washer ,1
+2070,dom work ,1
+2071,null,null
+2072,days work ,1
+2073,tailoresses shirt ,2,dressmaker ,1
+2074,dom duties ,1
+2075,dom duties ,1,dressmaker ,1
+2076,null,null
+2077,washer ,1,not able ,1
+2078,washer ,1
+2079,days work ,1
+2080,dom duties ,1
+2081,washer ,2
+2082,washer ,1
+2083,washer ,1
+2084,w washer ,1
+2085,days work when able ,1
+2086,days work when able ,1
+2087,days work ,2
+2088,days work ,1
+2089,w washer ,1
+2090,days work ,1
+2091,washer ,1
+2092,washer ,1
+2093,washer ,1
+2094,washer ,1
+2095,null,null
+2096,washer ,1,tailoress ,1
+2097,washer ,1
+2098,null,null
+2099,null,null
+2100,days work ,1,sempstress ,1
+2101,days work ,1,tailoress ,1,dressmaker ,1
+2102,washer ,1
+2103,null,null
+2104,washer ,1
+2105,dom duties ,1,washer ,2
+2106,not able ,1
+2107,null,null
+2108,washer ,1
+2109,days work ,1
+2110,null,null
+2111,shirt ,1,dressmaker ,1
+2112,dom duties ,1
+2113,shirt maker ,1
+2114,washer ,1
+2115,days work ,1
+2116,dressmaker ,1,not able ,1
+2117,domestic duties ,1
+2118,washer ,1
+2119,washer ,1
+2120,washer ,1
+2121,dressmaker ,1
+2122,days work ,1
+2123,null,null
+2124,washer ,1,dressmaker ,1
+2125,washer when able ,1
+2126,dressmaker ,1
+2127,washer ,1
+2128,washer ,1
+2129,washer ,1
+2130,null,null
+2131,cuts carpet rags ,1
+2132,days work ,1
+2133,layer out of dead ,1
+2134,days work ,1
+2135,washer ,2
+2136,washer ,1
+2137,washer ,1
+2138,washer ,1
+2139,washer ,1
+2140,null,null
+2141,washer ,1
+2142,null,null
+2143,null,null
+2144,washer ,1,days work ,1,not able ,1
+2145,washer ,1
+2146,washer ,1
+2147,washer ,1
+2148,null,null
+2149,dressmaker ,1
+2150,washer ,1
+2151,washer ,2
+2152,null,null
+2153,shirt maker ,1,washer ,1
+2154,null,null
+2155,washer ,1
+2156,washer ,1
+2157,not able ,1
+2158,null,null
+2159,null,null
+2160,days work ,2
+2161,null,null
+2162,washer ,1
+2163,washer ,1
+2164,null,null
+2165,days work ,2
+2166,null,null
+2167,washer ,1
+2168,washer ,1
+2169,washer when able ,1
+2170,washer ,1
+2171,days work ,1
+2172,washer ,1,not able ,1
+2173,null,null
+2174,washer ,1
+2175,not able ,1
+2176,washer ,1
+2177,days work ,1
+2178,washer ,1
+2179,washer ,1
+2180,washer ,1
+2181,cook ,1
+2182,washer ,1
+2183,null,null
+2184,null,null
+2185,quilter ,1
+2186,traveling preacher ,1
+2187,washer ,1
+2188,days work ,1
+2189,washer ,1
+2190,washer ,1,days work ,1
+2191,shirt maker ,1
+2192,washer ,2
+2193,dressmaker ,1,days work ,1
+2194,washer ,2
+2195,assist father ,2
+2196,school teacher ,1
+2197,days work ,1,shirt maker ,1
+2198,domestic duties ,1
+2199,days work ,1
+2200,washer when able ,1
+2201,days work ,1
+2202,null,null
+2203,dom duties ,1
+2204,dom duties ,1
+2205,dressmaker ,1
+2206,dom duties ,1
+2207,washer ,2
+2208,knitter ,1
+2209,dressmaker ,1
+2210,null,null
+2211,null,null
+2212,dom duties ,1
+2213,dom duties ,1
+2214,null,null
+2215,washer ,2
+2216,null,null
+2217,dom duties ,1
+2218,dom duties ,2,washer ,1
+2219,cook ,1
+2220,washer ,1
+2221,washer ,1,dressmaker ,1
+2222,days work ,1
+2223,washer ,2
+2224,days work ,1
+2225,null,null
+2226,dom duties ,1
+2227,washer ,1
+2228,washer ,1
+2229,null,null
+2230,dom duties ,1
+2231,washer ,1
+2232,washer ,1
+2233,upholster ,1,dressmaker ,1
+2234,hair dresser ,1
+2235,washer ,1
+2236,washer ,2
+2237,null,null
+2238,washer ,1
+2239,washer ,1
+2240,washer ,3
+2241,washer ,1
+2242,washer when able ,1
+2243,washer ,1
+2244,days work ,1
+2245,washer ,1,not able ,1
+2246,dom duties ,1
+2247,days work ,1
+2248,days work ,1
+2249,washer ,1
+2250,washer ,1
+2251,dom duties ,1
+2252,dom duties ,1
+2253,null,null
+2254,days work ,1
+2255,dom duties ,1
+2256,washer ,1
+2257,dressmaker ,1
+2258,null,null
+2259,washer ,1
+2260,days work ,1
+2261,washer ,1
+2262,dressmaker ,1
+2263,null,null
+2264,null,null
+2265,school teacher ,1,dressmaker ,1
+2266,dom duties ,1,not able ,1
+2267,dom duties ,1
+2268,dom duties ,1
+2269,dom duties ,1
+2270,washer ,1
+2271,various ,1
+2272,washer ,1
+2273,washer when able ,1
+2274,dom duties ,1
+2275,dressmaker ,1
+2276,days work ,1
+2277,days work ,1
+2278,dom duties ,1
+2279,null,null
+2280,washer ,1
+2281,washer ,1
+2282,dom duties ,1
+2283,washer ,1
+2284,dressmaker ,1
+2285,washer ,1
+2286,washer ,1
+2287,washer ,1
+2288,days work ,1,not able ,1
+2289,washer ,1
+2290,null,null
+2291,null,null
+2292,null,null
+2293,days work ,1
+2294,washer ,1
+2295,washer ,1
+2296,null,null
+2297,washer ,1
+2298,dress ,1,shirt maker ,1
+2299,dressmaker ,1,tailoress ,1
+2300,dom duties ,1
+2301,shirtm ,1,days work ,1,not able ,1
+2302,dom duties ,1
+2303,days work ,1
+2304,washer ,1
+2305,washer ,2,not able ,1
+2306,null,null
+2307,washer ,1
+2308,days work ,1
+2309,dressmaker ,1
+2310,null,null
+2311,null,null
+2312,null,null
+2313,null,null
+2314,washer ,1
+2315,null,null
+2316,dom duties ,1
+2317,shop keeper ,1
+2318,days work ,1
+2319,days work ,1,not able ,1
+2320,washer ,2
+2321,days work ,1
+2322,washer ,1
+2323,washer ,1
+2324,washer ,1,not able ,1
+2325,washer ,1
+2326,washer ,1
+2327,washer ,1
+2328,null,null
+2329,washer ,1
+2330,washer ,1,dressmaker ,1,cook ,1
+2331,washer ,1
+2332,washer ,1,days work ,1
+2333,dom duties ,1,shirt maker ,1
+2334,washer ,1
+2335,washer ,1
+2336,washer ,1
+2337,washer ,1
+2338,washer ,1
+2339,dom duties ,1
+2340,nurse ,1,dressmaker ,1
+2341,dom duties ,1
+2342,days work ,2
+2343,washer ,1
+2344,huckster,1
+2345,days work ,1
+2346,washer ,1
+2347,washer ,1
+2348,huckster,1
+2349,huckster washer ,1
+2350,washer ,1
+2351,cook ,1
+2352,whitewasher ,1,dom duties ,1
+2353,dressmaker ,1
+2354,washer ,1
+2355,washer ,1
+2356,null,null
+2357,washer ,1
+2358,washer ,1
+2359,washer ,1
+2360,washer ,2
+2361,days work ,1
+2362,washer ,1
+2363,null,null
+2364,washer ,1,sempstress ,1
+2365,washer ,1
+2366,washer when able ,1
+2367,washer ,2
+2368,days work ,1
+2369,washer ,1,past work ,1
+2370,null,null
+2371,null,null
+2372,washer ,1
+2373,washer ,1
+2374,dom duties ,1
+2375,null,null
+2376,days work ,1,dressmaker ,1
+2377,washer ,1
+2378,washer ,1
+2379,washer ,1
+2380,null,null
+2381,washer ,1
+2382,nurse ,1,washer ,1,shirt maker ,1
+2383,null,null
+2384,washer ,1
+2385,dressmaker ,1
+2386,washer ,1
+2387,washer ,2
+2388,dressmaker ,1
+2389,washer ,2,days work ,1
+2390,null,null
+2391,washer ,1
+2392,washer ,1
+2393,washer ,1
+2394,washer ,1,whitewasher ,1
+2395,dom duties ,1
+2396,dom duties ,1,cook ,1
+2397,days work ,1
+2398,whitewasher ,1,dressmaker ,1
+2399,dom duties ,1
+2400,washer when able ,1
+2401,washer when able ,1
+2402,washer ,2
+2403,dom duties ,1
+2404,days work ,1
+2405,days work ,2
+2406,washer ,1
+2407,tailoress ,1,dom duties ,1
+2408,washer ,1
+2409,null,null
+2410,null,null
+2411,washer ,1
+2412,washer ,1,sempstress ,1
+2413,washer ,1
+2414,washer ,2
+2415,washer ,1
+2416,days work ,1
+2417,days work ,1
+2418,null,null
+2419,days work ,1
+2420,shirt ,2,dressmaker ,1
+2421,days work ,1,washer ,1,sempstress ,1
+2422,washer ,1,sempstress ,1
+2423,washer ,1
+2424,washer ,1
+2425,dressmaker ,1,sempstress ,1
+2426,shirt ,1,dressmaker ,1
+2427,dom duties ,2
+2428,dom duties ,1
+2429,washer ,1
+2430,days work ,1
+2431,dom duties ,1
+2432,washer ,1
+2433,cook ,1,days work ,1
+2434,dressmaker ,1
+2435,washer ,1
+2436,washer ,1
+2437,washer ,2
+2438,dom duties ,1
+2439,washer ,1
+2440,dom duties ,1
+2441,days work ,1
+2442,days work ,1
+2443,days work ,1
+2444,washer ,1
+2445,washer ,1
+2446,dom duties ,1,teacher ,1
+2447,washer ,1
+2448,shirt maker ,1
+2449,washer ,2
+2450,days work ,1
+2451,days work ,1
+2452,washer ,1
+2453,null,null
+2454,dom duties ,1,not able ,1
+2455,washer ,1
+2456,dom duties ,1
+2457,tailoress ,1,dom duties ,1
+2458,dom duties ,1
+2459,washer ,1
+2460,washer ,1,past work ,1
+2461,washer ,1
+2462,cuts carpet rags ,1
+2463,washer ,1
+2464,washer ,1
+2465,washer ,1
+2466,cook ,1
+2467,washer ,2
+2468,washer ,1
+2469,washer ,1,past work ,1
+2470,washer ,1
+2471,washer ,1
+2472,cook when able ,1
+2473,dom duties ,1
+2474,washer ,1
+2475,washer ,1
+2476,days work ,1
+2477,washer ,1
+2478,washer ,1,dom duties ,1
+2479,null,null
+2480,dom duties ,1
+2481,null,null
+2482,washer ,1
+2483,dom duties ,1
+2484,days work ,1
+2485,carpet rags ,2
+2486,washer ,1
+2487,washer ,1
+2488,dressmaker ,1
+2489,days work ,1
+2490,null,null
+2491,days work ,1
+2492,washer ,1
+2493,null,null
+2494,dom duties ,1
+2495,shirt maker ,1
+2496,confectioner dom duties ,1
+2497,dom duties ,1
+2498,confectioner ,1,shirt m ,1,dress m ,2
+2499,dom duties ,3,dressmaker ,1,not able ,1
+2500,null,null
+2501,washer ,1
+2502,washer ,1,ironing ,1
+2503,keeps shop ,1
+2504,washer ,1,ironing ,1
+2505,washer ,1
+2506,null,null
+2507,house cleaning ,1
+2508,washer ,1
+2509,unemployed ,1
+2510,washer ,1,ironing ,1
+2511,washer ,1,ironing ,1
+2512,null,null
+2513,washer ,1
+2514,dressmaker ,1
+2515,washer ,1,ironing ,1
+2516,null,null
+2517,washer ,1,ironing ,1
+2518,washer ,1
+2519,null,null
+2520,null,null
+2521,unemployed ,1
+2522,washer ,1,ironing ,1
+2523,null,null
+2524,null,null
+2525,null,null
+2526,washer ,1
+2527,keeps house ,1
+2528,null,null
+2529,washer ,1,ironing ,1
+2530,washer ,1
+2531,whitewashing ,1
+2532,washer ,1
+2533,null,null
+2534,null,null
+2535,mantua maker ,1
+2536,washer ,1
+2537,general work ,1
+2538,whitewashing ,1
+2539,house cleaning ,1
+2540,wife sick ,1
+2541,stand in market ,1
+2542,attend shop provisions ,1
+2543,washer ,1
+2544,washer ,1
+2545,unemployed ,1
+2546,sewing ,1
+2547,washer ,1
+2548,house cleaning ,1
+2549,whitewashing ,1
+2550,whitewashing ,1
+2551,unemployed ,1
+2552,whitewashing ,1
+2553,washer ,1,sewing ,1
+2554,washer ,1
+2555,null,null
+2556,cook ,1
+2557,washer ,1
+2558,null,null
+2559,washer ,1,ironing ,1,sewing ,1
+2560,assorter of rags ,1
+2561,whitewashing ,1
+2562,general work ,1
+2563,washer ,1
+2564,house cleaner ,1
+2565,washer ,1,ironing ,1
+2566,null,null
+2567,null,null
+2568,null,null
+2569,dressmaker ,1
+2570,null,null
+2571,washing regularly ,1
+2572,whitewashing ,1
+2573,null,null
+2574,cook ,2
+2575,washer ,1
+2576,young child husband left ,1
+2577,null,null
+2578,wash ,1
+2579,washing and ironing ,1
+2580,whitewashing ,1
+2581,washer ,1
+2582,null,null
+2583,house cleans ,1
+2584,house cleaning ,1
+2585,washer & whitewashing,1
+2586,wife wants work ,1
+2587,shirt maker ,1
+2588,washer ,1
+2589,null,null
+2590,washer ,1
+2591,house cleaning ,1
+2592,sells in market ,1
+2593,washer ,1
+2594,house cleans ,1
+2595,whitewashing ,1
+2596,null,null
+2597,washer ,1
+2598,dressmaker ,1
+2599,null,null
+2600,washer ,1
+2601,washer ,1
+2602,house cleaning ,1
+2603,washer ,1,ironing ,1
+2604,homooy sells ,1
+2605,washer ,1
+2606,null,null
+2607,washer ,1,ironing ,1
+2608,same ,1
+2609,null,null
+2610,washer ,1,ironing ,1
+2611,null,null
+2612,washer ,1
+2613,washer ,1,ironing ,1
+2614,washer ,1,sewing ,1
+2615,null,null
+2616,washer ,1
+2617,ornamental hair dresser ,1
+2618,mantua maker ,1
+2619,wash ,1
+2620,unemployed ,1
+2621,dressmaker ,1
+2622,washer ,1
+2623,washer ,1,ironing ,1
+2624,washer ,1
+2625,washer ,1,ironing ,1
+2626,washer ,1
+2627,washer ,1
+2628,washer ,1,ironing ,1
+2629,service ,1
+2630,washer ,1
+2631,general work ,1
+2632,sewing ,1
+2633,washer ,1
+2634,null,null
+2635,house cleaning ,1
+2636,washer ,1,ironing ,1
+2637,null,null
+2638,null,null
+2639,mantua maker ,1
+2640,mantua maker ,1
+2641,washer ,1,ironing ,1
+2642,keeps the house ,1
+2643,keeps the house ,1
+2644,house cleaning ,1
+2645,house cleaning ,1
+2646,null,null
+2647,whitewashing ,1
+2648,null,null
+2649,washer ,1
+2650,washer ,1
+2651,washer ,1,ironing ,1
+2652,null,null
+2653,null,null
+2654,null,null
+2655,null,null
+2656,general work ,1
+2657,wash ,1
+2658,null,null
+2659,null,null
+2660,washer ,1
+2661,unemployed ,1
+2662,washer ,1
+2663,null,null
+2664,washer ,1,sewing ,1
+2665,seamstress ,1
+2666,washer ,1,ironing ,1
+2667,deals in vegtables ,1
+2668,washer ,1
+2669,washer ,1
+2670,null,null
+2671,null,null
+2672,house cleaning ,1
+2673,seamstress ,1
+2674,washer ,1
+2675,mantua maker ,1
+2676,null,null
+2677,null,null
+2678,washer ,1
+2679,washer ,1
+2680,house cleaning ,1
+2681,washer ,1
+2682,washer ,1
+2683,null,null
+2684,whitewashing ,1
+2685,washer ,1,ironing ,1
+2686,washer ,1
+2687,null,null
+2688,washer ,1
+2689,washer ,1
+2690,sewing ,1
+2691,mantua maker ,1
+2692,washer ,1
+2693,null,null
+2694,null,null
+2695,null,null
+2696,washer ,1
+2697,washer ,1
+2698,washer ,1
+2699,washer ,1,ironing ,1
+2700,house cleaning ,1
+2701,house cleaning ,1
+2702,house cleaning ,1
+2703,null,null
+2704,null,null
+2705,null,null
+2706,washer ,1
+2707,cooking ,1
+2708,washer ,1,sewing ,1
+2709,unemployed ,1
+2710,general work ,1
+2711,unemployed ,1
+2712,null,null
+2713,washing and boarders ,1
+2714,house cleaning ,1
+2715,washer ,1
+2716,washer ,1
+2717,washer ,1
+2718,null,null
+2719,null,null
+2720,cook ,1
+2721,cook ,1
+2722,washer ,1
+2723,house cleaning ,1
+2724,house cleaning ,1
+2725,null,null
+2726,seamstress ,1
+2727,washing and ironing ,1
+2728,general work ,1
+2729,unemployed ,1
+2730,keeps the house ,1
+2731,null,null
+2732,washer ,1,ironing ,1
+2733,washer ,1
+2734,house cleaning ,1
+2735,washer ,1
+2736,washer ,1,ironing ,1
+2737,washer ,1,ironing ,1
+2738,null,null
+2739,wash ,1
+2740,washer ,1
+2741,washer ,1
+2742,null,null
+2743,washer ,1
+2744,null,null
+2745,keeps small shop ,1
+2746,null,null
+2747,wants work ,1
+2748,washer ,1
+2749,washer ,1
+2750,null,null
+2751,washer ,1,ironing ,1
+2752,null,null
+2753,washer ,1
+2754,washer ,1,ironing ,1
+2755,washing whitewashing ,1
+2756,null,null
+2757,unemployed ,1
+2758,general work ,1
+2759,house cleaning ,1
+2760,washer ,1
+2761,washer ,1
+2762,washer ,1
+2763,washer ,1,ironing ,1
+2764,null,null
+2765,washer ,1,ironing ,1
+2766,null,null
+2767,unemployed ,1
+2768,washing and ironing ,1
+2769,cook ,1
+2770,washer ,1,ironing ,1
+2771,washer ,1,ironing ,1
+2772,washer ,1,nurse children ,1
+2773,washer ,1
+2774,washer ,1,ironing ,1
+2775,boarder ,1,washer ,1
+2776,washer ,1
+2777,washer ,1
+2778,washer ,1,ironing ,1
+2779,null,null
+2780,washer ,1,ironing ,1
+2781,washer ,1
+2782,shirt maker ,1
+2783,washer ,1
+2784,washer ,1
+2785,washer ,1,ironing ,1
+2786,whitewashing ,1
+2787,washer ,1
+2788,general work ,1
+2789,washer ,1
+2790,null,null
+2791,washer ,1
+2792,null,null
+2793,house cleaning ,1
+2794,sells pepper pot ,1
+2795,washer ,1,ironing ,1
+2796,makes carpet rag balls ,1
+2797,null,null
+2798,wants work ,1
+2799,washer ,1
+2800,washer ,1
+2801,washer ,1
+2802,cooking pen ,1
+2803,washer ,1,ironing ,1
+2804,washer ,1,ironing ,1
+2805,general work ,1
+2806,keeps big house ,1
+2807,house cleaning ,1
+2808,null,null
+2809,cook ,1
+2810,washer ,1,ironing ,1
+2811,sewing ,1
+2812,null,null
+2813,null,null
+2814,washer ,1,ironing ,1
+2815,washer ,1
+2816,null,null
+2817,house cleaning ,1
+2818,null,null
+2819,washer ,1
+2820,washer ,1
+2821,house cleaning ,1
+2822,null,null
+2823,house cleaning ,1
+2824,washer ,1,ironing ,1
+2825,keeps the house ,1
+2826,unemployed ,1
+2827,keeps the house ,1
+2828,washer ,1,house cleaning ,1
+2829,washer ,1,ironing ,1
+2830,null,null
+2831,house work at home ,1
+2832,washer ,1
+2833,dressmaker ,1
+2834,unemployed ,1
+2835,null,null
+2836,house cleaning ,1
+2837,null,null
+2838,unemployed ,1
+2839,washer ,1
+2840,washing and ironing ,1
+2841,null,null
+2842,washer ,1
+2843,washer ,1,ironing ,1
+2844,washer ,1
+2845,washer ,1
+2846,house cleaning ,1
+2847,house cleaning ,1
+2848,null,null
+2849,house cleans ,1
+2850,whitewashing ,1
+2851,general work ,1
+2852,house cleans ,1
+2853,unemployed ,1
+2854,house cleaning ,1
+2855,washer ,1
+2856,null,null
+2857,washer ,1
+2858,washer ,1,ironing ,1
+2859,null,null
+2860,washer ,1,ironing ,1
+2861,washer ,1,ironing ,1
+2862,days work ,1,cooking ,1
+2863,null,null
+2864,washing plain sewing ,2
+2865,washer ,1,ironing ,1
+2866,washer ,1,ironing ,1
+2867,null,null
+2868,washer ,1,ironing ,1
+2869,washer ,1
+2870,house work ,1
+2871,house work ,1
+2872,ladies apparel ,1
+2873,washer ,1,ironing ,1
+2874,washer ,1,whitewashing ,1
+2875,washer ,1,ironing ,1
+2876,washer ,2,days work ,1
+2877,washer ,1,ironing ,1
+2878,null,null
+2879,washer ,1,ironing ,1
+2880,cuts rags ,1
+2881,null,null
+2882,house work ,1
+2883,washer ,1,ironing ,1
+2884,null,null
+2885,null,null
+2886,tailoress ,1
+2887,weakly ,1
+2888,washer ,1,ironing ,1
+2889,washer ,1,days work ,1
+2890,dressmaker ,1
+2891,cook ,1
+2892,washer ,1,ironing ,1
+2893,washer ,1,ironing ,1
+2894,days work ,1
+2895,null,null
+2896,washer ,1,ironing ,1
+2897,house work ,1
+2898,cuts rags ,1
+2899,washer ,1,ironing ,1
+2900,null,null
+2901,washer ,1
+2902,cuts rags ,2
+2903,house cleaner ,1
+2904,days work ,1
+2905,shop ,1
+2906,washer ,1,ironing ,1
+2907,days work ,1
+2908,washer ,1
+2909,cook ,1
+2910,washer ,1,ironing ,1
+2911,cook ,1
+2912,house work ,1
+2913,hominy dealer ,1
+2914,washer ,1,ironing ,1
+2915,washer ,1,ironing ,1
+2916,washing days work ,1
+2917,carpet rags ball to sell ,1
+2918,nurse cook ,1,at home ,1
+2919,washer ,1
+2920,null,null
+2921,sewing is weakly ,1
+2922,washing days work ,1
+2923,cuts rags weakly ,1
+2924,washer ,1,ironing ,1
+2925,washer ,1,ironing ,1
+2926,cooks ,1
+2927,washer ,1,ironing ,1
+2928,cuts rags ,1
+2929,house work ,1
+2930,washing etc ,1
+2931,dressmaker ,1
+2932,rag & bone,1
+2933,sick ,1
+2934,washer ,2,cooking etc ,1
+2935,shand clothes ,1,furniture shop ,1
+2936,washing days work ,1
+2937,null,null
+2938,house maid ,1
+2939,washer ,1,ironing ,1
+2940,washer ,1,ironing ,1
+2941,null,null
+2942,cooking ,1
+2943,washer ,1,ironing ,1
+2944,house work ,1
+2945,days work ,1
+2946,washer ,1,ironing ,1
+2947,washer ,1,ironing ,1
+2948,seamstress ,1
+2949,null,null
+2950,washer ,1
+2951,at home ,1
+2952,rag & bone,1
+2953,rag & bone,1
+2954,house work ,1
+2955,washer ,1,ironing ,1
+2956,washer ,1,ironing ,1
+2957,rag & bone,1
+2958,washer ,1,general work ,1
+2959,at home is weakly ,1
+2960,washer ,1,ironing ,1
+2961,washer ,1,ironing ,1
+2962,cooking ,1
+2963,washer ,1,ironing ,1
+2964,washer ,1,ironing ,1
+2965,house work ,1
+2966,washer ,1,cleaning ,1
+2967,astrologer ,1
+2968,washer ,1
+2969,washer ,1,ironing ,1
+2970,days work ,1
+2971,house keeper ,1
+2972,washer ,1
+2973,washer ,1,ironing ,1
+2974,washer ,1,ironing ,1
+2975,door mat maker ,1
+2976,null,null
+2977,washer ,1,ironing ,1
+2978,washer ,1,ironing ,1
+2979,washer ,1,ironing ,1
+2980,null,null
+2981,seamstress ,1
+2982,null,null
+2983,washer ,1,ironing ,1
+2984,washer ,1,ironing ,1
+2985,work in house ,1
+2986,washer ,1,sewing ,1
+2987,house work ,1
+2988,at home wants work ,1
+2989,washer ,1,ironing ,1
+2990,washer ,1,ironing ,1
+2991,washer ,1,ironing ,1
+2992,washer ,1,ironing ,1
+2993,washer ,1,ironing ,1
+2994,washer ,1,ironing ,1
+2995,washer ,1,ironing ,1
+2996,cuts rags ,1
+2997,null,null
+2998,at home weakly ,1
+2999,millinery store ,1
+3000,mantua maker ,1
+3001,sewing ,1
+3002,washer ,1,ironing ,1
+3003,makes carpet rags ,1
+3004,cook ,1
+3005,house keeper ,1
+3006,rag & bone,1
+3007,cooks ,2
+3008,washer ,1
+3009,washer ,1,ironing ,1
+3010,plain sewing ,1
+3011,washer ,1,ironing ,1
+3012,washer ,1,ironing ,1
+3013,null,null
+3014,washer ,1,days work ,1
+3015,cook ,1
+3016,at home ,1
+3017,takes children to board ,1
+3018,washer ,1,ironing ,1
+3019,washer ,1
+3020,keeps assignation house ,1
+3021,null,null
+3022,washer ,1,ironing ,1
+3023,washer ,1
+3024,cook ,1
+3025,house work ,1
+3026,washing days work ,1
+3027,washer ,1,ironing ,1
+3028,washer ,1,ironing ,1
+3029,cook ,1
+3030,null,null
+3031,washer ,1,ironing ,1
+3032,washer ,1,ironing ,1
+3033,plain sewing ,1
+3034,washer ,1,ironing one cooking,1
+3035,washer ,1
+3036,cuts carpet rags ,1
+3037,washer ,1,ironing ,1
+3038,null,null
+3039,unemployed house work at home ,1
+3040,days work sewing ,1
+3041,washer ,1,ironing ,1
+3042,days work ,1
+3043,seamstress ,1
+3044,cook ,1
+3045,washer ,1,cook ,1
+3046,washer ,1,ironing ,1
+3047,null,null
+3048,washer ,1,ironing ,1
+3049,house work ,1
+3050,washer ,1,ironing ,1
+3051,null,null
+3052,washer ,1,ironing ,1
+3053,washer ,1,ironing ,1
+3054,washer ,1
+3055,rag & bone,1
+3056,washer ,1,ironing ,1
+3057,washer ,1,ironing ,1
+3058,washer ,1,ironing ,1
+3059,washer ,1,ironing ,1
+3060,washer ,1,ironing ,1
+3061,null,null
+3062,washer ,1,ironing ,1
+3063,washer ,1,ironing ,1
+3064,house cleaning ,1
+3065,null,null
+3066,pastry cook ,1
+3067,seamstress ,1
+3068,washer ,1,ironing ,1
+3069,washer ,1,ironing ,1
+3070,midwife sewing ,1
+3071,works at home ,1
+3072,washing etc ,1
+3073,washer ,1,house cleaning ,1
+3074,washer ,1,ironing ,1
+3075,washer ,1,ironing ,1
+3076,rag & bone,1
+3077,days work ,1
+3078,house work ,1
+3079,days work ,1
+3080,washer ,1,ironing ,1
+3081,washer ,1,ironing ,1
+3082,unemployed house work at home ,1
+3083,washer ,1,ironing ,1
+3084,washer ,1
+3085,days work ,1
+3086,cooking ,1
+3087,washer ,1,days work ,1
+3088,washer ,1
+3089,washer ,1,ironing ,1
+3090,days work ,1
+3091,washer ,1,days work ,1
+3092,washer ,1,ironing ,1
+3093,rag & bone,1
+3094,washer ,1,ironing ,1
+3095,washer ,1
+3096,cuts rags ,1
+3097,weakly ,1
+3098,washer ,1,ironing ,1
+3099,weakly ,1
+3100,washer ,1,ironing ,1
+3101,washer ,1,ironing ,1
+3102,washer ,1,ironing ,1
+3103,house cleaning ,1
+3104,washer ,1
+3105,days work ,1
+3106,baker ,1
+3107,days work ,1
+3108,washer ,1,ironing ,1
+3109,washer ,1,ironing ,1
+3110,washer ,2,sewing ,1
+3111,at home ,1
+3112,rag & bone,1
+3113,washer ,1,ironing ,1
+3114,at home ,1
+3115,keeps bake shop ,1
+3116,washer ,1,ironing ,1
+3117,house work ,1
+3118,washer ,1
+3119,null,null
+3120,rag & bone,1,washer ,1
+3121,house cleaner ,1
+3122,coroners assistant ,1
+3123,unemployed ,1
+3124,washer ,1,sewing ,1
+3125,washing etc ,1
+3126,cooking ,1
+3127,cook ,1
+3128,washer ,1,ironing ,1
+3129,washer ,1,ironing ,1
+3130,unemployed ,3
+3131,cooking ,1
+3132,washer ,1,days work ,1
+3133,rag & bone,1
+3134,washer ,1,ironing ,1
+3135,washer ,1
+3136,washer ,1,ironing ,1
+3137,washer ,2
+3138,wants work washing ,1
+3139,washer ,1
+3140,cook ,1
+3141,rag picker ,1
+3142,washer ,1
+3143,washer ,1,ironing ,1
+3144,washer ,1,ironing ,1
+3145,shirt maker ,1
+3146,null,null
+3147,cuts rags ,1
+3148,washer ,1,ironing ,1
+3149,washer ,1
+3150,null,null
+3151,seamstress ,1
+3152,null,null
+3153,null,null
+3154,washer ,1,ironing ,1
+3155,washer ,1,ironing ,1
+3156,cook ,1
+3157,washer ,1,ironing ,1
+3158,null,null
+3159,lives in oyster cellar ,1
+3160,washer ,1,ironing ,1
+3161,days work ,1
+3162,washer ,1
+3163,weakly ,1
+3164,mantua maker ,1
+3165,washing etc ,1
+3166,washer ,1,ironing ,1
+3167,washer ,1
+3168,washer ,1,ironing ,1
+3169,washing ironing ,1
+3170,rag & bone,1
+3171,washer ,1,ironing ,1
+3172,washer ,1,ironing ,1
+3173,shop ,1
+3174,washer ,1,ironing ,1
+3175,house work ,1
+3176,washer ,1,ironing ,1
+3177,house work ,1
+3178,plain sewing ,1
+3179,washer ,1,ironing ,1
+3180,washer ,1,ironing ,1
+3181,null,null
+3182,washer ,1,ironing ,1
+3183,washer ,1
+3184,washer ,1,ironing ,1
+3185,house work ,1
+3186,washer ,1
+3187,dressmaker ,1
+3188,house work ,1
+3189,rag & bone,1
+3190,washer ,1,ironing ,1
+3191,days work ,1
+3192,plain sewing ,1
+3193,washer ,1
+3194,washer ,1,ironing ,1
+3195,washer ,1,ironing ,1
+3196,washer ,1,ironing ,1
+3197,carpet rags balls ,1
+3198,cook ,1
+3199,washer ,1
+3200,rag picker ,1
+3201,washer ,1,ironing ,1
+3202,cooking ,1
+3203,house work ,1
+3204,washer ,1,ironing ,1
+3205,washer ,1,ironing ,1
+3206,cuts rags days work ,1
+3207,washer ,1
+3208,washer ,1,ironing ,1
+3209,washer ,1,ironing ,1
+3210,rag & bone,1
+3211,washer ,1,ironing ,1
+3212,washer ,1,ironing ,1
+3213,washer ,1,sewing etc ,1
+3214,washer ,1,ironing ,1
+3215,washer ,1,ironing ,1
+3216,general work ,1
+3217,washer ,1,ironing ,1
+3218,seamstress ,1
+3219,washer ,1,ironing ,1
+3220,in rag store ,1
+3221,washer ,1,ironing ,1
+3222,washer ,1
+3223,washer ,1,ironing ,1
+3224,washer ,1,ironing ,1
+3225,washer ,1,ironing ,1
+3226,washer ,1,ironing ,1
+3227,days work ,1
+3228,house work ,1
+3229,washer ,1,ironing ,1
+3230,washer ,1
+3231,washer ,1,ironing ,1
+3232,sewing ,1
+3233,cook ,1
+3234,washer ,1,ironing ,1
+3235,house cleaning ,1
+3236,washer & whitewashing,1
+3237,cook ,1
+3238,null,null
+3239,rag & bone,1
+3240,rag & bone,1
+3241,mantua maker ,1
+3242,makes mats ,1
+3243,washer ,1,ironing ,1
+3244,washer ,1,ironing ,1
+3245,washer ,1,ironing ,1
+3246,washer ,1
+3247,washer ,2
+3248,house work ,1
+3249,days work been sick ,3
+3250,rag & bone,2
+3251,null,null
+3252,washer ,1
+3253,house work ,1
+3254,null,null
+3255,cuts rags ,2
+3256,washer ,1,ironing ,1
+3257,cook ,1
+3258,washer ,1,ironing ,1
+3259,house work at home ,1
+3260,days work,1,washing,2,out ,1
+3261,cuts rags ,1
+3262,unemployed house work at home ,1
+3263,cook ,1
+3264,washer ,1,ironing ,1
+3265,pepper pot dealer ,1
+3266,days work ,1
+3267,cook ,1
+3268,house work ,1
+3269,null,null
+3270,washer ,1
+3271,at home wants work ,1
+3272,washer ,1,ironing ,1
+3273,house cleaner ,1
+3274,washer ,1,ironing ,1
+3275,cuts rags ,2
+3276,null,null
+3277,washer ,1
+3278,wants work washing ,1
+3279,days work ,1
+3280,days work ,1
+3281,washer ,1,ironing ,1
+3282,unemployed ,1
+3283,washer ,1,ironing ,1
+3284,washer ,1,ironing ,1
+3285,seamstress ,1
+3286,house work ,1
+3287,cuts carpet rags ,1
+3288,days work ,1
+3289,seamstress ,1
+3290,washer ,1,ironing ,1
+3291,days work ,1
+3292,washer ,1,ironing ,1
+3293,washer ,1,ironing ,1
+3294,plain sewing ,1,washer ,1,ironing ,1
+3295,washer ,1,ironing ,1
+3296,washer ,1
+3297,house work ,1
+3298,washing etc ,1
+3299,washer ,1,ironing ,1
+3300,washer ,1,ironing ,1
+3301,seamstress ,1
+3302,washer ,1,ironing ,1
+3303,dressmaker ,1
+3304,washer ,1,general house work ,1
+3305,washer ,1,ironing ,1
+3306,washer ,1,ironing ,1
+3307,null,null
+3308,washer ,1,ironing ,1
+3309,washer ,1,ironing ,1
+3310,washer ,1,ironing ,1
+3311,washer ,1,ironing ,1
+3312,washer ,1,dress making one a cook ,1
+3313,house work ,1
+3314,house cleaner ,1
+3315,washer ,1,ironing ,1
+3316,washer ,1,ironing ,1
+3317,washer ,1
+3318,washer ,1,ironing ,1
+3319,washer ,1
+3320,house work ,1
+3321,washer ,1
+3322,null,null
+3323,keeps shop ,1
+3324,days work ,1
+3325,washer ,1,ironing ,1
+3326,washer ,1,ironing ,1
+3327,washer ,1,days work ,1
+3328,washer ,1,ironing ,1
+3329,null,null
+3330,washing etc ,1
+3331,washer ,1,ironing ,1
+3332,cook ,1
+3333,washer ,1,house work ,1
+3334,washer ,1,ironing ,1
+3335,washer ,1,ironing ,1
+3336,rag & bone,1
+3337,washer ,1,ironing ,1
+3338,washing at hotel ,2
+3339,null,null
+3340,washer ,1,ironing ,1
+3341,washer ,1,ironing ,1
+3342,rags etc ,1
+3343,washer ,1
+3344,washer ,1
+3345,days work etc ,1
+3346,at home ,1,cooking ,1
+3347,washer ,1,ironing ,1
+3348,house keeper ,1
+3349,washer ,1,ironing ,1
+3350,house cleaning ,1
+3351,washer ,1,ironing ,1
+3352,washer ,1,ironing ,1
+3353,plain sewing ,1
+3354,null,null
+3355,washer ,1,ironing ,1
+3356,days work ,1
+3357,washer ,1,ironing ,1
+3358,washer ,1,ironing ,1
+3359,null,null
+3360,washer ,1,ironing ,1
+3361,rag & bone,2
+3362,rag & bone,1,days work ,1
+3363,house work ,1
+3364,women do own work ,1
+3365,rag & bone picker ,1
+3366,null,null
+3367,house cleaning ,1
+3368,washer ,1
+3369,at home ,1
+3370,shop keeper ,1
+3371,washer ,1
+3372,washer ,1,ironing ,1
+3373,days work ,1,dressmaker ,1
+3374,works at home ,1
+3375,rag picker ,1
+3376,days work ,1
+3377,at home ,1
+3378,this woman plays the fiddle etc ,1
+3379,washing etc ,1
+3380,washer ,1,ironing ,1
+3381,null,null
+3382,rag & bone,1
+3383,washing etc ,1
+3384,works in oyster cellar ,1
+3385,washer ,1,ironing ,1
+3386,house of assignation ,1
+3387,cuts ,1,sells carpet rags ,1
+3388,dressmaker ,1
+3389,plain sewing ,1
+3390,washer ,1,days work ,1
+3391,washer ,1
+3392,washer & whitewashing,1
+3393,washer ,1,ironing ,1
+3394,washer ,1,ironing ,1
+3395,washer ,1
+3396,washer ,1
+3397,house work ,1
+3398,washer ,1,ironing ,1
+3399,washer ,1,ironing ,1
+3400,oyster dealer ,1
+3401,washer ,1,ironing ,1
+3402,washer ,1,ironing ,1
+3403,sorts rags,1
+3404,mantua maker ,1
+3405,washer ,1,ironing ,1
+3406,washer ,1,ironing ,1
+3407,washer ,1,ironing ,1
+3408,whitewasher ,1
+3409,days work ,1
+3410,house work ,1
+3411,seamstress ,1
+3412,washer ,1,general work ,1
+3413,washer ,1,general work ,1
+3414,work per day ,3
+3415,cook unemployed ,1
+3416,cuts rags ,2
+3417,washer ,1,days work ,1
+3418,null,null
+3419,washer ,1,ironing ,1
+3420,washer ,1,ironing ,1
+3421,rag picker ,1,days work ,1
+3422,washer ,1,ironing ,1
+3423,cooking etc ,1
+3424,house work ,1
+3425,house keeper ,1
+3426,null,null
+3427,washing sewing ,1,cook ,1
+3428,drives sweep ,1
+3429,washer ,1,ironing ,1
+3430,washer ,1,ironing ,1
+3431,sewing ,1
+3432,washer ,1,ironing ,1
+3433,makes mats ,1
+3434,washer ,1,days work ,1
+3435,washer ,1,ironing ,1
+3436,rag & bone,2
+3437,washer ,1,ironing ,1
+3438,washer ,1,days work ,1
+3439,cook ,1
+3440,washer ,1
+3441,washer ,1,ironing ,1
+3442,days work ,1
+3443,mantua maker ,1
+3444,cook ,1
+3445,cook ,1
+3446,house cleaning ,1
+3447,days work ,1
+3448,mantua maker ,1
+3449,rag cut ,1,picker ,1
+3450,cook ,1
+3451,house work ,1
+3452,washer ,1,ironing ,1
+3453,days work ,1
+3454,washer ,1,ironing ,1
+3455,rag & bone,1
+3456,washing days work ,2
+3457,washer ,1,ironing ,1
+3458,washing etc ,1
+3459,house work ,1
+3460,washer ,1,ironing ,1
+3461,cuts rags ,1
+3462,house cleaning ,1
+3463,washer ,1,ironing ,1
+3464,null,null
+3465,unemployed ,1
+3466,null,null
+3467,washer ,1,ironing ,1
+3468,washer ,1,ironing ,1
+3469,washer ,1
+3470,rag & bone,1
+3471,washer ,1,ironing ,1
+3472,cake shop keeper ,1
+3473,picks & cuts rags,1
+3474,washer & whitewashing,1
+3475,washer ,1
+3476,null,null
+3477,days work cooking etc ,1
+3478,house cleaning ,1,washer ,1
+3479,washer ,1,ironing ,1
+3480,house work ,1
+3481,washer ,1,ironing ,1
+3482,days work ,1
+3483,cook ,1
+3484,washer ,1,days work ,1
+3485,washer ,1
+3486,days work etc ,1
+3487,washer ,1
+3488,washing days work ,1
+3489,cook ,1
+3490,unemployed ,1
+3491,null,null
+3492,cook ,1
+3493,ornamental basket maker ,1
+3494,washer ,1,ironing ,1
+3495,cook ,1
+3496,keeps cake shop ,1
+3497,null,null
+3498,washer ,1,ironing ,1
+3499,afflicted rheumatism ,1
+3500,washer ,1
+3501,washer ,1,ironing ,1
+3502,washer ,1
+3503,washer ,1,ironing ,1
+3504,washer ,1,ironing ,1
+3505,days work ,3
+3506,washer ,1,ironing ,1
+3507,washer ,1
+3508,keeps victualing cellar ,1
+3509,washer ,1,ironing ,1
+3510,washer ,1,ironing ,1
+3511,raise hogs ,1
+3512,washer ,1,ironing ,1
+3513,washer ,1,ironing ,1
+3514,at house of industry ,2
+3515,unemployed ,1
+3516,washer ,1,ironing ,1
+3517,washer ,1,ironing ,1
+3518,null,null
+3519,washer ,1,ironing ,1
+3520,seamstress ,1
+3521,null,null
+3522,house work at home ,1
+3523,weakly ,1
+3524,washer ,1,ironing ,1
+3525,washer ,1,ironing ,1
+3526,washer ,1,ironing ,1
+3527,house cleaner ,1
+3528,washer ,1,ironing ,1
+3529,plain sewing ,1
+3530,days work ,1
+3531,washer ,1,house work ,1
+3532,sewing ,1
+3533,washer ,1
+3534,washer ,1,ironing ,1
+3535,washer ,1,ironing ,1
+3536,washer ,1,ironing ,1
+3537,washer ,1,ironing ,1
+3538,washer ,1,ironing ,1
+3539,washer ,1,ironing ,1
+3540,cooking both at home now ,2,sick ,1
+3541,washer ,1,ironing ,1
+3542,washer ,1,ironing ,1
+3543,unemployed ,1
+3544,washer ,1,ironing ,1
+3545,days work etc ,2
+3546,house work ,1
+3547,house work ,1
+3548,house work ,1
+3549,washer ,1,ironing ,1
+3550,washer ,1,ironing ,1
+3551,washer ,1,ironing ,1
+3552,house cleaning washing ,1
+3553,cuts rags ,2
+3554,washer ,1,ironing ,1
+3555,days work ,1
+3556,washer ,1,cooking ,1
+3557,washer ,1,ironing ,1
+3558,washer ,1,ironing ,1
+3559,washer ,1
+3560,house work ,1
+3561,cuts rags ,1
+3562,washer ,1,ironing ,1
+3563,null,null
+3564,cook ,1
+3565,washer ,1,ironing ,1
+3566,washer ,1,ironing ,1
+3567,rag picker ,1
+3568,washer ,1
+3569,washer ,1,ironing regularly ,1
+3570,washer ,1,ironing ,1
+3571,null,null
+3572,washer ,1
+3573,seamstress ,1
+3574,rag & bone,1,at house of industry ,2
+3575,rag & bone,1
+3576,works at home ,1
+3577,house work ,1
+3578,house cleaning ,1
+3579,washer ,1,ironing ,1
+3580,days work ,1,washer ,1
+3581,house work ,1
+3582,makes door mats ,1
+3583,house work ,1
+3584,seamstress ,1
+3585,washer ,1,ironing ,1
+3586,mantua maker ,1
+3587,washer ,1
+3588,washer ,1,ironing ,1
+3589,dressmaker ,1
+3590,house work ,1
+3591,washer ,1,ironing ,1
+3592,washer ,1,ironing ,1
+3593,whitewashing etc ,1
+3594,null,null
+3595,null,null
+3596,null,null
+3597,days work ,1
+3598,w ,1
+3599,lives out ,1
+3600,washer ,1,general house work ,1
+3601,sewing ,1
+3602,washer ,1,ironing ,1
+3603,washer ,1
+3604,house work ,1
+3605,rag & bone,1
+3606,seamstress ,1
+3607,house work ,1
+3608,washer ,1,ironing ,1
+3609,candy maker ,1
+3610,washing etc ,1
+3611,washer ,1,ironing ,1
+3612,unemployed ,1
+3613,cook ,1
+3614,unemployed ,1
+3615,washer ,1,ironing ,1
+3616,days work ,1,cuts rags ,1
+3617,washer ,1
+3618,house work ,1
+3619,null,null
+3620,washer ,1,ironing ,1
+3621,washer ,1,ironing ,1
+3622,null,null
+3623,rag & bone,2
+3624,washer ,1,ironing ,1
+3625,cook ,1
+3626,seamstress ,1
+3627,washer ,1,ironing ,1
+3628,washer ,1,ironing ,1
+3629,house work at home ,1
+3630,cuts rags ,1
+3631,washer ,1,ironing ,1
+3632,cuts rags ,1
+3633,washer & whitewashing,1
+3634,washer ,1
+3635,day work rag & bone picker,1
+3636,rag picker ,1
+3637,washer ,1,ironing ,1
+3638,sells pepper pot ,1
+3639,cooking ,1
+3640,washer ,1,ironing ,1
+3641,washer ,1
+3642,house work ,1
+3643,cuts rags ,1
+3644,washer ,1,ironing ,1
+3645,house work ,1
+3646,days work ,1
+3647,washer ,1,ironing ,1
+3648,washer ,1,ironing ,1
+3649,null,null
+3650,washer ,1,ironing ,1
+3651,cook ,1,makes door mats ,1
+3652,house work ,1
+3653,washer ,1,sewing etc ,1
+3654,house keeper ,1
+3655,washer ,1,ironing ,1
+3656,washer ,1,ironing ,1
+3657,washing etc ,1
+3658,washer ,1
+3659,washer ,1,ironing ,1
+3660,days work ,1
+3661,washer ,1,ironing ,1
+3662,washer ,1,general house work ,1
+3663,washing days work ,1
+3664,null,null
+3665,washer ,1,ironing ,1
+3666,washer ,1,ironing ,1
+3667,whitewashing ,1
+3668,washer ,1,ironing ,1
+3669,rag & bone,1
+3670,washer ,1
+3671,washer ,1
+3672,washer ,1,house cleaning ,1
+3673,washer ,1,ironing ,1
+3674,washer ,1,ironing ,1
+3675,washer ,1
+3676,nurse children ,1
+3677,washer ,1,ironing ,1
+3678,nurse children ,1
+3679,washer ,1,ironing ,1
+3680,washer ,1,ironing ,1
+3681,washer ,1,ironing ,1
+3682,washer ,1,ironing ,1
+3683,washer ,1,ironing ,1
+3684,seamstress ,1
+3685,washer ,2,sewing ,1
+3686,washer ,1
+3687,days work ,1
+3688,house work ,1
+3689,null,null
+3690,boarder ,1
+3691,house work ,1
+3692,washer ,1,ironing ,1
+3693,school teacher ,1
+3694,null,null
+3695,washer ,1
+3696,weakly ,1
+3697,washer ,1,ironing ,1
+3698,washer ,1,house cleaning ,1
+3699,at home ,1
+3700,washer ,1,ironing ,1
+3701,weakly ,1
+3702,null,null
+3703,washer ,1,ironing cook ,1
+3704,dressmaker ,1
+3705,null,null
+3706,washer ,1,general work ,1
+3707,sewing ,1
+3708,washer ,1,ironing ,1
+3709,washer ,2
+3710,playing ,3
+3711,cook ,1
+3712,washer ,1,ironing ,1
+3713,cook ,1
+3714,makes door mats ,1
+3715,cook ,1
+3716,days work ,1
+3717,null,null
+3718,washer ,1,ironing ,1
+3719,washer ,1,ironing ,1
+3720,mantua maker ,1
+3721,unemployed sick ,1
+3722,washer ,1,ironing ,1
+3723,washer ,1,ironing ,1
+3724,carpet rags ,1
+3725,washer ,1,ironing ,1
+3726,seamstress ,1
+3727,washer ,2
+3728,house cleaning washing ,1
+3729,washing etc ,1
+3730,washer ,1,ironing ,1
+3731,whitewashing ,1
+3732,washer ,1,ironing ,1
+3733,days work ,1
+3734,washing days work ,1
+3735,washer ,1,ironing ,1
+3736,days work ,1,washer ,1
+3737,washing regularly ,1
+3738,washer ,1,ironing ,1
+3739,carpet rags ,1
+3740,washer ,1,ironing ,1
+3741,washer ,1,ironing ,1
+3742,washer ,1,ironing ,1
+3743,house clean cook ,1
+3744,days work etc ,1
+3745,carpet rags ,1
+3746,cook ,1
+3747,house work ,1
+3748,washer ,1,ironing ,1
+3749,washer ,1,ironing ,1
+3750,makes door mats ,1
+3751,washer ,1,ironing ,1
+3752,washer ,1,ironing ,1
+3753,washer ,1,days work ,1
+3754,house work ,1
+3755,washer ,1,ironing ,1
+3756,washer ,1,ironing ,1
+3757,washer ,1,ironing ,1
+3758,washer ,1,ironing ,1
+3759,washer ,1,general house work ,1
+3760,mantua maker ,1,milliner ,1
+3761,washer ,1,days work ,1
+3762,washer ,1,ironing ,1
+3763,washer ,1,ironing ,1
+3764,washer ,1
+3765,cooking ,1
+3766,days work ,1
+3767,whitewashing day work ,1
+3768,cook ,1
+3769,washer ,1,ironing ,1
+3770,washer ,1,ironing ,1
+3771,washer ,1
+3772,washer ,1
+3773,house work ,1
+3774,washer ,1,ironing ,1
+3775,washer ,1,ironing ,1
+3776,washer ,1,ironing ,1
+3777,days work ,1
+3778,null,null
+3779,washer ,1,ironing ,1
+3780,washer ,1,ironing ,1
+3781,days work ,1
+3782,seamstress ,1
+3783,washer ,1,ironing ,1
+3784,rag & bone,1
+3785,washer ,1
+3786,weakly ,1
+3787,teaches the guitar ,1
+3788,washer ,1,ironing ,1
+3789,washer ,1
+3790,days work ,1
+3791,rag & bone,1
+3792,washer ,1,ironing ,1
+3793,washer ,1,ironing ,1
+3794,house work ,1
+3795,days work ,1
+3796,null,null
+3797,washer ,1,sewing ,1
+3798,rag & bone,1
+3799,null,null
+3800,washer ,1,ironing ,1
+3801,shop keeper ,1
+3802,rag & bone,2
+3803,null,null
+3804,washer ,1,ironing ,1
+3805,cook ,1
+3806,rag & bone,1
+3807,washer ,1,ironing ,1
+3808,washer ,1,ironing ,1
+3809,washer ,1,ironing ,1
+3810,sells sugar cakes ,1,days work,1,out ,1
+3811,unemployed ,1
+3812,plain sewing ,1
+3813,shop keeper ,1
+3814,washer ,1,ironing ,1
+3815,washer ,1,ironing ,1
+3816,washer ,1,ironing ,1
+3817,seamstress ,1
+3818,house work ,1
+3819,washer ,1,ironing ,1
+3820,sewing ,1
+3821,days work ,1
+3822,washer ,1,ironing ,1
+3823,null,null
+3824,house work ,1
+3825,sells sugar candies ,1
+3826,washer ,1,ironing ,1
+3827,washer ,1,ironing ,1
+3828,picks coal ,1,rags ,1
+3829,washing etc ,1
+3830,washer ,1,ironing ,1
+3831,plain sewing ,1
+3832,washer ,1
+3833,days work ,1
+3834,washer ,1
+3835,washer ,1,ironing ,1
+3836,washer ,1,ironing ,1
+3837,washer ,1,ironing ,1
+3838,days work ,1
+3839,washer ,1,ironing ,1
+3840,house work at home ,1
+3841,rag & bone,1
+3842,washer ,1
+3843,washer ,1,ironing ,1
+3844,washer ,1,ironing ,1
+3845,washer ,1,ironing ,1
+3846,assignation house ,1
+3847,washer ,1,ironing ,1
+3848,sorts rags,1
+3849,cuts rags ,1
+3850,washer ,1,ironing ,1
+3851,seamstress ,1
+3852,washer ,1,ironing ,1
+3853,days work ,1
+3854,washing one out ,2
+3855,house work ,1
+3856,days work ,1
+3857,washer ,1,ironing ,1
+3858,washer ,1,ironing ,1
+3859,works at hotel ,1
+3860,washer ,1,ironing ,1
+3861,washer ,1,ironing ,1
+3862,unemployed ,1
+3863,washer ,1,ironing ,1
+3864,null,null
+3865,cuts rags days work ,1
+3866,days work ,1
+3867,seamstress ,1
+3868,washer ,1,ironing ,1
+3869,cook ,1
+3870,sewing ,1,cook ,1
+3871,washer ,1,ironing ,1
+3872,works in oyster cellar ,1
+3873,washer ,1,ironing ,1
+3874,washer ,1,ironing ,1
+3875,washer ,1,ironing ,1
+3876,whitewasher ,1
+3877,house work ,1
+3878,washer ,1,ironing ,1
+3879,washer ,1,ironing ,1
+3880,washer ,1
+3881,cooking ,1
+3882,washer ,1,ironing ,1
+3883,washer ,1,ironing ,1
+3884,washer ,1,ironing ,1
+3885,washer ,1,ironing ,1
+3886,dressmaker ,1
+3887,washer ,1,ironing ,1
+3888,cook ,1
+3889,washer ,2,sewing ,1
+3890,sewing ,1
+3891,washing days work ,1
+3892,cook ,1
+3893,lives out when well home all winter ill ,1
+3894,washing & c ,1
+3895,cook been home ,1
+3896,null,null
+3897,days work ,1
+3898,washer ,1,ironing ,1
+3899,washer ,1,ironing ,1
+3900,washer ,1
+3901,washer ,1,ironing ,1
+3902,boarding house ,1
+3903,days work ,1
+3904,cuts carpet rags ,1
+3905,old woman house work ,1
+3906,washer ,1,ironing ,1
+3907,washer ,1
+3908,days work ,1
+3909,washer ,1
+3910,washer ,1
+3911,washer ,1
+3912,washer ,1,ironing ,1
+3913,days work ,1,out ,1
+3914,washer ,1,ironing ,1
+3915,null,null
+3916,small shop ,1
+3917,washing etc ,1
+3918,house work ,1
+3919,seamstress ,1
+3920,washer ,1,ironing ,1
+3921,washer ,1,ironing ,1
+3922,washer ,1
+3923,washer ,1
+3924,weakly ,1
+3925,house cleaning ,1,washer ,1
+3926,cake baker ,1
+3927,days work ,1,house cleaner ,1
+3928,washing days work ,1
+3929,washer ,1
+3930,days work ,1
+3931,washer ,1,general house work ,1
+3932,null,null
+3933,washer ,1,ironing ,1
+3934,washer ,1,days work ,1
+3935,washing ironing ,1
+3936,washing days work ,2
+3937,washer ,1,ironing ,1
+3938,washer ,1,ironing ,1
+3939,cuts rags ,1
+3940,days work ,1,washer ,1
+3941,seamstress ,1
+3942,washer ,1,ironing ,1,cook ,1
+3943,washer ,1,ironing ,1
+3944,washer ,1,ironing ,1
+3945,washer ,1,ironing ,1
+3946,washer ,1,ironing ,1
+3947,rag & bone,1
+3948,cook ,1
+3949,washer ,1,ironing ,1
+3950,pastry cook ,1
+3951,washer ,1,ironing ,1
+3952,wants work ,1
+3953,days work ,1
+3954,washer ,1,general house work ,1
+3955,washer ,1,ironing ,1
+3956,null,null
+3957,washer ,1,ironing ,1
+3958,cook ,1
+3959,washer ,1,ironing ,1
+3960,house work ,1
+3961,days work ,1
+3962,days work ,1,rags ,1
+3963,cook ,1
+3964,washer ,1,ironing ,1
+3965,washing & c ,1
+3966,washer ,1
+3967,cook ,1
+3968,boarder ,1
+3969,cooks ,3
+3970,plain sewing ,1
+3971,makes mats ,1
+3972,house work ,1
+3973,house work ,1
+3974,sewing not regularly ,1
+3975,washer ,1,ironing ,1
+3976,washer ,1,ironing ,1
+3977,rag & bone,1
+3978,at home ,1
+3979,washer ,1
+3980,washer ,1,ironing ,1
+3981,own work ,1
+3982,cuts rags ,2
+3983,days work ,1
+3984,at home ,1
+3985,washer ,1,work for day ,1
+3986,washer ,1,ironing ,1
+3987,washer ,1,ironing ,1
+3988,washer ,1,ironing ,1
+3989,washer ,1,ironing ,1
+3990,washer ,1,ironing ,1
+3991,washer ,1,ironing ,1
+3992,house keeper ,1
+3993,washing & c ,1
+3994,days work ,1
+3995,washer ,1,ironing ,1
+3996,sewing ,1
+3997,washing & c ,2
+3998,days work ,1
+3999,cuts rags ,2
+4000,washer ,1,ironing ,1
+4001,washer ,1,ironing ,1
+4002,washing days work ,1
+4003,washer ,1,ironing ,1
+4004,cuts rags days work ,1
+4005,washer ,1,ironing ,1
+4006,null,null
+4007,carpet rags ,1
+4008,washer ,1
+4009,washer ,1,ironing ,1
+4010,washer ,1
+4011,washer ,1,days work ,1
+4012,wash ,1
+4013,wash ,1
+4014,keeps shop ,1
+4015,wash ,1,days work ,1
+4016,washer ,1,days work ,1
+4017,wants work ,1
+4018,days work ,1
+4019,washer ,1
+4020,null,null
+4021,washer ,1,ironing ,1
+4022,keeps the house ,1
+4023,days work ,1
+4024,washer ,1
+4025,washer ,1
+4026,washer ,1
+4027,wash ,1
+4028,washing days work ,1
+4029,washer ,1
+4030,null,null
+4031,wash ,1
+4032,null,null
+4033,keeps house ,1
+4034,wash ,1
+4035,washer ,1
+4036,wash ,1
+4037,washer ,1
+4038,wash ,1
+4039,wash ,1
+4040,washer ,1
+4041,washer ,1
+4042,wash ,1
+4043,washer ,1
+4044,wash ,1
+4045,mantua maker ,1,washer ,1
+4046,keeps house ,1
+4047,wants washing ,1
+4048,washer ,1
+4049,days work ,1
+4050,wash ,1,cooking ,1
+4051,days work ,1
+4052,wash ,1
+4053,washer ,2,days work ,1
+4054,washer ,1
+4055,null,null
+4056,null,null
+4057,wash ,1
+4058,wash cooking & c ,1
+4059,out to work ,1
+4060,wash & c ,1
+4061,wash ,1
+4062,days work ,1
+4063,sewing ,1
+4064,keeps the house ,1
+4065,sewing ,1
+4066,null,null
+4067,washer ,1
+4068,washer ,1,cooking ,1
+4069,washing & c ,1
+4070,weakly ,1
+4071,washer ,1
+4072,young child husband left ,1
+4073,wash ,1
+4074,wash ,1
+4075,null,null
+4076,keeps house ,1
+4077,out by days work ,1
+4078,sewing ,1,wash ,1
+4079,null,null
+4080,out to washing ,1
+4081,wash ,1
+4082,washing wanted ,1
+4083,washer ,1
+4084,wants washing ,1
+4085,washer ,1
+4086,null,null
+4087,wife wants work ,1
+4088,washer ,1
+4089,washing and days work ,1
+4090,woman lame ,1
+4091,null,null
+4092,wash ,1
+4093,plain sewing ,1
+4094,mantua maker ,1
+4095,keeps house ,1
+4096,washer ,1,ironing ,1
+4097,washing & c ,1
+4098,washer ,1
+4099,wash ,1
+4100,washer ,1
+4101,weakly ,1
+4102,lame ,1
+4103,out at washing ,1
+4104,null,null
+4105,sewing washing etc ,1
+4106,keeps the house ,1
+4107,wash ,1
+4108,keeps the house ,1
+4109,washer ,1
+4110,keeps the house ,1
+4111,service ,1
+4112,sorting rags ,1
+4113,keeps the house ,1
+4114,sewing ,1
+4115,washer ,1
+4116,farm work ,1
+4117,wash ,1
+4118,washing days work ,1
+4119,washer ,1
+4120,null,null
+4121,wash ,1
+4122,keeps the house ,1
+4123,null,null
+4124,takes care of mother ,1
+4125,one at serivce ,1
+4126,wants washing ,1
+4127,plain sewing ,1
+4128,wash ,1
+4129,washer ,1
+4130,washer ,1
+4131,washer ,1
+4132,null,null
+4133,null,null
+4134,wants sewing ,1
+4135,wash ,1
+4136,washer ,1
+4137,wash ,1
+4138,wash ,1
+4139,null,null
+4140,whitewashing ,1
+4141,snuff milling ,1
+4142,washer ,1
+4143,days work ,1
+4144,keeps the house ,1
+4145,house work ,1
+4146,old female ,1
+4147,null,null
+4148,washer ,1,days work ,1
+4149,null,null
+4150,washer ,1,days work ,1
+4151,null,null
+4152,wash ,1
+4153,wash ,1
+4154,wash ,1
+4155,washing & c ,1
+4156,weakly ,1
+4157,washer ,1
+4158,wash ,1
+4159,wash ,1
+4160,wash ,1
+4161,days work ,1
+4162,washing & c ,1
+4163,days work ,1
+4164,washer ,1
+4165,wants washing ,1
+4166,null,null
+4167,wants washing ,1
+4168,null,null
+4169,null,null
+4170,plain sewing ,1
+4171,null,null
+4172,wash ,1
+4173,keeps cake shop ,1
+4174,washer ,1,ironing ,1
+4175,null,null
+4176,wash ,1
+4177,null,null
+4178,plain sewing ,1
+4179,null,null
+4180,wash ,1
+4181,washer ,1
+4182,keeps the house ,1
+4183,wash ,1
+4184,wash ,1
+4185,wash ,1
+4186,wash ,1
+4187,null,null
+4188,washing wanted ,1
+4189,washer ,1
+4190,wash ,1
+4191,keeps the house ,1
+4192,keeps the house ,1
+4193,washer ,1,cooking ,1
+4194,null,null
+4195,washer ,1,days work ,1
+4196,null,null
+4197,dressmaker ,1,milliner ,1
+4198,washer ,1
+4199,weakly ,1
+4200,keeps the house ,1
+4201,wash ,1
+4202,washer ,1
+4203,sewing wanted ,1
+4204,keeps the house ,1
+4205,washer ,1
+4206,keeps the house ,1
+4207,keeps the house ,1
+4208,null,null
+4209,washer ,1
+4210,wash ,1,days work ,1
+4211,wash ,1,days work ,1
+4212,washer ,1
+4213,works at confectionary ,1
+4214,wash ,1
+4215,washing & c ,1
+4216,wants work ,1
+4217,house work ,1
+4218,washer ,1
+4219,washing & c ,1
+4220,washer ,1
+4221,keeps the house ,1
+4222,washer ,1
+4223,washer ,1
+4224,washer ,1,sewing ,1
+4225,null,null
+4226,keeps the house ,1
+4227,wash ,1
+4228,washer ,1
+4229,washer ,1
+4230,wash ,1
+4231,washing days work ,1
+4232,washing days work ,1
+4233,washer ,1
+4234,washer ,1
+4235,washer ,1
+4236,keeps the house ,1
+4237,days work ,1
+4238,wash ,1
+4239,washer ,1
+4240,plain sewing ,1
+4241,wash ,1
+4242,females want washing ,1
+4243,wash ,1
+4244,wash ,1
+4245,wants work ,1
+4246,washer ,1
+4247,wash ,1
+4248,sells pepper pot ,1
+4249,keeps big house ,1
+4250,wash ,1
+4251,sewing ,1,washer ,1
+4252,washer ,1
+4253,wash ,1
+4254,washer ,1
+4255,washer ,1
+4256,null,null
+4257,out to work ,1
+4258,washer ,1
+4259,washer ,1
+4260,null,null
+4261,wash ,1
+4262,washer ,1
+4263,wash ,1
+4264,plain sewing ,1
+4265,weakly ,2
+4266,place wanted at service ,1
+4267,days work ,1
+4268,wash ,1
+4269,work wanted ,1
+4270,washer ,1
+4271,washer ,1
+4272,washing and ironing ,1
+4273,sews cart rags,1
+4274,washer ,1
+4275,wash ,1
+4276,wash ,1
+4277,wash ,1
+4278,husband slave ,1
+4279,washer ,1,ironing ,1
+4280,washer ,1
+4281,work wanted ,1
+4282,null,null
+4283,washer ,1
