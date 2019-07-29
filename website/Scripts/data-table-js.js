@@ -16,10 +16,10 @@ var tabulate = function (data,columns) {
 	    .enter()
 	  .append('tr').on('mouseover', function() {
       const r = d3.select(this);
-      r.style('background-color','#f6f0ff');
+      r.style('background-color','#dc3545').style('color','white');
     }).on('mouseout', function() {
       const r = d3.select(this);
-      r.style('background-color','white');
+      r.style('background-color','white').style('color','black');
     })
 
 	var cells = rows.selectAll('td')
@@ -105,5 +105,6 @@ function search(col) {
     }
   }
   // highlight column being searched
-  th[col].style.background = '#f6f0ff';
+  th[col].style.background = '#dc3545';
+  th[col].style.color = 'white';
 }

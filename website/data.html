@@ -26,6 +26,9 @@
     <link href="Style/c3.min.css" rel="stylesheet">
 
     <!-- Custom style -->
+    <link href="Style/main.css" rel="stylesheet">
+
+    <!-- Table-specific style -->
     <link href="Style/data-table.css" rel="stylesheet">
 
 </head>
@@ -52,10 +55,10 @@
                         Visualizations
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="viz.html#occupation">Occupations</a>
-                        <a class="dropdown-item" href="viz.html#mapper">Map</a>
-                        <a class="dropdown-item" href="viz.html#population">Population</a>
-                        <a class="dropdown-item" href="viz.html#literacy">Literacy</a>
+                      <a class="dropdown-item" href="viz.html#occupation">Occupations</a>
+                      <a class="dropdown-item" href="viz.html#occupation2">Occupations cont.</a>
+                      <a class="dropdown-item" href="viz.html#mapper">Map</a>
+                      <a class="dropdown-item" href="viz.html#population">Population</a>
                     </div>
                 </li>
                 <li class="nav-item active">
@@ -67,11 +70,27 @@
                     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                 </form> -->
         </div>
+
+        <div id="logo">
+          <!-- <img src="Images/swat.jpg" alt="Swarthmore College Logo"> -->
+          <span>SWARTHMORE</span>
+        </div>
     </nav>
 </header>
 
     <body>
-        <h2>1847 Searchable Census Data </h2>
+
+      <div class="container" id="about">
+        <div class="row" id="intro">
+          <p>The following data were taken from the original csv file that
+            the 2002 exhibit uses, created by digitizing the 1847 census data
+            collected by hand. The data categories shown were cleaned using
+            OpenRefine, Python scripts, and Excel tools. Subsets of the data
+            were used to create the visualizations housed on this site. Toggle
+            the drop-down menu to search by different parameters.</p>
+          </p>
+        </div>
+      </div>
 
         <div id="table-container">
             <div id="search-filter">
