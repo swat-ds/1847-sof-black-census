@@ -155,16 +155,23 @@ function drawCategoryChart(file, category) {
             rotate: 60,
             multiline: false
           },
-          label: 'Occupation'
+          height: 100,
+          label: {
+            text: 'Occupation',
+            position: 'outer-center'
+          }
         },
         y: {
-          label: 'Frequency',
+          label: {
+            text: 'Frequency',
+            position: 'outer-middle'
+          },
+          max: 500
         }
       },
-      size: {
-        height: 800,
-        width: window.innerWidth/2
-      },
+      legend: {
+        position: 'inset'
+      }
   });
 
 }

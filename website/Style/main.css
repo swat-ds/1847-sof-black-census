@@ -132,6 +132,18 @@ a.navbar-brand {
   margin-right: 30px;
 }
 
+#chart3 {
+  /* border: 1px solid pink; */
+  height: 350px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#cat-filter, #p-filter-f, #p-filter-m {
+  display: inline-block;
+  margin-top: 20px;
+}
+
 #null-jobs {
   float: right;
   height: 300px;
@@ -151,6 +163,9 @@ a.navbar-brand {
 
 .graph-title {
   text-align: center;
-  font-weight: bold;
   display: inline-block;
+}
+
+.viz {
+  margin-top: 50px;
 }
