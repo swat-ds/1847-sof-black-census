@@ -19,6 +19,9 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+        <!-- Custom style -->
+        <link href="Style/main.css" rel="stylesheet">
+
     </head>
 
     <header>
@@ -58,12 +61,34 @@
                         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                     </form> -->
             </div>
+
+            <div id="logo">
+              <!-- <img src="Images/swat.jpg" alt="Swarthmore College Logo"> -->
+              <span>SWARTHMORE</span>
+            </div>
         </nav>
     </header>
 
     <body>
-        <div class="container">
-            <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
+        <div class="container" id="about">
+          <div class="row" id="intro">
+            <p>Celia Caust-Ellenbogen and Jordan Landes of the Friends Historical
+            Library at Swarthmore College proposed this project as part of the
+            2019 Swarthmore Projects for Educational Exploration & Development (SPEED) Program.
+            The project aims to revitalize the original online exhibit for the Philadelphia 1847
+            Census data, which was created in 2002.</p>
+
+            <p>The new site presents the data in a streamlined, accessible setting
+            where researchers or students can explore the stories of these individuals
+            easily. Additionally, the site houses a number of data visualizations
+            that add interactivity to the census data. Below, find the original text
+            from the 2002 exhibit.</p>
+
+            <a class="btn btn-danger btn-sm" href="https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program" role="button">Learn more about SPEED</a>
+
+          </div>
+          <div class="row">
+            <div class="col">
                 <p>The manuscript 1847 census, containing forty-three elements of information
                     for each of more than five thousand households in Philadelphia,
                     was used to prepare <i>A Statistical Inquiry into the Condition
@@ -91,7 +116,6 @@
                     the existence of an &quot;industrious and thriving&quot; portion
                     of that population and to discover what portion of the community
                     may have been in need of attention and assistance. </p>
-                <br>
                 <p>
                     <br>
                     The census data can be translated into human stories. Individual
@@ -130,6 +154,12 @@
                     Friends Historical Library<br>
                     April 23, 2002</p>
             </div>
+            <div class="col">
+              <img src="Images/oldweb.jpg" alt="Image of 2002 Website Exhibit" id="oldweb">
+              <img src="Images/oldweb2.jpg" alt="Image of 2002 Digitized Census Data" id="oldweb2">
+              <a class="btn btn-danger btn-sm" href="http://www.swarthmore.edu/Library/friends/paac1847/main.html" role="button">Explore the 2002 exhibit</a>
+            </div>
+          </div>
         </div>
     </body>
 
