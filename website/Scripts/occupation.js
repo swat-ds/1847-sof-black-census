@@ -20,10 +20,10 @@ var chart = c3.generate({
       x: {
         type: 'category',
         tick: {
-          rotate: 60,
+          rotate: 45,
           multiline: false
         },
-        height: 100,
+        height: 110,
         label: {
           text: 'Occupation',
           position: 'outer-center'
@@ -129,9 +129,9 @@ d3.select('#both-filter button').on('click', function() {
 })
 
 let chart3,
-    currCategory = 'p';
+    currCategory = 'la';
 
-drawCategoryChart(' Data/m_p.csv', 'PUBLIC_SERVICE')
+drawCategoryChart(' Data/m_la.csv', 'Laborer')
 
 function drawCategoryChart(file, category) {
   chart3 = c3.generate({
@@ -139,7 +139,7 @@ function drawCategoryChart(file, category) {
       data: {
         url: file,
         x: category,
-        type: 'bar',
+        type: 'scatter',
         colors: {
           'MALE': '#12cadb',
           'FEMALE': 'red'
@@ -155,7 +155,7 @@ function drawCategoryChart(file, category) {
             rotate: 60,
             multiline: false
           },
-          height: 100,
+          height: 130,
           label: {
             text: 'Occupation',
             position: 'outer-center'
@@ -170,7 +170,10 @@ function drawCategoryChart(file, category) {
         }
       },
       legend: {
-        position: 'inset'
+        position: 'right'
+      },
+      point: {
+        r: 4
       }
   });
 
@@ -195,26 +198,38 @@ d3.select('#p-filter-m button').on('click', function() {
 
 d3.select('#cat-filter select').on('change', function() {
   item = d3.select(this).property('value'); // get drop-down selection
-  if(item == 'd') {
-    drawCategoryChart(' Data/m_d.csv', 'DOMESTIC')
-    currCategory = 'd'
-    d3.select('#title').text('Domestic Jobs')
-  } else if (item == 's') {
-    drawCategoryChart(' Data/m_s.csv', 'SKILLED_TRADES')
-    currCategory = 's'
-    d3.select('#title').text('Skilled Trades Jobs')
-  } else if (item == 'u') {
-    drawCategoryChart(' Data/m_u.csv', 'UNSKILLED_LABOR')
-    currCategory = 'u'
-    d3.select('#title').text('Unskilled Labor Jobs')
-  } else if (item == 'm') {
-    drawCategoryChart(' Data/m_m.csv', 'MISCELLANEOUS')
-    currCategory = 'm'
-    d3.select('#title').text('Miscellaneous Jobs')
+  if(item == 'mto') {
+    drawCategoryChart(' Data/m_mto.csv', 'More than One')
+    currCategory = 'mto'
+    d3.select('#title').text('More than One Occupation')
+  } else if (item == 'dp') {
+    drawCategoryChart(' Data/m_dp.csv', 'Domestic & Personal Service')
+    currCategory = 'dp'
+    d3.select('#title').text('Domestic & Personal Service Occupations')
+  } else if (item == 'ag') {
+    drawCategoryChart(' Data/m_ag.csv', 'Agricultural Pursuits')
+    currCategory = 'ag'
+    d3.select('#title').text('Agricultural Pursuits Occupations')
+  } else if (item == 'ma') {
+    drawCategoryChart(' Data/m_ma.csv', 'Manufacturing & Mechanical Pursuits')
+    currCategory = 'ma'
+    d3.select('#title').text('Manufacturing & Mechanical Pursuits Occupations')
+  } else if (item == 'niw') {
+    drawCategoryChart(' Data/m_niw.csv', 'Not in Work')
+    currCategory = 'niw'
+    d3.select('#title').text('Not in Work "Occupations"')
+  } else if (item == 'ps') {
+    drawCategoryChart(' Data/m_ps.csv', 'Professional Service')
+    currCategory = 'ps'
+    d3.select('#title').text('Professional Service Occupations')
+  } else if (item == 'tr') {
+    drawCategoryChart(' Data/m_tr.csv', 'Trade & Transportation')
+    currCategory = 'tr'
+    d3.select('#title').text('Trade & Transportation Occupations')
   } else {
-    drawCategoryChart(' Data/m_p.csv', 'PUBLIC_SERVICE')
-    currCategory = 'p'
-    d3.select('#title').text('Public Service Jobs')
+    drawCategoryChart(' Data/m_la.csv', 'Laborer')
+    currCategory = 'la'
+    d3.select('#title').text('Laborer Occupations')
   }
 })
 
@@ -222,4 +237,4 @@ d3.select('#title').append('text')
    .attr('class','label')
    .attr('text-anchor','end')
    .attr('font-size','14px')
-   .text('Public Service Jobs')
+   .text('Laborer Occupations')
