@@ -60,14 +60,14 @@ on the page. */
 #features {
   top: 0;
   height: 255px;
-  margin-top: 270px;
+  margin-top: 300px;
   width: 280px;
 }
 #opacity-slider{
   font: 11px/20px 'Avenir Next', Arial, Helvetica, sans-serif;
   width: 280px;
   height: 90px;
-  margin-top: 540px;
+  margin-top: 560px;
   top: 0;
   padding: 10px;
 }
@@ -77,7 +77,7 @@ on the page. */
   line-height: 18px;
   height: 90px;
   top: 0;
-  margin-top: 640px;
+  margin-top: 690px;
   width: 280px;
   font-size: 12px;
 }
@@ -115,4 +115,8 @@ body {
 p, span {
   font-size: 11px;
   font-family: Avenir Next;
+}
+
+h2 {
+  font-size: 18px;
 }

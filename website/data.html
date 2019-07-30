@@ -93,7 +93,28 @@
 
     <body>
 
-      <div class="container" id="about">
+      <!--breadcrumb-->
+      <nav aria-label="breadcrumb" class="b">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Data</li>
+        </ol>
+      </nav>
+
+      <div class="row align-items-center viz intro">
+          <!-- <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5"> -->
+              <h2>Explore the Data</h2>
+              <p>The following data were taken from the original csv file that
+                the 2002 exhibit uses, created by digitizing the 1847 census data
+                collected by hand. The data categories shown were cleaned using
+                OpenRefine, Python scripts, and Excel tools. Subsets of the data
+                were used to create the visualizations housed on this site. Toggle
+                the drop-down menu to search by different parameters.
+              </p>
+          <!-- </div> -->
+      </div>
+
+      <!-- <div class="container" id="about">
         <div class="row" id="intro">
           <p>The following data were taken from the original csv file that
             the 2002 exhibit uses, created by digitizing the 1847 census data
@@ -103,7 +124,7 @@
             the drop-down menu to search by different parameters.</p>
           </p>
         </div>
-      </div>
+      </div> -->
 
         <div id="table-container">
             <div id="search-filter">
