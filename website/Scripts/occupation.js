@@ -152,10 +152,10 @@ function drawCategoryChart(file, category) {
         x: {
           type: 'category',
           tick: {
-            rotate: 60,
-            multiline: false
+            rotate: 45,
+            multiline: true
           },
-          height: 130,
+          height: 140,
           label: {
             text: 'Occupation',
             position: 'outer-center'
