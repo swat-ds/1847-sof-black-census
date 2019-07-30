@@ -153,9 +153,9 @@ function drawCategoryChart(file, category) {
           type: 'category',
           tick: {
             rotate: 45,
-            multiline: true
+            multiline: false
           },
-          height: 140,
+          height: 160,
           label: {
             text: 'Occupation',
             position: 'outer-center'
@@ -166,7 +166,7 @@ function drawCategoryChart(file, category) {
             text: 'Frequency',
             position: 'outer-middle'
           },
-          max: 500
+          // max: 2000
         }
       },
       legend: {

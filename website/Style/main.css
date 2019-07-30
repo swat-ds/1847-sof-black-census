@@ -1,10 +1,10 @@
-#female-filter .btn, #p-filter-f .btn {
+/* #female-filter .btn, #p-filter-f .btn {
   color: red;
 }
 
 #male-filter .btn, #p-filter-m .btn {
   color: #12cadb;
-}
+} */
 
 h3 {
   margin: 10px;
@@ -143,8 +143,12 @@ a.navbar-brand {
   margin-right: 30px;
 }
 
-#cat-filter, #p-filter-f, #p-filter-m {
+#p-filter-f, #p-filter-m {
   display: inline-block;
+  margin-top: 10px;
+}
+
+#cat-filter {
   margin-top: 20px;
 }
 
