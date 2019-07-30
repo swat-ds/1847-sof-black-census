@@ -74,6 +74,10 @@ body#index {
   letter-spacing: 0.8px;
 }
 
+.fill-red-swat {
+  fill: #dc3545;
+}
+
 p {
   margin-left: 60px;
   font-size: 15px;
