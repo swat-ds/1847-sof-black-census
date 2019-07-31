@@ -35,7 +35,7 @@ map.on('load', function () {
         "id": "1847 Map",
         "source": {
             "type": "raster",
-            "url": "https:maps.georeferencer.com/georeferences/237857156156/2017-02-20T14:25:19.132722Z/map.json?key=YAuFmpBUothIHUoOrApf"
+            "url": "https://maps.georeferencer.com/georeferences/237857156156/2017-02-20T14:25:19.132722Z/map.json?key=YAuFmpBUothIHUoOrApf"
         },
         "type": "raster",
         "layout": {
