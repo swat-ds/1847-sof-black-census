@@ -1,7 +1,7 @@
-﻿Agricultural Pursuits,MALE
-farm work,16
-raises hogs,5
-livery stable,3
-lab with grain measure,2
-gardener,1
-hog dealer,1
+﻿Agricultural Pursuits,MALE,FEMALE
+farm work,16,1
+raises hogs,5,1
+livery stable,3,0
+lab with grain measure,2,0
+gardener,1,0
+hog dealer,1,0

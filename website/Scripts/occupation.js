@@ -171,7 +171,7 @@ function drawCategoryChart(file, category) {
         }
       },
       legend: {
-        position: 'right'
+        position: 'inset'
       },
       point: {
         r: 4

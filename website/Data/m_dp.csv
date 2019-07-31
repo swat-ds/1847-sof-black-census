@@ -1,16 +1,27 @@
-﻿Domestic & Personal Service,MALE
-waiter,423
-barber,107
-hair dresser,30
-steward on steam boat,21
-cook,15
-healthcare,14
-boot cleaner,13
-washer,12
-eating establishment,11
-sink cleaner,8
-service,6
-sweep master,6
-well digger,5
-sexton,4
-watchman,4
+﻿Domestic & Personal Service,MALE,FEMALE
+waiter,423,0
+barber,107,0
+hair dresser,30,0
+steward on steam boat,21,0
+cook,15,153
+healthcare,14,12
+boot cleaner,13,0
+washer,12,1806
+eating establishment,11,0
+sink cleaner,8,0
+service,6,129
+sweep master,6,0
+well digger,5,0
+sexton,4,0
+watchman,4,0
+ironing,0,447
+domestic duties,0,330
+house cleaning,0,57
+house keeper,0,36
+assists husband,0,14
+at home,0,11
+eating house,0,7
+childcare,0,4
+assignation house,0,3
+assists at home,0,3
+boarder,0,3
