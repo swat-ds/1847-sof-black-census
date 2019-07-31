@@ -1,6 +1,7 @@
 // add data table
 var tabulate = function (data,columns) {
   var table = d3.select('#chart4').append('table').attr('id','myTable')
+  var caption = table.append('caption', 'Clean 1847 Census Data')
 	var thead = table.append('thead')
 	var tbody = table.append('tbody')
 
@@ -8,13 +9,14 @@ var tabulate = function (data,columns) {
 	  .selectAll('th')
 	    .data(columns)
 	    .enter()
-	  .append('th')
+	  .append('th').attr('scope','col')
 	    .text(function (d) { return d })
 
 	var rows = tbody.selectAll('tr')
 	    .data(data)
 	    .enter()
-	  .append('tr').on('mouseover', function() {
+	  .append('tr').attr('scope','row')
+    .on('mouseover', function() {
       const r = d3.select(this);
       r.style('background-color','#dc3545').style('color','white');
     }).on('mouseout', function() {
@@ -35,7 +37,7 @@ var tabulate = function (data,columns) {
   return table;
 }
 
-d3.csv('Data/test.csv').then(function (data) {
+d3.csv('Data/allClean.csv').then(function (data) {
 	var columns = ['HOUSEHOLD ID','LAST NAME','FIRST NAME','RESIDENCE STREET NUMBER',
   'RESIDENCE STREET NAME','MALE OCCUPATION 1', 'MALE COUNT 1','MALE OCCUPATION 2','MALE COUNT 2','MALE OCCUPATION 3',
   'MALE COUNT 3','MALE OCCUPATION 4','MALE COUNT 4','FEMALE OCCUPATION 1', 'FEMALE COUNT 1','FEMALE OCCUPATION 2','FEMALE COUNT 2','FEMALE OCCUPATION 3',
@@ -47,7 +49,7 @@ d3.csv('Data/test.csv').then(function (data) {
 
 let selection = 'ID', col = 0;
 
-d3.select('#table-container select').on('change', function() {
+d3.select('#search-container select').on('change', function() {
   selection = d3.select(this).property('value'); // get drop-down selection
   if (selection == 'ID') {
     col = 0;
@@ -79,6 +81,8 @@ d3.select("#table-container").append("div")
     .attr("placeholder", "Search by ID")
     .attr('onkeyup','search(col)')
 
+
+
 function search(col) {
   // Declare variables
   var input, filter, table, tr, td, i, txtValue;
@@ -90,12 +94,14 @@ function search(col) {
 
   for (i = 0; i < th.length; i++) {
     th[i].style.background = 'white';
+    th[i].style.color = 'black';
   }
 
   // Loop through all table rows, and hide those who don't match the search query
   for (i = 0; i < tr.length; i++) {
     td = tr[i].getElementsByTagName("td")[col];
-    tr[i].style.background = 'white'
+    tr[i].style.background = 'white';
+    tr[i].style.color = 'black';
     if (td) {
       txtValue = td.textContent || td.innerText;
       if (txtValue.toUpperCase().indexOf(filter) > -1) {
