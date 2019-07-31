@@ -12,9 +12,9 @@ var chart = c3.generate({
         ['MALE', 'FEMALE']
       ],
       colors: {
-          'MALE': '#12cadb',
-          'FEMALE': 'red'
-      }
+          'MALE': '#8856a7',
+          'FEMALE': '#9ebcda'
+      } // colors from color brewer
     },
     axis: {
       x: {
@@ -140,10 +140,10 @@ function drawCategoryChart(file, category) {
       data: {
         url: file,
         x: category,
-        type: 'scatter',
+        type: 'bar',
         colors: {
-          'MALE': '#12cadb',
-          'FEMALE': 'red'
+          'MALE': '#8856a7',
+          'FEMALE': '#9ebcda'
         }
       },
       transition: {

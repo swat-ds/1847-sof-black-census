@@ -158,8 +158,8 @@ a.navbar-brand {
   width: 17%;
   margin-top: -352px;
   margin-right: 30px;
-  background-color: pink;
-  opacity: 0.3;
+  background-color: #e0ecf4;
+  opacity: 0.5;
   z-index: 900;
   padding-top: 15px;
 }
@@ -219,7 +219,7 @@ a.navbar-brand {
 
 #occupation2, #population {
   margin-top: 150px;
-  border-top: 1px solid black;
+  /* border-top: 1px solid black; */
 }
 
 a.link {
