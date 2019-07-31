@@ -33,7 +33,7 @@ h1 {
 
 h2 {
   font-size: 18px;
-  color: grey;
+  /* color: grey; */
   margin-left: 10px;
   line-height: 8px;
 }
@@ -115,7 +115,7 @@ a.navbar-brand {
 
 #intro {
   margin: 30px 5px 50px 5px;
-  color: grey;
+  /* color: grey; */
 }
 
 #oldweb, #oldweb2 {
@@ -218,4 +218,8 @@ a.navbar-brand {
 
 #occupation2 {
   margin-top: 150px;
+}
+
+a.link {
+  color: #dc3545;
 }

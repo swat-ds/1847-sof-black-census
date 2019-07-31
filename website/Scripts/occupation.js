@@ -42,6 +42,7 @@ var chart = c3.generate({
     }
 });
 
+
 // scatter plot for male occ data
 var chart2 = c3.generate({
     bindto: '#chart2',

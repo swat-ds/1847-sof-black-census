@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -138,17 +138,18 @@
                 <div class="container">
                     <div id="title"></div>
                     <div id="chart3"></div>
+                    <label for="cat-filter">Category Filter:</label>
                     <div id="cat-filter">
                       <select>
 
-                        <option value="la" selected>Laborer</option>
-                        <option value="dp">Domestic & Personal Service</option>
-                        <option value="ag">Agricultural Pursuits</option>
-                        <option value="ma">Manufacturing & Mechanical Pursuits</option>
-                        <option value="ps">Professional Service</option>
-                        <option value="tr">Trade & Transportation</option>
-                        <option value="mto">More than One</option>
-                        <option value="niw">Not in Work</option>
+                        <option value="la" id="la"selected>Laborer</option>
+                        <option value="dp" id="dp">Domestic & Personal Service</option>
+                        <option value="ag" id="ag">Agricultural Pursuits</option>
+                        <option value="ma" id="ma">Manufacturing & Mechanical Pursuits</option>
+                        <option value="ps" id="ps">Professional Service</option>
+                        <option value="tr" id="tr">Trade & Transportation</option>
+                        <option value="mto" id="mto">More than One</option>
+                        <option value="niw" id="niw">Not in Work</option>
                       </select>
                     </div>
                     <!-- <a class="btn btn-danger btn-lg" href="about.html" role="button">Learn more</a> -->
@@ -196,7 +197,7 @@
     <script src="Scripts/occupation.js"></script>
 
     <!-- Map -->
-    <script src="Scripts/map.js"></script>
+    <!-- <script src="Scripts/map.js"></script> -->
 
     <!-- Bootstrap -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -210,5 +211,5 @@
         crossorigin="anonymous"></script>
 
     <!-- Observable Notebook Visualizations -->
-    <script type="module" src="Scripts/age-population.js"></script>
+    <!-- <script type="module" src="Scripts/age-population.js"></script> -->
 </html>
