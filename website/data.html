@@ -114,19 +114,7 @@
           <!-- </div> -->
       </div>
 
-      <!-- <div class="container" id="about">
-        <div class="row" id="intro">
-          <p>The following data were taken from the original csv file that
-            the 2002 exhibit uses, created by digitizing the 1847 census data
-            collected by hand. The data categories shown were cleaned using
-            OpenRefine, Python scripts, and Excel tools. Subsets of the data
-            were used to create the visualizations housed on this site. Toggle
-            the drop-down menu to search by different parameters.</p>
-          </p>
-        </div>
-      </div> -->
-
-        <div id="table-container">
+        <!-- <div id="table-container">
             <div id="search-filter">
                 <select>
                     <option value="ID">ID</option>
@@ -139,7 +127,21 @@
                 </select>
             </div>
             <div id="chart4"></div>
+        </div> -->
+      <div id="table-container">
+        <div class="input-group">
+          <select class="custom-select" id="inputGroupSelect04" aria-label="select filter column">
+            <option value="ID" selected>ID</option>
+            <option value="Last Name">Last Name</option>
+            <option value="First Name">First Name</option>
+            <option value="Residence Street">Residence Street</option>
+            <option value="Male Occupation 1">Male Occupation 1</option>
+            <option value="Female Occupation 1">Female Occupation 1</option>
+            <option value="Ward">Ward</option>
+          </select>
         </div>
+        <div id="chart4"></div>
+      </div>
     </body>
 
     <!-- Bootstrap -->

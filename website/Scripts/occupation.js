@@ -197,7 +197,7 @@ d3.select('#p-filter-m button').on('click', function() {
   reload(' Data/m_' + currCategory + '.csv')
 })
 
-d3.select('#cat-filter select').on('change', function() {
+d3.select('.input-group select').on('change', function() {
   item = d3.select(this).property('value'); // get drop-down selection
   if(item == 'mto') {
     drawCategoryChart(' Data/m_mto.csv', 'More than One')

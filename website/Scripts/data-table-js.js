@@ -35,7 +35,7 @@ var tabulate = function (data,columns) {
   return table;
 }
 
-d3.csv('Data/allClean.csv').then(function (data) {
+d3.csv('Data/test.csv').then(function (data) {
 	var columns = ['HOUSEHOLD ID','LAST NAME','FIRST NAME','RESIDENCE STREET NUMBER',
   'RESIDENCE STREET NAME','MALE OCCUPATION 1', 'MALE COUNT 1','MALE OCCUPATION 2','MALE COUNT 2','MALE OCCUPATION 3',
   'MALE COUNT 3','MALE OCCUPATION 4','MALE COUNT 4','FEMALE OCCUPATION 1', 'FEMALE COUNT 1','FEMALE OCCUPATION 2','FEMALE COUNT 2','FEMALE OCCUPATION 3',
@@ -47,7 +47,7 @@ d3.csv('Data/allClean.csv').then(function (data) {
 
 let selection = 'ID', col = 0;
 
-d3.select('#search-filter select').on('change', function() {
+d3.select('#table-container select').on('change', function() {
   selection = d3.select(this).property('value'); // get drop-down selection
   if (selection == 'ID') {
     col = 0;
@@ -69,10 +69,12 @@ d3.select('#search-filter select').on('change', function() {
 })
 
 // add search bar
-d3.select("#search-filter").append("div")
+d3.select("#table-container").append("div")
   .attr("class", "SearchBar")
   .append("input")
     .attr("id", "myInput")
+    .attr("class", "form-control")
+    .attr("aria-label", "Search")
     .attr("type", "text")
     .attr("placeholder", "Search by ID")
     .attr('onkeyup','search(col)')

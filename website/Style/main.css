@@ -173,6 +173,7 @@ a.navbar-brand {
 .graph-title {
   text-align: center;
   display: inline-block;
+  font-size: 14px;
 }
 
 .viz {
@@ -216,10 +217,19 @@ a.navbar-brand {
   margin-top: -35px;
 }
 
-#occupation2 {
+#occupation2, #population {
   margin-top: 150px;
+  border-top: 1px solid black;
 }
 
 a.link {
   color: #dc3545;
+}
+
+div.input-group {
+  width: 350px;
+}
+
+#table-container .input-group {
+  width: 200px;
 }

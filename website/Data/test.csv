@@ -1,0 +1,25 @@
+﻿HOUSEHOLD ID,LAST NAME,FIRST NAME,RESIDENCE STREET NUMBER,RESIDENCE STREET NAME,MALE OCCUPATION 1,MALE COUNT 1,MALE OCCUPATION 2,MALE COUNT 2,MALE OCCUPATION 3,MALE COUNT 3,MALE OCCUPATION 4,MALE COUNT 4,FEMALE OCCUPATION 1,FEMALE COUNT 1,FEMALE OCCUPATION 2,FEMALE COUNT 2,FEMALE OCCUPATION 3,FEMALE COUNT 3,MALES INTEMPERATE,FEMALES INTEMPERATE,CAN READ,CAN WRITE,BORN SLAVES,BOUGHT FREEDOM,ATTEND RELIGIOUS MEETINGS,NOT ATTEND RELIGIOUS MEETINGS,BELONG TO TEMPERANCE SOCIETIES,WARD
+0,Lennox,Basil,144,N. Water,watchman ,1,,,,,,,washer ,1,,,,,,,1,1,1,,3,,,City
+1,Shepherd,Jacob,112,N. Water,lab ,1,waterman ,1,,,,,washer ,1,,,,,1,,1,1,,,3,,,City
+2,Ashmead,Louisa,92,N. Water,null,null,,,,,,,washer ,1,,,,,,,,,,,,3,,City
+3,Poole,Emaline,74,N. Water,drives dray ,1,,,,,,,eating house ,1,,,,,,,,,1,,4,2,,City
+4,Chain,Thomas,67,N. Front,barber ,1,,,,,,,domestic duties ,1,,,,,,,5,5,,,5,,,City
+5,Brown,George,4,Walnut,barber ,1,,,,,,,null,null,,,,,,,1,1,,,1,,,City
+6,Robinson,Jane,456,S. Water,various kinds ,1,,,,,,,washer ,1,,,,,,,2,2,,,4,,,City
+7,Smiley,David,49,South Street,laborer ,1,,,,,,,null,null,,,,,,,2,2,1,,2,,,City
+8,Estcott,James,49,South Street,seaman ,1,,,,,,,service ,1,,,,,,,1,1,,,3,,,City
+9,Early,John,49,South Street,laborer ,1,,,,,,,null,null,,,,,,,1,1,,,1,,,City
+10,Lucas,Eleanor,18,Lombard,null,null,,,,,,,domestic duties ,1,,,,,,,1,1,,,1,,,City
+11,Shepherd,Louisa,18,Lombard,null,null,,,,,,,days work ,1,,,,,,,1,1,,,2,,,City
+12,View,Martha,18,Lombard,null,null,,,,,,,washer ,1,,,,,,,1,1,1,,1,,,City
+13,Roberts,Eliz,18,Lombard,null,null,,,,,,,washer ,1,,,,,,,1,1,,,2,,,City
+14,Riley,Ebenezer,18,Lombard,stevedore ,1,,,,,,,washer ,1,,,,,,,1,1,,,2,,,City
+15,Gray,Ann,18,Lombard,waiter ,1,seaman ,1,,,,,washer ,1,,,,,,,2,2,,,4,,,City
+16,Richard,Thos,18,Lombard,laborer ,1,,,,,,,washer ,1,,,,,,,1,1,,,2,,,City
+17,Cornish,Eliza,18,Lombard,null,null,,,,,,,washer ,1,,,,,,,,,1,,1,,,City
+18,Johnson,William,9,Lombard,temp sailor c h ,1,,,,,,,domestic duties ,1,,,,,,,5,5,,,6,,,City
+19,Lee,David,199,S. Front,stevedore ,1,,,,,,,washer ,1,,,,,1,1,,,1,,,2,,City
+20,Moore,Eliz,15,Spruce,null,null,,,,,,,shop keeper ,1,,,,,,,2,2,,,2,,,City
+21,Thompson,Mary,46,Spruce,null,null,,,,,,,washer ,1,,,,,,,1,1,,,1,1,,City
+22,Depee,Robert,46,Spruce,waiter ,1,,,,,,,cook ,1,,,,,,,1,2,,,2,,,City
+23,Hitchins,Eliza,46,Spruce,null,null,,,,,,,days work ,1,,,,,,,,,,,1,,,City
