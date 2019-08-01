@@ -55,7 +55,7 @@ map.on('load', function () {
 //add listener for mousemove event, identify which region is at location of cursor, and update information window
 map.on('mousemove', function (e) {
     var region = map.queryRenderedFeatures(e.point, {
-        layers: ['1847census-city', "1847census-springgarden", "1847census-southwark", "1847census-northernliberties"]
+        layers: ['1847census_city-ax73r3', "1847census_springgarden-7nvrq9", "1847census_southwark-6rjwko", "1847census_northernliberties-3qpqea"]
     });
     if (region.length > 0) {
         document.getElementById('pd').innerHTML = '<h3><strong>' + region[0].properties.name + '</strong></h3><p><strong><em>'
