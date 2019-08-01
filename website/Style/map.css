@@ -51,7 +51,7 @@ on the page. */
   bottom: 0;
   right: 0;
   background: rgba(255, 255, 255, 0.8);
-  margin-right: 10%;
+  margin-right: 11%;
   font-family: Arial, sans-serif;
   overflow: auto;
   border-radius: 3px;
@@ -60,18 +60,20 @@ on the page. */
 #features {
   top: 0;
   height: 275px;
-  margin-top: 280px;
+  margin-top: 265px;
   width: 280px;
 }
 #opacity-slider{
   font: 11px/20px 'Avenir Next', Arial, Helvetica, sans-serif;
   width: 280px;
   height: 75px;
-  margin-top: 560px;
+  margin-top: 545px;
   top: 0;
   padding: 10px;
 }
 #legend {
+  margin-left: 11%;
+  left: 0px;
   padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
