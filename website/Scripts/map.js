@@ -16,7 +16,7 @@ var sliderValue = document.getElementById('slider-value');
 map.on('load', function () {
     //create legend
     var layers = ['City', 'Northern Liberties', 'Spring Garden and West Philadelphia', 'Southwark and Moyamensing'];
-    var colors = ['#aad9e9', '#f7f7f7', '#d7191c', '#2c79b5'];
+    var colors = ['#aad9e9', '#ffffbf', '#d7191c', '#2c79b5'];
     for (i = 0; i < layers.length; i++) {
         var layer = layers[i];
         var color = colors[i];
