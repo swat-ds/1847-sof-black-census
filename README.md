@@ -62,9 +62,27 @@ We began focusing our energy on the special collections project later on in the 
   * We wanted the website to be simple and accessible and to highlight the visualizations and the data. We tried to use a clean, consistent style across the pages. Some styling elements were inspired by Swarthmore College's [styling guide](https://www.swarthmore.edu/sites/default/files/assets/documents/communications-office/Swarthmore_style%20guide_17.7.pdf). 
 
 ## End Product
+We exceeded our initial minimum viable product, adding a website and a geocoding component to the project. 
+Check out the website here! --> (https://github.swarthmore.edu/pages/SPEED/special-collections-visualizations/website/)
+The website is mostly accessible, though there is definitely room for improvement in the future. The project features two visualizations of the occupation data from the census, as well as an interactive map with additional statistics and a searchable/filterable data table with all the clean data. We also provide the clean data as a csv file for downloading.
 
 ## Future Extensions
+* **More Visualizations** - there are endless possibilities on this front, using the clean data as is or by further cleaning the other census categories. We would love to incorporate some kind of visualization that plots each individual's occupation. Celia and Jordan also felt that the compensation and literacy data could be particularly interesting.
+* **Refining Usability of Data** - perhaps providing more data tables and better toggles to interact with the data. It could be interesting to create a dynamic visualization where the user can see different portions of the data represented visually.
+* **Mobile-Friendly** - look into how the visualizations and data might perform on a smaller screen.
 
 ## Accessibility
-
+We are excited about the accessibility of the site overall: users can easily tab through the pages and interact with the drop-down menus (which we initially struggled to label correctly). We found Bootstrap to be very useful in providing input patterns and aria labels. There were a number of accessibility concerns we didn't get a chance to address, but are definitely doable in the future: 
+1. Providing visualization data in tabular form
+  * We want to ensure that people can still see what the visualizations convey without interacting with the graph itself. We would like to add data tables for all the data used in both visualizations, as well as the map.
+2. Color contrast
+  * The navigation bar could be difficult to read.
+3. Tabbing into tables
+  * Right now, tabbing skips over the tables, but it could be useful to be able to tab through them as if hovering with a mouse.
+  
 ## Acknowledgements
+We would like to thank Celia and Jordan for proposing the special collections visualization project to make this valuable census more accessible to researchers and students alike. Their attention to detail and dedication to the project have inspired us to be more diligent in thinking about and visualizing data.
+
+We are incredibly grateful to our project supervisor, Nabil Kashyap, and our SPEED program supervisor, Doug Willen, for their constant support and incredible insight. Nabil provided us endless encouragement and expertise as we learned to tackle OpenRefine and D3.js. Thank you also to the Swarthmore College Librarians and ITS for all their support behind the scenes through the whole process.
+
+This project was funded by the Swarthmore Projects for Educational Exploration and Development (SPEED) Program at Swarthmore College.
