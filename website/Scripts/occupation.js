@@ -130,9 +130,9 @@ d3.select('#both-filter button').on('click', function() {
 })
 
 let chart3,
-    currCategory = 'la';
+    currCategory = 'ag';
 
-drawCategoryChart(' Data/m_la.csv', 'Laborer')
+drawCategoryChart(' Data/m_ag.csv', 'Agricultural Pursuits')
 
 function drawCategoryChart(file, category) {
   chart3 = c3.generate({
@@ -156,7 +156,7 @@ function drawCategoryChart(file, category) {
             rotate: 45,
             multiline: false
           },
-          height: 160,
+          height: 180,
           label: {
             text: 'Occupation',
             position: 'outer-center'
@@ -189,13 +189,13 @@ function reload(file) {
   }, 300);
 }
 
-d3.select('#p-filter-f button').on('click', function() {
-  reload(' Data/f_' + currCategory + '.csv')
-})
-
-d3.select('#p-filter-m button').on('click', function() {
-  reload(' Data/m_' + currCategory + '.csv')
-})
+// d3.select('#p-filter-f button').on('click', function() {
+//   reload(' Data/f_' + currCategory + '.csv')
+// })
+//
+// d3.select('#p-filter-m button').on('click', function() {
+//   reload(' Data/m_' + currCategory + '.csv')
+// })
 
 d3.select('.input-group select').on('change', function() {
   item = d3.select(this).property('value'); // get drop-down selection
@@ -238,4 +238,4 @@ d3.select('#title').append('text')
    .attr('class','label')
    .attr('text-anchor','end')
    .attr('font-size','14px')
-   .text('Laborer Occupations')
+   .text('Agricultural Pursuits Occupations')

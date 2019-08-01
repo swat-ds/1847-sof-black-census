@@ -1,16 +1,101 @@
-﻿Trade & Transportation,MALE
-porter,374
-seaman,189
-carter,143
-coachman,104
-stevedore,58
-porter in store,45
-clothes dealer,44
-rag & bone,40
-waterman,32
-working on wharf,26
-dealer,17
-cake seller,14
-sailor,14
-oyster peddler,13
-oyster house,12
+﻿Trade & Transportation,MALE,FEMALE
+porter,374,0
+seaman,189,0
+carter,143,0
+coachman,104,0
+stevedore,58,0
+rag picker,7,48
+clothes dealer,44,2
+porter in store,45,0
+rag & bone,40,0
+shop keeper,3,35
+waterman,32,0
+huckster,10,16
+working on wharf,26,0
+cake seller,14,5
+dealer,17,1
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
