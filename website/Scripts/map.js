@@ -10,7 +10,7 @@ var map = new mapboxgl.Map({
 map.getCanvas().style.cursor = 'default';
 
 //ensures map shows Philadelphia when it's loaded by setting the bounds of the map on load
-map.fitBounds([[-75.228132, 39.915362], [-75.075931, 39.974124]]);
+map.fitBounds([[-75.228132, 39.915362], [-75.075565, 39.975790]]);
 var slider = document.getElementById('slider');
 var sliderValue = document.getElementById('slider-value');
 map.on('load', function () {
