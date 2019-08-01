@@ -41,9 +41,14 @@ table {
   margin-left: 70px;
 }
 
+#inputGroupSelect04 {
+  border: 1px solid black;
+}
+
 #myInput {
   margin: 2em 0em;
   margin-top: -580px;
   margin-left: 40px;
   width: 300px;
+  border: 1px solid black;
 }

@@ -239,3 +239,8 @@ a.link {
 .input-group {
   width: 350px;
 }
+
+#about h2 {
+  text-align: left;
+  margin-left: -2px;
+}
