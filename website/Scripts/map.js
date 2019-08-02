@@ -10,13 +10,13 @@ var map = new mapboxgl.Map({
 map.getCanvas().style.cursor = 'default';
 
 //ensures map shows Philadelphia when it's loaded by setting the bounds of the map on load
-map.fitBounds([[-75.238691, 39.910205], [-75.103018, 39.986277]]);
+map.fitBounds([[-75.228132, 39.915362], [-75.075565, 39.975790]]);
 var slider = document.getElementById('slider');
 var sliderValue = document.getElementById('slider-value');
 map.on('load', function () {
     //create legend
     var layers = ['City', 'Northern Liberties', 'Spring Garden and West Philadelphia', 'Southwark and Moyamensing'];
-    var colors = ['#aad9e9', '#f7f7f7', '#d7191c', '#2c79b5'];
+    var colors = ['#aad9e9', '#ffffbf', '#d7191c', '#2c79b5'];
     for (i = 0; i < layers.length; i++) {
         var layer = layers[i];
         var color = colors[i];
@@ -55,10 +55,11 @@ map.on('load', function () {
 //add listener for mousemove event, identify which region is at location of cursor, and update information window
 map.on('mousemove', function (e) {
     var region = map.queryRenderedFeatures(e.point, {
-        layers: ['1847census-city-1dmrb2', "1847census-springgarden-6ajgv6", "1847census-southwark-3alse2", "1847census-northernliberties-0ephyp"]
+        layers: ['1847census_city-ax73r3', "1847census_springgarden-7nvrq9", "1847census_southwark-6rjwko", "1847census_northernliberties-3qpqea"]
     });
     if (region.length > 0) {
         document.getElementById('pd').innerHTML = '<h3><strong>' + region[0].properties.name + '</strong></h3><p><strong><em>'
+            + region[0].properties["people surveyed"] + '</strong> African Americans surveyed</em></p><p><strong><em>'
             + region[0].properties["male intemperate"] + '</strong> males intemperate</em></p><p><strong><em>'
             + region[0].properties["female intemperate"] + '</strong> females intemperate</em></p><p><strong><em>'
             + region[0].properties["can read"] + '</strong> can read</em></p><p><strong><em>'
