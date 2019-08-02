@@ -214,15 +214,15 @@ a.navbar-brand {
 .btn.top {
   float: right;
   margin-right: 180px;
-  margin-top: -60px;
+  margin-top: -210px;
 }
 
 #b1 {
-  margin-top: -30px;
+  margin-top: -160px;
 }
 
-#occupation2, #population {
-  margin-top: 150px;
+#occupation2, #occupation {
+  margin-bottom: 150px;
   /* border-top: 1px solid black; */
 }
 
