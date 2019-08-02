@@ -96,7 +96,7 @@ a.selected {
 }
 
 a.navbar-brand {
-  margin-left: 30px;
+  margin-left: 40px;
 }
 
 #title {
@@ -243,4 +243,12 @@ a.link {
 #about h2 {
   text-align: left;
   margin-left: -2px;
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+a.github {
+  margin-top: 20px;
 }

@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,24 +16,14 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <!-- C3 style -->
-        <link href="Style/c3.min.css" rel="stylesheet">
-
-        <!-- Mapbox and map style -->
-        <script src='https://api.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
-        <link href='https://api.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css' rel='stylesheet' />
-
-
-        <!-- Custom Style -->
+        <!-- Custom style -->
         <link href="Style/main.css" rel="stylesheet">
-
-        <link href="Style/map.css" rel="stylesheet" />
 
     </head>
 
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="index.html">1847 Census</a>
+            <a class="navbar-brand" href=" index.html">1847 Census</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -44,21 +31,21 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home </a>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">About</a>
                     </li>
-                    <li class="nav-item dropdown active">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Visualizations<span class="sr-only">(current)</span>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            Visualizations
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="viz.html#occupation">Top Occupations</a>
                             <a class="dropdown-item" href="viz.html#occupation2">Occupation Types</a>
-                            <a class="dropdown-item" href="#">Map</a>
+                            <a class="dropdown-item" href="map.html">Map</a>
                             <!-- <a class="dropdown-item" href="viz.html#population">Population</a> -->
                         </div>
                     </li>
@@ -69,14 +56,15 @@
                         <a class="nav-link" href="http://www.swarthmore.edu/Library/friends/paac1847/main.html">2002 Exhibit</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contributors.html">Contributors</a>
+                        <a class="nav-link" href="#">Contributors</a>
                     </li>
                 </ul>
                 <!-- <form class="form-inline my-2 my-lg-0">
-                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                    </form> -->
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form> -->
             </div>
+
             <div id="logo">
               <!-- <img src="Images/swat.jpg" alt="Swarthmore College Logo"> -->
               <svg width="208px" height="13px" class="fill-red-swat" viewBox="0 0 208 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -97,55 +85,43 @@
         </nav>
     </header>
 
+    <body>
+      <!--breadcrumb-->
+      <nav aria-label="breadcrumb" class="b">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Contributors</li>
+        </ol>
+      </nav>
 
+      <div class="row align-items-center viz intro">
+        <h2>Thank You</h2>
+        <p>We would like to thank Celia and Jordan for proposing the special collections
+          visualization project to make this valuable census more accessible to researchers
+          and students alike. Their attention to detail and dedication to the project have
+          inspired us to be more diligent in thinking about and visualizing data.
 
+        <br><br>We are incredibly grateful to our project supervisor, Nabil Kashyap, and our
+          SPEED program supervisor, Doug Willen, for their constant support and incredible
+          insight. Nabil provided us endless encouragement and expertise as we learned to
+          tackle OpenRefine and D3.js. Thank you also to the Swarthmore College Librarians
+          and ITS for all their support behind the scenes through the whole process.
 
+        <br><br>Swarthmore College students Alice Huang ('22), Helen Huh ('21), Katie Knox ('21), & Bilal Soukouna ('22')
+          were the SPEED interns who worked on this project over the course of 9 weeks during the summer
+          of 2019. Alice, Helen, and Bilal
+          cleaned and normalized the census data with the help of Nabil, Celia, and Jordan. Katie created the
+          foundations for the website. Helen designed the interactive Mapbox map. Alice created the data
+          visualizations and styled the website elements.
 
-      <body>
-        <!--breadcrumb-->
-        <nav aria-label="breadcrumb" class="b">
-          <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-            <li class="breadcrumb-item"><a href="viz.html">Visualizations</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Map</li>
-          </ol>
-        </nav>
+        <br><br>This project was funded by the Swarthmore Projects for Educational Exploration
+          and Development (SPEED) Program at Swarthmore College.</p>
 
-        <div class="row align-items-center viz">
-            <!-- <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5"> -->
-                <h2>Regional Map Visualization</h2>
-                <p>This map depicts the four regions of Philadelphia
-                    surveyed in the 1847 census. Hover over each region to see
-                    aggregate statistics for the individuals living in that region.
-                    Use the opacity slider to see how the street names from 1847 map
-                    onto present-day streets and regions.
-                </p>
-            <!-- </div> -->
-        </div>
+        <a class="btn btn-danger btn-sm github" href="https://github.swarthmore.edu/SPEED/special-collections-visualizations" role="button">Check out our code & project documentation on GitHub</a>
 
-      <div id='map'></div>
-      <div class='map-overlay' id='features'><div id='pd'><p>Hover over a region!</p></div></div>
-
-      <div class='map-overlay' id='opacity-slider'>
-        <!-- <div class='map-overlay-inner'> -->
-          <label for="slider" aria-describedby="slider">1847 Map (opacity): <span id='slider-value'>0%</span></label>
-          <input id='slider' type='range' min='0' max='100' step='0' value='0'>
-        <!-- </div> -->
       </div>
-      <div class='map-overlay' id='legend'></div>
 
-      <nav id="menu"></nav>
-
-      </body>
-
-
-    <!-- D3, C3, and main script-->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-    <script src="Scripts/c3.min.js"></script>
-    <!-- <script src="Scripts/occupation.js"></script> -->
-
-    <!-- Map -->
-    <script src="Scripts/map.js"></script>
+    </body>
 
     <!-- Bootstrap -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -157,7 +133,4 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-
-    <!-- Observable Notebook Visualizations -->
-    <!-- <script type="module" src="Scripts/age-population.js"></script> -->
 </html>
