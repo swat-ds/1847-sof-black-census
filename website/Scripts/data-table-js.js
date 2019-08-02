@@ -1,19 +1,23 @@
+/* Searchable data table for all clean 1847 census data
+
+Alice Huang, July 2019*/
+
 // add data table
 var tabulate = function (data,columns) {
   var table = d3.select('#chart4').append('table').attr('id','myTable')
-  var caption = table.append('caption', 'Clean 1847 Census Data')
+  var caption = table.append('caption', 'Clean 1847 Census Data') // accessibility
 	var thead = table.append('thead')
 	var tbody = table.append('tbody')
 
 	thead.append('tr')
 	  .selectAll('th')
-	    .data(columns)
+	    .data(columns) // add table headers
 	    .enter()
-	  .append('th').attr('scope','col')
+	  .append('th').attr('scope','col') // accessibility
 	    .text(function (d) { return d })
 
 	var rows = tbody.selectAll('tr')
-	    .data(data)
+	    .data(data) // add rows
 	    .enter()
 	  .append('tr').attr('scope','row')
     .on('mouseover', function() {
@@ -37,6 +41,7 @@ var tabulate = function (data,columns) {
   return table;
 }
 
+// load csv file, set headers of table to column names
 d3.csv('Data/allClean.csv').then(function (data) {
 	var columns = ['HOUSEHOLD ID','LAST NAME','FIRST NAME','RESIDENCE STREET NUMBER',
   'RESIDENCE STREET NAME','MALE OCCUPATION 1', 'MALE COUNT 1','MALE OCCUPATION 2','MALE COUNT 2','MALE OCCUPATION 3',
@@ -49,6 +54,7 @@ d3.csv('Data/allClean.csv').then(function (data) {
 
 let selection = 'ID', col = 0;
 
+// event listener for column selection drop down - tells search function which column to search by
 d3.select('#search-container select').on('change', function() {
   selection = d3.select(this).property('value'); // get drop-down selection
   if (selection == 'ID') {
@@ -81,8 +87,7 @@ d3.select("#table-container").append("div")
     .attr("placeholder", "Search by ID")
     .attr('onkeyup','search(col)')
 
-
-
+// search function for filtering table data 
 function search(col) {
   // Declare variables
   var input, filter, table, tr, td, i, txtValue;
