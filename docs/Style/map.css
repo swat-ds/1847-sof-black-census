@@ -1,0 +1,124 @@
+/* body {
+  margin: 0;
+  padding: 0;
+}
+h2,
+h3 {
+  margin: 10px;
+  font-size: 1.2em;
+}
+h3 {
+  font-size: 1em;
+}
+p {
+  font-size: 0.85em;
+  margin: 10px;
+  text-align: left;
+} */
+.viz p {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.viz h2 {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+/**
+* Create a position for the map
+* on the page */
+#map {
+  position: absolute;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 80%;
+  height: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h2 {
+  font-size: 14px;
+  margin-top: 10px;
+}
+/**
+Set rules for how the map overlays
+(information box, legend, and slider) will be displayed
+on the page. */
+.map-overlay{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 11%;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 3px;
+  /* width: 300px; */
+}
+#features {
+  top: 0;
+  height: 295px;
+  margin-top: 265px;
+  width: 280px;
+}
+#opacity-slider{
+  font: 11px/20px 'Avenir Next', Arial, Helvetica, sans-serif;
+  width: 280px;
+  height: 75px;
+  margin-top: 565px;
+  top: 0;
+  padding: 10px;
+}
+#legend {
+  margin-left: 11%;
+  left: 0px;
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  height: 100px;
+  top: 0;
+  margin-top: 620px;
+  width: 280px;
+  font-size: 12px;
+}
+.legend-key {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+.map-overlay .map-overlay-inner {
+  background-color: #fff;
+  box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.map-overlay label {
+  display: block;
+  margin: 0 0 10px;
+}
+.map-overlay input {
+  background-color: transparent;
+  display: inline-block;
+  width: 100%;
+  position: relative;
+  margin: 0;
+  cursor: ew-resize;
+}
+
+body {
+  font-family: Avenir Next;
+}
+
+p, span {
+  font-size: 11px;
+  font-family: Avenir Next;
+}
+
+h2 {
+  font-size: 18px;
+}

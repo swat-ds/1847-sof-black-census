@@ -1,0 +1,1981 @@
+OCCUPATION,MALE
+at service,281
+baker,4204
+barber,4
+barber,5
+barber,101
+barber,103
+barber,105
+barber,106
+barber,126
+barber,128
+barber,133
+barber,147
+barber,155
+barber,235
+barber,247
+barber,250
+barber,311
+barber,329
+barber,331
+barber,332
+barber,386
+barber,407
+barber,525
+barber,646
+barber,673
+barber,726
+barber,759
+barber,766
+barber,776
+barber,836
+barber,844
+barber,854
+barber,871
+barber,997
+barber,1007
+barber,1008
+barber,1036
+barber,1037
+barber,1070
+barber,1099
+barber,1242
+barber,1273
+barber,1352
+barber,1354
+barber,1462
+barber,1483
+barber,1500
+barber,1508
+barber,1514
+barber,1543
+barber,1556
+barber,1557
+barber,1571
+barber,1579
+barber,1580
+barber,1601
+barber,1645
+barber,1666
+barber,1670
+barber,1675
+barber,1700
+barber,1705
+barber,1712
+barber,1743
+barber,1797
+barber,1803
+barber,1925
+barber,1969
+barber,1982
+barber,1984
+barber,1994
+barber,2009
+barber,2011
+barber,2022
+barber,2039
+barber,2073
+barber,2074
+barber,2076
+barber,2080
+barber,2153
+barber,2221
+barber,2296
+barber,2322
+barber,2324
+barber,2333
+barber,2341
+barber,2353
+barber,2356
+barber,2427
+barber,2428
+barber,2439
+barber,2488
+barber,2493
+barber,2496
+barber,2497
+barber,2527
+barber,3887
+barber,3983
+barber,4033
+barber,4113
+barber,4203
+barber,4206
+barber,4243
+barber,4270
+boarding house,639
+cake baker,472
+cake baker,596
+cake baker,1040
+cake baker,1569
+cake seller,68
+cake seller,1037
+cake seller,1523
+cake seller,1599
+cake seller,1652
+cake seller,1736
+cake seller,2053
+cake seller,2245
+cake seller,2266
+cake seller,2320
+confectioner,389
+confectioner,1757
+confectioner,2058
+confectioner,2301
+confectioner,2465
+cook,298
+cook,486
+cook,674
+cook,723
+cook,782
+cook,896
+cook,940
+cook,974
+cook,1080
+cook,1236
+cook,3694
+cooking,3710
+cooks,1035
+cuts rags,3491
+days work,1893
+days work,3710
+dealer,184
+dealer,957
+dealer,1093
+dealer,1215
+dealer,1216
+dealer,1383
+does nothing,326
+door mat maker,2975
+eating house,303
+eating house,427
+eating house,585
+eating house,749
+eating house,781
+eating house,845
+eating house,1244
+eating house,1316
+hair dresser,2518
+hair dresser,2587
+hair dresser,2591
+hair dresser,2606
+hair dresser,2609
+hair dresser,2764
+hair dresser,2779
+hair dresser,2830
+hair dresser,2837
+hair dresser,2853
+hair dresser,2908
+hair dresser,2965
+hair dresser,3061
+hair dresser,3151
+hair dresser,3183
+hair dresser,3228
+hair dresser,3262
+hair dresser,3294
+hair dresser,3322
+hair dresser,3323
+hair dresser,3348
+hair dresser,3480
+hair dresser,3548
+hair dresser,3560
+hair dresser,3747
+hair dresser,3819
+hair dresser,3843
+hair dresser,3919
+hair dresser,3972
+hominy dealer,607
+hominy dealer,2977
+hominy dealer,3134
+hominy dealer,3516
+hominy dealer,3674
+huckster,417
+huckster,866
+huckster,907
+huckster,1220
+huckster,1277
+huckster,1331
+huckster,1362
+huckster,2140
+huckster,3714
+idle,1040
+ironing,3864
+janitor,1038
+janitor,1691
+makes mats,3133
+muffin baker,882
+not able,509
+not able,689
+not able,710
+not able,790
+not able,904
+not able,940
+not able,1003
+not able,1006
+not able,1046
+not able,1270
+not able,1282
+not able,1443
+not able,1446
+not able,1462
+not able,1583
+not able,1641
+not able,1712
+not able,1765
+not able,1807
+not able,1817
+not able,1850
+not able,1952
+not able,2048
+not able,2088
+not able,2119
+not able,2333
+not able,2350
+not able,2459
+not able,2471
+not able to work,649
+null,2
+null,10
+null,11
+null,12
+null,13
+null,17
+null,20
+null,21
+null,23
+null,27
+null,31
+null,35
+null,37
+null,39
+null,40
+null,41
+null,42
+null,44
+null,45
+null,47
+null,49
+null,50
+null,51
+null,52
+null,54
+null,56
+null,59
+null,61
+null,62
+null,70
+null,72
+null,75
+null,76
+null,78
+null,90
+null,91
+null,92
+null,93
+null,95
+null,104
+null,111
+null,112
+null,114
+null,118
+null,122
+null,123
+null,124
+null,125
+null,134
+null,138
+null,139
+null,140
+null,143
+null,144
+null,149
+null,160
+null,161
+null,170
+null,183
+null,186
+null,187
+null,190
+null,191
+null,192
+null,198
+null,199
+null,201
+null,202
+null,210
+null,212
+null,213
+null,214
+null,215
+null,216
+null,217
+null,221
+null,222
+null,223
+null,224
+null,226
+null,227
+null,228
+null,231
+null,237
+null,238
+null,239
+null,248
+null,249
+null,258
+null,260
+null,262
+null,265
+null,267
+null,268
+null,269
+null,271
+null,272
+null,273
+null,274
+null,280
+null,284
+null,287
+null,291
+null,292
+null,293
+null,294
+null,295
+null,296
+null,300
+null,302
+null,312
+null,318
+null,321
+null,323
+null,327
+null,330
+null,333
+null,334
+null,335
+null,344
+null,345
+null,358
+null,359
+null,364
+null,367
+null,369
+null,370
+null,372
+null,375
+null,377
+null,388
+null,391
+null,396
+null,397
+null,400
+null,405
+null,413
+null,416
+null,424
+null,434
+null,435
+null,437
+null,439
+null,444
+null,445
+null,454
+null,456
+null,458
+null,459
+null,461
+null,463
+null,464
+null,465
+null,471
+null,473
+null,474
+null,475
+null,476
+null,494
+null,495
+null,498
+null,504
+null,507
+null,511
+null,514
+null,520
+null,523
+null,526
+null,528
+null,532
+null,538
+null,544
+null,548
+null,549
+null,550
+null,554
+null,555
+null,557
+null,559
+null,561
+null,563
+null,565
+null,566
+null,568
+null,574
+null,579
+null,581
+null,587
+null,590
+null,598
+null,610
+null,620
+null,622
+null,625
+null,627
+null,628
+null,634
+null,641
+null,642
+null,652
+null,656
+null,657
+null,659
+null,660
+null,683
+null,686
+null,688
+null,690
+null,699
+null,702
+null,703
+null,705
+null,707
+null,708
+null,714
+null,727
+null,728
+null,730
+null,731
+null,735
+null,739
+null,744
+null,745
+null,751
+null,752
+null,753
+null,754
+null,755
+null,758
+null,760
+null,770
+null,778
+null,779
+null,784
+null,786
+null,797
+null,798
+null,800
+null,801
+null,802
+null,815
+null,816
+null,817
+null,820
+null,822
+null,823
+null,825
+null,826
+null,828
+null,829
+null,830
+null,839
+null,840
+null,842
+null,843
+null,847
+null,848
+null,851
+null,852
+null,862
+null,863
+null,864
+null,872
+null,876
+null,880
+null,881
+null,883
+null,884
+null,886
+null,887
+null,889
+null,890
+null,892
+null,894
+null,897
+null,898
+null,901
+null,902
+null,903
+null,909
+null,914
+null,919
+null,920
+null,922
+null,924
+null,931
+null,932
+null,933
+null,936
+null,937
+null,941
+null,944
+null,947
+null,948
+null,950
+null,952
+null,953
+null,954
+null,958
+null,959
+null,962
+null,963
+null,964
+null,965
+null,967
+null,972
+null,973
+null,976
+null,978
+null,979
+null,980
+null,982
+null,983
+null,984
+null,985
+null,989
+null,992
+null,994
+null,996
+null,999
+null,1001
+null,1005
+null,1012
+null,1019
+null,1028
+null,1031
+null,1042
+null,1043
+null,1044
+null,1048
+null,1056
+null,1057
+null,1060
+null,1061
+null,1063
+null,1065
+null,1085
+null,1089
+null,1091
+null,1092
+null,1095
+null,1096
+null,1100
+null,1101
+null,1102
+null,1111
+null,1113
+null,1116
+null,1121
+null,1122
+null,1125
+null,1127
+null,1132
+null,1133
+null,1136
+null,1138
+null,1139
+null,1145
+null,1146
+null,1147
+null,1148
+null,1149
+null,1150
+null,1153
+null,1154
+null,1161
+null,1162
+null,1163
+null,1167
+null,1169
+null,1170
+null,1172
+null,1173
+null,1175
+null,1177
+null,1190
+null,1191
+null,1192
+null,1193
+null,1195
+null,1196
+null,1200
+null,1201
+null,1202
+null,1203
+null,1204
+null,1206
+null,1207
+null,1208
+null,1209
+null,1210
+null,1211
+null,1212
+null,1218
+null,1223
+null,1226
+null,1230
+null,1233
+null,1234
+null,1235
+null,1237
+null,1238
+null,1239
+null,1241
+null,1243
+null,1247
+null,1254
+null,1260
+null,1261
+null,1267
+null,1269
+null,1272
+null,1279
+null,1281
+null,1283
+null,1284
+null,1294
+null,1297
+null,1307
+null,1308
+null,1313
+null,1330
+null,1334
+null,1344
+null,1345
+null,1346
+null,1350
+null,1353
+null,1358
+null,1359
+null,1364
+null,1369
+null,1370
+null,1371
+null,1377
+null,1384
+null,1386
+null,1387
+null,1397
+null,1398
+null,1399
+null,1404
+null,1406
+null,1408
+null,1412
+null,1419
+null,1423
+null,1425
+null,1432
+null,1433
+null,1435
+null,1437
+null,1438
+null,1444
+null,1445
+null,1447
+null,1448
+null,1449
+null,1456
+null,1463
+null,1469
+null,1476
+null,1477
+null,1480
+null,1484
+null,1489
+null,1491
+null,1492
+null,1496
+null,1497
+null,1499
+null,1504
+null,1506
+null,1509
+null,1510
+null,1516
+null,1520
+null,1524
+null,1529
+null,1531
+null,1536
+null,1537
+null,1544
+null,1545
+null,1552
+null,1559
+null,1563
+null,1564
+null,1565
+null,1570
+null,1575
+null,1576
+null,1584
+null,1585
+null,1586
+null,1590
+null,1603
+null,1604
+null,1609
+null,1612
+null,1613
+null,1620
+null,1643
+null,1648
+null,1649
+null,1651
+null,1653
+null,1655
+null,1658
+null,1659
+null,1667
+null,1668
+null,1669
+null,1671
+null,1673
+null,1674
+null,1679
+null,1680
+null,1682
+null,1686
+null,1687
+null,1698
+null,1713
+null,1716
+null,1720
+null,1722
+null,1724
+null,1727
+null,1728
+null,1730
+null,1733
+null,1739
+null,1740
+null,1742
+null,1748
+null,1749
+null,1752
+null,1766
+null,1768
+null,1773
+null,1783
+null,1786
+null,1788
+null,1792
+null,1799
+null,1800
+null,1801
+null,1802
+null,1805
+null,1810
+null,1811
+null,1812
+null,1814
+null,1819
+null,1821
+null,1822
+null,1824
+null,1825
+null,1826
+null,1829
+null,1830
+null,1831
+null,1833
+null,1835
+null,1837
+null,1838
+null,1841
+null,1843
+null,1844
+null,1848
+null,1851
+null,1853
+null,1854
+null,1857
+null,1864
+null,1867
+null,1869
+null,1872
+null,1876
+null,1882
+null,1886
+null,1899
+null,1900
+null,1902
+null,1903
+null,1906
+null,1907
+null,1908
+null,1911
+null,1916
+null,1918
+null,1921
+null,1923
+null,1924
+null,1928
+null,1933
+null,1935
+null,1937
+null,1938
+null,1939
+null,1941
+null,1945
+null,1947
+null,1948
+null,1949
+null,1950
+null,1951
+null,1954
+null,1955
+null,1959
+null,1961
+null,1963
+null,1964
+null,1971
+null,1985
+null,1987
+null,1993
+null,2003
+null,2006
+null,2012
+null,2016
+null,2018
+null,2026
+null,2028
+null,2031
+null,2035
+null,2038
+null,2040
+null,2041
+null,2044
+null,2045
+null,2047
+null,2052
+null,2055
+null,2056
+null,2066
+null,2067
+null,2068
+null,2069
+null,2071
+null,2072
+null,2082
+null,2084
+null,2085
+null,2086
+null,2087
+null,2089
+null,2090
+null,2094
+null,2098
+null,2099
+null,2103
+null,2110
+null,2111
+null,2112
+null,2113
+null,2114
+null,2115
+null,2121
+null,2124
+null,2127
+null,2130
+null,2131
+null,2133
+null,2134
+null,2135
+null,2142
+null,2143
+null,2147
+null,2148
+null,2159
+null,2160
+null,2161
+null,2163
+null,2164
+null,2167
+null,2175
+null,2177
+null,2178
+null,2181
+null,2184
+null,2186
+null,2187
+null,2188
+null,2189
+null,2191
+null,2194
+null,2197
+null,2200
+null,2207
+null,2208
+null,2214
+null,2219
+null,2224
+null,2225
+null,2229
+null,2231
+null,2234
+null,2243
+null,2244
+null,2247
+null,2248
+null,2249
+null,2258
+null,2260
+null,2263
+null,2264
+null,2265
+null,2271
+null,2273
+null,2284
+null,2285
+null,2286
+null,2288
+null,2289
+null,2291
+null,2297
+null,2305
+null,2306
+null,2309
+null,2310
+null,2311
+null,2312
+null,2315
+null,2319
+null,2323
+null,2329
+null,2338
+null,2340
+null,2344
+null,2351
+null,2362
+null,2363
+null,2364
+null,2367
+null,2370
+null,2372
+null,2375
+null,2376
+null,2380
+null,2389
+null,2391
+null,2410
+null,2417
+null,2436
+null,2437
+null,2447
+null,2451
+null,2453
+null,2462
+null,2466
+null,2472
+null,2476
+null,2478
+null,2487
+null,2495
+null,2500
+null,2502
+null,2505
+null,2506
+null,2522
+null,2530
+null,2532
+null,2538
+null,2544
+null,2552
+null,2553
+null,2559
+null,2564
+null,2566
+null,2574
+null,2576
+null,2582
+null,2583
+null,2595
+null,2601
+null,2603
+null,2607
+null,2628
+null,2629
+null,2632
+null,2634
+null,2635
+null,2636
+null,2640
+null,2645
+null,2646
+null,2649
+null,2660
+null,2671
+null,2681
+null,2689
+null,2690
+null,2698
+null,2699
+null,2702
+null,2708
+null,2711
+null,2724
+null,2725
+null,2735
+null,2751
+null,2770
+null,2771
+null,2772
+null,2780
+null,2784
+null,2785
+null,2794
+null,2795
+null,2796
+null,2803
+null,2804
+null,2809
+null,2821
+null,2822
+null,2828
+null,2829
+null,2832
+null,2836
+null,2847
+null,2850
+null,2856
+null,2862
+null,2864
+null,2874
+null,2888
+null,2893
+null,2894
+null,2903
+null,2909
+null,2911
+null,2916
+null,2918
+null,2919
+null,2926
+null,2928
+null,2932
+null,2934
+null,2963
+null,2967
+null,2973
+null,2985
+null,2989
+null,2997
+null,3004
+null,3011
+null,3014
+null,3019
+null,3020
+null,3022
+null,3024
+null,3027
+null,3029
+null,3037
+null,3048
+null,3052
+null,3054
+null,3056
+null,3063
+null,3064
+null,3066
+null,3069
+null,3073
+null,3091
+null,3092
+null,3100
+null,3103
+null,3108
+null,3122
+null,3124
+null,3127
+null,3137
+null,3138
+null,3140
+null,3142
+null,3159
+null,3160
+null,3166
+null,3169
+null,3187
+null,3192
+null,3210
+null,3218
+null,3219
+null,3220
+null,3227
+null,3231
+null,3235
+null,3244
+null,3247
+null,3249
+null,3250
+null,3264
+null,3265
+null,3276
+null,3282
+null,3284
+null,3293
+null,3296
+null,3306
+null,3308
+null,3309
+null,3310
+null,3314
+null,3315
+null,3330
+null,3334
+null,3337
+null,3338
+null,3340
+null,3355
+null,3371
+null,3372
+null,3376
+null,3384
+null,3386
+null,3390
+null,3392
+null,3399
+null,3402
+null,3411
+null,3417
+null,3422
+null,3427
+null,3434
+null,3445
+null,3449
+null,3450
+null,3454
+null,3461
+null,3465
+null,3468
+null,3482
+null,3484
+null,3490
+null,3495
+null,3506
+null,3507
+null,3509
+null,3512
+null,3527
+null,3529
+null,3531
+null,3535
+null,3540
+null,3544
+null,3549
+null,3552
+null,3553
+null,3554
+null,3555
+null,3561
+null,3564
+null,3565
+null,3578
+null,3582
+null,3610
+null,3611
+null,3626
+null,3630
+null,3638
+null,3643
+null,3646
+null,3648
+null,3653
+null,3669
+null,3670
+null,3676
+null,3678
+null,3686
+null,3687
+null,3692
+null,3693
+null,3698
+null,3703
+null,3709
+null,3715
+null,3720
+null,3728
+null,3729
+null,3730
+null,3732
+null,3733
+null,3736
+null,3741
+null,3744
+null,3753
+null,3762
+null,3768
+null,3777
+null,3779
+null,3783
+null,3793
+null,3795
+null,3807
+null,3810
+null,3812
+null,3814
+null,3825
+null,3834
+null,3835
+null,3837
+null,3845
+null,3847
+null,3848
+null,3853
+null,3856
+null,3865
+null,3868
+null,3869
+null,3870
+null,3872
+null,3881
+null,3891
+null,3895
+null,3906
+null,3907
+null,3908
+null,3913
+null,3914
+null,3916
+null,3917
+null,3927
+null,3933
+null,3935
+null,3936
+null,3940
+null,3945
+null,3946
+null,3948
+null,3950
+null,3953
+null,3963
+null,3966
+null,3969
+null,3970
+null,3971
+null,3979
+null,3981
+null,3982
+null,3986
+null,3987
+null,3988
+null,3994
+null,4007
+null,4013
+null,4016
+null,4019
+null,4023
+null,4028
+null,4029
+null,4035
+null,4037
+null,4039
+null,4040
+null,4042
+null,4045
+null,4050
+null,4059
+null,4060
+null,4062
+null,4065
+null,4069
+null,4072
+null,4079
+null,4080
+null,4085
+null,4086
+null,4088
+null,4097
+null,4111
+null,4114
+null,4115
+null,4118
+null,4120
+null,4125
+null,4130
+null,4133
+null,4139
+null,4142
+null,4143
+null,4144
+null,4146
+null,4148
+null,4157
+null,4159
+null,4160
+null,4168
+null,4186
+null,4187
+null,4198
+null,4205
+null,4213
+null,4222
+null,4233
+null,4237
+null,4248
+null,4251
+null,4258
+null,4265
+null,4266
+null,4271
+null,4273
+null,4277
+null,4278
+null,4279
+null,4281
+oyster dealer,3799
+past work,681
+past work,1481
+picks coal,3978
+rag & bone,2907
+rag & bone,2933
+rag & bone,2952
+rag & bone,2957
+rag & bone,2996
+rag & bone,3006
+rag & bone,3013
+rag & bone,3030
+rag & bone,3076
+rag & bone,3093
+rag & bone,3112
+rag & bone,3120
+rag & bone,3141
+rag & bone,3147
+rag & bone,3189
+rag & bone,3239
+rag & bone,3240
+rag & bone,3254
+rag & bone,3307
+rag & bone,3361
+rag & bone,3362
+rag & bone,3379
+rag & bone,3455
+rag & bone,3470
+rag & bone,3545
+rag & bone,3574
+rag & bone,3575
+rag & bone,3603
+rag & bone,3605
+rag & bone,3623
+rag & bone,3689
+rag & bone,3791
+rag & bone,3802
+rag & bone,3806
+rag & bone,3841
+rag & bone,4004
+rag gatherer,348
+rag picker,2881
+rag picker,3060
+rag picker,3324
+rag picker,3387
+rag picker,3636
+school teacher,419
+school teacher,533
+school teacher,796
+school teacher,1787
+school teacher,2450
+school teacher,2950
+scourer,988
+scourer,1518
+scourer,2101
+sells pepper pot,2752
+service,100
+service,136
+service,297
+service,324
+service,399
+sewing,2534
+sewing,2654
+shop keeper,529
+shop keeper,1062
+shop keeper,2226
+teacher,1041
+traveling preacher,193
+traveling preacher,939
+traveling preacher,1026
+traveling preacher,1156
+traveling preacher,1304
+traveling preacher,1411
+traveling preacher,2295
+various,25
+various,350
+various,402
+various,409
+various,481
+various,518
+various,547
+various,570
+various,576
+various,650
+various,669
+various,774
+various,795
+various,812
+various,835
+various,873
+various,878
+various,969
+various,1004
+various,1073
+various,1231
+various,1232
+various,1268
+various,1286
+various,1329
+various,1446
+various,1614
+various,1676
+various,1685
+various,1697
+various,1699
+various,1782
+various,1794
+various,1806
+various,1817
+various,1861
+various,1874
+various,2070
+various,2092
+various,2129
+various,2158
+various,2171
+various,2176
+various,2180
+various,2190
+various,2233
+various,2279
+various,2292
+various,2400
+various,2441
+various,2445
+various,2473
+waiter,15
+waiter,22
+waiter,67
+waiter,71
+waiter,107
+waiter,142
+waiter,145
+waiter,151
+waiter,159
+waiter,165
+waiter,188
+waiter,194
+waiter,232
+waiter,233
+waiter,256
+waiter,259
+waiter,264
+waiter,283
+waiter,285
+waiter,301
+waiter,308
+waiter,313
+waiter,314
+waiter,351
+waiter,406
+waiter,446
+waiter,450
+waiter,451
+waiter,452
+waiter,457
+waiter,466
+waiter,508
+waiter,545
+waiter,546
+waiter,602
+waiter,605
+waiter,613
+waiter,614
+waiter,621
+waiter,675
+waiter,676
+waiter,679
+waiter,680
+waiter,693
+waiter,698
+waiter,712
+waiter,717
+waiter,721
+waiter,743
+waiter,748
+waiter,777
+waiter,780
+waiter,785
+waiter,787
+waiter,803
+waiter,804
+waiter,806
+waiter,810
+waiter,811
+waiter,821
+waiter,831
+waiter,841
+waiter,858
+waiter,860
+waiter,891
+waiter,928
+waiter,938
+waiter,942
+waiter,945
+waiter,946
+waiter,970
+waiter,974
+waiter,990
+waiter,995
+waiter,997
+waiter,1020
+waiter,1022
+waiter,1027
+waiter,1034
+waiter,1039
+waiter,1045
+waiter,1047
+waiter,1050
+waiter,1075
+waiter,1088
+waiter,1090
+waiter,1131
+waiter,1134
+waiter,1140
+waiter,1144
+waiter,1152
+waiter,1157
+waiter,1158
+waiter,1166
+waiter,1183
+waiter,1189
+waiter,1194
+waiter,1213
+waiter,1219
+waiter,1224
+waiter,1248
+waiter,1259
+waiter,1265
+waiter,1271
+waiter,1303
+waiter,1317
+waiter,1322
+waiter,1328
+waiter,1342
+waiter,1378
+waiter,1385
+waiter,1394
+waiter,1395
+waiter,1401
+waiter,1417
+waiter,1421
+waiter,1422
+waiter,1424
+waiter,1426
+waiter,1431
+waiter,1451
+waiter,1454
+waiter,1455
+waiter,1458
+waiter,1478
+waiter,1483
+waiter,1501
+waiter,1503
+waiter,1505
+waiter,1519
+waiter,1527
+waiter,1528
+waiter,1532
+waiter,1534
+waiter,1546
+waiter,1550
+waiter,1577
+waiter,1582
+waiter,1587
+waiter,1600
+waiter,1606
+waiter,1617
+waiter,1618
+waiter,1619
+waiter,1621
+waiter,1630
+waiter,1631
+waiter,1633
+waiter,1645
+waiter,1654
+waiter,1661
+waiter,1663
+waiter,1664
+waiter,1665
+waiter,1670
+waiter,1677
+waiter,1681
+waiter,1683
+waiter,1685
+waiter,1688
+waiter,1689
+waiter,1690
+waiter,1693
+waiter,1694
+waiter,1695
+waiter,1701
+waiter,1703
+waiter,1707
+waiter,1708
+waiter,1714
+waiter,1718
+waiter,1719
+waiter,1731
+waiter,1738
+waiter,1746
+waiter,1758
+waiter,1759
+waiter,1760
+waiter,1762
+waiter,1765
+waiter,1774
+waiter,1776
+waiter,1780
+waiter,1789
+waiter,1793
+waiter,1813
+waiter,1816
+waiter,1820
+waiter,1828
+waiter,1832
+waiter,1846
+waiter,1849
+waiter,1852
+waiter,1860
+waiter,1862
+waiter,1863
+waiter,1865
+waiter,1868
+waiter,1873
+waiter,1875
+waiter,1878
+waiter,1891
+waiter,1892
+waiter,1913
+waiter,1914
+waiter,1919
+waiter,1931
+waiter,1934
+waiter,1957
+waiter,1960
+waiter,1972
+waiter,1983
+waiter,1986
+waiter,1996
+waiter,2008
+waiter,2010
+waiter,2013
+waiter,2014
+waiter,2017
+waiter,2019
+waiter,2021
+waiter,2023
+waiter,2024
+waiter,2027
+waiter,2059
+waiter,2063
+waiter,2065
+waiter,2097
+waiter,2102
+waiter,2106
+waiter,2107
+waiter,2108
+waiter,2116
+waiter,2117
+waiter,2118
+waiter,2119
+waiter,2126
+waiter,2146
+waiter,2154
+waiter,2156
+waiter,2170
+waiter,2172
+waiter,2192
+waiter,2209
+waiter,2217
+waiter,2218
+waiter,2236
+waiter,2238
+waiter,2250
+waiter,2252
+waiter,2255
+waiter,2257
+waiter,2268
+waiter,2274
+waiter,2283
+waiter,2287
+waiter,2294
+waiter,2313
+waiter,2317
+waiter,2326
+waiter,2330
+waiter,2331
+waiter,2335
+waiter,2336
+waiter,2337
+waiter,2342
+waiter,2349
+waiter,2355
+waiter,2365
+waiter,2374
+waiter,2378
+waiter,2379
+waiter,2382
+waiter,2383
+waiter,2384
+waiter,2386
+waiter,2387
+waiter,2390
+waiter,2394
+waiter,2397
+waiter,2402
+waiter,2406
+waiter,2413
+waiter,2414
+waiter,2415
+waiter,2416
+waiter,2425
+waiter,2426
+waiter,2457
+waiter,2464
+waiter,2475
+waiter,2477
+waiter,2510
+waiter,2674
+waiter,2675
+waiter,2680
+waiter,2727
+waiter,2737
+waiter,2739
+waiter,2766
+waiter,2807
+waiter,2858
+waiter,2861
+waiter,2866
+waiter,2875
+waiter,2887
+waiter,2920
+waiter,2922
+waiter,2939
+waiter,2972
+waiter,2979
+waiter,2981
+waiter,2994
+waiter,2999
+waiter,3010
+waiter,3041
+waiter,3044
+waiter,3067
+waiter,3089
+waiter,3101
+waiter,3136
+waiter,3143
+waiter,3150
+waiter,3162
+waiter,3164
+waiter,3176
+waiter,3190
+waiter,3193
+waiter,3211
+waiter,3215
+waiter,3217
+waiter,3245
+waiter,3298
+waiter,3325
+waiter,3353
+waiter,3377
+waiter,3383
+waiter,3404
+waiter,3435
+waiter,3439
+waiter,3444
+waiter,3485
+waiter,3492
+waiter,3493
+waiter,3498
+waiter,3499
+waiter,3521
+waiter,3525
+waiter,3533
+waiter,3541
+waiter,3572
+waiter,3584
+waiter,3589
+waiter,3620
+waiter,3645
+waiter,3647
+waiter,3650
+waiter,3652
+waiter,3659
+waiter,3683
+waiter,3685
+waiter,3726
+waiter,3772
+waiter,3794
+waiter,3808
+waiter,3817
+waiter,3818
+waiter,3820
+waiter,3831
+waiter,3850
+waiter,3851
+waiter,3857
+waiter,3858
+waiter,3867
+waiter,3883
+waiter,3892
+waiter,3942
+waiter,3957
+waiter,3976
+waiter,4051
+waiter,4196
+waiter,4197
+waiter,4214
+washer,38
+washer,849
+washer,861
+washer,1893
+washer,2042
+washer,2220
+washer,2398
+whitewasher,32
+whitewasher,77
+whitewasher,86
+whitewasher,167
+whitewasher,328
+whitewasher,371
+whitewasher,857
+whitewasher,859
+whitewasher,1051
+whitewasher,1052
+whitewasher,1064
+whitewasher,1171
+whitewasher,1391
+whitewasher,1392
+whitewasher,1650
+whitewasher,1741
+whitewasher,1855
+whitewasher,1870
+whitewasher,1969
+whitewasher,1979
+whitewasher,1980
+whitewasher,1994
+whitewasher,2004
+whitewasher,2005
+whitewasher,2024
+whitewasher,2043
+whitewasher,2049
+whitewasher,2122
+whitewasher,2182
+whitewasher,2252
+whitewasher,2290
+whitewasher,2335
+whitewasher,2484
+whitewasher,2661
+whitewasher,2718
+whitewasher,2768
+whitewasher,2843
+whitewasher,2966
+whitewasher,3278
+whitewasher,3590
+whitewasher,3667
+whitewasher,4001
+whitewasher,4015
+whitewashing,2839
+whitewashing,3139
+wood sawyer,353
+wood sawyer,398
+wood sawyer,479
+wood sawyer,502
+wood sawyer,552
+wood sawyer,562
+wood sawyer,606
+wood sawyer,632
+wood sawyer,648
+wood sawyer,684
+wood sawyer,827
+wood sawyer,833
+wood sawyer,1018
+wood sawyer,1075
+wood sawyer,1123
+wood sawyer,1197
+wood sawyer,1365
+wood sawyer,1440
+wood sawyer,1460
+wood sawyer,1485
+wood sawyer,1542
+wood sawyer,1550
+wood sawyer,1629
+wood sawyer,1726
+wood sawyer,1750
+wood sawyer,1795
+wood sawyer,1798
+wood sawyer,1877
+wood sawyer,1940
+wood sawyer,1953
+wood sawyer,1977
+wood sawyer,2001
+wood sawyer,2061
+wood sawyer,2083
+wood sawyer,2150
+wood sawyer,2196
+wood sawyer,2215
+wood sawyer,2303
+wood sawyer,2403
+wood sawyer,2485
+wood sawyer,2512
+wood sawyer,2529
+wood sawyer,2577
+wood sawyer,2589
+wood sawyer,2590
+wood sawyer,2668
+wood sawyer,2704
+wood sawyer,2799
+wood sawyer,2876
+wood sawyer,2990
+wood sawyer,3035
+wood sawyer,3042
+wood sawyer,3168
+wood sawyer,3181
+wood sawyer,3226
+wood sawyer,3343
+wood sawyer,3352
+wood sawyer,3359
+wood sawyer,3368
+wood sawyer,3398
+wood sawyer,3426
+wood sawyer,3519
+wood sawyer,3523
+wood sawyer,3558
+wood sawyer,3576
+wood sawyer,3671
+wood sawyer,3677
+wood sawyer,3724
+wood sawyer,3755
+wood sawyer,3767
+wood sawyer,3879
+wood sawyer,3920
+wood sawyer,3931
+wood sawyer,3962
+wood sawyer,3965
+works at confectionary,2742
