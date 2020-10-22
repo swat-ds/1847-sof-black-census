@@ -241,8 +241,8 @@ a.link {
   margin-left: 20px;
   
 }
-nav#bootstrap-overrides .nav-link {
-  color: rgba(0, 0, 0, .8);
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, .8) !important;
 }
 
 a.github {
