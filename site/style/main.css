@@ -241,7 +241,7 @@ a.link {
   margin-left: 20px;
   
 }
-#bootstrap-overrides a.nav-link {
+nav#bootstrap-overrides .nav-link {
   color: rgba(0, 0, 0, .8);
 }
 
