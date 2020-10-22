@@ -239,6 +239,10 @@ a.link {
 
 .nav-link {
   margin-left: 20px;
+  
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, .8);
 }
 
 a.github {
