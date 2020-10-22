@@ -241,7 +241,7 @@ a.link {
   margin-left: 20px;
   
 }
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav a.nav-link {
   color: rgba(0, 0, 0, .8) !important;
 }
 
