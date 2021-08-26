@@ -239,6 +239,10 @@ a.link {
 
 .nav-link {
   margin-left: 20px;
+  
+}
+div#navbarSupportedContent a.nav-link {
+  color: rgba(0, 0, 0, .8) !important;
 }
 
 a.github {
