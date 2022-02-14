@@ -1,5 +1,5 @@
 # special-collections-visualizations
-Philadelphia 1847 Census Project
+Philadelphia 1847 Census Project as created by SPEED in 2019. The live version of the site (as of February 2022), reflecting edits done since 2019, is at [paac-jekyll](https://github.com/swat-ds/paac-jekyll).
 
 ## Introduction
 The special collections visualization project was proposed by **Celia Caust-Ellenbogen** and **Jordan Landes** of the Friends Historical Library at Swarthmore College as part of the 2019 Swarthmore Projects for Educational Exploration & Development ([SPEED](https://www.swarthmore.edu/its/swarthmore-projects-educational-exploration-and-development-speed-program)) Program. The project is led by **Nabil Kashyap** of Swarthmore College, as well as **Alice Huang ('22)**, **Bilal Soukouna ('22)**, **Helen Huh ('21)**, and **Katie Knox ('21)**.
